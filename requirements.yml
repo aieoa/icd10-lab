@@ -1,0 +1,11 @@
+name: env-icd10-lab
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - pip:
+      - mlflow

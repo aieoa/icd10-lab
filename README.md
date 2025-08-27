@@ -2,7 +2,7 @@
 
 Repository structure
 ```shell
-my_project/
+icd10-lab/
 │
 ├── data/                     # Raw & processed datasets (DVC controlled)
 ├── experiments/              # Experiment configuration YAMLs/JSONs
@@ -11,11 +11,13 @@ my_project/
 ├── scripts/                  # CLI scripts for training, evaluation
 ├── src/
 │   ├── data_utils.py         # Dataset loading + processing functions
-│   ├── models/               # Classifier module definitions
-│   ├── metrics.py            # Modular metrics computation
+│   ├── solvers/              # Solver modules for classification
+│   ├── metrics.py            # Performance metrics
 │   └── experiment_runner.py  # Orchestrate single experiment
 ├── logs/                     # Logs & experiment outputs
 ├── .dvc/                     # DVC config and cache
+├── LEADERBOARD.md            # Leaderboard of best solvers
+├── requirements.yml          # Conda environment file
 └── README.md
 ```
 

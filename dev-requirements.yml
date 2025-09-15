@@ -1,0 +1,14 @@
+name: env-icd10-lab-dev
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - flake8
+  - black
+  - pip:
+      - mlflow
+      - simple-icd-10

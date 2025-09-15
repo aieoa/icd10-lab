@@ -6,15 +6,17 @@ icd10-lab/
 │
 ├── data/                     # Raw & processed datasets (DVC controlled)
 ├── experiments/              # Experiment configuration YAMLs/JSONs
+├── logs/                     # Logs & experiment outputs
 ├── models/                   # Trained models, serialized
 ├── notebooks/                # Exploration, EDA (not for production runs)
 ├── scripts/                  # CLI scripts for training, evaluation
 ├── src/
+│   ├── benchmarks/           # Benchmark loader
 │   ├── data_utils.py         # Dataset loading + processing functions
-│   ├── solvers/              # Solver modules for classification
+│   ├── experiment_runner.py  # Orchestrate single experiment
 │   ├── metrics.py            # Performance metrics
-│   └── experiment_runner.py  # Orchestrate single experiment
-├── logs/                     # Logs & experiment outputs
+│   └── solvers/              # Solver modules for classification
+├── tests/                    # Integration and unit tests 
 ├── .dvc/                     # DVC config and cache
 ├── LEADERBOARD.md            # Leaderboard of best solvers
 ├── requirements.yml          # Conda environment file

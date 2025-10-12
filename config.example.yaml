@@ -1,0 +1,26 @@
+name: example
+benchmark: codiesp_en
+data_dir: data
+subset: # restrict by case id, if left empty: no restriction
+  test_index: 
+  train_index: 
+solver: knn
+solver_params:
+  similarity: cosine
+embedding_model: te3l
+## icd-10 reference settings
+icd10_params:
+  aggregate_method: leaf
+  terminals_only: True # assignable codes only, or 'all' for all codes
+## train/test data settings
+# chunking strategies can be one of the following: 
+#   full: full report
+#   sent: sentences using HuggingFace's SentenceSplitter.sentence_splitter
+#   noph: noun phrase using spacy's noun_chunks
+#   npvb: noun phrase with verb using spacy's noun_chunks appending verbs
+#   sbar: S/SBARS using Stanford's stanza
+#   mixd: union of sent, npvb, sbars 
+chunking_strategy: sent 
+reducer: # none or umap
+reducer_params:
+  n_components: 

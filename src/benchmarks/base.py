@@ -1,5 +1,9 @@
 from abc import ABC, abstractmethod
 import logging
+import pandas as pd
+import torch
+
+# from src.benchmarks.codiesp import *
 
 
 class BenchmarkFactory:
@@ -22,10 +26,26 @@ class BenchmarkFactory:
 
 class Benchmark(ABC):
     def __init__(self, name: str):
-        self.name = name
-        if not hasattr(self, "name") or self.name is None:
-            raise NotImplementedError("Subclass must define self.name")
-        self.logger = logging.getLogger(self.name)
+        self.logger = logging.getLogger(name)
+
+    @abstractmethod
+    def get_reference_set(self):
+        """
+        Return DataFrame containing ICD-10 codes and textual description.
+
+        Returns a pandas DataFrame with columns:
+            - "text": the textual content of each chunk,
+            - "y_true": the true label(s) associated with each chunk.
+        """
+        pass
+
+    @abstractmethod
+    def get_reference_embeddings(self):
+        """
+        Retrieve or generate embeddings for the corresponding reference set.
+        Loads precomputed embeddings from a fixed directory or cache, or computes and persists them if missing. Returns a PyTorch tensor,
+        """
+        pass
 
     @abstractmethod
     def get_test_set(self):
@@ -43,7 +63,7 @@ class Benchmark(ABC):
         pass
 
     @abstractmethod
-    def get_test_vectors(self):
+    def get_test_embeddings(self):
         """
         Retrieve or generate embeddings for the corresponding test set.
 
@@ -65,9 +85,21 @@ class Benchmark(ABC):
         pass
 
     @abstractmethod
-    def get_train_vectors(self):
+    def get_train_embeddings(self):
         """
         Retrieve or generate embeddings for the corresponding train set.
-        Behaviour analogous to get_test_vectors().
+        Behaviour analogous to get_test_embeddings().
         """
         pass
+
+    @staticmethod
+    def get_id_columns(level: str):
+        match level:
+            case "np":
+                return ["report_id", "sentence_id", "phrase_id"]
+            case "sentence":
+                return ["report_id", "sentence_id"]
+            case "report":
+                return ["report_id"]
+            case _:
+                raise ValueError(f"Unknown text level '{level}'")

@@ -72,6 +72,31 @@ def test_micro_f1_at_1(sample_data):
     assert np.isclose(result["micro_f1_at_k"], 3 / 5)
 
 
+def test_micro_f1_at_2():
+    pred = pd.DataFrame(
+        {
+            "report_id": [1, 1],
+            "sentence_id": [1, 1],
+            "icd_code": ["A", "B"],
+            "distance": [0.1, 0.2],
+            "threshold_passed": [True, True],
+        }
+    )
+    true = pd.DataFrame({"report_id": [1], "sentence_id": [1], "icd_code": ["B"]})
+
+    # k=1
+    result = micro_f1_at_k(pred, true, top_k=1)
+    assert np.isclose(result["precision_at_k"], 0)
+    assert np.isclose(result["recall_at_k"], 0)
+    assert np.isclose(result["micro_f1_at_k"], 0)
+
+    # k=2
+    result = micro_f1_at_k(pred, true, top_k=2)
+    assert np.isclose(result["precision_at_k"], 1 / 2)
+    assert np.isclose(result["recall_at_k"], 1)
+    assert np.isclose(result["micro_f1_at_k"], 2 / 3)
+
+
 def test_macro_f1_at_k_no_overlap():
     pred = pd.DataFrame(
         {

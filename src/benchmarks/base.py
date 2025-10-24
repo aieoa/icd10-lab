@@ -20,7 +20,7 @@ class BenchmarkFactory:
     @classmethod
     def create(cls, key, *args, **kwargs):
         if key not in cls._registry:
-            raise ValueError(f"Unknown score type: {key}")
+            raise ValueError(f"Unknown benchmark name: {key}")
         return cls._registry[key](*args, **kwargs)
 
 
@@ -93,13 +93,13 @@ class Benchmark(ABC):
         pass
 
     @staticmethod
-    def get_id_columns(level: str):
-        match level:
-            case "np":
+    def get_id_columns(chunking: str):
+        match chunking:
+            case "noph" | "npvb" | "sbar" | "mixd":
                 return ["report_id", "sentence_id", "phrase_id"]
-            case "sentence":
+            case "sent":
                 return ["report_id", "sentence_id"]
-            case "report":
+            case "full":
                 return ["report_id"]
             case _:
-                raise ValueError(f"Unknown text level '{level}'")
+                raise ValueError(f"Unknown text chunking strategy '{chunking}'")

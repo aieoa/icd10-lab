@@ -1,10 +1,10 @@
 # icd10-lab/src/utils/nlp.py
 
 
-def split_into_sentences(text):
+def split_into_sentences(text, language="en"):
     from sentence_splitter import SentenceSplitter
 
-    splitter = SentenceSplitter(language="en")
+    splitter = SentenceSplitter(language=language)
     sentences = [s.replace("\n", "") for s in splitter.split(text)]
     return [s for s in sentences if len(s) > 2]
 
@@ -36,3 +36,26 @@ def split_into_noun_phrases_with_verbs(text):
             span = chunk.text
         results.append(span)
     return results
+
+
+def clean_icd10_code(code: str):
+    import re
+    import simple_icd_10_cm as icd
+
+    code_rx = re.compile(r'(?P<code>([A-Z]\d+\.\d+|[A-Z]\d+))[\.A-Z|A-Z]+')
+    try:
+        icd.get_description(code)
+    except ValueError:
+        # print(f'ERROR\t{code} does not exists')
+        mobj = code_rx.match(code) 
+        if mobj:
+            code_new = mobj.group('code')
+            try:
+                icd.get_description(code)
+            except ValueError:
+                # print(f'ERROR\t{code_new} also does not exist')
+                return ''
+            return code_new
+        else:
+            return ''
+    return code

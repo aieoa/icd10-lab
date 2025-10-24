@@ -1,13 +1,14 @@
 name: example
 benchmark: codiesp_en
 data_dir: data
-subset: # restrict by case id, if left empty: no restriction
+subset: # restrict by case id (wo LANG extension), if left empty: no restriction
   test_index: 
   train_index: 
 solver: knn
 solver_params:
   similarity: cosine
-embedding_model: te3l
+## llm embedding / word vector model
+text_encoder: te3l
 ## icd-10 reference settings
 icd10_params:
   aggregate_method: leaf
@@ -20,7 +21,7 @@ icd10_params:
 #   npvb: noun phrase with verb using spacy's noun_chunks appending verbs
 #   sbar: S/SBARS using Stanford's stanza
 #   mixd: union of sent, npvb, sbars 
-chunking_strategy: sent 
+chunking: sent 
 reducer: # none or umap
 reducer_params:
   n_components: 

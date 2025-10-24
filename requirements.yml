@@ -1,12 +1,18 @@
 name: env-icd10-lab
 channels:
+  - pytorch
+  - conda-forge
   - defaults
 dependencies:
   - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
   - numpy
   - pandas
   - scikit-learn
+  - pytest
   - pip
   - pip:
       - mlflow
-      - simple-icd-10
+      - simple-icd-10-cm

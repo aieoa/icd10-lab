@@ -42,8 +42,8 @@ def reports_to_chunks(src_dir, tgt_dir, strategy):
     for report in os.listdir(src_dir):
         report_id = report.split(".")[0].split("_")[0]
         report_chunked = f"{report_id}.csv"
-        src_file = os.path.join(src_dir, report)
-        tgt_file = os.path.join(tgt_dir, report_chunked)
+        src_file = Path(src_dir) / report
+        tgt_file = Path(tgt_dir) / report_chunked
         if os.path.exists(tgt_file):
             skip = True
             try:
@@ -60,6 +60,16 @@ def reports_to_chunks(src_dir, tgt_dir, strategy):
         with open(src_file, "r") as f1:
             text = f1.read()
             chunks_df = report_to_chunks(text, report_id, strategy)
+            if not tgt_file.parent.exists():
+                response = input(
+                    f"INFO\tDirectory '{tgt_dir}' does not exist. Create it? (y/n): "
+                )
+                if response.lower() == "y":
+                    os.makedirs(tgt_dir)
+                else:
+                    raise FileNotFoundError(
+                        f"Cannot save file. Directory '{tgt_dir}' does not exist."
+                    )
             chunks_df.to_csv(tgt_file, index=False)
             print(f"STATUS:\tText chunks written to {tgt_file}")
 
@@ -91,7 +101,10 @@ args = parser.parse_args()
 
 
 if __name__ == "__main__":
-
+    assert args.strategy in [
+        "noph",
+        "sent",
+    ], "supported chunking strategies: [noph, sent]"
     src_dir = (
         Path(args.data_dir) / "02_processed" / args.benchmark / args.split / "full"
     )
@@ -104,10 +117,5 @@ if __name__ == "__main__":
     )
     reports_to_chunks(src_dir, tgt_dir, args.strategy)
 
-# python scripts/nlp_chunker.py --split "test" --strategy "noph" --benchmark codiesp_en
-# python scripts/nlp_chunker.py --split "train" --strategy "noph" --benchmark codiesp_en
-# python scripts/nlp_chunker.py --split "test" --strategy "sentence" --benchmark codiesp_en
-# python scripts/nlp_chunker.py --split "train" --strategy "sentence" --benchmark codiesp_en
-
-## TODO: add routine for embeddings re-inference using te3l
-## TODO: add routine for embeddings reduction via umap including model persistence using n_components 5, 10, 25, 50
+# Example call:
+#   python scripts/nlp_chunker.py --split "test" --strategy "noph" --benchmark codiesp_en

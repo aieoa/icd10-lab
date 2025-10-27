@@ -118,4 +118,4 @@ if __name__ == "__main__":
     reports_to_chunks(src_dir, tgt_dir, args.strategy)
 
 # Example call:
-#   python scripts/nlp_chunker.py --split "test" --strategy "noph" --benchmark codiesp_en
+#   python scripts/nlp_chunker.py --split test --strategy noph --benchmark codiesp_en

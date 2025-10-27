@@ -29,13 +29,15 @@ def infer_embeddings(chunk_list, api_key):
     return embeddings
 
 
-def main(src_dir, tgt_dir, strategy, api_key):
+def main(src_dir, tgt_dir, strategy, api_key, file_count:int):
     src_column = {"noph": "phrase", "sent": "sentence"}
     tgt_dir = Path(tgt_dir)
     tgt_dir.mkdir(parents=True, exist_ok=True)
     print(f"INFO\tEmbeddings written in npy format to {tgt_dir}")
-
-    for report in src_dir.glob("*.csv"):
+    
+    csv_files = [f for f in src_dir.glob("*.csv")]
+    assert len(csv_files) == file_count
+    for report in csv_files:
         print(f"STATUS\tReading {report} ...")
         report_id = report.stem.split("_")[0]
         tgt_file = tgt_dir / f"{report_id}.npy"
@@ -105,7 +107,10 @@ if __name__ == "__main__":
         / "original"
     )
     assert len(args.api_key)
-    main(src_dir, tgt_dir, args.strategy, api_key=args.api_key)
+    benchmark_file_ctrs = {"codiesp_en": {"train": 500, "test": 250}}
+    
+    main(src_dir, tgt_dir, args.strategy, api_key=args.api_key, 
+         file_count=benchmark_file_ctrs[args.benchmark][args.split])
 
 
 # Example call:

@@ -1,0 +1,5 @@
+outs:
+- md5: 2422c642c865d3ea059f3f0010cff48b
+  size: 2288263465
+  hash: md5
+  path: umap_model_codiesp_en_noph_10.joblib

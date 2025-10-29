@@ -1,0 +1,81 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-05582008000300005-1,1,1,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",Patient EJO
+S1130-05582008000300005-1,1,2,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",brunette
+S1130-05582008000300005-1,1,3,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",female
+S1130-05582008000300005-1,1,4,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",the Oral-maxillo-facial Surgery Service
+S1130-05582008000300005-1,1,5,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",the Faculty
+S1130-05582008000300005-1,1,6,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",Dentistry
+S1130-05582008000300005-1,1,7,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",Piracicaba
+S1130-05582008000300005-1,1,8,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",(FOP/UNICAMP
+S1130-05582008000300005-1,1,9,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",removal
+S1130-05582008000300005-1,1,10,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",a lesion
+S1130-05582008000300005-1,1,11,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",the lingual region
+S1130-05582008000300005-1,1,12,"Patient EJO, brunette, female, 23 years old, was referred to the Oral-maxillo-facial Surgery Service of the Faculty of Dentistry of Piracicaba (FOP/UNICAMP) for removal of a lesion in the lingual region of lower anterior teeth.",lower anterior teeth
+S1130-05582008000300005-1,2,1,She herself had a clinical diagnosis of neurofibromatosis.,She
+S1130-05582008000300005-1,2,2,She herself had a clinical diagnosis of neurofibromatosis.,herself
+S1130-05582008000300005-1,2,3,She herself had a clinical diagnosis of neurofibromatosis.,a clinical diagnosis
+S1130-05582008000300005-1,2,4,She herself had a clinical diagnosis of neurofibromatosis.,neurofibromatosis
+S1130-05582008000300005-1,3,1,"On physical examination, facial asymmetry and hundreds of skin nodules were observed throughout the body, including the face and neck.",physical examination
+S1130-05582008000300005-1,3,2,"On physical examination, facial asymmetry and hundreds of skin nodules were observed throughout the body, including the face and neck.",facial asymmetry
+S1130-05582008000300005-1,3,3,"On physical examination, facial asymmetry and hundreds of skin nodules were observed throughout the body, including the face and neck.",hundreds
+S1130-05582008000300005-1,3,4,"On physical examination, facial asymmetry and hundreds of skin nodules were observed throughout the body, including the face and neck.",skin nodules
+S1130-05582008000300005-1,3,5,"On physical examination, facial asymmetry and hundreds of skin nodules were observed throughout the body, including the face and neck.",the body
+S1130-05582008000300005-1,3,6,"On physical examination, facial asymmetry and hundreds of skin nodules were observed throughout the body, including the face and neck.",the face
+S1130-05582008000300005-1,3,7,"On physical examination, facial asymmetry and hundreds of skin nodules were observed throughout the body, including the face and neck.",neck
+S1130-05582008000300005-1,4,1,Café au lait spots were present on the trunk and upper limbs.,Café au lait spots
+S1130-05582008000300005-1,4,2,Café au lait spots were present on the trunk and upper limbs.,the trunk and upper limbs
+S1130-05582008000300005-1,5,1,"The intraoral examination revealed malocclusion, diastemas, missing teeth, and a neurofibromatous-looking mass in the region of the lower alveolar ridge, lingual to the incisors.",The intraoral examination
+S1130-05582008000300005-1,5,2,"The intraoral examination revealed malocclusion, diastemas, missing teeth, and a neurofibromatous-looking mass in the region of the lower alveolar ridge, lingual to the incisors.",malocclusion
+S1130-05582008000300005-1,5,3,"The intraoral examination revealed malocclusion, diastemas, missing teeth, and a neurofibromatous-looking mass in the region of the lower alveolar ridge, lingual to the incisors.",diastemas
+S1130-05582008000300005-1,5,4,"The intraoral examination revealed malocclusion, diastemas, missing teeth, and a neurofibromatous-looking mass in the region of the lower alveolar ridge, lingual to the incisors.",missing teeth
+S1130-05582008000300005-1,5,5,"The intraoral examination revealed malocclusion, diastemas, missing teeth, and a neurofibromatous-looking mass in the region of the lower alveolar ridge, lingual to the incisors.",a neurofibromatous-looking mass
+S1130-05582008000300005-1,5,6,"The intraoral examination revealed malocclusion, diastemas, missing teeth, and a neurofibromatous-looking mass in the region of the lower alveolar ridge, lingual to the incisors.",the region
+S1130-05582008000300005-1,5,7,"The intraoral examination revealed malocclusion, diastemas, missing teeth, and a neurofibromatous-looking mass in the region of the lower alveolar ridge, lingual to the incisors.",the lower alveolar ridge
+S1130-05582008000300005-1,5,8,"The intraoral examination revealed malocclusion, diastemas, missing teeth, and a neurofibromatous-looking mass in the region of the lower alveolar ridge, lingual to the incisors.",the incisors
+S1130-05582008000300005-1,6,1,"The lesion was firm and painless to palpation, with normal mucosal color, not ulcerated, with a sessile base and approximately 2.5 cm in extension.",The lesion
+S1130-05582008000300005-1,6,2,"The lesion was firm and painless to palpation, with normal mucosal color, not ulcerated, with a sessile base and approximately 2.5 cm in extension.",palpation
+S1130-05582008000300005-1,6,3,"The lesion was firm and painless to palpation, with normal mucosal color, not ulcerated, with a sessile base and approximately 2.5 cm in extension.",normal mucosal color
+S1130-05582008000300005-1,6,4,"The lesion was firm and painless to palpation, with normal mucosal color, not ulcerated, with a sessile base and approximately 2.5 cm in extension.",a sessile base
+S1130-05582008000300005-1,6,5,"The lesion was firm and painless to palpation, with normal mucosal color, not ulcerated, with a sessile base and approximately 2.5 cm in extension.",approximately 2.5 cm
+S1130-05582008000300005-1,6,6,"The lesion was firm and painless to palpation, with normal mucosal color, not ulcerated, with a sessile base and approximately 2.5 cm in extension.",extension
+S1130-05582008000300005-1,7,1,"Due to its size and its relationship with the teeth, it did not allow adequate hygiene of the region, favoring the accumulation of calculus.",its size
+S1130-05582008000300005-1,7,2,"Due to its size and its relationship with the teeth, it did not allow adequate hygiene of the region, favoring the accumulation of calculus.",its relationship
+S1130-05582008000300005-1,7,3,"Due to its size and its relationship with the teeth, it did not allow adequate hygiene of the region, favoring the accumulation of calculus.",the teeth
+S1130-05582008000300005-1,7,4,"Due to its size and its relationship with the teeth, it did not allow adequate hygiene of the region, favoring the accumulation of calculus.",it
+S1130-05582008000300005-1,7,5,"Due to its size and its relationship with the teeth, it did not allow adequate hygiene of the region, favoring the accumulation of calculus.",adequate hygiene
+S1130-05582008000300005-1,7,6,"Due to its size and its relationship with the teeth, it did not allow adequate hygiene of the region, favoring the accumulation of calculus.",the region
+S1130-05582008000300005-1,7,7,"Due to its size and its relationship with the teeth, it did not allow adequate hygiene of the region, favoring the accumulation of calculus.",the accumulation
+S1130-05582008000300005-1,7,8,"Due to its size and its relationship with the teeth, it did not allow adequate hygiene of the region, favoring the accumulation of calculus.",calculus
+S1130-05582008000300005-1,8,1,"The tongue also showed increased volume, with the presence of a neurofibromatous lesion with diffuse limits.",The tongue
+S1130-05582008000300005-1,8,2,"The tongue also showed increased volume, with the presence of a neurofibromatous lesion with diffuse limits.",increased volume
+S1130-05582008000300005-1,8,3,"The tongue also showed increased volume, with the presence of a neurofibromatous lesion with diffuse limits.",the presence
+S1130-05582008000300005-1,8,4,"The tongue also showed increased volume, with the presence of a neurofibromatous lesion with diffuse limits.",a neurofibromatous lesion
+S1130-05582008000300005-1,8,5,"The tongue also showed increased volume, with the presence of a neurofibromatous lesion with diffuse limits.",diffuse limits
+S1130-05582008000300005-1,9,1,"The radiographic examination revealed the presence of retained element 23, as well as right mandibular hypoplasia.",The radiographic examination
+S1130-05582008000300005-1,9,2,"The radiographic examination revealed the presence of retained element 23, as well as right mandibular hypoplasia.",the presence
+S1130-05582008000300005-1,9,3,"The radiographic examination revealed the presence of retained element 23, as well as right mandibular hypoplasia.",retained element
+S1130-05582008000300005-1,9,4,"The radiographic examination revealed the presence of retained element 23, as well as right mandibular hypoplasia.",right mandibular hypoplasia
+S1130-05582008000300005-1,10,1,The procedure adopted for the neurofibromatous lesion present in the lower anterior region was surgical excision.,The procedure
+S1130-05582008000300005-1,10,2,The procedure adopted for the neurofibromatous lesion present in the lower anterior region was surgical excision.,the neurofibromatous lesion
+S1130-05582008000300005-1,10,3,The procedure adopted for the neurofibromatous lesion present in the lower anterior region was surgical excision.,the lower anterior region
+S1130-05582008000300005-1,10,4,The procedure adopted for the neurofibromatous lesion present in the lower anterior region was surgical excision.,surgical excision
+S1130-05582008000300005-1,11,1,The lesion in the lingual region was not treated surgically due to the fact that it did not present functional or aesthetic compromise for the patient.,The lesion
+S1130-05582008000300005-1,11,2,The lesion in the lingual region was not treated surgically due to the fact that it did not present functional or aesthetic compromise for the patient.,the lingual region
+S1130-05582008000300005-1,11,3,The lesion in the lingual region was not treated surgically due to the fact that it did not present functional or aesthetic compromise for the patient.,the fact
+S1130-05582008000300005-1,11,4,The lesion in the lingual region was not treated surgically due to the fact that it did not present functional or aesthetic compromise for the patient.,it
+S1130-05582008000300005-1,11,5,The lesion in the lingual region was not treated surgically due to the fact that it did not present functional or aesthetic compromise for the patient.,functional or aesthetic compromise
+S1130-05582008000300005-1,11,6,The lesion in the lingual region was not treated surgically due to the fact that it did not present functional or aesthetic compromise for the patient.,the patient
+S1130-05582008000300005-1,12,1,The diagnosis of neurofibromatosis was confirmed by pathological analysis.,The diagnosis
+S1130-05582008000300005-1,12,2,The diagnosis of neurofibromatosis was confirmed by pathological analysis.,neurofibromatosis
+S1130-05582008000300005-1,12,3,The diagnosis of neurofibromatosis was confirmed by pathological analysis.,pathological analysis
+S1130-05582008000300005-1,13,1,"The patient has six months of post-operative follow-up, with no complaints and no apparent sign of lesion recurrence.",The patient
+S1130-05582008000300005-1,13,2,"The patient has six months of post-operative follow-up, with no complaints and no apparent sign of lesion recurrence.",six months
+S1130-05582008000300005-1,13,3,"The patient has six months of post-operative follow-up, with no complaints and no apparent sign of lesion recurrence.",post-operative follow-up
+S1130-05582008000300005-1,13,4,"The patient has six months of post-operative follow-up, with no complaints and no apparent sign of lesion recurrence.",no complaints
+S1130-05582008000300005-1,13,5,"The patient has six months of post-operative follow-up, with no complaints and no apparent sign of lesion recurrence.",no apparent sign
+S1130-05582008000300005-1,13,6,"The patient has six months of post-operative follow-up, with no complaints and no apparent sign of lesion recurrence.",lesion recurrence
+S1130-05582008000300005-1,14,1,"Currently, the patient is undergoing periodontal treatment, with a significant improvement in the conditions of the local supporting tissues.",the patient
+S1130-05582008000300005-1,14,2,"Currently, the patient is undergoing periodontal treatment, with a significant improvement in the conditions of the local supporting tissues.",periodontal treatment
+S1130-05582008000300005-1,14,3,"Currently, the patient is undergoing periodontal treatment, with a significant improvement in the conditions of the local supporting tissues.",a significant improvement
+S1130-05582008000300005-1,14,4,"Currently, the patient is undergoing periodontal treatment, with a significant improvement in the conditions of the local supporting tissues.",the conditions
+S1130-05582008000300005-1,14,5,"Currently, the patient is undergoing periodontal treatment, with a significant improvement in the conditions of the local supporting tissues.",the local supporting tissues

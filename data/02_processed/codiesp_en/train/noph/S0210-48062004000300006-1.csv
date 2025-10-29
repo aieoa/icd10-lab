@@ -1,0 +1,108 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062004000300006-1,1,1,A 69-year-old man comes to us for a review of prostate syndrome being treated with an alpha-blocker.,A 69-year-old man
+S0210-48062004000300006-1,1,2,A 69-year-old man comes to us for a review of prostate syndrome being treated with an alpha-blocker.,us
+S0210-48062004000300006-1,1,3,A 69-year-old man comes to us for a review of prostate syndrome being treated with an alpha-blocker.,a review
+S0210-48062004000300006-1,1,4,A 69-year-old man comes to us for a review of prostate syndrome being treated with an alpha-blocker.,prostate syndrome
+S0210-48062004000300006-1,1,5,A 69-year-old man comes to us for a review of prostate syndrome being treated with an alpha-blocker.,an alpha-blocker
+S0210-48062004000300006-1,2,1,"His medical history includes having undergone right hip surgery, hearing loss and repeated angina.",His medical history
+S0210-48062004000300006-1,2,2,"His medical history includes having undergone right hip surgery, hearing loss and repeated angina.",right hip surgery
+S0210-48062004000300006-1,2,3,"His medical history includes having undergone right hip surgery, hearing loss and repeated angina.",loss
+S0210-48062004000300006-1,2,4,"His medical history includes having undergone right hip surgery, hearing loss and repeated angina.",repeated angina
+S0210-48062004000300006-1,3,1,Episode of left costolumbar trauma about 30 years ago.,Episode
+S0210-48062004000300006-1,3,2,Episode of left costolumbar trauma about 30 years ago.,left costolumbar trauma
+S0210-48062004000300006-1,4,1,"The urological history was hematuria on two occasions, the last time a year ago.",The urological history
+S0210-48062004000300006-1,4,2,"The urological history was hematuria on two occasions, the last time a year ago.",hematuria
+S0210-48062004000300006-1,4,3,"The urological history was hematuria on two occasions, the last time a year ago.",two occasions
+S0210-48062004000300006-1,4,4,"The urological history was hematuria on two occasions, the last time a year ago.",the last time
+S0210-48062004000300006-1,5,1,"On examination, the prostate has fibroadenomatous characteristics, volume II/IV, without nodulations.",examination
+S0210-48062004000300006-1,5,2,"On examination, the prostate has fibroadenomatous characteristics, volume II/IV, without nodulations.",the prostate
+S0210-48062004000300006-1,5,3,"On examination, the prostate has fibroadenomatous characteristics, volume II/IV, without nodulations.",fibroadenomatous characteristics
+S0210-48062004000300006-1,5,4,"On examination, the prostate has fibroadenomatous characteristics, volume II/IV, without nodulations.",volume II/IV
+S0210-48062004000300006-1,5,5,"On examination, the prostate has fibroadenomatous characteristics, volume II/IV, without nodulations.",nodulations
+S0210-48062004000300006-1,6,1,"Abdominal palpation reveals a large mass located in the left hypochondrium and void, painful on palpation.",Abdominal palpation
+S0210-48062004000300006-1,6,2,"Abdominal palpation reveals a large mass located in the left hypochondrium and void, painful on palpation.",a large mass
+S0210-48062004000300006-1,6,3,"Abdominal palpation reveals a large mass located in the left hypochondrium and void, painful on palpation.",the left hypochondrium
+S0210-48062004000300006-1,6,4,"Abdominal palpation reveals a large mass located in the left hypochondrium and void, painful on palpation.",palpation
+S0210-48062004000300006-1,7,1,"Analytical: Hb 14.6 gr/dl, Hct.",Analytical
+S0210-48062004000300006-1,7,2,"Analytical: Hb 14.6 gr/dl, Hct.",Hb
+S0210-48062004000300006-1,7,3,"Analytical: Hb 14.6 gr/dl, Hct.",14.6 gr
+S0210-48062004000300006-1,7,4,"Analytical: Hb 14.6 gr/dl, Hct.",dl
+S0210-48062004000300006-1,7,5,"Analytical: Hb 14.6 gr/dl, Hct.",Hct
+S0210-48062004000300006-1,8,1,"43.1%, ESR 9 mm/h and biochemistry within normality.",43.1%
+S0210-48062004000300006-1,8,2,"43.1%, ESR 9 mm/h and biochemistry within normality.",ESR 9 mm/h
+S0210-48062004000300006-1,8,3,"43.1%, ESR 9 mm/h and biochemistry within normality.",biochemistry
+S0210-48062004000300006-1,8,4,"43.1%, ESR 9 mm/h and biochemistry within normality.",normality
+S0210-48062004000300006-1,9,1,PSA: 3.1 ng/ml.,PSA
+S0210-48062004000300006-1,9,2,PSA: 3.1 ng/ml.,ng
+S0210-48062004000300006-1,10,1,"Simple X-ray: great mass effect located in the left hypochondrium and void, completely calcified ovoid in shape.",Simple X
+S0210-48062004000300006-1,10,2,"Simple X-ray: great mass effect located in the left hypochondrium and void, completely calcified ovoid in shape.",ray
+S0210-48062004000300006-1,10,3,"Simple X-ray: great mass effect located in the left hypochondrium and void, completely calcified ovoid in shape.",great mass effect
+S0210-48062004000300006-1,10,4,"Simple X-ray: great mass effect located in the left hypochondrium and void, completely calcified ovoid in shape.",the left hypochondrium
+S0210-48062004000300006-1,10,5,"Simple X-ray: great mass effect located in the left hypochondrium and void, completely calcified ovoid in shape.",completely calcified ovoid
+S0210-48062004000300006-1,10,6,"Simple X-ray: great mass effect located in the left hypochondrium and void, completely calcified ovoid in shape.",shape
+S0210-48062004000300006-1,11,1,"Given these findings, a differential diagnosis is proposed with any mass located in the retroperitoneum that presents this type of calcification:",these findings
+S0210-48062004000300006-1,11,2,"Given these findings, a differential diagnosis is proposed with any mass located in the retroperitoneum that presents this type of calcification:",a differential diagnosis
+S0210-48062004000300006-1,11,3,"Given these findings, a differential diagnosis is proposed with any mass located in the retroperitoneum that presents this type of calcification:",any mass
+S0210-48062004000300006-1,11,4,"Given these findings, a differential diagnosis is proposed with any mass located in the retroperitoneum that presents this type of calcification:",the retroperitoneum
+S0210-48062004000300006-1,11,5,"Given these findings, a differential diagnosis is proposed with any mass located in the retroperitoneum that presents this type of calcification:",that
+S0210-48062004000300006-1,11,6,"Given these findings, a differential diagnosis is proposed with any mass located in the retroperitoneum that presents this type of calcification:",this type
+S0210-48062004000300006-1,11,7,"Given these findings, a differential diagnosis is proposed with any mass located in the retroperitoneum that presents this type of calcification:",calcification
+S0210-48062004000300006-1,12,1,- Primitive retroperitoneal tumors,- Primitive retroperitoneal tumors
+S0210-48062004000300006-1,13,1,- Adrenal tumors,- Adrenal tumors
+S0210-48062004000300006-1,14,1,- Kidney tumors,- Kidney tumors
+S0210-48062004000300006-1,15,1,- Metastatic tumors,- Metastatic tumors
+S0210-48062004000300006-1,16,1,- Infectious pathology,- Infectious pathology
+S0210-48062004000300006-1,17,1,"Blood determinations of plasma renin activity are performed before and after ambulation, as well as aldosterone and cortisol at 8 and 20 hours, with the results being within normal limits.",Blood determinations
+S0210-48062004000300006-1,17,2,"Blood determinations of plasma renin activity are performed before and after ambulation, as well as aldosterone and cortisol at 8 and 20 hours, with the results being within normal limits.",plasma renin activity
+S0210-48062004000300006-1,17,3,"Blood determinations of plasma renin activity are performed before and after ambulation, as well as aldosterone and cortisol at 8 and 20 hours, with the results being within normal limits.",ambulation
+S0210-48062004000300006-1,17,4,"Blood determinations of plasma renin activity are performed before and after ambulation, as well as aldosterone and cortisol at 8 and 20 hours, with the results being within normal limits.",8 and 20 hours
+S0210-48062004000300006-1,17,5,"Blood determinations of plasma renin activity are performed before and after ambulation, as well as aldosterone and cortisol at 8 and 20 hours, with the results being within normal limits.",the results
+S0210-48062004000300006-1,17,6,"Blood determinations of plasma renin activity are performed before and after ambulation, as well as aldosterone and cortisol at 8 and 20 hours, with the results being within normal limits.",normal limits
+S0210-48062004000300006-1,18,1,"Urinary levels of 17-ketosteroids and corticosteroids, as well as catecholamines, metanephrines, and vanilmandelate were normal.",Urinary levels
+S0210-48062004000300006-1,18,2,"Urinary levels of 17-ketosteroids and corticosteroids, as well as catecholamines, metanephrines, and vanilmandelate were normal.",17-ketosteroids
+S0210-48062004000300006-1,18,3,"Urinary levels of 17-ketosteroids and corticosteroids, as well as catecholamines, metanephrines, and vanilmandelate were normal.",corticosteroids
+S0210-48062004000300006-1,18,4,"Urinary levels of 17-ketosteroids and corticosteroids, as well as catecholamines, metanephrines, and vanilmandelate were normal.",catecholamines
+S0210-48062004000300006-1,18,5,"Urinary levels of 17-ketosteroids and corticosteroids, as well as catecholamines, metanephrines, and vanilmandelate were normal.",metanephrines
+S0210-48062004000300006-1,18,6,"Urinary levels of 17-ketosteroids and corticosteroids, as well as catecholamines, metanephrines, and vanilmandelate were normal.",vanilmandelate
+S0210-48062004000300006-1,19,1,All of the above ruled out a functioning adrenal tumor.,All
+S0210-48062004000300006-1,19,2,All of the above ruled out a functioning adrenal tumor.,the above
+S0210-48062004000300006-1,19,3,All of the above ruled out a functioning adrenal tumor.,a functioning adrenal tumor
+S0210-48062004000300006-1,20,1,"Staining for acid-fast bacilli in urine and sputum was also performed and was negative, as well as the Mantoux test.",acid-fast bacilli
+S0210-48062004000300006-1,20,2,"Staining for acid-fast bacilli in urine and sputum was also performed and was negative, as well as the Mantoux test.",urine
+S0210-48062004000300006-1,20,3,"Staining for acid-fast bacilli in urine and sputum was also performed and was negative, as well as the Mantoux test.",sputum
+S0210-48062004000300006-1,20,4,"Staining for acid-fast bacilli in urine and sputum was also performed and was negative, as well as the Mantoux test.",the Mantoux test
+S0210-48062004000300006-1,21,1,"The possibility of a calcified hydatid cyst was raised, but serology was negative.",The possibility
+S0210-48062004000300006-1,21,2,"The possibility of a calcified hydatid cyst was raised, but serology was negative.",a calcified hydatid cyst
+S0210-48062004000300006-1,21,3,"The possibility of a calcified hydatid cyst was raised, but serology was negative.",serology
+S0210-48062004000300006-1,22,1,"Likewise, the left costolumbar trauma, previously suffered, was considered as a possible cause of the calcified adrenal mass.",the left costolumbar trauma
+S0210-48062004000300006-1,22,2,"Likewise, the left costolumbar trauma, previously suffered, was considered as a possible cause of the calcified adrenal mass.",a possible cause
+S0210-48062004000300006-1,22,3,"Likewise, the left costolumbar trauma, previously suffered, was considered as a possible cause of the calcified adrenal mass.",the calcified adrenal mass
+S0210-48062004000300006-1,23,1,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",the diagnosis
+S0210-48062004000300006-1,23,2,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",an unknown retroperitoneal mass
+S0210-48062004000300006-1,23,3,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",an exploratory laparotomy
+S0210-48062004000300006-1,23,4,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",a prominent lesion
+S0210-48062004000300006-1,23,5,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",the left upper quadrant
+S0210-48062004000300006-1,23,6,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",palpation
+S0210-48062004000300006-1,23,7,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",fixation
+S0210-48062004000300006-1,23,8,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",deep planes
+S0210-48062004000300006-1,23,9,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",lesions
+S0210-48062004000300006-1,23,10,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",the peritoneum
+S0210-48062004000300006-1,23,11,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",the intraoperative pathological report
+S0210-48062004000300006-1,23,12,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",which
+S0210-48062004000300006-1,23,13,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",peritoneal fat
+S0210-48062004000300006-1,23,14,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",a malignant tumor
+S0210-48062004000300006-1,23,15,"With the diagnosis of an unknown retroperitoneal mass, an exploratory laparotomy was performed, finding a prominent lesion in the left upper quadrant, hard on palpation, with fixation to deep planes and diffuse lesions distributed throughout the peritoneum, the intraoperative pathological report of which showed infiltrated peritoneal fat. due to a malignant tumor of probable mesenchymal origin.",probable mesenchymal origin
+S0210-48062004000300006-1,24,1,It was decided to close the abdominal cavity as it was a disseminated malignant process.,It
+S0210-48062004000300006-1,24,2,It was decided to close the abdominal cavity as it was a disseminated malignant process.,the abdominal cavity
+S0210-48062004000300006-1,24,3,It was decided to close the abdominal cavity as it was a disseminated malignant process.,it
+S0210-48062004000300006-1,24,4,It was decided to close the abdominal cavity as it was a disseminated malignant process.,a disseminated malignant process
+S0210-48062004000300006-1,25,1,"The definitive pathological report is of pleomorphic liposarcoma, with immunohistochemical techniques being: S100: positive; Oil-Red: positive; vimentin: positive; PS 3: positive; desmin: negative.",The definitive pathological report
+S0210-48062004000300006-1,25,2,"The definitive pathological report is of pleomorphic liposarcoma, with immunohistochemical techniques being: S100: positive; Oil-Red: positive; vimentin: positive; PS 3: positive; desmin: negative.",pleomorphic liposarcoma
+S0210-48062004000300006-1,25,3,"The definitive pathological report is of pleomorphic liposarcoma, with immunohistochemical techniques being: S100: positive; Oil-Red: positive; vimentin: positive; PS 3: positive; desmin: negative.",immunohistochemical techniques
+S0210-48062004000300006-1,25,4,"The definitive pathological report is of pleomorphic liposarcoma, with immunohistochemical techniques being: S100: positive; Oil-Red: positive; vimentin: positive; PS 3: positive; desmin: negative.",Oil-Red
+S0210-48062004000300006-1,25,5,"The definitive pathological report is of pleomorphic liposarcoma, with immunohistochemical techniques being: S100: positive; Oil-Red: positive; vimentin: positive; PS 3: positive; desmin: negative.",PS
+S0210-48062004000300006-1,25,6,"The definitive pathological report is of pleomorphic liposarcoma, with immunohistochemical techniques being: S100: positive; Oil-Red: positive; vimentin: positive; PS 3: positive; desmin: negative.",desmin
+S0210-48062004000300006-1,26,1,"The patient was discharged on the seventh day after the intervention, and later died two weeks later at his home.",The patient
+S0210-48062004000300006-1,26,2,"The patient was discharged on the seventh day after the intervention, and later died two weeks later at his home.",the seventh day
+S0210-48062004000300006-1,26,3,"The patient was discharged on the seventh day after the intervention, and later died two weeks later at his home.",the intervention
+S0210-48062004000300006-1,26,4,"The patient was discharged on the seventh day after the intervention, and later died two weeks later at his home.",his home

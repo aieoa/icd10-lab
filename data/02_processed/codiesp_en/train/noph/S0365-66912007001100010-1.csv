@@ -1,0 +1,50 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912007001100010-1,1,1,A 63-year-old patient reported visual acuity (VA) deficit in the right eye (RE) of several months' duration.,A 63-year-old patient
+S0365-66912007001100010-1,1,2,A 63-year-old patient reported visual acuity (VA) deficit in the right eye (RE) of several months' duration.,visual acuity
+S0365-66912007001100010-1,1,3,A 63-year-old patient reported visual acuity (VA) deficit in the right eye (RE) of several months' duration.,VA) deficit
+S0365-66912007001100010-1,1,4,A 63-year-old patient reported visual acuity (VA) deficit in the right eye (RE) of several months' duration.,the right eye
+S0365-66912007001100010-1,1,5,A 63-year-old patient reported visual acuity (VA) deficit in the right eye (RE) of several months' duration.,RE
+S0365-66912007001100010-1,1,6,A 63-year-old patient reported visual acuity (VA) deficit in the right eye (RE) of several months' duration.,several months' duration
+S0365-66912007001100010-1,2,1,"Her personal history included post-traumatic epilepsy of ten years' duration, high blood pressure and type II diabetes mellitus.",Her personal history
+S0365-66912007001100010-1,2,2,"Her personal history included post-traumatic epilepsy of ten years' duration, high blood pressure and type II diabetes mellitus.",post-traumatic epilepsy
+S0365-66912007001100010-1,2,3,"Her personal history included post-traumatic epilepsy of ten years' duration, high blood pressure and type II diabetes mellitus.",ten years' duration
+S0365-66912007001100010-1,2,4,"Her personal history included post-traumatic epilepsy of ten years' duration, high blood pressure and type II diabetes mellitus.",high blood pressure and type II diabetes mellitus
+S0365-66912007001100010-1,3,1,She was being treated with 1.5 g of vigabatrin and 200 mg of carbamazepine daily since the trauma.,She
+S0365-66912007001100010-1,3,2,She was being treated with 1.5 g of vigabatrin and 200 mg of carbamazepine daily since the trauma.,1.5 g
+S0365-66912007001100010-1,3,3,She was being treated with 1.5 g of vigabatrin and 200 mg of carbamazepine daily since the trauma.,vigabatrin
+S0365-66912007001100010-1,3,4,She was being treated with 1.5 g of vigabatrin and 200 mg of carbamazepine daily since the trauma.,200 mg
+S0365-66912007001100010-1,3,5,She was being treated with 1.5 g of vigabatrin and 200 mg of carbamazepine daily since the trauma.,carbamazepine
+S0365-66912007001100010-1,3,6,She was being treated with 1.5 g of vigabatrin and 200 mg of carbamazepine daily since the trauma.,the trauma
+S0365-66912007001100010-1,4,1,The VA was 0.3 in the OD and 0.8 in the left eye with correction.,The VA
+S0365-66912007001100010-1,4,2,The VA was 0.3 in the OD and 0.8 in the left eye with correction.,the OD
+S0365-66912007001100010-1,4,3,The VA was 0.3 in the OD and 0.8 in the left eye with correction.,the left eye
+S0365-66912007001100010-1,4,4,The VA was 0.3 in the OD and 0.8 in the left eye with correction.,correction
+S0365-66912007001100010-1,5,1,Previous biomicroscopy and tonometry were normal.,Previous biomicroscopy
+S0365-66912007001100010-1,5,2,Previous biomicroscopy and tonometry were normal.,tonometry
+S0365-66912007001100010-1,6,1,Ophthalmoscopy revealed paleness of both papillae and a macular epiretinal membrane in the RE.,Ophthalmoscopy
+S0365-66912007001100010-1,6,2,Ophthalmoscopy revealed paleness of both papillae and a macular epiretinal membrane in the RE.,a macular epiretinal membrane
+S0365-66912007001100010-1,6,3,Ophthalmoscopy revealed paleness of both papillae and a macular epiretinal membrane in the RE.,the RE
+S0365-66912007001100010-1,7,1,"Humphrey 30/2 white-white and blue-yellow computerized perimetries were performed, showing severe concentric field reductions in both eyes (Humphrey instruments, model 745, Carl Zeiss Inc).",Humphrey 30/2 white-white and blue-yellow computerized perimetries
+S0365-66912007001100010-1,7,2,"Humphrey 30/2 white-white and blue-yellow computerized perimetries were performed, showing severe concentric field reductions in both eyes (Humphrey instruments, model 745, Carl Zeiss Inc).",severe concentric field reductions
+S0365-66912007001100010-1,7,3,"Humphrey 30/2 white-white and blue-yellow computerized perimetries were performed, showing severe concentric field reductions in both eyes (Humphrey instruments, model 745, Carl Zeiss Inc).",both eyes
+S0365-66912007001100010-1,7,4,"Humphrey 30/2 white-white and blue-yellow computerized perimetries were performed, showing severe concentric field reductions in both eyes (Humphrey instruments, model 745, Carl Zeiss Inc).",(Humphrey instruments
+S0365-66912007001100010-1,8,1,"She had no relevant family history, so hereditary optic neuropathy was ruled out.",She
+S0365-66912007001100010-1,8,2,"She had no relevant family history, so hereditary optic neuropathy was ruled out.",no relevant family history
+S0365-66912007001100010-1,8,3,"She had no relevant family history, so hereditary optic neuropathy was ruled out.",hereditary optic neuropathy
+S0365-66912007001100010-1,9,1,"The anamnesis and analytical determinations of mean corpuscular volume, vitamins B1, B6, B12 and folic acid ruled out a nutritional etiology.",The anamnesis
+S0365-66912007001100010-1,9,2,"The anamnesis and analytical determinations of mean corpuscular volume, vitamins B1, B6, B12 and folic acid ruled out a nutritional etiology.",analytical determinations
+S0365-66912007001100010-1,9,3,"The anamnesis and analytical determinations of mean corpuscular volume, vitamins B1, B6, B12 and folic acid ruled out a nutritional etiology.",mean corpuscular volume
+S0365-66912007001100010-1,9,4,"The anamnesis and analytical determinations of mean corpuscular volume, vitamins B1, B6, B12 and folic acid ruled out a nutritional etiology.",B1
+S0365-66912007001100010-1,9,5,"The anamnesis and analytical determinations of mean corpuscular volume, vitamins B1, B6, B12 and folic acid ruled out a nutritional etiology.",B6
+S0365-66912007001100010-1,9,6,"The anamnesis and analytical determinations of mean corpuscular volume, vitamins B1, B6, B12 and folic acid ruled out a nutritional etiology.",B12
+S0365-66912007001100010-1,9,7,"The anamnesis and analytical determinations of mean corpuscular volume, vitamins B1, B6, B12 and folic acid ruled out a nutritional etiology.",folic acid
+S0365-66912007001100010-1,9,8,"The anamnesis and analytical determinations of mean corpuscular volume, vitamins B1, B6, B12 and folic acid ruled out a nutritional etiology.",a nutritional etiology
+S0365-66912007001100010-1,10,1,The diagnosis of retinotoxicity due to vigabatrin was established by referral to the neurology service.,The diagnosis
+S0365-66912007001100010-1,10,2,The diagnosis of retinotoxicity due to vigabatrin was established by referral to the neurology service.,retinotoxicity
+S0365-66912007001100010-1,10,3,The diagnosis of retinotoxicity due to vigabatrin was established by referral to the neurology service.,vigabatrin
+S0365-66912007001100010-1,10,4,The diagnosis of retinotoxicity due to vigabatrin was established by referral to the neurology service.,referral
+S0365-66912007001100010-1,10,5,The diagnosis of retinotoxicity due to vigabatrin was established by referral to the neurology service.,the neurology service
+S0365-66912007001100010-1,11,1,"At one year of follow-up, field loss and VA loss persisted.",one year
+S0365-66912007001100010-1,11,2,"At one year of follow-up, field loss and VA loss persisted.",follow-up
+S0365-66912007001100010-1,11,3,"At one year of follow-up, field loss and VA loss persisted.",field loss
+S0365-66912007001100010-1,11,4,"At one year of follow-up, field loss and VA loss persisted.",VA loss

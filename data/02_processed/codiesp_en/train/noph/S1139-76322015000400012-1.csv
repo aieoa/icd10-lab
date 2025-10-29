@@ -1,0 +1,98 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1139-76322015000400012-1,1,1,18-month-old girl who consulted due to a tick bite on the head detected 24 hours previously.,18-month-old girl
+S1139-76322015000400012-1,1,2,18-month-old girl who consulted due to a tick bite on the head detected 24 hours previously.,who
+S1139-76322015000400012-1,1,3,18-month-old girl who consulted due to a tick bite on the head detected 24 hours previously.,a tick bite
+S1139-76322015000400012-1,1,4,18-month-old girl who consulted due to a tick bite on the head detected 24 hours previously.,the head
+S1139-76322015000400012-1,1,5,18-month-old girl who consulted due to a tick bite on the head detected 24 hours previously.,24 hours
+S1139-76322015000400012-1,2,1,"Her mother believes that it could have happened 3-4 days before, since she went out to the countryside (April).",Her mother
+S1139-76322015000400012-1,2,2,"Her mother believes that it could have happened 3-4 days before, since she went out to the countryside (April).",it
+S1139-76322015000400012-1,2,3,"Her mother believes that it could have happened 3-4 days before, since she went out to the countryside (April).",she
+S1139-76322015000400012-1,2,4,"Her mother believes that it could have happened 3-4 days before, since she went out to the countryside (April).",the countryside
+S1139-76322015000400012-1,2,5,"Her mother believes that it could have happened 3-4 days before, since she went out to the countryside (April).",April
+S1139-76322015000400012-1,3,1,No domestic animals (dogs or other pets) lived with them.,No domestic animals
+S1139-76322015000400012-1,3,2,No domestic animals (dogs or other pets) lived with them.,dogs
+S1139-76322015000400012-1,3,3,No domestic animals (dogs or other pets) lived with them.,other pets
+S1139-76322015000400012-1,3,4,No domestic animals (dogs or other pets) lived with them.,them
+S1139-76322015000400012-1,4,1,"The tick was removed manually, and it was about 5 mm in diameter.",The tick
+S1139-76322015000400012-1,4,2,"The tick was removed manually, and it was about 5 mm in diameter.",it
+S1139-76322015000400012-1,4,3,"The tick was removed manually, and it was about 5 mm in diameter.",about 5 mm
+S1139-76322015000400012-1,4,4,"The tick was removed manually, and it was about 5 mm in diameter.",diameter
+S1139-76322015000400012-1,5,1,"On the day of the consultation, she started fever and they noticed some lumps on her head.",the day
+S1139-76322015000400012-1,5,2,"On the day of the consultation, she started fever and they noticed some lumps on her head.",the consultation
+S1139-76322015000400012-1,5,3,"On the day of the consultation, she started fever and they noticed some lumps on her head.",she
+S1139-76322015000400012-1,5,4,"On the day of the consultation, she started fever and they noticed some lumps on her head.",fever
+S1139-76322015000400012-1,5,5,"On the day of the consultation, she started fever and they noticed some lumps on her head.",they
+S1139-76322015000400012-1,5,6,"On the day of the consultation, she started fever and they noticed some lumps on her head.",some lumps
+S1139-76322015000400012-1,5,7,"On the day of the consultation, she started fever and they noticed some lumps on her head.",her head
+S1139-76322015000400012-1,6,1,"At the consultation, upon examination she was in good general condition, although she was irritable and somewhat down.",the consultation
+S1139-76322015000400012-1,6,2,"At the consultation, upon examination she was in good general condition, although she was irritable and somewhat down.",examination
+S1139-76322015000400012-1,6,3,"At the consultation, upon examination she was in good general condition, although she was irritable and somewhat down.",she
+S1139-76322015000400012-1,6,4,"At the consultation, upon examination she was in good general condition, although she was irritable and somewhat down.",good general condition
+S1139-76322015000400012-1,6,5,"At the consultation, upon examination she was in good general condition, although she was irritable and somewhat down.",she
+S1139-76322015000400012-1,7,1,"In the left parieto-occipital region, a blackish eschar about 7 mm in diameter with mild erythema was visible.",the left parieto-occipital region
+S1139-76322015000400012-1,7,2,"In the left parieto-occipital region, a blackish eschar about 7 mm in diameter with mild erythema was visible.",a blackish eschar
+S1139-76322015000400012-1,7,3,"In the left parieto-occipital region, a blackish eschar about 7 mm in diameter with mild erythema was visible.",about 7 mm
+S1139-76322015000400012-1,7,4,"In the left parieto-occipital region, a blackish eschar about 7 mm in diameter with mild erythema was visible.",diameter
+S1139-76322015000400012-1,7,5,"In the left parieto-occipital region, a blackish eschar about 7 mm in diameter with mild erythema was visible.",mild erythema
+S1139-76322015000400012-1,8,1,"In the skull there were multiple small mastoid and posterior cervical lymphadenopathy between 1 and 1.5 cm in diameter, slightly painful on palpation.",the skull
+S1139-76322015000400012-1,8,2,"In the skull there were multiple small mastoid and posterior cervical lymphadenopathy between 1 and 1.5 cm in diameter, slightly painful on palpation.",multiple small mastoid and posterior cervical lymphadenopathy
+S1139-76322015000400012-1,8,3,"In the skull there were multiple small mastoid and posterior cervical lymphadenopathy between 1 and 1.5 cm in diameter, slightly painful on palpation.",cm
+S1139-76322015000400012-1,8,4,"In the skull there were multiple small mastoid and posterior cervical lymphadenopathy between 1 and 1.5 cm in diameter, slightly painful on palpation.",diameter
+S1139-76322015000400012-1,8,5,"In the skull there were multiple small mastoid and posterior cervical lymphadenopathy between 1 and 1.5 cm in diameter, slightly painful on palpation.",palpation
+S1139-76322015000400012-1,9,1,The rest of the examination was normal and there were no rashes.,The rest
+S1139-76322015000400012-1,9,2,The rest of the examination was normal and there were no rashes.,the examination
+S1139-76322015000400012-1,9,3,The rest of the examination was normal and there were no rashes.,no rashes
+S1139-76322015000400012-1,10,1,"Initially, an analysis was requested to study the tick bite and treatment with amoxicillin-clavulanic acid was recommended, considering a possible superinfection of the bite.",an analysis
+S1139-76322015000400012-1,10,2,"Initially, an analysis was requested to study the tick bite and treatment with amoxicillin-clavulanic acid was recommended, considering a possible superinfection of the bite.",the tick bite
+S1139-76322015000400012-1,10,3,"Initially, an analysis was requested to study the tick bite and treatment with amoxicillin-clavulanic acid was recommended, considering a possible superinfection of the bite.",treatment
+S1139-76322015000400012-1,10,4,"Initially, an analysis was requested to study the tick bite and treatment with amoxicillin-clavulanic acid was recommended, considering a possible superinfection of the bite.",amoxicillin-clavulanic acid
+S1139-76322015000400012-1,10,5,"Initially, an analysis was requested to study the tick bite and treatment with amoxicillin-clavulanic acid was recommended, considering a possible superinfection of the bite.",a possible superinfection
+S1139-76322015000400012-1,10,6,"Initially, an analysis was requested to study the tick bite and treatment with amoxicillin-clavulanic acid was recommended, considering a possible superinfection of the bite.",the bite
+S1139-76322015000400012-1,11,1,"Controlled a week later, the eschar, lymphadenopathy and fever persisted.",the eschar
+S1139-76322015000400012-1,11,2,"Controlled a week later, the eschar, lymphadenopathy and fever persisted.",fever
+S1139-76322015000400012-1,12,1,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",The results
+S1139-76322015000400012-1,12,2,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",the analyzes
+S1139-76322015000400012-1,12,3,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",leukocytosis
+S1139-76322015000400012-1,12,4,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",an increase
+S1139-76322015000400012-1,12,5,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",the erythrocyte sedimentation rate
+S1139-76322015000400012-1,12,6,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",ESR
+S1139-76322015000400012-1,12,7,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",/h
+S1139-76322015000400012-1,12,8,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",PrCR
+S1139-76322015000400012-1,12,9,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",10 mg
+S1139-76322015000400012-1,12,10,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",dl
+S1139-76322015000400012-1,12,11,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",.
+S1139-76322015000400012-1,12,12,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",the serologies
+S1139-76322015000400012-1,12,13,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",Borrelia burgdorferri
+S1139-76322015000400012-1,12,14,"The results of the analyzes showed leukocytosis with an increase in the erythrocyte sedimentation rate (ESR) up to 20 mm/h and C-reactive protein (PrCR) of 10 mg/dl. , the serologies of Borrelia burgdorferri and Rickettesia connori were negative.",Rickettesia connori
+S1139-76322015000400012-1,13,1,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",the poor evolution
+S1139-76322015000400012-1,13,2,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",the condition
+S1139-76322015000400012-1,13,3,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",suspicion
+S1139-76322015000400012-1,13,4,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",rickettsiosis
+S1139-76322015000400012-1,13,5,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",the case
+S1139-76322015000400012-1,13,6,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",infectious disease specialists
+S1139-76322015000400012-1,13,7,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",our reference hospital
+S1139-76322015000400012-1,13,8,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",treatment
+S1139-76322015000400012-1,13,9,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",oral ciprofloxacin
+S1139-76322015000400012-1,13,10,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",a new analysis
+S1139-76322015000400012-1,13,11,"Given the poor evolution of the condition and suspicion of rickettsiosis, the case was consulted with infectious disease specialists at our reference hospital and treatment with oral ciprofloxacin was decided, requesting a new analysis with serology.",serology
+S1139-76322015000400012-1,14,1,"The patient is monitored a week later, being already afebrile and with good evolution of the lymphadenopathy, which returns slowly, only a small area of ​​alopecia persists of about 2 cm in diameter.",The patient
+S1139-76322015000400012-1,14,2,"The patient is monitored a week later, being already afebrile and with good evolution of the lymphadenopathy, which returns slowly, only a small area of ​​alopecia persists of about 2 cm in diameter.",good evolution
+S1139-76322015000400012-1,14,3,"The patient is monitored a week later, being already afebrile and with good evolution of the lymphadenopathy, which returns slowly, only a small area of ​​alopecia persists of about 2 cm in diameter.",the lymphadenopathy
+S1139-76322015000400012-1,14,4,"The patient is monitored a week later, being already afebrile and with good evolution of the lymphadenopathy, which returns slowly, only a small area of ​​alopecia persists of about 2 cm in diameter.",which
+S1139-76322015000400012-1,14,5,"The patient is monitored a week later, being already afebrile and with good evolution of the lymphadenopathy, which returns slowly, only a small area of ​​alopecia persists of about 2 cm in diameter.",only a small area
+S1139-76322015000400012-1,14,6,"The patient is monitored a week later, being already afebrile and with good evolution of the lymphadenopathy, which returns slowly, only a small area of ​​alopecia persists of about 2 cm in diameter.",​​alopecia
+S1139-76322015000400012-1,14,7,"The patient is monitored a week later, being already afebrile and with good evolution of the lymphadenopathy, which returns slowly, only a small area of ​​alopecia persists of about 2 cm in diameter.",about 2 cm
+S1139-76322015000400012-1,14,8,"The patient is monitored a week later, being already afebrile and with good evolution of the lymphadenopathy, which returns slowly, only a small area of ​​alopecia persists of about 2 cm in diameter.",diameter
+S1139-76322015000400012-1,15,1,"In the control analysis, a decrease in leukocytosis and SV was observed.",the control analysis
+S1139-76322015000400012-1,15,2,"In the control analysis, a decrease in leukocytosis and SV was observed.",a decrease
+S1139-76322015000400012-1,15,3,"In the control analysis, a decrease in leukocytosis and SV was observed.",leukocytosis
+S1139-76322015000400012-1,15,4,"In the control analysis, a decrease in leukocytosis and SV was observed.",SV
+S1139-76322015000400012-1,16,1,The second serological control ten days later showed a R. connori titer: IgG ≤ 1:40 and IgM 1:320.,The second serological control
+S1139-76322015000400012-1,16,2,The second serological control ten days later showed a R. connori titer: IgG ≤ 1:40 and IgM 1:320.,a R. connori titer
+S1139-76322015000400012-1,16,3,The second serological control ten days later showed a R. connori titer: IgG ≤ 1:40 and IgM 1:320.,1:40 and IgM 1:320
+S1139-76322015000400012-1,17,1,No sample could be sent for R. slovaca study.,No sample
+S1139-76322015000400012-1,17,2,No sample could be sent for R. slovaca study.,R. slovaca study
+S1139-76322015000400012-1,18,1,Two months later the girl was asymptomatic and serology showed decreasing titers against R. connori IgG 1:40 and IgM ≤ 1:40.,the girl
+S1139-76322015000400012-1,18,2,Two months later the girl was asymptomatic and serology showed decreasing titers against R. connori IgG 1:40 and IgM ≤ 1:40.,titers
+S1139-76322015000400012-1,18,3,Two months later the girl was asymptomatic and serology showed decreasing titers against R. connori IgG 1:40 and IgM ≤ 1:40.,R. connori
+S1139-76322015000400012-1,18,4,Two months later the girl was asymptomatic and serology showed decreasing titers against R. connori IgG 1:40 and IgM ≤ 1:40.,IgG

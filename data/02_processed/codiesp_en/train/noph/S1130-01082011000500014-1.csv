@@ -1,0 +1,139 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082011000500014-1,1,1,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",A 27-year-old woman
+S1130-01082011000500014-1,1,2,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",the onset
+S1130-01082011000500014-1,1,3,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",the disease
+S1130-01082011000500014-1,1,4,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",the form
+S1130-01082011000500014-1,1,5,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",severe pancolitis
+S1130-01082011000500014-1,1,6,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",subsequent corticosteroid dependence
+S1130-01082011000500014-1,1,7,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",maintenance treatment
+S1130-01082011000500014-1,1,8,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",azathriopine
+S1130-01082011000500014-1,1,9,"A 27-year-old woman with the onset of the disease two years ago in the form of severe pancolitis and subsequent corticosteroid dependence, on maintenance treatment with azathriopine and oral mesalazine.",oral mesalazine
+S1130-01082011000500014-1,2,1,"She was admitted for abdominal pain, bloody diarrhea and headache accompanied by motor deficit in the left lower limb.",She
+S1130-01082011000500014-1,2,2,"She was admitted for abdominal pain, bloody diarrhea and headache accompanied by motor deficit in the left lower limb.",abdominal pain
+S1130-01082011000500014-1,2,3,"She was admitted for abdominal pain, bloody diarrhea and headache accompanied by motor deficit in the left lower limb.",bloody diarrhea
+S1130-01082011000500014-1,2,4,"She was admitted for abdominal pain, bloody diarrhea and headache accompanied by motor deficit in the left lower limb.",headache
+S1130-01082011000500014-1,2,5,"She was admitted for abdominal pain, bloody diarrhea and headache accompanied by motor deficit in the left lower limb.",motor deficit
+S1130-01082011000500014-1,2,6,"She was admitted for abdominal pain, bloody diarrhea and headache accompanied by motor deficit in the left lower limb.",the left lower limb
+S1130-01082011000500014-1,3,1,Physical examination: diffuse abdominal pain on deep palpation.,abdominal pain
+S1130-01082011000500014-1,3,2,Physical examination: diffuse abdominal pain on deep palpation.,deep palpation
+S1130-01082011000500014-1,4,1,Rectal examination with fresh blood remains.,Rectal examination
+S1130-01082011000500014-1,4,2,Rectal examination with fresh blood remains.,fresh blood remains
+S1130-01082011000500014-1,5,1,Discrete functional impotence in the left lower limb and paresthesias in both upper limbs.,Discrete functional impotence
+S1130-01082011000500014-1,5,2,Discrete functional impotence in the left lower limb and paresthesias in both upper limbs.,the left lower limb
+S1130-01082011000500014-1,5,3,Discrete functional impotence in the left lower limb and paresthesias in both upper limbs.,paresthesias
+S1130-01082011000500014-1,5,4,Discrete functional impotence in the left lower limb and paresthesias in both upper limbs.,both upper limbs
+S1130-01082011000500014-1,6,1,"The analysis on admission highlights hemoglobin of 11 g/dl, ESR 78 mg/l and minimal enzyme mobilization (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).",The analysis
+S1130-01082011000500014-1,6,2,"The analysis on admission highlights hemoglobin of 11 g/dl, ESR 78 mg/l and minimal enzyme mobilization (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).",admission highlights hemoglobin
+S1130-01082011000500014-1,6,3,"The analysis on admission highlights hemoglobin of 11 g/dl, ESR 78 mg/l and minimal enzyme mobilization (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).","11 g/dl, ESR 78 mg/l and minimal enzyme mobilization"
+S1130-01082011000500014-1,6,4,"The analysis on admission highlights hemoglobin of 11 g/dl, ESR 78 mg/l and minimal enzyme mobilization (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).",GOT 74 UI/l
+S1130-01082011000500014-1,6,5,"The analysis on admission highlights hemoglobin of 11 g/dl, ESR 78 mg/l and minimal enzyme mobilization (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).",GPT 96 UI/l
+S1130-01082011000500014-1,6,6,"The analysis on admission highlights hemoglobin of 11 g/dl, ESR 78 mg/l and minimal enzyme mobilization (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).",GGT
+S1130-01082011000500014-1,6,7,"The analysis on admission highlights hemoglobin of 11 g/dl, ESR 78 mg/l and minimal enzyme mobilization (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).",182 UI/l
+S1130-01082011000500014-1,6,8,"The analysis on admission highlights hemoglobin of 11 g/dl, ESR 78 mg/l and minimal enzyme mobilization (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA 148 UI/l).",FA 148 UI/l
+S1130-01082011000500014-1,7,1,"Assessed by Neurology, they indicate brain computed tomography (CT) and magnetic resonance imaging (MRI), showing thrombosis of the longitudinal venous sinus.",Neurology
+S1130-01082011000500014-1,7,2,"Assessed by Neurology, they indicate brain computed tomography (CT) and magnetic resonance imaging (MRI), showing thrombosis of the longitudinal venous sinus.",they
+S1130-01082011000500014-1,7,3,"Assessed by Neurology, they indicate brain computed tomography (CT) and magnetic resonance imaging (MRI), showing thrombosis of the longitudinal venous sinus.",brain computed tomography
+S1130-01082011000500014-1,7,4,"Assessed by Neurology, they indicate brain computed tomography (CT) and magnetic resonance imaging (MRI), showing thrombosis of the longitudinal venous sinus.",CT
+S1130-01082011000500014-1,7,5,"Assessed by Neurology, they indicate brain computed tomography (CT) and magnetic resonance imaging (MRI), showing thrombosis of the longitudinal venous sinus.",magnetic resonance imaging
+S1130-01082011000500014-1,7,6,"Assessed by Neurology, they indicate brain computed tomography (CT) and magnetic resonance imaging (MRI), showing thrombosis of the longitudinal venous sinus.",MRI
+S1130-01082011000500014-1,7,7,"Assessed by Neurology, they indicate brain computed tomography (CT) and magnetic resonance imaging (MRI), showing thrombosis of the longitudinal venous sinus.",thrombosis
+S1130-01082011000500014-1,7,8,"Assessed by Neurology, they indicate brain computed tomography (CT) and magnetic resonance imaging (MRI), showing thrombosis of the longitudinal venous sinus.",the longitudinal venous sinus
+S1130-01082011000500014-1,8,1,In rectosigmoidoscopy: severe involvement of the mucosa from the anal margin.,rectosigmoidoscopy
+S1130-01082011000500014-1,8,2,In rectosigmoidoscopy: severe involvement of the mucosa from the anal margin.,the mucosa
+S1130-01082011000500014-1,8,3,In rectosigmoidoscopy: severe involvement of the mucosa from the anal margin.,the anal margin
+S1130-01082011000500014-1,9,1,"Biopsies compatible with active ulcerative colitis, ruling out cytomegalovirus infection.",Biopsies
+S1130-01082011000500014-1,9,2,"Biopsies compatible with active ulcerative colitis, ruling out cytomegalovirus infection.",active ulcerative colitis
+S1130-01082011000500014-1,9,3,"Biopsies compatible with active ulcerative colitis, ruling out cytomegalovirus infection.",cytomegalovirus infection
+S1130-01082011000500014-1,10,1,"We began treatment with intravenous corticosteroids at full doses (1 mg/kg/day) and low molecular weight heparin, with progressive normalization of bowel movements.",We
+S1130-01082011000500014-1,10,2,"We began treatment with intravenous corticosteroids at full doses (1 mg/kg/day) and low molecular weight heparin, with progressive normalization of bowel movements.",treatment
+S1130-01082011000500014-1,10,3,"We began treatment with intravenous corticosteroids at full doses (1 mg/kg/day) and low molecular weight heparin, with progressive normalization of bowel movements.",intravenous corticosteroids
+S1130-01082011000500014-1,10,4,"We began treatment with intravenous corticosteroids at full doses (1 mg/kg/day) and low molecular weight heparin, with progressive normalization of bowel movements.",full doses
+S1130-01082011000500014-1,10,5,"We began treatment with intravenous corticosteroids at full doses (1 mg/kg/day) and low molecular weight heparin, with progressive normalization of bowel movements.",1 mg
+S1130-01082011000500014-1,10,6,"We began treatment with intravenous corticosteroids at full doses (1 mg/kg/day) and low molecular weight heparin, with progressive normalization of bowel movements.",low molecular weight heparin
+S1130-01082011000500014-1,10,7,"We began treatment with intravenous corticosteroids at full doses (1 mg/kg/day) and low molecular weight heparin, with progressive normalization of bowel movements.",progressive normalization
+S1130-01082011000500014-1,10,8,"We began treatment with intravenous corticosteroids at full doses (1 mg/kg/day) and low molecular weight heparin, with progressive normalization of bowel movements.",bowel movements
+S1130-01082011000500014-1,11,1,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",a week
+S1130-01082011000500014-1,11,2,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",hospitalization
+S1130-01082011000500014-1,11,3,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",abdominal perimeter
+S1130-01082011000500014-1,11,4,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",semiology
+S1130-01082011000500014-1,11,5,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",ascites
+S1130-01082011000500014-1,11,6,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",neurological deterioration
+S1130-01082011000500014-1,11,7,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",myoclonus
+S1130-01082011000500014-1,11,8,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",lower limbs
+S1130-01082011000500014-1,11,9,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",visual acuity
+S1130-01082011000500014-1,11,10,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",increased cytolysis
+S1130-01082011000500014-1,11,11,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",600 IU/l
+S1130-01082011000500014-1,11,12,"After a week of hospitalization, increase in abdominal perimeter with semiology of ascites and neurological deterioration (myoclonus in lower limbs, decreased visual acuity), accompanied by increased cytolysis (GOT 600 IU/l, GPT 463 IU/l) and coagulopathy.",463 IU/l
+S1130-01082011000500014-1,12,1,Abdominal echo-Doppler was performed: hepatomegaly.,Abdominal echo-Doppler
+S1130-01082011000500014-1,12,2,Abdominal echo-Doppler was performed: hepatomegaly.,hepatomegaly
+S1130-01082011000500014-1,13,1,9.5 mm portal capturing Doppler only in its right branch.,Doppler
+S1130-01082011000500014-1,13,2,9.5 mm portal capturing Doppler only in its right branch.,its right branch
+S1130-01082011000500014-1,14,1,Prominent hepatic artery.,Prominent hepatic artery
+S1130-01082011000500014-1,15,1,"Suprahepatic with minimal flow uptake, flattened.",minimal flow uptake
+S1130-01082011000500014-1,16,1,Echogenic content in the lower cava.,Echogenic content
+S1130-01082011000500014-1,16,2,Echogenic content in the lower cava.,the lower cava
+S1130-01082011000500014-1,17,1,Ascites.,Ascites
+S1130-01082011000500014-1,18,1,The study is expanded by abdominal CT and angio-MRI: decreased intrahepatic cava caliber with image of intraluminal thrombus.,The study
+S1130-01082011000500014-1,18,2,The study is expanded by abdominal CT and angio-MRI: decreased intrahepatic cava caliber with image of intraluminal thrombus.,abdominal CT
+S1130-01082011000500014-1,18,3,The study is expanded by abdominal CT and angio-MRI: decreased intrahepatic cava caliber with image of intraluminal thrombus.,angio
+S1130-01082011000500014-1,18,4,The study is expanded by abdominal CT and angio-MRI: decreased intrahepatic cava caliber with image of intraluminal thrombus.,decreased intrahepatic cava caliber
+S1130-01082011000500014-1,18,5,The study is expanded by abdominal CT and angio-MRI: decreased intrahepatic cava caliber with image of intraluminal thrombus.,image
+S1130-01082011000500014-1,18,6,The study is expanded by abdominal CT and angio-MRI: decreased intrahepatic cava caliber with image of intraluminal thrombus.,intraluminal thrombus
+S1130-01082011000500014-1,19,1,Loss of signal intensity of the suprahepatic cells throughout their entire length.,Loss
+S1130-01082011000500014-1,19,2,Loss of signal intensity of the suprahepatic cells throughout their entire length.,signal intensity
+S1130-01082011000500014-1,19,3,Loss of signal intensity of the suprahepatic cells throughout their entire length.,the suprahepatic cells
+S1130-01082011000500014-1,19,4,Loss of signal intensity of the suprahepatic cells throughout their entire length.,their entire length
+S1130-01082011000500014-1,20,1,Permeable portal.,Permeable portal
+S1130-01082011000500014-1,21,1,Hepatomegaly.,Hepatomegaly
+S1130-01082011000500014-1,22,1,Ascites.,Ascites
+S1130-01082011000500014-1,23,1,"Other causes of liver disease are ruled out and a diagnostic paracentesis is performed (leukocytes 20, glucose 86, proteins 1.8, albumin 1.4, ABG 1.",Other causes
+S1130-01082011000500014-1,23,2,"Other causes of liver disease are ruled out and a diagnostic paracentesis is performed (leukocytes 20, glucose 86, proteins 1.8, albumin 1.4, ABG 1.",liver disease
+S1130-01082011000500014-1,23,3,"Other causes of liver disease are ruled out and a diagnostic paracentesis is performed (leukocytes 20, glucose 86, proteins 1.8, albumin 1.4, ABG 1.",a diagnostic paracentesis
+S1130-01082011000500014-1,23,4,"Other causes of liver disease are ruled out and a diagnostic paracentesis is performed (leukocytes 20, glucose 86, proteins 1.8, albumin 1.4, ABG 1.",glucose
+S1130-01082011000500014-1,23,5,"Other causes of liver disease are ruled out and a diagnostic paracentesis is performed (leukocytes 20, glucose 86, proteins 1.8, albumin 1.4, ABG 1.",albumin
+S1130-01082011000500014-1,24,1,Culture negative.,Culture negative
+S1130-01082011000500014-1,25,1,Cytology negative).,Cytology negative
+S1130-01082011000500014-1,26,1,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",Study
+S1130-01082011000500014-1,26,2,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",thrombophilia
+S1130-01082011000500014-1,26,3,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",relative deficiency
+S1130-01082011000500014-1,26,4,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",hepatic synthesis factors
+S1130-01082011000500014-1,26,5,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",factor
+S1130-01082011000500014-1,26,6,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",V
+S1130-01082011000500014-1,26,7,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",36.63%
+S1130-01082011000500014-1,26,8,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",VII
+S1130-01082011000500014-1,26,9,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",21%
+S1130-01082011000500014-1,26,10,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",primary procoagulant disorder
+S1130-01082011000500014-1,26,11,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",antiphospholipid antibody
+S1130-01082011000500014-1,26,12,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",Ham test
+S1130-01082011000500014-1,26,13,"Study of thrombophilia with relative deficiency of hepatic synthesis factors (factor V 36.63%, VII 21%), without primary procoagulant disorder (antiphospholipid antibody, Ham test and Leyden factor V, negative.",Leyden factor V
+S1130-01082011000500014-1,27,1,"Prothrombin and methylenetetrahydrofolate reducatase, homocysteine, antithrombin III, protein C and S, normal).",Prothrombin
+S1130-01082011000500014-1,27,2,"Prothrombin and methylenetetrahydrofolate reducatase, homocysteine, antithrombin III, protein C and S, normal).",homocysteine
+S1130-01082011000500014-1,27,3,"Prothrombin and methylenetetrahydrofolate reducatase, homocysteine, antithrombin III, protein C and S, normal).",antithrombin III
+S1130-01082011000500014-1,27,4,"Prothrombin and methylenetetrahydrofolate reducatase, homocysteine, antithrombin III, protein C and S, normal).",protein C
+S1130-01082011000500014-1,27,5,"Prothrombin and methylenetetrahydrofolate reducatase, homocysteine, antithrombin III, protein C and S, normal).",S
+S1130-01082011000500014-1,28,1,"With suspicion of Budd-Chiari syndrome, treatment with sodium heparin is started at full doses.",suspicion
+S1130-01082011000500014-1,28,2,"With suspicion of Budd-Chiari syndrome, treatment with sodium heparin is started at full doses.",Budd-Chiari syndrome
+S1130-01082011000500014-1,28,3,"With suspicion of Budd-Chiari syndrome, treatment with sodium heparin is started at full doses.",treatment
+S1130-01082011000500014-1,28,4,"With suspicion of Budd-Chiari syndrome, treatment with sodium heparin is started at full doses.",sodium heparin
+S1130-01082011000500014-1,28,5,"With suspicion of Budd-Chiari syndrome, treatment with sodium heparin is started at full doses.",full doses
+S1130-01082011000500014-1,29,1,"Clinical deterioration continued on consecutive days, with tense ascites and severe coagulopathy (prothrombin activity of 38%).",Clinical deterioration
+S1130-01082011000500014-1,29,2,"Clinical deterioration continued on consecutive days, with tense ascites and severe coagulopathy (prothrombin activity of 38%).",consecutive days
+S1130-01082011000500014-1,29,3,"Clinical deterioration continued on consecutive days, with tense ascites and severe coagulopathy (prothrombin activity of 38%).",tense ascites
+S1130-01082011000500014-1,29,4,"Clinical deterioration continued on consecutive days, with tense ascites and severe coagulopathy (prothrombin activity of 38%).",severe coagulopathy (prothrombin activity
+S1130-01082011000500014-1,29,5,"Clinical deterioration continued on consecutive days, with tense ascites and severe coagulopathy (prothrombin activity of 38%).",38%
+S1130-01082011000500014-1,30,1,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",a multidisciplinary assessment
+S1130-01082011000500014-1,30,2,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",the patient
+S1130-01082011000500014-1,30,3,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",another center
+S1130-01082011000500014-1,30,4,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",placement
+S1130-01082011000500014-1,30,5,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",a percutaneous intrahepatic portosystemic shunt system
+S1130-01082011000500014-1,30,6,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",we
+S1130-01082011000500014-1,30,7,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",the need
+S1130-01082011000500014-1,30,8,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",joint fibrinolysis
+S1130-01082011000500014-1,30,9,"After a multidisciplinary assessment, the patient was transferred to another center to attempt placement of a percutaneous intrahepatic portosystemic shunt system, since we were informed of the need to perform joint fibrinolysis due to associated portal thrombosis.",associated portal thrombosis
+S1130-01082011000500014-1,31,1,"The subsequent evolution is torpid with the appearance of hemorrhagic complications at different levels, highlighting a massive cerebral hemorrhage and eventual death of the patient.",The subsequent evolution
+S1130-01082011000500014-1,31,2,"The subsequent evolution is torpid with the appearance of hemorrhagic complications at different levels, highlighting a massive cerebral hemorrhage and eventual death of the patient.",the appearance
+S1130-01082011000500014-1,31,3,"The subsequent evolution is torpid with the appearance of hemorrhagic complications at different levels, highlighting a massive cerebral hemorrhage and eventual death of the patient.",hemorrhagic complications
+S1130-01082011000500014-1,31,4,"The subsequent evolution is torpid with the appearance of hemorrhagic complications at different levels, highlighting a massive cerebral hemorrhage and eventual death of the patient.",different levels
+S1130-01082011000500014-1,31,5,"The subsequent evolution is torpid with the appearance of hemorrhagic complications at different levels, highlighting a massive cerebral hemorrhage and eventual death of the patient.",a massive cerebral hemorrhage
+S1130-01082011000500014-1,31,6,"The subsequent evolution is torpid with the appearance of hemorrhagic complications at different levels, highlighting a massive cerebral hemorrhage and eventual death of the patient.",eventual death
+S1130-01082011000500014-1,31,7,"The subsequent evolution is torpid with the appearance of hemorrhagic complications at different levels, highlighting a massive cerebral hemorrhage and eventual death of the patient.",the patient

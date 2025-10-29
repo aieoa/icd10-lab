@@ -1,0 +1,28 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0212-16112014000200032-3,1,1,"A 73-year-old man diagnosed with infiltrating squamous cell carcinoma of the oropharynx G1, cT4b cN2, treated with chemotherapy and radiotherapy until 3 months ago.",A 73-year-old man
+S0212-16112014000200032-3,1,2,"A 73-year-old man diagnosed with infiltrating squamous cell carcinoma of the oropharynx G1, cT4b cN2, treated with chemotherapy and radiotherapy until 3 months ago.",infiltrating squamous cell carcinoma
+S0212-16112014000200032-3,1,3,"A 73-year-old man diagnosed with infiltrating squamous cell carcinoma of the oropharynx G1, cT4b cN2, treated with chemotherapy and radiotherapy until 3 months ago.",the oropharynx G1
+S0212-16112014000200032-3,1,4,"A 73-year-old man diagnosed with infiltrating squamous cell carcinoma of the oropharynx G1, cT4b cN2, treated with chemotherapy and radiotherapy until 3 months ago.",cT4b cN2
+S0212-16112014000200032-3,1,5,"A 73-year-old man diagnosed with infiltrating squamous cell carcinoma of the oropharynx G1, cT4b cN2, treated with chemotherapy and radiotherapy until 3 months ago.",chemotherapy
+S0212-16112014000200032-3,1,6,"A 73-year-old man diagnosed with infiltrating squamous cell carcinoma of the oropharynx G1, cT4b cN2, treated with chemotherapy and radiotherapy until 3 months ago.",radiotherapy
+S0212-16112014000200032-3,2,1,"He presented dysphagia secondary to radiotherapy to both solids and liquids, with a weight loss of 10 kilograms (kg) in two months.",He
+S0212-16112014000200032-3,2,2,"He presented dysphagia secondary to radiotherapy to both solids and liquids, with a weight loss of 10 kilograms (kg) in two months.",dysphagia
+S0212-16112014000200032-3,2,3,"He presented dysphagia secondary to radiotherapy to both solids and liquids, with a weight loss of 10 kilograms (kg) in two months.",both solids
+S0212-16112014000200032-3,2,4,"He presented dysphagia secondary to radiotherapy to both solids and liquids, with a weight loss of 10 kilograms (kg) in two months.",liquids
+S0212-16112014000200032-3,2,5,"He presented dysphagia secondary to radiotherapy to both solids and liquids, with a weight loss of 10 kilograms (kg) in two months.",a weight loss
+S0212-16112014000200032-3,2,6,"He presented dysphagia secondary to radiotherapy to both solids and liquids, with a weight loss of 10 kilograms (kg) in two months.",10 kilograms
+S0212-16112014000200032-3,2,7,"He presented dysphagia secondary to radiotherapy to both solids and liquids, with a weight loss of 10 kilograms (kg) in two months.",kg
+S0212-16112014000200032-3,2,8,"He presented dysphagia secondary to radiotherapy to both solids and liquids, with a weight loss of 10 kilograms (kg) in two months.",two months
+S0212-16112014000200032-3,3,1,"He received enteral nutrition via NGT for two years, and was eventually scheduled for PEG.",He
+S0212-16112014000200032-3,3,2,"He received enteral nutrition via NGT for two years, and was eventually scheduled for PEG.",enteral nutrition
+S0212-16112014000200032-3,3,3,"He received enteral nutrition via NGT for two years, and was eventually scheduled for PEG.",NGT
+S0212-16112014000200032-3,3,4,"He received enteral nutrition via NGT for two years, and was eventually scheduled for PEG.",two years
+S0212-16112014000200032-3,3,5,"He received enteral nutrition via NGT for two years, and was eventually scheduled for PEG.",PEG
+S0212-16112014000200032-3,4,1,"During the oral endoscopy, bleeding occurred when dilating a stenosis in the upper esophageal portion, so the procedure was discontinued and PRG was performed, which was performed without incident.",the oral endoscopy
+S0212-16112014000200032-3,4,2,"During the oral endoscopy, bleeding occurred when dilating a stenosis in the upper esophageal portion, so the procedure was discontinued and PRG was performed, which was performed without incident.",bleeding
+S0212-16112014000200032-3,4,3,"During the oral endoscopy, bleeding occurred when dilating a stenosis in the upper esophageal portion, so the procedure was discontinued and PRG was performed, which was performed without incident.",a stenosis
+S0212-16112014000200032-3,4,4,"During the oral endoscopy, bleeding occurred when dilating a stenosis in the upper esophageal portion, so the procedure was discontinued and PRG was performed, which was performed without incident.",the upper esophageal portion
+S0212-16112014000200032-3,4,5,"During the oral endoscopy, bleeding occurred when dilating a stenosis in the upper esophageal portion, so the procedure was discontinued and PRG was performed, which was performed without incident.",the procedure
+S0212-16112014000200032-3,4,6,"During the oral endoscopy, bleeding occurred when dilating a stenosis in the upper esophageal portion, so the procedure was discontinued and PRG was performed, which was performed without incident.",PRG
+S0212-16112014000200032-3,4,7,"During the oral endoscopy, bleeding occurred when dilating a stenosis in the upper esophageal portion, so the procedure was discontinued and PRG was performed, which was performed without incident.",which
+S0212-16112014000200032-3,4,8,"During the oral endoscopy, bleeding occurred when dilating a stenosis in the upper esophageal portion, so the procedure was discontinued and PRG was performed, which was performed without incident.",incident

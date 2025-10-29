@@ -1,0 +1,35 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912004000600009-2,1,1,"An 86-year-old patient was aphakic after cataract extraction in 1999, complicated by capsular rupture and vitreous leakage.",An 86-year-old patient
+S0365-66912004000600009-2,1,2,"An 86-year-old patient was aphakic after cataract extraction in 1999, complicated by capsular rupture and vitreous leakage.",aphakic
+S0365-66912004000600009-2,1,3,"An 86-year-old patient was aphakic after cataract extraction in 1999, complicated by capsular rupture and vitreous leakage.",cataract extraction
+S0365-66912004000600009-2,1,4,"An 86-year-old patient was aphakic after cataract extraction in 1999, complicated by capsular rupture and vitreous leakage.",capsular rupture
+S0365-66912004000600009-2,1,5,"An 86-year-old patient was aphakic after cataract extraction in 1999, complicated by capsular rupture and vitreous leakage.",vitreous leakage
+S0365-66912004000600009-2,2,1,"Three years later, she comes to the clinic with a foreign body sensation and photophobia.",she
+S0365-66912004000600009-2,2,2,"Three years later, she comes to the clinic with a foreign body sensation and photophobia.",the clinic
+S0365-66912004000600009-2,2,3,"Three years later, she comes to the clinic with a foreign body sensation and photophobia.",a foreign body sensation
+S0365-66912004000600009-2,2,4,"Three years later, she comes to the clinic with a foreign body sensation and photophobia.",photophobia
+S0365-66912004000600009-2,3,1,"She perceives light through her right eye; in her slit lamp, corneal edema is observed in the most peripheral 3 mm.",She
+S0365-66912004000600009-2,3,2,"She perceives light through her right eye; in her slit lamp, corneal edema is observed in the most peripheral 3 mm.",light
+S0365-66912004000600009-2,3,3,"She perceives light through her right eye; in her slit lamp, corneal edema is observed in the most peripheral 3 mm.",her right eye
+S0365-66912004000600009-2,3,4,"She perceives light through her right eye; in her slit lamp, corneal edema is observed in the most peripheral 3 mm.",her slit lamp
+S0365-66912004000600009-2,3,5,"She perceives light through her right eye; in her slit lamp, corneal edema is observed in the most peripheral 3 mm.",corneal edema
+S0365-66912004000600009-2,3,6,"She perceives light through her right eye; in her slit lamp, corneal edema is observed in the most peripheral 3 mm.",the most peripheral 3 mm
+S0365-66912004000600009-2,4,1,Specular microscopy is performed.,Specular microscopy
+S0365-66912004000600009-2,5,1,It was decided to perform penetrating keratoplasty due to the low density of central endothelial cells and the patient's discomfort.,It
+S0365-66912004000600009-2,5,2,It was decided to perform penetrating keratoplasty due to the low density of central endothelial cells and the patient's discomfort.,the low density
+S0365-66912004000600009-2,5,3,It was decided to perform penetrating keratoplasty due to the low density of central endothelial cells and the patient's discomfort.,central endothelial cells
+S0365-66912004000600009-2,5,4,It was decided to perform penetrating keratoplasty due to the low density of central endothelial cells and the patient's discomfort.,the patient's discomfort
+S0365-66912004000600009-2,6,1,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",The patient's cornea
+S0365-66912004000600009-2,6,2,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",the diagnosis
+S0365-66912004000600009-2,6,3,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",BML
+S0365-66912004000600009-2,6,4,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",detachment
+S0365-66912004000600009-2,6,5,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",rupture
+S0365-66912004000600009-2,6,6,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",Descemet's membrane
+S0365-66912004000600009-2,6,7,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",the endothelium
+S0365-66912004000600009-2,6,8,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",the peripheral area
+S0365-66912004000600009-2,6,9,"The patient's cornea is analyzed histologically, confirming the diagnosis of BML and showing detachment and rupture of Descemet's membrane and the endothelium in the peripheral area, with the central area being normal.",the central area
+S0365-66912004000600009-2,7,1,"At 18 months the corneal button remains transparent, without edema, achieving a corrected vision of 0.2 (due to cystic macular edema).",18 months
+S0365-66912004000600009-2,7,2,"At 18 months the corneal button remains transparent, without edema, achieving a corrected vision of 0.2 (due to cystic macular edema).",the corneal button
+S0365-66912004000600009-2,7,3,"At 18 months the corneal button remains transparent, without edema, achieving a corrected vision of 0.2 (due to cystic macular edema).",edema
+S0365-66912004000600009-2,7,4,"At 18 months the corneal button remains transparent, without edema, achieving a corrected vision of 0.2 (due to cystic macular edema).",a corrected vision
+S0365-66912004000600009-2,7,5,"At 18 months the corneal button remains transparent, without edema, achieving a corrected vision of 0.2 (due to cystic macular edema).",cystic macular edema

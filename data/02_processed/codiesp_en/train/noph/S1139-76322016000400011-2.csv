@@ -1,0 +1,44 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1139-76322016000400011-2,1,1,"A 13-year-old girl, with no history of interest, who came to the clinic complaining of intense vomiting and abdominal pain that had been going on for five days.",A 13-year-old girl
+S1139-76322016000400011-2,1,2,"A 13-year-old girl, with no history of interest, who came to the clinic complaining of intense vomiting and abdominal pain that had been going on for five days.",no history
+S1139-76322016000400011-2,1,3,"A 13-year-old girl, with no history of interest, who came to the clinic complaining of intense vomiting and abdominal pain that had been going on for five days.",interest
+S1139-76322016000400011-2,1,4,"A 13-year-old girl, with no history of interest, who came to the clinic complaining of intense vomiting and abdominal pain that had been going on for five days.",who
+S1139-76322016000400011-2,1,5,"A 13-year-old girl, with no history of interest, who came to the clinic complaining of intense vomiting and abdominal pain that had been going on for five days.",intense vomiting
+S1139-76322016000400011-2,1,6,"A 13-year-old girl, with no history of interest, who came to the clinic complaining of intense vomiting and abdominal pain that had been going on for five days.",abdominal pain
+S1139-76322016000400011-2,1,7,"A 13-year-old girl, with no history of interest, who came to the clinic complaining of intense vomiting and abdominal pain that had been going on for five days.",that
+S1139-76322016000400011-2,1,8,"A 13-year-old girl, with no history of interest, who came to the clinic complaining of intense vomiting and abdominal pain that had been going on for five days.",five days
+S1139-76322016000400011-2,2,1,"She presents a fair general condition, without signs of dehydration, with diffuse abdominal pain, without other accompanying symptoms.",She
+S1139-76322016000400011-2,2,2,"She presents a fair general condition, without signs of dehydration, with diffuse abdominal pain, without other accompanying symptoms.",a fair general condition
+S1139-76322016000400011-2,2,3,"She presents a fair general condition, without signs of dehydration, with diffuse abdominal pain, without other accompanying symptoms.",signs
+S1139-76322016000400011-2,2,4,"She presents a fair general condition, without signs of dehydration, with diffuse abdominal pain, without other accompanying symptoms.",dehydration
+S1139-76322016000400011-2,2,5,"She presents a fair general condition, without signs of dehydration, with diffuse abdominal pain, without other accompanying symptoms.",diffuse abdominal pain
+S1139-76322016000400011-2,2,6,"She presents a fair general condition, without signs of dehydration, with diffuse abdominal pain, without other accompanying symptoms.",other accompanying symptoms
+S1139-76322016000400011-2,3,1,"During her stay, she suddenly experienced chest pain and crepitus in the neck after vomiting.",her stay
+S1139-76322016000400011-2,3,2,"During her stay, she suddenly experienced chest pain and crepitus in the neck after vomiting.",she
+S1139-76322016000400011-2,3,3,"During her stay, she suddenly experienced chest pain and crepitus in the neck after vomiting.",chest pain
+S1139-76322016000400011-2,3,4,"During her stay, she suddenly experienced chest pain and crepitus in the neck after vomiting.",crepitus
+S1139-76322016000400011-2,3,5,"During her stay, she suddenly experienced chest pain and crepitus in the neck after vomiting.",the neck
+S1139-76322016000400011-2,4,1,She is referred to the emergency room for evaluation.,She
+S1139-76322016000400011-2,4,2,She is referred to the emergency room for evaluation.,the emergency room
+S1139-76322016000400011-2,4,3,She is referred to the emergency room for evaluation.,evaluation
+S1139-76322016000400011-2,5,1,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,Chest
+S1139-76322016000400011-2,5,2,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,x
+S1139-76322016000400011-2,5,3,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,-
+S1139-76322016000400011-2,5,4,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,ray
+S1139-76322016000400011-2,5,5,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,signs
+S1139-76322016000400011-2,5,6,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,pneumomediastinum
+S1139-76322016000400011-2,5,7,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,subcutaneous emphysema
+S1139-76322016000400011-2,5,8,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,the neck
+S1139-76322016000400011-2,5,9,Chest x-ray shows signs of pneumomediastinum and subcutaneous emphysema in the neck and upper chest.,upper chest
+S1139-76322016000400011-2,6,1,"She was prescribed intravenous fluid therapy and antiemetics, the vomiting subsided, so she was discharged without requiring admission.",She
+S1139-76322016000400011-2,6,2,"She was prescribed intravenous fluid therapy and antiemetics, the vomiting subsided, so she was discharged without requiring admission.",intravenous fluid therapy
+S1139-76322016000400011-2,6,3,"She was prescribed intravenous fluid therapy and antiemetics, the vomiting subsided, so she was discharged without requiring admission.",antiemetics
+S1139-76322016000400011-2,6,4,"She was prescribed intravenous fluid therapy and antiemetics, the vomiting subsided, so she was discharged without requiring admission.",the vomiting
+S1139-76322016000400011-2,6,5,"She was prescribed intravenous fluid therapy and antiemetics, the vomiting subsided, so she was discharged without requiring admission.",she
+S1139-76322016000400011-2,6,6,"She was prescribed intravenous fluid therapy and antiemetics, the vomiting subsided, so she was discharged without requiring admission.",admission
+S1139-76322016000400011-2,7,1,"In a subsequent check-up in consultation five days later, we see the resolution of the condition, without complications.",a subsequent check-up
+S1139-76322016000400011-2,7,2,"In a subsequent check-up in consultation five days later, we see the resolution of the condition, without complications.",consultation
+S1139-76322016000400011-2,7,3,"In a subsequent check-up in consultation five days later, we see the resolution of the condition, without complications.",we
+S1139-76322016000400011-2,7,4,"In a subsequent check-up in consultation five days later, we see the resolution of the condition, without complications.",the resolution
+S1139-76322016000400011-2,7,5,"In a subsequent check-up in consultation five days later, we see the resolution of the condition, without complications.",the condition
+S1139-76322016000400011-2,7,6,"In a subsequent check-up in consultation five days later, we see the resolution of the condition, without complications.",complications

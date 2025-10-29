@@ -1,0 +1,53 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-56912008000100008-3,1,1,A 60-year-old man comes to the hospital with chest pain that lasts two hours.,A 60-year-old man
+S0210-56912008000100008-3,1,2,A 60-year-old man comes to the hospital with chest pain that lasts two hours.,the hospital
+S0210-56912008000100008-3,1,3,A 60-year-old man comes to the hospital with chest pain that lasts two hours.,chest pain
+S0210-56912008000100008-3,1,4,A 60-year-old man comes to the hospital with chest pain that lasts two hours.,that
+S0210-56912008000100008-3,1,5,A 60-year-old man comes to the hospital with chest pain that lasts two hours.,two hours
+S0210-56912008000100008-3,2,1,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",The ECG
+S0210-56912008000100008-3,2,2,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",a subepicardial lesion
+S0210-56912008000100008-3,2,3,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",an inferior MI
+S0210-56912008000100008-3,2,4,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",a pronounced J-point depression
+S0210-56912008000100008-3,2,5,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",a descending D-ST
+S0210-56912008000100008-3,2,6,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",V2
+S0210-56912008000100008-3,2,7,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",a horizontal D-ST
+S0210-56912008000100008-3,2,8,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",V3
+S0210-56912008000100008-3,2,9,"The ECG revealed a subepicardial lesion current consistent with an inferior MI, a pronounced J-point depression along with a descending D-ST in leads V1-V2 and a horizontal D-ST in V3 to V5.",V5
+S0210-56912008000100008-3,3,1,Fibrinolytic treatment with tenecteplase and lidocaine was administered for extrasystolic ventricular tachycardias.,Fibrinolytic treatment
+S0210-56912008000100008-3,3,2,Fibrinolytic treatment with tenecteplase and lidocaine was administered for extrasystolic ventricular tachycardias.,tenecteplase
+S0210-56912008000100008-3,3,3,Fibrinolytic treatment with tenecteplase and lidocaine was administered for extrasystolic ventricular tachycardias.,lidocaine
+S0210-56912008000100008-3,3,4,Fibrinolytic treatment with tenecteplase and lidocaine was administered for extrasystolic ventricular tachycardias.,extrasystolic ventricular tachycardias
+S0210-56912008000100008-3,4,1,"An hour and a half later the ECG, recorded without pain, revealed a marked J wave in leads V1-V2 and absence of ST segment shift.",An hour
+S0210-56912008000100008-3,4,2,"An hour and a half later the ECG, recorded without pain, revealed a marked J wave in leads V1-V2 and absence of ST segment shift.",the ECG
+S0210-56912008000100008-3,4,3,"An hour and a half later the ECG, recorded without pain, revealed a marked J wave in leads V1-V2 and absence of ST segment shift.",pain
+S0210-56912008000100008-3,4,4,"An hour and a half later the ECG, recorded without pain, revealed a marked J wave in leads V1-V2 and absence of ST segment shift.",a marked J wave
+S0210-56912008000100008-3,4,5,"An hour and a half later the ECG, recorded without pain, revealed a marked J wave in leads V1-V2 and absence of ST segment shift.",leads
+S0210-56912008000100008-3,4,6,"An hour and a half later the ECG, recorded without pain, revealed a marked J wave in leads V1-V2 and absence of ST segment shift.",V1-V2
+S0210-56912008000100008-3,4,7,"An hour and a half later the ECG, recorded without pain, revealed a marked J wave in leads V1-V2 and absence of ST segment shift.",absence
+S0210-56912008000100008-3,4,8,"An hour and a half later the ECG, recorded without pain, revealed a marked J wave in leads V1-V2 and absence of ST segment shift.",ST segment shift
+S0210-56912008000100008-3,5,1,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",the ECG
+S0210-56912008000100008-3,5,2,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",an inferior inversion
+S0210-56912008000100008-3,5,3,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",the T wave
+S0210-56912008000100008-3,5,4,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",a J wave
+S0210-56912008000100008-3,5,5,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",V1
+S0210-56912008000100008-3,5,6,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",V2
+S0210-56912008000100008-3,5,7,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",a concave E-ST
+S0210-56912008000100008-3,5,8,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",positive T waves
+S0210-56912008000100008-3,5,9,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",V2
+S0210-56912008000100008-3,5,10,"One day later, the ECG revealed an inferior inversion of the T wave, a J wave in leads V1-V2, and a concave E-ST with positive T waves in leads V2 to V4.",V4
+S0210-56912008000100008-3,6,1,"Creatine kinase rose to 1,143 U/l (with a MB fraction of 102).",Creatine kinase
+S0210-56912008000100008-3,6,2,"Creatine kinase rose to 1,143 U/l (with a MB fraction of 102).","1,143 U/l"
+S0210-56912008000100008-3,6,3,"Creatine kinase rose to 1,143 U/l (with a MB fraction of 102).",a MB fraction
+S0210-56912008000100008-3,7,1,An echocardiogram revealed inferobasal akinesia.,An echocardiogram
+S0210-56912008000100008-3,7,2,An echocardiogram revealed inferobasal akinesia.,inferobasal akinesia
+S0210-56912008000100008-3,8,1,The hospital clinical evolution had no significant incidences.,The hospital clinical evolution
+S0210-56912008000100008-3,8,2,The hospital clinical evolution had no significant incidences.,no significant incidences
+S0210-56912008000100008-3,9,1,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",discharge
+S0210-56912008000100008-3,9,2,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",the ECG
+S0210-56912008000100008-3,9,3,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",a J wave
+S0210-56912008000100008-3,9,4,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",the inferior and anterior leads
+S0210-56912008000100008-3,9,5,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",a concave
+S0210-56912008000100008-3,9,6,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",a positive T wave
+S0210-56912008000100008-3,9,7,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",V2
+S0210-56912008000100008-3,9,8,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",V4
+S0210-56912008000100008-3,9,9,"Four years after discharge, the ECG showed a J wave in the inferior and anterior leads, and a concave E-ST with a positive T wave in leads V2 to V4, suggestive of PRS.",PRS

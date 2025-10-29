@@ -1,0 +1,6 @@
+outs:
+- md5: 62279ce22fbf7898afa97349be2260b8.dir
+  size: 11514987985
+  nfiles: 6962
+  hash: md5
+  path: 03_derived

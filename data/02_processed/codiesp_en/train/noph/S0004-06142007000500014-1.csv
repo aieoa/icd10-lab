@@ -1,0 +1,40 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142007000500014-1,1,1,"A 19-year-old patient, with no history of interest, who consulted for a slightly painful tumor in the right testicle, which had been developing for about 8 months.",A 19-year-old patient
+S0004-06142007000500014-1,1,2,"A 19-year-old patient, with no history of interest, who consulted for a slightly painful tumor in the right testicle, which had been developing for about 8 months.",no history
+S0004-06142007000500014-1,1,3,"A 19-year-old patient, with no history of interest, who consulted for a slightly painful tumor in the right testicle, which had been developing for about 8 months.",interest
+S0004-06142007000500014-1,1,4,"A 19-year-old patient, with no history of interest, who consulted for a slightly painful tumor in the right testicle, which had been developing for about 8 months.",who
+S0004-06142007000500014-1,1,5,"A 19-year-old patient, with no history of interest, who consulted for a slightly painful tumor in the right testicle, which had been developing for about 8 months.",a slightly painful tumor
+S0004-06142007000500014-1,1,6,"A 19-year-old patient, with no history of interest, who consulted for a slightly painful tumor in the right testicle, which had been developing for about 8 months.",the right testicle
+S0004-06142007000500014-1,1,7,"A 19-year-old patient, with no history of interest, who consulted for a slightly painful tumor in the right testicle, which had been developing for about 8 months.",which
+S0004-06142007000500014-1,1,8,"A 19-year-old patient, with no history of interest, who consulted for a slightly painful tumor in the right testicle, which had been developing for about 8 months.",about 8 months
+S0004-06142007000500014-1,2,1,"During the clinical examination, testicular enlargement with nodular areas was found.",the clinical examination
+S0004-06142007000500014-1,2,2,"During the clinical examination, testicular enlargement with nodular areas was found.",testicular enlargement
+S0004-06142007000500014-1,2,3,"During the clinical examination, testicular enlargement with nodular areas was found.",nodular areas
+S0004-06142007000500014-1,3,1,The left testicle shows no alterations.,The left testicle
+S0004-06142007000500014-1,3,2,The left testicle shows no alterations.,no alterations
+S0004-06142007000500014-1,4,1,Alpha-Feto-Protein: 38.2 and Beta-HGC 1.48.,Alpha-Feto-Protein
+S0004-06142007000500014-1,4,2,Alpha-Feto-Protein: 38.2 and Beta-HGC 1.48.,Beta-HGC
+S0004-06142007000500014-1,5,1,"Sonographically, three independent and well-defined tumor nodules are observed: two of them heterogeneous, solid, 20 and 33 mm in diameter, with cystic areas and calcifications.",three independent and well-defined tumor nodules
+S0004-06142007000500014-1,5,2,"Sonographically, three independent and well-defined tumor nodules are observed: two of them heterogeneous, solid, 20 and 33 mm in diameter, with cystic areas and calcifications.",them
+S0004-06142007000500014-1,5,3,"Sonographically, three independent and well-defined tumor nodules are observed: two of them heterogeneous, solid, 20 and 33 mm in diameter, with cystic areas and calcifications.",diameter
+S0004-06142007000500014-1,5,4,"Sonographically, three independent and well-defined tumor nodules are observed: two of them heterogeneous, solid, 20 and 33 mm in diameter, with cystic areas and calcifications.",cystic areas
+S0004-06142007000500014-1,5,5,"Sonographically, three independent and well-defined tumor nodules are observed: two of them heterogeneous, solid, 20 and 33 mm in diameter, with cystic areas and calcifications.",calcifications
+S0004-06142007000500014-1,6,1,"The third nodule was a hypoechoic and homogeneous solid, 26 mm in diameter.",The third nodule
+S0004-06142007000500014-1,6,2,"The third nodule was a hypoechoic and homogeneous solid, 26 mm in diameter.","a hypoechoic and homogeneous solid, 26 mm"
+S0004-06142007000500014-1,6,3,"The third nodule was a hypoechoic and homogeneous solid, 26 mm in diameter.",diameter
+S0004-06142007000500014-1,7,1,All nodules showed increased vascularization with low resistance arterial flows.,All nodules
+S0004-06142007000500014-1,7,2,All nodules showed increased vascularization with low resistance arterial flows.,increased vascularization
+S0004-06142007000500014-1,7,3,All nodules showed increased vascularization with low resistance arterial flows.,low resistance arterial flows
+S0004-06142007000500014-1,8,1,The extension study is negative.,The extension study
+S0004-06142007000500014-1,9,1,Orchiectomy is performed.,Orchiectomy
+S0004-06142007000500014-1,10,1,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",the first two nodules
+S0004-06142007000500014-1,10,2,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",teratocarcinomas
+S0004-06142007000500014-1,10,3,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",mature teratoma
+S0004-06142007000500014-1,10,4,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",predominant embryonal carcinoma
+S0004-06142007000500014-1,10,5,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",whitish-brown masses
+S0004-06142007000500014-1,10,6,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",cavities
+S0004-06142007000500014-1,10,7,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",yellowish serous content
+S0004-06142007000500014-1,10,8,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",calcifications
+S0004-06142007000500014-1,10,9,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",foci
+S0004-06142007000500014-1,10,10,"Histologically, the first two nodules corresponded to teratocarcinomas (mature teratoma and predominant embryonal carcinoma), macroscopically being whitish-brown masses, with cavities of yellowish serous content, calcifications and foci of necrosis.",necrosis
+S0004-06142007000500014-1,11,1,"The third was diagnosed as classic seminoma, being more homogeneous macroscopically.",classic seminoma

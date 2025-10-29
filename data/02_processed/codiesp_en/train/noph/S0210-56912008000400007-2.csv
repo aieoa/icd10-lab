@@ -1,0 +1,30 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-56912008000400007-2,1,1,The patient was a 31-year-old man who suffered a motorcycle accident.,The patient
+S0210-56912008000400007-2,1,2,The patient was a 31-year-old man who suffered a motorcycle accident.,a 31-year-old man
+S0210-56912008000400007-2,1,3,The patient was a 31-year-old man who suffered a motorcycle accident.,who
+S0210-56912008000400007-2,1,4,The patient was a 31-year-old man who suffered a motorcycle accident.,a motorcycle accident
+S0210-56912008000400007-2,2,1,The chest x-ray showed mediastinal widening.,The chest x
+S0210-56912008000400007-2,2,2,The chest x-ray showed mediastinal widening.,-
+S0210-56912008000400007-2,2,3,The chest x-ray showed mediastinal widening.,ray
+S0210-56912008000400007-2,2,4,The chest x-ray showed mediastinal widening.,mediastinal widening
+S0210-56912008000400007-2,3,1,TACHT on admission showed a thoracic aortic pseudoaneurysm distal to the exit of the left subclavian artery with a significant periaortic and mediastinal hematoma associated with bilateral hemothorax.,admission
+S0210-56912008000400007-2,3,2,TACHT on admission showed a thoracic aortic pseudoaneurysm distal to the exit of the left subclavian artery with a significant periaortic and mediastinal hematoma associated with bilateral hemothorax.,a thoracic aortic pseudoaneurysm distal
+S0210-56912008000400007-2,3,3,TACHT on admission showed a thoracic aortic pseudoaneurysm distal to the exit of the left subclavian artery with a significant periaortic and mediastinal hematoma associated with bilateral hemothorax.,the exit
+S0210-56912008000400007-2,3,4,TACHT on admission showed a thoracic aortic pseudoaneurysm distal to the exit of the left subclavian artery with a significant periaortic and mediastinal hematoma associated with bilateral hemothorax.,the left subclavian artery
+S0210-56912008000400007-2,3,5,TACHT on admission showed a thoracic aortic pseudoaneurysm distal to the exit of the left subclavian artery with a significant periaortic and mediastinal hematoma associated with bilateral hemothorax.,a significant periaortic and mediastinal hematoma
+S0210-56912008000400007-2,3,6,TACHT on admission showed a thoracic aortic pseudoaneurysm distal to the exit of the left subclavian artery with a significant periaortic and mediastinal hematoma associated with bilateral hemothorax.,bilateral hemothorax
+S0210-56912008000400007-2,4,1,"He was admitted to the ICU, where strict blood pressure control was achieved.",He
+S0210-56912008000400007-2,4,2,"He was admitted to the ICU, where strict blood pressure control was achieved.",the ICU
+S0210-56912008000400007-2,4,3,"He was admitted to the ICU, where strict blood pressure control was achieved.",strict blood pressure control
+S0210-56912008000400007-2,5,1,"Eight hours after the trauma, an endoprosthesis was placed in the descending thoracic aorta via the left iliac route.",the trauma
+S0210-56912008000400007-2,5,2,"Eight hours after the trauma, an endoprosthesis was placed in the descending thoracic aorta via the left iliac route.",an endoprosthesis
+S0210-56912008000400007-2,5,3,"Eight hours after the trauma, an endoprosthesis was placed in the descending thoracic aorta via the left iliac route.",the descending thoracic aorta
+S0210-56912008000400007-2,5,4,"Eight hours after the trauma, an endoprosthesis was placed in the descending thoracic aorta via the left iliac route.",the left iliac route
+S0210-56912008000400007-2,6,1,The left subclavian artery was partially occluded without clinical repercussions.,The left subclavian artery
+S0210-56912008000400007-2,6,2,The left subclavian artery was partially occluded without clinical repercussions.,clinical repercussions
+S0210-56912008000400007-2,7,1,"After 24 hours he was discharged to the ward and a week later he was discharged from the hospital, since he was asymptomatic.",24 hours
+S0210-56912008000400007-2,7,2,"After 24 hours he was discharged to the ward and a week later he was discharged from the hospital, since he was asymptomatic.",he
+S0210-56912008000400007-2,7,3,"After 24 hours he was discharged to the ward and a week later he was discharged from the hospital, since he was asymptomatic.",the ward
+S0210-56912008000400007-2,7,4,"After 24 hours he was discharged to the ward and a week later he was discharged from the hospital, since he was asymptomatic.",he
+S0210-56912008000400007-2,7,5,"After 24 hours he was discharged to the ward and a week later he was discharged from the hospital, since he was asymptomatic.",the hospital
+S0210-56912008000400007-2,7,6,"After 24 hours he was discharged to the ward and a week later he was discharged from the hospital, since he was asymptomatic.",he

@@ -1,0 +1,112 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-63432015000200008-1,1,1,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",A 78-year-old male
+S1130-63432015000200008-1,1,2,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",carpenter
+S1130-63432015000200008-1,1,3,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",ex
+S1130-63432015000200008-1,1,4,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",-
+S1130-63432015000200008-1,1,5,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",smoker
+S1130-63432015000200008-1,1,6,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",22 years
+S1130-63432015000200008-1,1,7,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",a history
+S1130-63432015000200008-1,1,8,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",hypertension
+S1130-63432015000200008-1,1,9,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",ischemic heart disease
+S1130-63432015000200008-1,1,10,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",acute myocardial infarction
+S1130-63432015000200008-1,1,11,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",that
+S1130-63432015000200008-1,1,12,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass.",double coronary bypass
+S1130-63432015000200008-1,2,1,The patient underwent surgery for colon neoplasia with the pathological result of stage III adenocarcinoma (pT3pN2M0).,The patient
+S1130-63432015000200008-1,2,2,The patient underwent surgery for colon neoplasia with the pathological result of stage III adenocarcinoma (pT3pN2M0).,surgery
+S1130-63432015000200008-1,2,3,The patient underwent surgery for colon neoplasia with the pathological result of stage III adenocarcinoma (pT3pN2M0).,colon neoplasia
+S1130-63432015000200008-1,2,4,The patient underwent surgery for colon neoplasia with the pathological result of stage III adenocarcinoma (pT3pN2M0).,the pathological result
+S1130-63432015000200008-1,2,5,The patient underwent surgery for colon neoplasia with the pathological result of stage III adenocarcinoma (pT3pN2M0).,stage III adenocarcinoma
+S1130-63432015000200008-1,2,6,The patient underwent surgery for colon neoplasia with the pathological result of stage III adenocarcinoma (pT3pN2M0).,pT3pN2M0
+S1130-63432015000200008-1,3,1,"Given the patient's pathological history, the use of fluoropyrimidines is not recommended.",the patient's pathological history
+S1130-63432015000200008-1,3,2,"Given the patient's pathological history, the use of fluoropyrimidines is not recommended.",the use
+S1130-63432015000200008-1,3,3,"Given the patient's pathological history, the use of fluoropyrimidines is not recommended.",fluoropyrimidines
+S1130-63432015000200008-1,4,1,"For this reason, adjuvant chemotherapy treatment was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks).",this reason
+S1130-63432015000200008-1,4,2,"For this reason, adjuvant chemotherapy treatment was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks).",adjuvant chemotherapy treatment
+S1130-63432015000200008-1,4,3,"For this reason, adjuvant chemotherapy treatment was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks).",the TOMOX scheme
+S1130-63432015000200008-1,4,4,"For this reason, adjuvant chemotherapy treatment was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks).",adjusted doses
+S1130-63432015000200008-1,4,5,"For this reason, adjuvant chemotherapy treatment was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks).",2.5 mg/m2
+S1130-63432015000200008-1,4,6,"For this reason, adjuvant chemotherapy treatment was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks).",oxaliplatin
+S1130-63432015000200008-1,4,7,"For this reason, adjuvant chemotherapy treatment was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks).",mg/m2
+S1130-63432015000200008-1,5,1,A total of 8 cycles are planned.,A total
+S1130-63432015000200008-1,5,2,A total of 8 cycles are planned.,8 cycles
+S1130-63432015000200008-1,6,1,The tolerance is correct.,The tolerance
+S1130-63432015000200008-1,7,1,"In the follow-up visit prior to the seventh cycle, the patient reported having received antibiotic treatment the previous days for a lower respiratory tract infection diagnosed by his family doctor.",the follow-up visit
+S1130-63432015000200008-1,7,2,"In the follow-up visit prior to the seventh cycle, the patient reported having received antibiotic treatment the previous days for a lower respiratory tract infection diagnosed by his family doctor.",the seventh cycle
+S1130-63432015000200008-1,7,3,"In the follow-up visit prior to the seventh cycle, the patient reported having received antibiotic treatment the previous days for a lower respiratory tract infection diagnosed by his family doctor.",the patient
+S1130-63432015000200008-1,7,4,"In the follow-up visit prior to the seventh cycle, the patient reported having received antibiotic treatment the previous days for a lower respiratory tract infection diagnosed by his family doctor.",antibiotic treatment
+S1130-63432015000200008-1,7,5,"In the follow-up visit prior to the seventh cycle, the patient reported having received antibiotic treatment the previous days for a lower respiratory tract infection diagnosed by his family doctor.",a lower respiratory tract infection
+S1130-63432015000200008-1,7,6,"In the follow-up visit prior to the seventh cycle, the patient reported having received antibiotic treatment the previous days for a lower respiratory tract infection diagnosed by his family doctor.",his family doctor
+S1130-63432015000200008-1,8,1,"He is afebrile, with grade II asthenia and mild deterioration in kidney function, so it is decided to postpone the cycle.",He
+S1130-63432015000200008-1,8,2,"He is afebrile, with grade II asthenia and mild deterioration in kidney function, so it is decided to postpone the cycle.",grade II asthenia
+S1130-63432015000200008-1,8,3,"He is afebrile, with grade II asthenia and mild deterioration in kidney function, so it is decided to postpone the cycle.",mild deterioration
+S1130-63432015000200008-1,8,4,"He is afebrile, with grade II asthenia and mild deterioration in kidney function, so it is decided to postpone the cycle.",kidney function
+S1130-63432015000200008-1,8,5,"He is afebrile, with grade II asthenia and mild deterioration in kidney function, so it is decided to postpone the cycle.",it
+S1130-63432015000200008-1,8,6,"He is afebrile, with grade II asthenia and mild deterioration in kidney function, so it is decided to postpone the cycle.",the cycle
+S1130-63432015000200008-1,9,1,"At that time, the total cumulative doses of raltitrexed and oxaliplatin are 26 mg and 1,040 mg, respectively.",that time
+S1130-63432015000200008-1,9,2,"At that time, the total cumulative doses of raltitrexed and oxaliplatin are 26 mg and 1,040 mg, respectively.",the total cumulative doses
+S1130-63432015000200008-1,9,3,"At that time, the total cumulative doses of raltitrexed and oxaliplatin are 26 mg and 1,040 mg, respectively.",raltitrexed
+S1130-63432015000200008-1,9,4,"At that time, the total cumulative doses of raltitrexed and oxaliplatin are 26 mg and 1,040 mg, respectively.",oxaliplatin
+S1130-63432015000200008-1,9,5,"At that time, the total cumulative doses of raltitrexed and oxaliplatin are 26 mg and 1,040 mg, respectively.",26 mg
+S1130-63432015000200008-1,9,6,"At that time, the total cumulative doses of raltitrexed and oxaliplatin are 26 mg and 1,040 mg, respectively.","1,040 mg"
+S1130-63432015000200008-1,10,1,"48 hours after this last visit, the patient went to the emergency room with a fever of 38.5oC and dyspnea on minimal exertion.",this last visit
+S1130-63432015000200008-1,10,2,"48 hours after this last visit, the patient went to the emergency room with a fever of 38.5oC and dyspnea on minimal exertion.",the patient
+S1130-63432015000200008-1,10,3,"48 hours after this last visit, the patient went to the emergency room with a fever of 38.5oC and dyspnea on minimal exertion.",the emergency room
+S1130-63432015000200008-1,10,4,"48 hours after this last visit, the patient went to the emergency room with a fever of 38.5oC and dyspnea on minimal exertion.",a fever
+S1130-63432015000200008-1,10,5,"48 hours after this last visit, the patient went to the emergency room with a fever of 38.5oC and dyspnea on minimal exertion.",38.5oC
+S1130-63432015000200008-1,10,6,"48 hours after this last visit, the patient went to the emergency room with a fever of 38.5oC and dyspnea on minimal exertion.",dyspnea
+S1130-63432015000200008-1,10,7,"48 hours after this last visit, the patient went to the emergency room with a fever of 38.5oC and dyspnea on minimal exertion.",minimal exertion
+S1130-63432015000200008-1,11,1,Arterial blood gas analysis shows parameters compatible with severe respiratory failure.,Arterial blood gas analysis
+S1130-63432015000200008-1,11,2,Arterial blood gas analysis shows parameters compatible with severe respiratory failure.,parameters
+S1130-63432015000200008-1,11,3,Arterial blood gas analysis shows parameters compatible with severe respiratory failure.,severe respiratory failure
+S1130-63432015000200008-1,12,1,The chest x-ray shows bilateral pulmonary infiltrates and doubtful condensation in the right lower lobe.,The chest x
+S1130-63432015000200008-1,12,2,The chest x-ray shows bilateral pulmonary infiltrates and doubtful condensation in the right lower lobe.,-
+S1130-63432015000200008-1,12,3,The chest x-ray shows bilateral pulmonary infiltrates and doubtful condensation in the right lower lobe.,ray
+S1130-63432015000200008-1,12,4,The chest x-ray shows bilateral pulmonary infiltrates and doubtful condensation in the right lower lobe.,doubtful condensation
+S1130-63432015000200008-1,12,5,The chest x-ray shows bilateral pulmonary infiltrates and doubtful condensation in the right lower lobe.,the right lower lobe
+S1130-63432015000200008-1,13,1,"The patient was admitted with suspicion of severe pneumonia, and empirical broad-spectrum antibiotic therapy and non-invasive mechanical ventilation were initiated.",The patient
+S1130-63432015000200008-1,13,2,"The patient was admitted with suspicion of severe pneumonia, and empirical broad-spectrum antibiotic therapy and non-invasive mechanical ventilation were initiated.",suspicion
+S1130-63432015000200008-1,13,3,"The patient was admitted with suspicion of severe pneumonia, and empirical broad-spectrum antibiotic therapy and non-invasive mechanical ventilation were initiated.",severe pneumonia
+S1130-63432015000200008-1,13,4,"The patient was admitted with suspicion of severe pneumonia, and empirical broad-spectrum antibiotic therapy and non-invasive mechanical ventilation were initiated.",empirical broad-spectrum antibiotic therapy
+S1130-63432015000200008-1,13,5,"The patient was admitted with suspicion of severe pneumonia, and empirical broad-spectrum antibiotic therapy and non-invasive mechanical ventilation were initiated.",non-invasive mechanical ventilation
+S1130-63432015000200008-1,14,1,Echocardiography rules out pulmonary thromboembolism.,Echocardiography
+S1130-63432015000200008-1,14,2,Echocardiography rules out pulmonary thromboembolism.,pulmonary thromboembolism
+S1130-63432015000200008-1,15,1,"After 48 hours, due to respiratory worsening, the patient was transferred to the Intensive Care Unit (ICU) requiring endotracheal intubation.",48 hours
+S1130-63432015000200008-1,15,2,"After 48 hours, due to respiratory worsening, the patient was transferred to the Intensive Care Unit (ICU) requiring endotracheal intubation.",respiratory worsening
+S1130-63432015000200008-1,15,3,"After 48 hours, due to respiratory worsening, the patient was transferred to the Intensive Care Unit (ICU) requiring endotracheal intubation.",the patient
+S1130-63432015000200008-1,15,4,"After 48 hours, due to respiratory worsening, the patient was transferred to the Intensive Care Unit (ICU) requiring endotracheal intubation.",the Intensive Care Unit
+S1130-63432015000200008-1,15,5,"After 48 hours, due to respiratory worsening, the patient was transferred to the Intensive Care Unit (ICU) requiring endotracheal intubation.",(ICU
+S1130-63432015000200008-1,15,6,"After 48 hours, due to respiratory worsening, the patient was transferred to the Intensive Care Unit (ICU) requiring endotracheal intubation.",endotracheal intubation
+S1130-63432015000200008-1,16,1,It is oriented as severe respiratory failure secondary to community pneumonia without isolated germ vs pulmonary toxicity due to cytostatics associated with adult respiratory distress syndrome.,It
+S1130-63432015000200008-1,16,2,It is oriented as severe respiratory failure secondary to community pneumonia without isolated germ vs pulmonary toxicity due to cytostatics associated with adult respiratory distress syndrome.,severe respiratory failure
+S1130-63432015000200008-1,16,3,It is oriented as severe respiratory failure secondary to community pneumonia without isolated germ vs pulmonary toxicity due to cytostatics associated with adult respiratory distress syndrome.,community pneumonia
+S1130-63432015000200008-1,16,4,It is oriented as severe respiratory failure secondary to community pneumonia without isolated germ vs pulmonary toxicity due to cytostatics associated with adult respiratory distress syndrome.,isolated germ
+S1130-63432015000200008-1,16,5,It is oriented as severe respiratory failure secondary to community pneumonia without isolated germ vs pulmonary toxicity due to cytostatics associated with adult respiratory distress syndrome.,pulmonary toxicity
+S1130-63432015000200008-1,16,6,It is oriented as severe respiratory failure secondary to community pneumonia without isolated germ vs pulmonary toxicity due to cytostatics associated with adult respiratory distress syndrome.,cytostatics
+S1130-63432015000200008-1,16,7,It is oriented as severe respiratory failure secondary to community pneumonia without isolated germ vs pulmonary toxicity due to cytostatics associated with adult respiratory distress syndrome.,adult respiratory distress syndrome
+S1130-63432015000200008-1,17,1,Interactions with the patient's chronic medication are ruled out.,Interactions
+S1130-63432015000200008-1,17,2,Interactions with the patient's chronic medication are ruled out.,the patient's chronic medication
+S1130-63432015000200008-1,18,1,"The results of microbiological studies (blood and sputum), as well as serologies for atypical microorganisms, were all negative.",The results
+S1130-63432015000200008-1,18,2,"The results of microbiological studies (blood and sputum), as well as serologies for atypical microorganisms, were all negative.",microbiological studies
+S1130-63432015000200008-1,18,3,"The results of microbiological studies (blood and sputum), as well as serologies for atypical microorganisms, were all negative.",blood
+S1130-63432015000200008-1,18,4,"The results of microbiological studies (blood and sputum), as well as serologies for atypical microorganisms, were all negative.",sputum
+S1130-63432015000200008-1,18,5,"The results of microbiological studies (blood and sputum), as well as serologies for atypical microorganisms, were all negative.",serologies
+S1130-63432015000200008-1,18,6,"The results of microbiological studies (blood and sputum), as well as serologies for atypical microorganisms, were all negative.",atypical microorganisms
+S1130-63432015000200008-1,19,1,Computed tomography of the chest shows a component of diffuse interstitial pneumonitis.,Computed tomography
+S1130-63432015000200008-1,19,2,Computed tomography of the chest shows a component of diffuse interstitial pneumonitis.,the chest
+S1130-63432015000200008-1,19,3,Computed tomography of the chest shows a component of diffuse interstitial pneumonitis.,a component
+S1130-63432015000200008-1,19,4,Computed tomography of the chest shows a component of diffuse interstitial pneumonitis.,diffuse interstitial pneumonitis
+S1130-63432015000200008-1,20,1,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",these results
+S1130-63432015000200008-1,20,2,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",the patient's clinical course
+S1130-63432015000200008-1,20,3,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",it
+S1130-63432015000200008-1,20,4,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",high-dose corticosteroid treatment
+S1130-63432015000200008-1,20,5,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",prednisone
+S1130-63432015000200008-1,20,6,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",kg
+S1130-63432015000200008-1,20,7,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",day
+S1130-63432015000200008-1,20,8,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",suspicion
+S1130-63432015000200008-1,20,9,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",pulmonary toxicity
+S1130-63432015000200008-1,20,10,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics.",cytostatics
+S1130-63432015000200008-1,21,1,"The patient's evolution was torpid, with death after 17 days of admission to the ICU.",The patient's evolution
+S1130-63432015000200008-1,21,2,"The patient's evolution was torpid, with death after 17 days of admission to the ICU.",death
+S1130-63432015000200008-1,21,3,"The patient's evolution was torpid, with death after 17 days of admission to the ICU.",17 days
+S1130-63432015000200008-1,21,4,"The patient's evolution was torpid, with death after 17 days of admission to the ICU.",admission
+S1130-63432015000200008-1,21,5,"The patient's evolution was torpid, with death after 17 days of admission to the ICU.",the ICU

@@ -1,0 +1,92 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142009000100010-2,1,1,"43-year-old woman, housewife, allergic to iodinated contrast and smoker of 1 pack of cigarettes a day, hysterectomized and right oopherectomized for endometriosis.",43-year-old woman
+S0004-06142009000100010-2,1,2,"43-year-old woman, housewife, allergic to iodinated contrast and smoker of 1 pack of cigarettes a day, hysterectomized and right oopherectomized for endometriosis.",housewife
+S0004-06142009000100010-2,1,3,"43-year-old woman, housewife, allergic to iodinated contrast and smoker of 1 pack of cigarettes a day, hysterectomized and right oopherectomized for endometriosis.",iodinated contrast
+S0004-06142009000100010-2,1,4,"43-year-old woman, housewife, allergic to iodinated contrast and smoker of 1 pack of cigarettes a day, hysterectomized and right oopherectomized for endometriosis.",smoker
+S0004-06142009000100010-2,1,5,"43-year-old woman, housewife, allergic to iodinated contrast and smoker of 1 pack of cigarettes a day, hysterectomized and right oopherectomized for endometriosis.",1 pack
+S0004-06142009000100010-2,1,6,"43-year-old woman, housewife, allergic to iodinated contrast and smoker of 1 pack of cigarettes a day, hysterectomized and right oopherectomized for endometriosis.",cigarettes
+S0004-06142009000100010-2,1,7,"43-year-old woman, housewife, allergic to iodinated contrast and smoker of 1 pack of cigarettes a day, hysterectomized and right oopherectomized for endometriosis.",endometriosis
+S0004-06142009000100010-2,2,1,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",The patient
+S0004-06142009000100010-2,2,2,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",the Hematology Service
+S0004-06142009000100010-2,2,3,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",isolated leukocytosis
+S0004-06142009000100010-2,2,4,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",She
+S0004-06142009000100010-2,2,5,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",an abdominal ultrasound
+S0004-06142009000100010-2,2,6,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",which
+S0004-06142009000100010-2,2,7,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",a destructured left kidney
+S0004-06142009000100010-2,2,8,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",cystic images
+S0004-06142009000100010-2,2,9,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",hydronephrosis
+S0004-06142009000100010-2,2,10,"The patient is being studied by the Hematology Service for isolated leukocytosis; She underwent an abdominal ultrasound, which found a destructured left kidney with cystic images or hydronephrosis and was referred to our consultations.",our consultations
+S0004-06142009000100010-2,3,1,"During the interrogation, she refers to a 27-day admission, when she was 12 years old, in another hospital for low back pain with hematuria without knowing her diagnosis.",the interrogation
+S0004-06142009000100010-2,3,2,"During the interrogation, she refers to a 27-day admission, when she was 12 years old, in another hospital for low back pain with hematuria without knowing her diagnosis.",she
+S0004-06142009000100010-2,3,3,"During the interrogation, she refers to a 27-day admission, when she was 12 years old, in another hospital for low back pain with hematuria without knowing her diagnosis.",a 27-day admission
+S0004-06142009000100010-2,3,4,"During the interrogation, she refers to a 27-day admission, when she was 12 years old, in another hospital for low back pain with hematuria without knowing her diagnosis.",she
+S0004-06142009000100010-2,3,5,"During the interrogation, she refers to a 27-day admission, when she was 12 years old, in another hospital for low back pain with hematuria without knowing her diagnosis.",another hospital
+S0004-06142009000100010-2,3,6,"During the interrogation, she refers to a 27-day admission, when she was 12 years old, in another hospital for low back pain with hematuria without knowing her diagnosis.",low back pain
+S0004-06142009000100010-2,3,7,"During the interrogation, she refers to a 27-day admission, when she was 12 years old, in another hospital for low back pain with hematuria without knowing her diagnosis.",hematuria
+S0004-06142009000100010-2,3,8,"During the interrogation, she refers to a 27-day admission, when she was 12 years old, in another hospital for low back pain with hematuria without knowing her diagnosis.",her diagnosis
+S0004-06142009000100010-2,4,1,She also reports occasional mechanical lumbar pain with moderate asthenia.,She
+S0004-06142009000100010-2,4,2,She also reports occasional mechanical lumbar pain with moderate asthenia.,occasional mechanical lumbar pain
+S0004-06142009000100010-2,4,3,She also reports occasional mechanical lumbar pain with moderate asthenia.,moderate asthenia
+S0004-06142009000100010-2,5,1,Physical examination: no findings,Physical examination
+S0004-06142009000100010-2,5,2,Physical examination: no findings,no findings
+S0004-06142009000100010-2,6,1,"Complementary tests: complete blood count with slight leukocytosis without deviation in leukocyte formula, the rest being normal, biochemistry and coagulation normal.",Complementary tests
+S0004-06142009000100010-2,6,2,"Complementary tests: complete blood count with slight leukocytosis without deviation in leukocyte formula, the rest being normal, biochemistry and coagulation normal.",complete blood count
+S0004-06142009000100010-2,6,3,"Complementary tests: complete blood count with slight leukocytosis without deviation in leukocyte formula, the rest being normal, biochemistry and coagulation normal.",slight leukocytosis
+S0004-06142009000100010-2,6,4,"Complementary tests: complete blood count with slight leukocytosis without deviation in leukocyte formula, the rest being normal, biochemistry and coagulation normal.",deviation
+S0004-06142009000100010-2,6,5,"Complementary tests: complete blood count with slight leukocytosis without deviation in leukocyte formula, the rest being normal, biochemistry and coagulation normal.",leukocyte formula
+S0004-06142009000100010-2,6,6,"Complementary tests: complete blood count with slight leukocytosis without deviation in leukocyte formula, the rest being normal, biochemistry and coagulation normal.",the rest
+S0004-06142009000100010-2,7,1,MAG-3-Tc-99m renogram: normal right kidney.,Tc-99
+S0004-06142009000100010-2,7,2,MAG-3-Tc-99m renogram: normal right kidney.,m
+S0004-06142009000100010-2,7,3,MAG-3-Tc-99m renogram: normal right kidney.,normal right kidney
+S0004-06142009000100010-2,8,1,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",Heterogeneous uptake
+S0004-06142009000100010-2,8,2,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",the left kidney
+S0004-06142009000100010-2,8,3,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",superior calicillary dilation
+S0004-06142009000100010-2,8,4,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",retention
+S0004-06142009000100010-2,8,5,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",the left upper pole
+S0004-06142009000100010-2,8,6,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",an excretory slowing
+S0004-06142009000100010-2,8,7,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",the curve
+S0004-06142009000100010-2,8,8,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",whose activity
+S0004-06142009000100010-2,8,9,"Heterogeneous uptake in the left kidney with superior calicillary dilation, retention in the left upper pole presenting an excretory slowing of the curve whose activity disappears in late images.",late images
+S0004-06142009000100010-2,9,1,Non-contrast CT: left upper polar renal cystic mass of approximately 12 cm. maximum diameter displacing pancreas and spleen.,Non-contrast CT
+S0004-06142009000100010-2,9,2,Non-contrast CT: left upper polar renal cystic mass of approximately 12 cm. maximum diameter displacing pancreas and spleen.,upper polar renal cystic mass
+S0004-06142009000100010-2,9,3,Non-contrast CT: left upper polar renal cystic mass of approximately 12 cm. maximum diameter displacing pancreas and spleen.,approximately 12 cm
+S0004-06142009000100010-2,9,4,Non-contrast CT: left upper polar renal cystic mass of approximately 12 cm. maximum diameter displacing pancreas and spleen.,maximum diameter
+S0004-06142009000100010-2,9,5,Non-contrast CT: left upper polar renal cystic mass of approximately 12 cm. maximum diameter displacing pancreas and spleen.,pancreas
+S0004-06142009000100010-2,9,6,Non-contrast CT: left upper polar renal cystic mass of approximately 12 cm. maximum diameter displacing pancreas and spleen.,spleen
+S0004-06142009000100010-2,10,1,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",it
+S0004-06142009000100010-2,10,2,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",multiple cysts
+S0004-06142009000100010-2,10,3,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",different sizes
+S0004-06142009000100010-2,10,4,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",heterogeneous internal septa
+S0004-06142009000100010-2,10,5,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",some
+S0004-06142009000100010-2,10,6,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",them
+S0004-06142009000100010-2,10,7,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",thick and irregular suggestive
+S0004-06142009000100010-2,10,8,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",multinodular cystic nephroma
+S0004-06142009000100010-2,10,9,"Internally it consists of multiple cysts of different sizes and presents heterogeneous internal septa, some of them thick and irregular suggestive of multinodular cystic nephroma or cystic renal cell carcinoma.",cystic renal cell carcinoma
+S0004-06142009000100010-2,11,1,It was decided to perform nephrectomy with left lymphadenectomy.,It
+S0004-06142009000100010-2,11,2,It was decided to perform nephrectomy with left lymphadenectomy.,nephrectomy
+S0004-06142009000100010-2,11,3,It was decided to perform nephrectomy with left lymphadenectomy.,left lymphadenectomy
+S0004-06142009000100010-2,12,1,"In the anatomopathological study of the specimen, the kidney was reported to have a 9x10 cm tumor. multicystic disease that occupies most of the kidney.",the anatomopathological study
+S0004-06142009000100010-2,12,2,"In the anatomopathological study of the specimen, the kidney was reported to have a 9x10 cm tumor. multicystic disease that occupies most of the kidney.",the specimen
+S0004-06142009000100010-2,12,3,"In the anatomopathological study of the specimen, the kidney was reported to have a 9x10 cm tumor. multicystic disease that occupies most of the kidney.",the kidney
+S0004-06142009000100010-2,12,4,"In the anatomopathological study of the specimen, the kidney was reported to have a 9x10 cm tumor. multicystic disease that occupies most of the kidney.",a 9x10 cm tumor
+S0004-06142009000100010-2,12,5,"In the anatomopathological study of the specimen, the kidney was reported to have a 9x10 cm tumor. multicystic disease that occupies most of the kidney.",multicystic disease
+S0004-06142009000100010-2,12,6,"In the anatomopathological study of the specimen, the kidney was reported to have a 9x10 cm tumor. multicystic disease that occupies most of the kidney.",that
+S0004-06142009000100010-2,12,7,"In the anatomopathological study of the specimen, the kidney was reported to have a 9x10 cm tumor. multicystic disease that occupies most of the kidney.",the kidney
+S0004-06142009000100010-2,13,1,The content of the cyst is amber without the presence of solid parts or adhesion of the tumor in the capsule.,The content
+S0004-06142009000100010-2,13,2,The content of the cyst is amber without the presence of solid parts or adhesion of the tumor in the capsule.,the cyst
+S0004-06142009000100010-2,13,3,The content of the cyst is amber without the presence of solid parts or adhesion of the tumor in the capsule.,the presence
+S0004-06142009000100010-2,13,4,The content of the cyst is amber without the presence of solid parts or adhesion of the tumor in the capsule.,solid parts
+S0004-06142009000100010-2,13,5,The content of the cyst is amber without the presence of solid parts or adhesion of the tumor in the capsule.,adhesion
+S0004-06142009000100010-2,13,6,The content of the cyst is amber without the presence of solid parts or adhesion of the tumor in the capsule.,the tumor
+S0004-06142009000100010-2,13,7,The content of the cyst is amber without the presence of solid parts or adhesion of the tumor in the capsule.,the capsule
+S0004-06142009000100010-2,14,1,"The cavities are lined with a simple epithelium with the presence of frequent cells with a ""tack"" morphology.",The cavities
+S0004-06142009000100010-2,14,2,"The cavities are lined with a simple epithelium with the presence of frequent cells with a ""tack"" morphology.",a simple epithelium
+S0004-06142009000100010-2,14,3,"The cavities are lined with a simple epithelium with the presence of frequent cells with a ""tack"" morphology.",the presence
+S0004-06142009000100010-2,14,4,"The cavities are lined with a simple epithelium with the presence of frequent cells with a ""tack"" morphology.",frequent cells
+S0004-06142009000100010-2,14,5,"The cavities are lined with a simple epithelium with the presence of frequent cells with a ""tack"" morphology.","a ""tack"" morphology"
+S0004-06142009000100010-2,15,1,The intercellular stroma is fibrous.,The intercellular stroma
+S0004-06142009000100010-2,16,1,Well-demarcated lesion of the preserved renal parenchyma.,Well-demarcated lesion
+S0004-06142009000100010-2,16,2,Well-demarcated lesion of the preserved renal parenchyma.,the preserved renal parenchyma
+S0004-06142009000100010-2,17,1,Pathological diagnosis of benign multilocular cystic tumor of the kidney.,Pathological diagnosis
+S0004-06142009000100010-2,17,2,Pathological diagnosis of benign multilocular cystic tumor of the kidney.,benign multilocular cystic tumor
+S0004-06142009000100010-2,17,3,Pathological diagnosis of benign multilocular cystic tumor of the kidney.,the kidney

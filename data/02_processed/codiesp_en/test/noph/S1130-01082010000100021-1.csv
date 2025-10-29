@@ -1,0 +1,47 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082010000100021-1,1,1,"We present the case of a 43-year-old man, with a history of diabetes, who was admitted for moderate acalculous acute pancreatitis.",We
+S1130-01082010000100021-1,1,2,"We present the case of a 43-year-old man, with a history of diabetes, who was admitted for moderate acalculous acute pancreatitis.",the case
+S1130-01082010000100021-1,1,3,"We present the case of a 43-year-old man, with a history of diabetes, who was admitted for moderate acalculous acute pancreatitis.",a 43-year-old man
+S1130-01082010000100021-1,1,4,"We present the case of a 43-year-old man, with a history of diabetes, who was admitted for moderate acalculous acute pancreatitis.",a history
+S1130-01082010000100021-1,1,5,"We present the case of a 43-year-old man, with a history of diabetes, who was admitted for moderate acalculous acute pancreatitis.",diabetes
+S1130-01082010000100021-1,1,6,"We present the case of a 43-year-old man, with a history of diabetes, who was admitted for moderate acalculous acute pancreatitis.",who
+S1130-01082010000100021-1,1,7,"We present the case of a 43-year-old man, with a history of diabetes, who was admitted for moderate acalculous acute pancreatitis.",moderate acalculous acute pancreatitis
+S1130-01082010000100021-1,2,1,"Two weeks later, he reported acute pain in the left abdomen and nausea, with no other symptoms.",he
+S1130-01082010000100021-1,2,2,"Two weeks later, he reported acute pain in the left abdomen and nausea, with no other symptoms.",acute pain
+S1130-01082010000100021-1,2,3,"Two weeks later, he reported acute pain in the left abdomen and nausea, with no other symptoms.",the left abdomen
+S1130-01082010000100021-1,2,4,"Two weeks later, he reported acute pain in the left abdomen and nausea, with no other symptoms.",nausea
+S1130-01082010000100021-1,2,5,"Two weeks later, he reported acute pain in the left abdomen and nausea, with no other symptoms.",no other symptoms
+S1130-01082010000100021-1,3,1,"On examination, a large occupation of the left hemiabdomen was palpable without peritoneal irritation.",examination
+S1130-01082010000100021-1,3,2,"On examination, a large occupation of the left hemiabdomen was palpable without peritoneal irritation.",a large occupation
+S1130-01082010000100021-1,3,3,"On examination, a large occupation of the left hemiabdomen was palpable without peritoneal irritation.",the left hemiabdomen
+S1130-01082010000100021-1,3,4,"On examination, a large occupation of the left hemiabdomen was palpable without peritoneal irritation.",peritoneal irritation
+S1130-01082010000100021-1,4,1,"Laboratory tests: elevated triglycerides and lipase, rest biochemistry, blood count and normal coagulation.",Laboratory tests
+S1130-01082010000100021-1,4,2,"Laboratory tests: elevated triglycerides and lipase, rest biochemistry, blood count and normal coagulation.",elevated triglycerides
+S1130-01082010000100021-1,4,3,"Laboratory tests: elevated triglycerides and lipase, rest biochemistry, blood count and normal coagulation.",lipase
+S1130-01082010000100021-1,4,4,"Laboratory tests: elevated triglycerides and lipase, rest biochemistry, blood count and normal coagulation.",rest biochemistry
+S1130-01082010000100021-1,4,5,"Laboratory tests: elevated triglycerides and lipase, rest biochemistry, blood count and normal coagulation.",blood count
+S1130-01082010000100021-1,4,6,"Laboratory tests: elevated triglycerides and lipase, rest biochemistry, blood count and normal coagulation.",normal coagulation
+S1130-01082010000100021-1,5,1,"During the examination, he suffered syncope, lowering his hematocrit from 40 to 21%, requiring a transfusion of 6 packed red blood cells, and he remained stable.",the examination
+S1130-01082010000100021-1,5,2,"During the examination, he suffered syncope, lowering his hematocrit from 40 to 21%, requiring a transfusion of 6 packed red blood cells, and he remained stable.",he
+S1130-01082010000100021-1,5,3,"During the examination, he suffered syncope, lowering his hematocrit from 40 to 21%, requiring a transfusion of 6 packed red blood cells, and he remained stable.",syncope
+S1130-01082010000100021-1,5,4,"During the examination, he suffered syncope, lowering his hematocrit from 40 to 21%, requiring a transfusion of 6 packed red blood cells, and he remained stable.",his hematocrit
+S1130-01082010000100021-1,5,5,"During the examination, he suffered syncope, lowering his hematocrit from 40 to 21%, requiring a transfusion of 6 packed red blood cells, and he remained stable.",40 to 21%
+S1130-01082010000100021-1,5,6,"During the examination, he suffered syncope, lowering his hematocrit from 40 to 21%, requiring a transfusion of 6 packed red blood cells, and he remained stable.",a transfusion
+S1130-01082010000100021-1,5,7,"During the examination, he suffered syncope, lowering his hematocrit from 40 to 21%, requiring a transfusion of 6 packed red blood cells, and he remained stable.",6 packed red blood cells
+S1130-01082010000100021-1,5,8,"During the examination, he suffered syncope, lowering his hematocrit from 40 to 21%, requiring a transfusion of 6 packed red blood cells, and he remained stable.",he
+S1130-01082010000100021-1,6,1,"An imaging test was performed, which reported a hemorrhagic pancreatic pseudocyst measuring 17 x 27 cm in diameter.",An imaging test
+S1130-01082010000100021-1,6,2,"An imaging test was performed, which reported a hemorrhagic pancreatic pseudocyst measuring 17 x 27 cm in diameter.",which
+S1130-01082010000100021-1,6,3,"An imaging test was performed, which reported a hemorrhagic pancreatic pseudocyst measuring 17 x 27 cm in diameter.",a hemorrhagic pancreatic pseudocyst
+S1130-01082010000100021-1,6,4,"An imaging test was performed, which reported a hemorrhagic pancreatic pseudocyst measuring 17 x 27 cm in diameter.",17 x 27 cm
+S1130-01082010000100021-1,6,5,"An imaging test was performed, which reported a hemorrhagic pancreatic pseudocyst measuring 17 x 27 cm in diameter.",diameter
+S1130-01082010000100021-1,7,1,The patient is admitted to the ICU where he remains stable.,The patient
+S1130-01082010000100021-1,7,2,The patient is admitted to the ICU where he remains stable.,the ICU
+S1130-01082010000100021-1,7,3,The patient is admitted to the ICU where he remains stable.,he
+S1130-01082010000100021-1,8,1,"After a week, the patient is scheduled for surgery by performing a cysto-jejunostomy.",a week
+S1130-01082010000100021-1,8,2,"After a week, the patient is scheduled for surgery by performing a cysto-jejunostomy.",the patient
+S1130-01082010000100021-1,8,3,"After a week, the patient is scheduled for surgery by performing a cysto-jejunostomy.",surgery
+S1130-01082010000100021-1,8,4,"After a week, the patient is scheduled for surgery by performing a cysto-jejunostomy.",a cysto-jejunostomy
+S1130-01082010000100021-1,9,1,"The postoperative period passed without incident, and he was discharged a week after the intervention.",The postoperative period
+S1130-01082010000100021-1,9,2,"The postoperative period passed without incident, and he was discharged a week after the intervention.",incident
+S1130-01082010000100021-1,9,3,"The postoperative period passed without incident, and he was discharged a week after the intervention.",he
+S1130-01082010000100021-1,9,4,"The postoperative period passed without incident, and he was discharged a week after the intervention.",the intervention

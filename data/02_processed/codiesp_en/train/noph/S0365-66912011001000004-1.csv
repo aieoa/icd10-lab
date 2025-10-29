@@ -1,0 +1,99 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912011001000004-1,1,1,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,A 6-month-old male infant
+S0365-66912011001000004-1,1,2,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,affection
+S0365-66912011001000004-1,1,3,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,heterozygosity
+S0365-66912011001000004-1,1,4,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,his mother
+S0365-66912011001000004-1,1,5,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,our clinic
+S0365-66912011001000004-1,1,6,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,divergent strabismus
+S0365-66912011001000004-1,1,7,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,absence
+S0365-66912011001000004-1,1,8,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,fixation
+S0365-66912011001000004-1,1,9,A 6-month-old male infant (affection) and heterozygosity in his mother was treated in our clinic for presenting divergent strabismus with absence of fixation in the left eye.,the left eye
+S0365-66912011001000004-1,2,1,Both the pregnancy and the birth had passed without complications.,Both the pregnancy
+S0365-66912011001000004-1,2,2,Both the pregnancy and the birth had passed without complications.,the birth
+S0365-66912011001000004-1,2,3,Both the pregnancy and the birth had passed without complications.,complications
+S0365-66912011001000004-1,3,1,"As a personal history, mention that the infant had suffered a traffic accident the previous month.",a personal history
+S0365-66912011001000004-1,3,2,"As a personal history, mention that the infant had suffered a traffic accident the previous month.",the infant
+S0365-66912011001000004-1,3,3,"As a personal history, mention that the infant had suffered a traffic accident the previous month.",a traffic accident
+S0365-66912011001000004-1,4,1,"On examination, the anterior pole was normal in both eyes.",examination
+S0365-66912011001000004-1,4,2,"On examination, the anterior pole was normal in both eyes.",the anterior pole
+S0365-66912011001000004-1,4,3,"On examination, the anterior pole was normal in both eyes.",both eyes
+S0365-66912011001000004-1,5,1,"In the left eye fundus, an inferior retinal detachment was observed associated with a vitreous veil with retinal traction to the papilla.",the left eye fundus
+S0365-66912011001000004-1,5,2,"In the left eye fundus, an inferior retinal detachment was observed associated with a vitreous veil with retinal traction to the papilla.",an inferior retinal detachment
+S0365-66912011001000004-1,5,3,"In the left eye fundus, an inferior retinal detachment was observed associated with a vitreous veil with retinal traction to the papilla.",a vitreous veil
+S0365-66912011001000004-1,5,4,"In the left eye fundus, an inferior retinal detachment was observed associated with a vitreous veil with retinal traction to the papilla.",retinal traction
+S0365-66912011001000004-1,5,5,"In the left eye fundus, an inferior retinal detachment was observed associated with a vitreous veil with retinal traction to the papilla.",the papilla
+S0365-66912011001000004-1,6,1,No retinal alterations were observed in the fundus of the right eye.,No retinal alterations
+S0365-66912011001000004-1,6,2,No retinal alterations were observed in the fundus of the right eye.,the fundus
+S0365-66912011001000004-1,6,3,No retinal alterations were observed in the fundus of the right eye.,the right eye
+S0365-66912011001000004-1,7,1,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,retinoscopy
+S0365-66912011001000004-1,7,2,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,he
+S0365-66912011001000004-1,7,3,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,a neutral point
+S0365-66912011001000004-1,7,4,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,+3.00
+S0365-66912011001000004-1,7,5,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,10o
+S0365-66912011001000004-1,7,6,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,the right eye
+S0365-66912011001000004-1,7,7,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,+3.50 +0.50
+S0365-66912011001000004-1,7,8,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,7o
+S0365-66912011001000004-1,7,9,On retinoscopy he presented a neutral point of +3.00 -2.00 at 10o in the right eye and +3.50 +0.50 at 7o in the left eye.,the left eye
+S0365-66912011001000004-1,8,1,"Given the history of the traffic accident, a traumatic origin was attributed to the retinal detachment in the left eye.",the history
+S0365-66912011001000004-1,8,2,"Given the history of the traffic accident, a traumatic origin was attributed to the retinal detachment in the left eye.",the traffic accident
+S0365-66912011001000004-1,8,3,"Given the history of the traffic accident, a traumatic origin was attributed to the retinal detachment in the left eye.",a traumatic origin
+S0365-66912011001000004-1,8,4,"Given the history of the traffic accident, a traumatic origin was attributed to the retinal detachment in the left eye.",the retinal detachment
+S0365-66912011001000004-1,8,5,"Given the history of the traffic accident, a traumatic origin was attributed to the retinal detachment in the left eye.",the left eye
+S0365-66912011001000004-1,9,1,Periodic checks were carried out.,Periodic checks
+S0365-66912011001000004-1,10,1,"Retinal detachment evolved towards complete resorption, with a demarcation line appearing in the temporal retina.",Retinal detachment
+S0365-66912011001000004-1,10,2,"Retinal detachment evolved towards complete resorption, with a demarcation line appearing in the temporal retina.",complete resorption
+S0365-66912011001000004-1,10,3,"Retinal detachment evolved towards complete resorption, with a demarcation line appearing in the temporal retina.",a demarcation line
+S0365-66912011001000004-1,10,4,"Retinal detachment evolved towards complete resorption, with a demarcation line appearing in the temporal retina.",the temporal retina
+S0365-66912011001000004-1,11,1,"The macula adapted, presenting an alteration at the level of the retinal pigment epithelium.",The macula
+S0365-66912011001000004-1,11,2,"The macula adapted, presenting an alteration at the level of the retinal pigment epithelium.",an alteration
+S0365-66912011001000004-1,11,3,"The macula adapted, presenting an alteration at the level of the retinal pigment epithelium.",the level
+S0365-66912011001000004-1,11,4,"The macula adapted, presenting an alteration at the level of the retinal pigment epithelium.",the retinal pigment epithelium
+S0365-66912011001000004-1,12,1,"After months, vitreous flanges were observed in the inferior temporal arch in the right eye.",months
+S0365-66912011001000004-1,12,2,"After months, vitreous flanges were observed in the inferior temporal arch in the right eye.",vitreous flanges
+S0365-66912011001000004-1,12,3,"After months, vitreous flanges were observed in the inferior temporal arch in the right eye.",the inferior temporal arch
+S0365-66912011001000004-1,12,4,"After months, vitreous flanges were observed in the inferior temporal arch in the right eye.",the right eye
+S0365-66912011001000004-1,13,1,This led to thinking about a possible peripheral retinoschisis as the origin of the retinal detachment in the left eye.,This
+S0365-66912011001000004-1,13,2,This led to thinking about a possible peripheral retinoschisis as the origin of the retinal detachment in the left eye.,a possible peripheral retinoschisis
+S0365-66912011001000004-1,13,3,This led to thinking about a possible peripheral retinoschisis as the origin of the retinal detachment in the left eye.,the origin
+S0365-66912011001000004-1,13,4,This led to thinking about a possible peripheral retinoschisis as the origin of the retinal detachment in the left eye.,the retinal detachment
+S0365-66912011001000004-1,13,5,This led to thinking about a possible peripheral retinoschisis as the origin of the retinal detachment in the left eye.,the left eye
+S0365-66912011001000004-1,14,1,"Both macular OCT and ERG were performed, but the results were not evaluable in both tests due to the patient's poor cooperation given his young age.",Both macular OCT
+S0365-66912011001000004-1,14,2,"Both macular OCT and ERG were performed, but the results were not evaluable in both tests due to the patient's poor cooperation given his young age.",ERG
+S0365-66912011001000004-1,14,3,"Both macular OCT and ERG were performed, but the results were not evaluable in both tests due to the patient's poor cooperation given his young age.",the results
+S0365-66912011001000004-1,14,4,"Both macular OCT and ERG were performed, but the results were not evaluable in both tests due to the patient's poor cooperation given his young age.",both tests
+S0365-66912011001000004-1,14,5,"Both macular OCT and ERG were performed, but the results were not evaluable in both tests due to the patient's poor cooperation given his young age.",the patient's poor cooperation
+S0365-66912011001000004-1,14,6,"Both macular OCT and ERG were performed, but the results were not evaluable in both tests due to the patient's poor cooperation given his young age.",his young age
+S0365-66912011001000004-1,15,1,"For this reason, a DNA study was carried out from a peripheral blood sample.",this reason
+S0365-66912011001000004-1,15,2,"For this reason, a DNA study was carried out from a peripheral blood sample.",a DNA study
+S0365-66912011001000004-1,15,3,"For this reason, a DNA study was carried out from a peripheral blood sample.",a peripheral blood sample
+S0365-66912011001000004-1,16,1,A mutation (Q154R) was observed in exon 5 of the XLRS gene responsible for X-linked retinoschisis.,A mutation
+S0365-66912011001000004-1,16,2,A mutation (Q154R) was observed in exon 5 of the XLRS gene responsible for X-linked retinoschisis.,Q154R
+S0365-66912011001000004-1,16,3,A mutation (Q154R) was observed in exon 5 of the XLRS gene responsible for X-linked retinoschisis.,exon
+S0365-66912011001000004-1,16,4,A mutation (Q154R) was observed in exon 5 of the XLRS gene responsible for X-linked retinoschisis.,the XLRS gene
+S0365-66912011001000004-1,16,5,A mutation (Q154R) was observed in exon 5 of the XLRS gene responsible for X-linked retinoschisis.,X-linked retinoschisis
+S0365-66912011001000004-1,17,1,The mutation occurred in hemizygosity in the patient (affect) and in heterozygosity in his mother (carrier).,The mutation
+S0365-66912011001000004-1,17,2,The mutation occurred in hemizygosity in the patient (affect) and in heterozygosity in his mother (carrier).,hemizygosity
+S0365-66912011001000004-1,17,3,The mutation occurred in hemizygosity in the patient (affect) and in heterozygosity in his mother (carrier).,the patient
+S0365-66912011001000004-1,17,4,The mutation occurred in hemizygosity in the patient (affect) and in heterozygosity in his mother (carrier).,(affect
+S0365-66912011001000004-1,17,5,The mutation occurred in hemizygosity in the patient (affect) and in heterozygosity in his mother (carrier).,heterozygosity
+S0365-66912011001000004-1,17,6,The mutation occurred in hemizygosity in the patient (affect) and in heterozygosity in his mother (carrier).,his mother
+S0365-66912011001000004-1,17,7,The mutation occurred in hemizygosity in the patient (affect) and in heterozygosity in his mother (carrier).,(carrier
+S0365-66912011001000004-1,18,1,"At the age of 6 years, visual acuity was 20/20 in the right eye and 20/400 in the left eye, despite prolonged treatment with hourly occlusions of the right eye.",the age
+S0365-66912011001000004-1,18,2,"At the age of 6 years, visual acuity was 20/20 in the right eye and 20/400 in the left eye, despite prolonged treatment with hourly occlusions of the right eye.",6 years
+S0365-66912011001000004-1,18,3,"At the age of 6 years, visual acuity was 20/20 in the right eye and 20/400 in the left eye, despite prolonged treatment with hourly occlusions of the right eye.",visual acuity
+S0365-66912011001000004-1,18,4,"At the age of 6 years, visual acuity was 20/20 in the right eye and 20/400 in the left eye, despite prolonged treatment with hourly occlusions of the right eye.",the right eye
+S0365-66912011001000004-1,18,5,"At the age of 6 years, visual acuity was 20/20 in the right eye and 20/400 in the left eye, despite prolonged treatment with hourly occlusions of the right eye.",the left eye
+S0365-66912011001000004-1,18,6,"At the age of 6 years, visual acuity was 20/20 in the right eye and 20/400 in the left eye, despite prolonged treatment with hourly occlusions of the right eye.",prolonged treatment
+S0365-66912011001000004-1,18,7,"At the age of 6 years, visual acuity was 20/20 in the right eye and 20/400 in the left eye, despite prolonged treatment with hourly occlusions of the right eye.",hourly occlusions
+S0365-66912011001000004-1,18,8,"At the age of 6 years, visual acuity was 20/20 in the right eye and 20/400 in the left eye, despite prolonged treatment with hourly occlusions of the right eye.",the right eye
+S0365-66912011001000004-1,19,1,"The examination revealed inferior temporal vitreous condensation in the right eye and inferior temporal peripheral retinoschisis in the left eye, associated with residual fibrosis of the inferior temporal arch.",The examination
+S0365-66912011001000004-1,19,2,"The examination revealed inferior temporal vitreous condensation in the right eye and inferior temporal peripheral retinoschisis in the left eye, associated with residual fibrosis of the inferior temporal arch.",inferior temporal vitreous condensation
+S0365-66912011001000004-1,19,3,"The examination revealed inferior temporal vitreous condensation in the right eye and inferior temporal peripheral retinoschisis in the left eye, associated with residual fibrosis of the inferior temporal arch.",the right eye
+S0365-66912011001000004-1,19,4,"The examination revealed inferior temporal vitreous condensation in the right eye and inferior temporal peripheral retinoschisis in the left eye, associated with residual fibrosis of the inferior temporal arch.",inferior temporal peripheral retinoschisis
+S0365-66912011001000004-1,19,5,"The examination revealed inferior temporal vitreous condensation in the right eye and inferior temporal peripheral retinoschisis in the left eye, associated with residual fibrosis of the inferior temporal arch.",the left eye
+S0365-66912011001000004-1,19,6,"The examination revealed inferior temporal vitreous condensation in the right eye and inferior temporal peripheral retinoschisis in the left eye, associated with residual fibrosis of the inferior temporal arch.",residual fibrosis
+S0365-66912011001000004-1,19,7,"The examination revealed inferior temporal vitreous condensation in the right eye and inferior temporal peripheral retinoschisis in the left eye, associated with residual fibrosis of the inferior temporal arch.",the inferior temporal arch
+S0365-66912011001000004-1,20,1,The absence of foveal schisis using OCT in both eyes was notable.,The absence
+S0365-66912011001000004-1,20,2,The absence of foveal schisis using OCT in both eyes was notable.,foveal schisis
+S0365-66912011001000004-1,20,3,The absence of foveal schisis using OCT in both eyes was notable.,OCT
+S0365-66912011001000004-1,20,4,The absence of foveal schisis using OCT in both eyes was notable.,both eyes

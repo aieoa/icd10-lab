@@ -1,0 +1,103 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912010000600004-1,1,1,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",A 4-year-old patient
+S0365-66912010000600004-1,1,2,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",the Ophthalmology clinic
+S0365-66912010000600004-1,1,3,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",June
+S0365-66912010000600004-1,1,4,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",Pediatrics
+S0365-66912010000600004-1,1,5,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",a diagnosis
+S0365-66912010000600004-1,1,6,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",congenital ptosis
+S0365-66912010000600004-1,1,7,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",the left eye
+S0365-66912010000600004-1,1,8,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",which
+S0365-66912010000600004-1,1,9,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",the parents
+S0365-66912010000600004-1,1,10,"A 4-year-old patient was referred to the Ophthalmology clinic in June 2008 from Pediatrics, with a diagnosis of congenital ptosis of the left eye, which according to the parents had been evident since he was two years old.",he
+S0365-66912010000600004-1,2,1,Parents report that he tends to rub that eye a lot.,Parents
+S0365-66912010000600004-1,2,2,Parents report that he tends to rub that eye a lot.,he
+S0365-66912010000600004-1,2,3,Parents report that he tends to rub that eye a lot.,that eye
+S0365-66912010000600004-1,3,1,"Normal pregnancy, full term by cesarean section.",Normal pregnancy
+S0365-66912010000600004-1,3,2,"Normal pregnancy, full term by cesarean section.",full term
+S0365-66912010000600004-1,3,3,"Normal pregnancy, full term by cesarean section.",cesarean section
+S0365-66912010000600004-1,4,1,"Only coagulation problems of the mother during pregnancy, treated with subcutaneous heparin, stand out.",Only coagulation problems
+S0365-66912010000600004-1,4,2,"Only coagulation problems of the mother during pregnancy, treated with subcutaneous heparin, stand out.",the mother
+S0365-66912010000600004-1,4,3,"Only coagulation problems of the mother during pregnancy, treated with subcutaneous heparin, stand out.",pregnancy
+S0365-66912010000600004-1,4,4,"Only coagulation problems of the mother during pregnancy, treated with subcutaneous heparin, stand out.",subcutaneous heparin
+S0365-66912010000600004-1,5,1,"On examination, a slight asymmetry between the upper eyelids was observed, with the inner third of the left upper eyelid slightly lowered.",examination
+S0365-66912010000600004-1,5,2,"On examination, a slight asymmetry between the upper eyelids was observed, with the inner third of the left upper eyelid slightly lowered.",a slight asymmetry
+S0365-66912010000600004-1,5,3,"On examination, a slight asymmetry between the upper eyelids was observed, with the inner third of the left upper eyelid slightly lowered.",the upper eyelids
+S0365-66912010000600004-1,5,4,"On examination, a slight asymmetry between the upper eyelids was observed, with the inner third of the left upper eyelid slightly lowered.",the inner third
+S0365-66912010000600004-1,5,5,"On examination, a slight asymmetry between the upper eyelids was observed, with the inner third of the left upper eyelid slightly lowered.",the left upper eyelid
+S0365-66912010000600004-1,6,1,No masses are palpable in that area.,No masses
+S0365-66912010000600004-1,6,2,No masses are palpable in that area.,that area
+S0365-66912010000600004-1,7,1,Visual acuity is 0.8 in both eyes with the Snellen E test.,Visual acuity
+S0365-66912010000600004-1,7,2,Visual acuity is 0.8 in both eyes with the Snellen E test.,both eyes
+S0365-66912010000600004-1,7,3,Visual acuity is 0.8 in both eyes with the Snellen E test.,the Snellen E test
+S0365-66912010000600004-1,8,1,"Normal ocular motility, negative Cover test.",Normal ocular motility
+S0365-66912010000600004-1,8,2,"Normal ocular motility, negative Cover test.",negative Cover test
+S0365-66912010000600004-1,9,1,Fundus without alterations.,Fundus
+S0365-66912010000600004-1,9,2,Fundus without alterations.,alterations
+S0365-66912010000600004-1,10,1,"He came for a new evaluation after five months, reporting itching in his left eye.",He
+S0365-66912010000600004-1,10,2,"He came for a new evaluation after five months, reporting itching in his left eye.",a new evaluation
+S0365-66912010000600004-1,10,3,"He came for a new evaluation after five months, reporting itching in his left eye.",five months
+S0365-66912010000600004-1,10,4,"He came for a new evaluation after five months, reporting itching in his left eye.",itching
+S0365-66912010000600004-1,10,5,"He came for a new evaluation after five months, reporting itching in his left eye.",his left eye
+S0365-66912010000600004-1,11,1,"In the new examination, a discrete bulge was seen in the inner third of the upper eyelid of the left eye.",the new examination
+S0365-66912010000600004-1,11,2,"In the new examination, a discrete bulge was seen in the inner third of the upper eyelid of the left eye.",a discrete bulge
+S0365-66912010000600004-1,11,3,"In the new examination, a discrete bulge was seen in the inner third of the upper eyelid of the left eye.",the inner third
+S0365-66912010000600004-1,11,4,"In the new examination, a discrete bulge was seen in the inner third of the upper eyelid of the left eye.",the upper eyelid
+S0365-66912010000600004-1,11,5,"In the new examination, a discrete bulge was seen in the inner third of the upper eyelid of the left eye.",the left eye
+S0365-66912010000600004-1,12,1,"There is no clear limitation in the motility of said eye, but it appears to be in slight hypotropia.",no clear limitation
+S0365-66912010000600004-1,12,2,"There is no clear limitation in the motility of said eye, but it appears to be in slight hypotropia.",the motility
+S0365-66912010000600004-1,12,3,"There is no clear limitation in the motility of said eye, but it appears to be in slight hypotropia.",said eye
+S0365-66912010000600004-1,12,4,"There is no clear limitation in the motility of said eye, but it appears to be in slight hypotropia.",it
+S0365-66912010000600004-1,12,5,"There is no clear limitation in the motility of said eye, but it appears to be in slight hypotropia.",slight hypotropia
+S0365-66912010000600004-1,13,1,Rest of the normal scan.,Rest
+S0365-66912010000600004-1,13,2,Rest of the normal scan.,the normal scan
+S0365-66912010000600004-1,14,1,A differential diagnosis is proposed between motility alteration or orbital mass.,A differential diagnosis
+S0365-66912010000600004-1,14,2,A differential diagnosis is proposed between motility alteration or orbital mass.,motility alteration
+S0365-66912010000600004-1,14,3,A differential diagnosis is proposed between motility alteration or orbital mass.,orbital mass
+S0365-66912010000600004-1,15,1,Evaluation by pediatric ophthalmology was decided and imaging technique was requested.,Evaluation
+S0365-66912010000600004-1,15,2,Evaluation by pediatric ophthalmology was decided and imaging technique was requested.,pediatric ophthalmology
+S0365-66912010000600004-1,15,3,Evaluation by pediatric ophthalmology was decided and imaging technique was requested.,imaging technique
+S0365-66912010000600004-1,16,1,"In the consultation with children's ophthalmology a week later, uncorrected visual acuity was observed, 1 in the right eye, and 0.7 in the left eye, which at 1.25 to 40o reaches unity.",the consultation
+S0365-66912010000600004-1,16,2,"In the consultation with children's ophthalmology a week later, uncorrected visual acuity was observed, 1 in the right eye, and 0.7 in the left eye, which at 1.25 to 40o reaches unity.",children's ophthalmology
+S0365-66912010000600004-1,16,3,"In the consultation with children's ophthalmology a week later, uncorrected visual acuity was observed, 1 in the right eye, and 0.7 in the left eye, which at 1.25 to 40o reaches unity.",uncorrected visual acuity
+S0365-66912010000600004-1,16,4,"In the consultation with children's ophthalmology a week later, uncorrected visual acuity was observed, 1 in the right eye, and 0.7 in the left eye, which at 1.25 to 40o reaches unity.",the right eye
+S0365-66912010000600004-1,16,5,"In the consultation with children's ophthalmology a week later, uncorrected visual acuity was observed, 1 in the right eye, and 0.7 in the left eye, which at 1.25 to 40o reaches unity.",the left eye
+S0365-66912010000600004-1,16,6,"In the consultation with children's ophthalmology a week later, uncorrected visual acuity was observed, 1 in the right eye, and 0.7 in the left eye, which at 1.25 to 40o reaches unity.",which
+S0365-66912010000600004-1,16,7,"In the consultation with children's ophthalmology a week later, uncorrected visual acuity was observed, 1 in the right eye, and 0.7 in the left eye, which at 1.25 to 40o reaches unity.",40o
+S0365-66912010000600004-1,16,8,"In the consultation with children's ophthalmology a week later, uncorrected visual acuity was observed, 1 in the right eye, and 0.7 in the left eye, which at 1.25 to 40o reaches unity.",unity
+S0365-66912010000600004-1,17,1,"Negative cover test in primary position with slight limitation to adduction and elevation, normal stereopsis and fundus without alterations.",Negative cover test
+S0365-66912010000600004-1,17,2,"Negative cover test in primary position with slight limitation to adduction and elevation, normal stereopsis and fundus without alterations.",primary position
+S0365-66912010000600004-1,17,3,"Negative cover test in primary position with slight limitation to adduction and elevation, normal stereopsis and fundus without alterations.",slight limitation
+S0365-66912010000600004-1,17,4,"Negative cover test in primary position with slight limitation to adduction and elevation, normal stereopsis and fundus without alterations.",adduction
+S0365-66912010000600004-1,17,5,"Negative cover test in primary position with slight limitation to adduction and elevation, normal stereopsis and fundus without alterations.",elevation
+S0365-66912010000600004-1,17,6,"Negative cover test in primary position with slight limitation to adduction and elevation, normal stereopsis and fundus without alterations.",normal stereopsis
+S0365-66912010000600004-1,17,7,"Negative cover test in primary position with slight limitation to adduction and elevation, normal stereopsis and fundus without alterations.",fundus
+S0365-66912010000600004-1,17,8,"Negative cover test in primary position with slight limitation to adduction and elevation, normal stereopsis and fundus without alterations.",alterations
+S0365-66912010000600004-1,18,1,A mass was sensed by palpation in the inner third of the upper eyelid.,A mass
+S0365-66912010000600004-1,18,2,A mass was sensed by palpation in the inner third of the upper eyelid.,palpation
+S0365-66912010000600004-1,18,3,A mass was sensed by palpation in the inner third of the upper eyelid.,the inner third
+S0365-66912010000600004-1,18,4,A mass was sensed by palpation in the inner third of the upper eyelid.,the upper eyelid
+S0365-66912010000600004-1,19,1,"In the waiting time until the magnetic resonance imaging (MRI) was performed, the astigmatism increases.",the waiting time
+S0365-66912010000600004-1,19,2,"In the waiting time until the magnetic resonance imaging (MRI) was performed, the astigmatism increases.",the magnetic resonance imaging
+S0365-66912010000600004-1,19,3,"In the waiting time until the magnetic resonance imaging (MRI) was performed, the astigmatism increases.",MRI
+S0365-66912010000600004-1,19,4,"In the waiting time until the magnetic resonance imaging (MRI) was performed, the astigmatism increases.",the astigmatism
+S0365-66912010000600004-1,20,1,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",MRI
+S0365-66912010000600004-1,20,2,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",a tumor
+S0365-66912010000600004-1,20,3,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",the superointernal angle
+S0365-66912010000600004-1,20,4,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",the left orbit
+S0365-66912010000600004-1,20,5,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",which
+S0365-66912010000600004-1,20,6,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",the eyeball
+S0365-66912010000600004-1,20,7,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",a dermoid cyst
+S0365-66912010000600004-1,20,8,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",which
+S0365-66912010000600004-1,20,9,"MRI shows a tumor in the superointernal angle of the left orbit, which compresses the eyeball, compatible with a dermoid cyst, for which surgical treatment is indicated.",surgical treatment
+S0365-66912010000600004-1,21,1,Anterior orbitotomy was performed through the inner third of the eyelid fold.,Anterior orbitotomy
+S0365-66912010000600004-1,21,2,Anterior orbitotomy was performed through the inner third of the eyelid fold.,the inner third
+S0365-66912010000600004-1,21,3,Anterior orbitotomy was performed through the inner third of the eyelid fold.,the eyelid fold
+S0365-66912010000600004-1,22,1,"Intraoperatively, a well-defined lesion was detected in the orbital superoinner quadrant, which was removed in its entirety.",a well-defined lesion
+S0365-66912010000600004-1,22,2,"Intraoperatively, a well-defined lesion was detected in the orbital superoinner quadrant, which was removed in its entirety.",the orbital superoinner quadrant
+S0365-66912010000600004-1,22,3,"Intraoperatively, a well-defined lesion was detected in the orbital superoinner quadrant, which was removed in its entirety.",which
+S0365-66912010000600004-1,22,4,"Intraoperatively, a well-defined lesion was detected in the orbital superoinner quadrant, which was removed in its entirety.",its entirety
+S0365-66912010000600004-1,23,1,"A week after the intervention, the symmetry between both upper eyelids and the position of the eye are recovered.",the intervention
+S0365-66912010000600004-1,23,2,"A week after the intervention, the symmetry between both upper eyelids and the position of the eye are recovered.",the symmetry
+S0365-66912010000600004-1,23,3,"A week after the intervention, the symmetry between both upper eyelids and the position of the eye are recovered.",both upper eyelids
+S0365-66912010000600004-1,23,4,"A week after the intervention, the symmetry between both upper eyelids and the position of the eye are recovered.",the position
+S0365-66912010000600004-1,23,5,"A week after the intervention, the symmetry between both upper eyelids and the position of the eye are recovered.",the eye

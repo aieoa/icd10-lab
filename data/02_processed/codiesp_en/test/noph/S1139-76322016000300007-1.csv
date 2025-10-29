@@ -1,0 +1,70 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1139-76322016000300007-1,1,1,Six-month-old female infant.,Six-month-old female infant
+S1139-76322016000300007-1,2,1,Controlled pregnancy with a normal course and no family history of interest.,Controlled pregnancy
+S1139-76322016000300007-1,2,2,Controlled pregnancy with a normal course and no family history of interest.,a normal course
+S1139-76322016000300007-1,2,3,Controlled pregnancy with a normal course and no family history of interest.,no family history
+S1139-76322016000300007-1,2,4,Controlled pregnancy with a normal course and no family history of interest.,interest
+S1139-76322016000300007-1,3,1,Delivery by scheduled cesarean section due to breech presentation.,Delivery
+S1139-76322016000300007-1,3,2,Delivery by scheduled cesarean section due to breech presentation.,scheduled cesarean section
+S1139-76322016000300007-1,3,3,Delivery by scheduled cesarean section due to breech presentation.,breech presentation
+S1139-76322016000300007-1,4,1,Artificial breastfeeding without incident.,Artificial
+S1139-76322016000300007-1,4,2,Artificial breastfeeding without incident.,incident
+S1139-76322016000300007-1,5,1,Correct vaccination according to schedule.,Correct vaccination
+S1139-76322016000300007-1,5,2,Correct vaccination according to schedule.,schedule
+S1139-76322016000300007-1,6,1,Start of complementary feeding at five months (gluten-free fruits and cereals).,Start
+S1139-76322016000300007-1,6,2,Start of complementary feeding at five months (gluten-free fruits and cereals).,complementary feeding
+S1139-76322016000300007-1,6,3,Start of complementary feeding at five months (gluten-free fruits and cereals).,five months
+S1139-76322016000300007-1,7,1,"His parents consult because they have noticed, since the introduction of the fruit porridge, the appearance of erythema on both temples a few minutes after beginning the intake.",His parents
+S1139-76322016000300007-1,7,2,"His parents consult because they have noticed, since the introduction of the fruit porridge, the appearance of erythema on both temples a few minutes after beginning the intake.",they
+S1139-76322016000300007-1,7,3,"His parents consult because they have noticed, since the introduction of the fruit porridge, the appearance of erythema on both temples a few minutes after beginning the intake.",the introduction
+S1139-76322016000300007-1,7,4,"His parents consult because they have noticed, since the introduction of the fruit porridge, the appearance of erythema on both temples a few minutes after beginning the intake.",the fruit porridge
+S1139-76322016000300007-1,7,5,"His parents consult because they have noticed, since the introduction of the fruit porridge, the appearance of erythema on both temples a few minutes after beginning the intake.",the appearance
+S1139-76322016000300007-1,7,6,"His parents consult because they have noticed, since the introduction of the fruit porridge, the appearance of erythema on both temples a few minutes after beginning the intake.",erythema
+S1139-76322016000300007-1,7,7,"His parents consult because they have noticed, since the introduction of the fruit porridge, the appearance of erythema on both temples a few minutes after beginning the intake.",both temples
+S1139-76322016000300007-1,7,8,"His parents consult because they have noticed, since the introduction of the fruit porridge, the appearance of erythema on both temples a few minutes after beginning the intake.",the intake
+S1139-76322016000300007-1,8,1,They report that the condition occurs when eating any type of fruit and that the erythema increases in intensity as the amount ingested increases.,They
+S1139-76322016000300007-1,8,2,They report that the condition occurs when eating any type of fruit and that the erythema increases in intensity as the amount ingested increases.,the condition
+S1139-76322016000300007-1,8,3,They report that the condition occurs when eating any type of fruit and that the erythema increases in intensity as the amount ingested increases.,any type
+S1139-76322016000300007-1,8,4,They report that the condition occurs when eating any type of fruit and that the erythema increases in intensity as the amount ingested increases.,fruit
+S1139-76322016000300007-1,8,5,They report that the condition occurs when eating any type of fruit and that the erythema increases in intensity as the amount ingested increases.,intensity
+S1139-76322016000300007-1,8,6,They report that the condition occurs when eating any type of fruit and that the erythema increases in intensity as the amount ingested increases.,the amount
+S1139-76322016000300007-1,9,1,The girl does not reject fruits and even takes them with some eagerness.,The girl
+S1139-76322016000300007-1,9,2,The girl does not reject fruits and even takes them with some eagerness.,fruits
+S1139-76322016000300007-1,9,3,The girl does not reject fruits and even takes them with some eagerness.,them
+S1139-76322016000300007-1,9,4,The girl does not reject fruits and even takes them with some eagerness.,some eagerness
+S1139-76322016000300007-1,10,1,This erythema usually disappears after about ten minutes without being accompanied by any other symptoms.,This erythema
+S1139-76322016000300007-1,10,2,This erythema usually disappears after about ten minutes without being accompanied by any other symptoms.,about ten minutes
+S1139-76322016000300007-1,10,3,This erythema usually disappears after about ten minutes without being accompanied by any other symptoms.,any other symptoms
+S1139-76322016000300007-1,11,1,"Given that at the time of the examination the patient was asymptomatic, it was decided to perform a controlled provocation test in the office.",the time
+S1139-76322016000300007-1,11,2,"Given that at the time of the examination the patient was asymptomatic, it was decided to perform a controlled provocation test in the office.",the examination
+S1139-76322016000300007-1,11,3,"Given that at the time of the examination the patient was asymptomatic, it was decided to perform a controlled provocation test in the office.",the patient
+S1139-76322016000300007-1,11,4,"Given that at the time of the examination the patient was asymptomatic, it was decided to perform a controlled provocation test in the office.",it
+S1139-76322016000300007-1,11,5,"Given that at the time of the examination the patient was asymptomatic, it was decided to perform a controlled provocation test in the office.",a controlled provocation test
+S1139-76322016000300007-1,11,6,"Given that at the time of the examination the patient was asymptomatic, it was decided to perform a controlled provocation test in the office.",the office
+S1139-76322016000300007-1,12,1,"In this way, it is seen how, a few seconds after starting the intake, erythematous plaques suddenly appear, of a faint red color and with poorly defined limits, located in the bilateral temporal region, being more evident on the right side.",this way
+S1139-76322016000300007-1,12,2,"In this way, it is seen how, a few seconds after starting the intake, erythematous plaques suddenly appear, of a faint red color and with poorly defined limits, located in the bilateral temporal region, being more evident on the right side.",it
+S1139-76322016000300007-1,12,3,"In this way, it is seen how, a few seconds after starting the intake, erythematous plaques suddenly appear, of a faint red color and with poorly defined limits, located in the bilateral temporal region, being more evident on the right side.",the intake
+S1139-76322016000300007-1,12,4,"In this way, it is seen how, a few seconds after starting the intake, erythematous plaques suddenly appear, of a faint red color and with poorly defined limits, located in the bilateral temporal region, being more evident on the right side.",erythematous plaques
+S1139-76322016000300007-1,12,5,"In this way, it is seen how, a few seconds after starting the intake, erythematous plaques suddenly appear, of a faint red color and with poorly defined limits, located in the bilateral temporal region, being more evident on the right side.",a faint red color
+S1139-76322016000300007-1,12,6,"In this way, it is seen how, a few seconds after starting the intake, erythematous plaques suddenly appear, of a faint red color and with poorly defined limits, located in the bilateral temporal region, being more evident on the right side.",poorly defined limits
+S1139-76322016000300007-1,12,7,"In this way, it is seen how, a few seconds after starting the intake, erythematous plaques suddenly appear, of a faint red color and with poorly defined limits, located in the bilateral temporal region, being more evident on the right side.",the bilateral temporal region
+S1139-76322016000300007-1,12,8,"In this way, it is seen how, a few seconds after starting the intake, erythematous plaques suddenly appear, of a faint red color and with poorly defined limits, located in the bilateral temporal region, being more evident on the right side.",the right side
+S1139-76322016000300007-1,13,1,"By relating the anamnesis, the physical examination and the provocation test, Frey syndrome is suspected and its benign and self-limiting nature is explained to the parents.",the anamnesis
+S1139-76322016000300007-1,13,2,"By relating the anamnesis, the physical examination and the provocation test, Frey syndrome is suspected and its benign and self-limiting nature is explained to the parents.",the physical examination
+S1139-76322016000300007-1,13,3,"By relating the anamnesis, the physical examination and the provocation test, Frey syndrome is suspected and its benign and self-limiting nature is explained to the parents.",the provocation test
+S1139-76322016000300007-1,13,4,"By relating the anamnesis, the physical examination and the provocation test, Frey syndrome is suspected and its benign and self-limiting nature is explained to the parents.",Frey syndrome
+S1139-76322016000300007-1,13,5,"By relating the anamnesis, the physical examination and the provocation test, Frey syndrome is suspected and its benign and self-limiting nature is explained to the parents.",its benign and self-limiting nature
+S1139-76322016000300007-1,13,6,"By relating the anamnesis, the physical examination and the provocation test, Frey syndrome is suspected and its benign and self-limiting nature is explained to the parents.",the parents
+S1139-76322016000300007-1,14,1,An expectant attitude is maintained without the need for additional tests or treatment and maintaining the usual complementary feeding regimen.,An expectant attitude
+S1139-76322016000300007-1,14,2,An expectant attitude is maintained without the need for additional tests or treatment and maintaining the usual complementary feeding regimen.,the need
+S1139-76322016000300007-1,14,3,An expectant attitude is maintained without the need for additional tests or treatment and maintaining the usual complementary feeding regimen.,additional tests
+S1139-76322016000300007-1,14,4,An expectant attitude is maintained without the need for additional tests or treatment and maintaining the usual complementary feeding regimen.,treatment
+S1139-76322016000300007-1,14,5,An expectant attitude is maintained without the need for additional tests or treatment and maintaining the usual complementary feeding regimen.,the usual complementary feeding regimen
+S1139-76322016000300007-1,15,1,"After a month the symptoms subside, although the erythema reappears after 12 months with the consumption of natural yogurt, also with acidic characteristics, to disappear definitively after several weeks.",a month
+S1139-76322016000300007-1,15,2,"After a month the symptoms subside, although the erythema reappears after 12 months with the consumption of natural yogurt, also with acidic characteristics, to disappear definitively after several weeks.",the symptoms
+S1139-76322016000300007-1,15,3,"After a month the symptoms subside, although the erythema reappears after 12 months with the consumption of natural yogurt, also with acidic characteristics, to disappear definitively after several weeks.",the erythema
+S1139-76322016000300007-1,15,4,"After a month the symptoms subside, although the erythema reappears after 12 months with the consumption of natural yogurt, also with acidic characteristics, to disappear definitively after several weeks.",12 months
+S1139-76322016000300007-1,15,5,"After a month the symptoms subside, although the erythema reappears after 12 months with the consumption of natural yogurt, also with acidic characteristics, to disappear definitively after several weeks.",the consumption
+S1139-76322016000300007-1,15,6,"After a month the symptoms subside, although the erythema reappears after 12 months with the consumption of natural yogurt, also with acidic characteristics, to disappear definitively after several weeks.",natural yogurt
+S1139-76322016000300007-1,15,7,"After a month the symptoms subside, although the erythema reappears after 12 months with the consumption of natural yogurt, also with acidic characteristics, to disappear definitively after several weeks.",acidic characteristics
+S1139-76322016000300007-1,15,8,"After a month the symptoms subside, although the erythema reappears after 12 months with the consumption of natural yogurt, also with acidic characteristics, to disappear definitively after several weeks.",several weeks

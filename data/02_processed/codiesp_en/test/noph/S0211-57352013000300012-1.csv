@@ -1,0 +1,274 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0211-57352013000300012-1,1,1,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",This
+S0211-57352013000300012-1,1,2,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",an 18-year-old patient
+S0211-57352013000300012-1,1,3,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",Social Phobia
+S0211-57352013000300012-1,1,4,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",Dependent Personality Disorder
+S0211-57352013000300012-1,1,5,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",the Child
+S0211-57352013000300012-1,1,6,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",Adolescent Mental Health Service
+S0211-57352013000300012-1,1,7,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",CSMIJ
+S0211-57352013000300012-1,1,8,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",follow-up
+S0211-57352013000300012-1,1,9,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",the adult service
+S0211-57352013000300012-1,1,10,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",who
+S0211-57352013000300012-1,1,11,"This is an 18-year-old patient, diagnosed (DSM-IV-TR) with Social Phobia and Dependent Personality Disorder, referred from the Child and Adolescent Mental Health Service (CSMIJ) for follow-up in the adult service, who attends accompanied by her mother.",her mother
+S0211-57352013000300012-1,2,1,She is the eldest of two sisters.,She
+S0211-57352013000300012-1,2,2,She is the eldest of two sisters.,two sisters
+S0211-57352013000300012-1,3,1,Separated parents.,Separated parents
+S0211-57352013000300012-1,4,1,She lives with her mother and sister.,She
+S0211-57352013000300012-1,4,2,She lives with her mother and sister.,her mother
+S0211-57352013000300012-1,4,3,She lives with her mother and sister.,sister
+S0211-57352013000300012-1,5,1,"During her childhood, she highlighted attention deficit and poor academic performance without repeating a grade.",her childhood
+S0211-57352013000300012-1,5,2,"During her childhood, she highlighted attention deficit and poor academic performance without repeating a grade.",she
+S0211-57352013000300012-1,5,3,"During her childhood, she highlighted attention deficit and poor academic performance without repeating a grade.",attention deficit
+S0211-57352013000300012-1,5,4,"During her childhood, she highlighted attention deficit and poor academic performance without repeating a grade.",poor academic performance
+S0211-57352013000300012-1,5,5,"During her childhood, she highlighted attention deficit and poor academic performance without repeating a grade.",a grade
+S0211-57352013000300012-1,6,1,At the moment she begins to study a higher module and collaborates in the family business.,the moment
+S0211-57352013000300012-1,6,2,At the moment she begins to study a higher module and collaborates in the family business.,she
+S0211-57352013000300012-1,6,3,At the moment she begins to study a higher module and collaborates in the family business.,a higher module
+S0211-57352013000300012-1,6,4,At the moment she begins to study a higher module and collaborates in the family business.,collaborates
+S0211-57352013000300012-1,6,5,At the moment she begins to study a higher module and collaborates in the family business.,the family business
+S0211-57352013000300012-1,7,1,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",medical history
+S0211-57352013000300012-1,7,2,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",interest
+S0211-57352013000300012-1,7,3,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",she
+S0211-57352013000300012-1,7,4,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",an isolated growth delay
+S0211-57352013000300012-1,7,5,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",that
+S0211-57352013000300012-1,7,6,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",treatment
+S0211-57352013000300012-1,7,7,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",growth hormone
+S0211-57352013000300012-1,7,8,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",GH
+S0211-57352013000300012-1,7,9,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",12 to 17 years
+S0211-57352013000300012-1,7,10,"As medical history of interest, she highlights an isolated growth delay that required treatment with growth hormone (GH) from 12 to 17 years of age.",age
+S0211-57352013000300012-1,8,1,Fructose intolerance associated with digestive bleeding and lactose intolerance.,Fructose intolerance
+S0211-57352013000300012-1,8,2,Fructose intolerance associated with digestive bleeding and lactose intolerance.,digestive bleeding
+S0211-57352013000300012-1,8,3,Fructose intolerance associated with digestive bleeding and lactose intolerance.,lactose intolerance
+S0211-57352013000300012-1,9,1,"In her childhood, a genetic examination was performed, without observing any genetic, numerical or structural alteration.",her childhood
+S0211-57352013000300012-1,9,2,"In her childhood, a genetic examination was performed, without observing any genetic, numerical or structural alteration.",a genetic examination
+S0211-57352013000300012-1,9,3,"In her childhood, a genetic examination was performed, without observing any genetic, numerical or structural alteration.","any genetic, numerical or structural alteration"
+S0211-57352013000300012-1,10,1,She denies drug use.,She
+S0211-57352013000300012-1,10,2,She denies drug use.,drug use
+S0211-57352013000300012-1,11,1,"Among her family psychiatric history, her mother reports long-standing anxious symptoms.",her family psychiatric history
+S0211-57352013000300012-1,11,2,"Among her family psychiatric history, her mother reports long-standing anxious symptoms.",her mother
+S0211-57352013000300012-1,11,3,"Among her family psychiatric history, her mother reports long-standing anxious symptoms.",long-standing anxious symptoms
+S0211-57352013000300012-1,12,1,"They describe the father as a lonely, introverted, and ""unemotional"" person, characteristics that several paternal-line relatives present.",They
+S0211-57352013000300012-1,12,2,"They describe the father as a lonely, introverted, and ""unemotional"" person, characteristics that several paternal-line relatives present.",the father
+S0211-57352013000300012-1,12,3,"They describe the father as a lonely, introverted, and ""unemotional"" person, characteristics that several paternal-line relatives present.","a lonely, introverted, and ""unemotional"" person"
+S0211-57352013000300012-1,12,4,"They describe the father as a lonely, introverted, and ""unemotional"" person, characteristics that several paternal-line relatives present.",several paternal-line relatives
+S0211-57352013000300012-1,13,1,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",a psychiatric point
+S0211-57352013000300012-1,13,2,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",view
+S0211-57352013000300012-1,13,3,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",the patient
+S0211-57352013000300012-1,13,4,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",contact
+S0211-57352013000300012-1,13,5,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",the CSMIJ
+S0211-57352013000300012-1,13,6,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",the age
+S0211-57352013000300012-1,13,7,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",she
+S0211-57352013000300012-1,13,8,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",the diagnosis
+S0211-57352013000300012-1,13,9,"From a psychiatric point of view, the patient came into contact with the CSMIJ at the age of 14, and she was guided by the diagnosis of Social Phobia.",Social Phobia
+S0211-57352013000300012-1,14,1,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",the age
+S0211-57352013000300012-1,14,2,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",she
+S0211-57352013000300012-1,14,3,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",the Day Hospital
+S0211-57352013000300012-1,14,4,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",2 months
+S0211-57352013000300012-1,14,5,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",difficulties
+S0211-57352013000300012-1,14,6,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",relationships
+S0211-57352013000300012-1,14,7,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",school absenteeism
+S0211-57352013000300012-1,14,8,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",great dependence
+S0211-57352013000300012-1,14,9,"At the age of 17, she was admitted to the Day Hospital for 2 months due to difficulties relating to relationships, school absenteeism and great dependence on the family environment.",the family environment
+S0211-57352013000300012-1,15,1,Her diagnostic orientation was Social Phobia and Dependent Personality Disorder (according to evolution) which after discharge evolved towards partial improvement.,Her diagnostic orientation
+S0211-57352013000300012-1,15,2,Her diagnostic orientation was Social Phobia and Dependent Personality Disorder (according to evolution) which after discharge evolved towards partial improvement.,Social Phobia
+S0211-57352013000300012-1,15,3,Her diagnostic orientation was Social Phobia and Dependent Personality Disorder (according to evolution) which after discharge evolved towards partial improvement.,Dependent Personality Disorder
+S0211-57352013000300012-1,15,4,Her diagnostic orientation was Social Phobia and Dependent Personality Disorder (according to evolution) which after discharge evolved towards partial improvement.,evolution
+S0211-57352013000300012-1,15,5,Her diagnostic orientation was Social Phobia and Dependent Personality Disorder (according to evolution) which after discharge evolved towards partial improvement.,which
+S0211-57352013000300012-1,15,6,Her diagnostic orientation was Social Phobia and Dependent Personality Disorder (according to evolution) which after discharge evolved towards partial improvement.,discharge
+S0211-57352013000300012-1,15,7,Her diagnostic orientation was Social Phobia and Dependent Personality Disorder (according to evolution) which after discharge evolved towards partial improvement.,partial improvement
+S0211-57352013000300012-1,16,1,"Among the premorbid personality traits, high introversion stands out.",the premorbid personality traits
+S0211-57352013000300012-1,16,2,"Among the premorbid personality traits, high introversion stands out.",high introversion
+S0211-57352013000300012-1,17,1,"Her mother describes her as an isolated, ""different"" girl, with little social interest.",Her mother
+S0211-57352013000300012-1,17,2,"Her mother describes her as an isolated, ""different"" girl, with little social interest.",her
+S0211-57352013000300012-1,17,3,"Her mother describes her as an isolated, ""different"" girl, with little social interest.","an isolated, ""different"" girl"
+S0211-57352013000300012-1,17,4,"Her mother describes her as an isolated, ""different"" girl, with little social interest.",little social interest
+S0211-57352013000300012-1,18,1,"From her initial examination, distant contact stands out, with little spontaneous language without alterations at a formal level.",her initial examination
+S0211-57352013000300012-1,18,2,"From her initial examination, distant contact stands out, with little spontaneous language without alterations at a formal level.",distant contact
+S0211-57352013000300012-1,18,3,"From her initial examination, distant contact stands out, with little spontaneous language without alterations at a formal level.",little spontaneous language
+S0211-57352013000300012-1,18,4,"From her initial examination, distant contact stands out, with little spontaneous language without alterations at a formal level.",alterations
+S0211-57352013000300012-1,18,5,"From her initial examination, distant contact stands out, with little spontaneous language without alterations at a formal level.",a formal level
+S0211-57352013000300012-1,19,1,"She has moderate psycho-physical anxiety, hypochondriac-type obsessive ideas, onychophagia and nocturnal bruxism.",She
+S0211-57352013000300012-1,19,2,"She has moderate psycho-physical anxiety, hypochondriac-type obsessive ideas, onychophagia and nocturnal bruxism.",moderate psycho-physical anxiety
+S0211-57352013000300012-1,19,3,"She has moderate psycho-physical anxiety, hypochondriac-type obsessive ideas, onychophagia and nocturnal bruxism.",hypochondriac-type obsessive ideas
+S0211-57352013000300012-1,19,4,"She has moderate psycho-physical anxiety, hypochondriac-type obsessive ideas, onychophagia and nocturnal bruxism.",onychophagia
+S0211-57352013000300012-1,19,5,"She has moderate psycho-physical anxiety, hypochondriac-type obsessive ideas, onychophagia and nocturnal bruxism.",nocturnal bruxism
+S0211-57352013000300012-1,20,1,No symptoms of the emotional or psychotic sphere are observed.,No symptoms
+S0211-57352013000300012-1,20,2,No symptoms of the emotional or psychotic sphere are observed.,the emotional or psychotic sphere
+S0211-57352013000300012-1,21,1,No alterations in the course or content of thought.,No alterations
+S0211-57352013000300012-1,21,2,No alterations in the course or content of thought.,the course
+S0211-57352013000300012-1,21,3,No alterations in the course or content of thought.,content
+S0211-57352013000300012-1,21,4,No alterations in the course or content of thought.,thought
+S0211-57352013000300012-1,22,1,No alterations in sensory perception.,No alterations
+S0211-57352013000300012-1,22,2,No alterations in sensory perception.,sensory perception
+S0211-57352013000300012-1,23,1,Partial consciousness disorder.,Partial consciousness disorder
+S0211-57352013000300012-1,24,1,"The picture is oriented as a Cluster C Personality Disorder (phobic, obsessive and dependent traits).",The picture
+S0211-57352013000300012-1,24,2,"The picture is oriented as a Cluster C Personality Disorder (phobic, obsessive and dependent traits).",a Cluster C Personality Disorder
+S0211-57352013000300012-1,24,3,"The picture is oriented as a Cluster C Personality Disorder (phobic, obsessive and dependent traits).","phobic, obsessive and dependent traits"
+S0211-57352013000300012-1,25,1,"Pharmacological treatment prescribed by CSMIJ (Sertraline, 100 mg) is maintained, and he is referred to psychology to work on social difficulties.",Pharmacological treatment
+S0211-57352013000300012-1,25,2,"Pharmacological treatment prescribed by CSMIJ (Sertraline, 100 mg) is maintained, and he is referred to psychology to work on social difficulties.",CSMIJ
+S0211-57352013000300012-1,25,3,"Pharmacological treatment prescribed by CSMIJ (Sertraline, 100 mg) is maintained, and he is referred to psychology to work on social difficulties.",(Sertraline
+S0211-57352013000300012-1,25,4,"Pharmacological treatment prescribed by CSMIJ (Sertraline, 100 mg) is maintained, and he is referred to psychology to work on social difficulties.",100 mg
+S0211-57352013000300012-1,25,5,"Pharmacological treatment prescribed by CSMIJ (Sertraline, 100 mg) is maintained, and he is referred to psychology to work on social difficulties.",he
+S0211-57352013000300012-1,25,6,"Pharmacological treatment prescribed by CSMIJ (Sertraline, 100 mg) is maintained, and he is referred to psychology to work on social difficulties.",psychology
+S0211-57352013000300012-1,25,7,"Pharmacological treatment prescribed by CSMIJ (Sertraline, 100 mg) is maintained, and he is referred to psychology to work on social difficulties.",social difficulties
+S0211-57352013000300012-1,26,1,"She made few visits with poor compliance with the proposed strategies (cognitive-behavioral model), and was disengaged due to incompatibility with studies.",She
+S0211-57352013000300012-1,26,2,"She made few visits with poor compliance with the proposed strategies (cognitive-behavioral model), and was disengaged due to incompatibility with studies.",few visits
+S0211-57352013000300012-1,26,3,"She made few visits with poor compliance with the proposed strategies (cognitive-behavioral model), and was disengaged due to incompatibility with studies.",poor compliance
+S0211-57352013000300012-1,26,4,"She made few visits with poor compliance with the proposed strategies (cognitive-behavioral model), and was disengaged due to incompatibility with studies.",the proposed strategies
+S0211-57352013000300012-1,26,5,"She made few visits with poor compliance with the proposed strategies (cognitive-behavioral model), and was disengaged due to incompatibility with studies.",cognitive-behavioral model
+S0211-57352013000300012-1,26,6,"She made few visits with poor compliance with the proposed strategies (cognitive-behavioral model), and was disengaged due to incompatibility with studies.",incompatibility
+S0211-57352013000300012-1,26,7,"She made few visits with poor compliance with the proposed strategies (cognitive-behavioral model), and was disengaged due to incompatibility with studies.",studies
+S0211-57352013000300012-1,27,1,Second contact after two years,Second contact
+S0211-57352013000300012-1,27,2,Second contact after two years,two years
+S0211-57352013000300012-1,28,1,The patient is reconnected after almost two years (20 years) of not following up.,The patient
+S0211-57352013000300012-1,28,2,The patient is reconnected after almost two years (20 years) of not following up.,almost two years
+S0211-57352013000300012-1,28,3,The patient is reconnected after almost two years (20 years) of not following up.,20 years
+S0211-57352013000300012-1,29,1,Social difficulties persist.,Social difficulties
+S0211-57352013000300012-1,30,1,"Exploratory visits are made by psychiatry and psychology, including a visit with her mother.",Exploratory visits
+S0211-57352013000300012-1,30,2,"Exploratory visits are made by psychiatry and psychology, including a visit with her mother.",psychiatry
+S0211-57352013000300012-1,30,3,"Exploratory visits are made by psychiatry and psychology, including a visit with her mother.",psychology
+S0211-57352013000300012-1,30,4,"Exploratory visits are made by psychiatry and psychology, including a visit with her mother.",a visit
+S0211-57352013000300012-1,30,5,"Exploratory visits are made by psychiatry and psychology, including a visit with her mother.",her mother
+S0211-57352013000300012-1,31,1,They express the decision to abandon SSRI medication.,They
+S0211-57352013000300012-1,31,2,They express the decision to abandon SSRI medication.,the decision
+S0211-57352013000300012-1,31,3,They express the decision to abandon SSRI medication.,SSRI medication
+S0211-57352013000300012-1,32,1,"They do not accept pharmacological treatment, although they do accept psychological treatment.",They
+S0211-57352013000300012-1,32,2,"They do not accept pharmacological treatment, although they do accept psychological treatment.",pharmacological treatment
+S0211-57352013000300012-1,32,3,"They do not accept pharmacological treatment, although they do accept psychological treatment.",they
+S0211-57352013000300012-1,32,4,"They do not accept pharmacological treatment, although they do accept psychological treatment.",psychological treatment
+S0211-57352013000300012-1,33,1,"During the assessment, the patient was impressed by a ""peculiar"" contact rather than the usual phobic-anxious contact.",the assessment
+S0211-57352013000300012-1,33,2,"During the assessment, the patient was impressed by a ""peculiar"" contact rather than the usual phobic-anxious contact.",the patient
+S0211-57352013000300012-1,33,3,"During the assessment, the patient was impressed by a ""peculiar"" contact rather than the usual phobic-anxious contact.","a ""peculiar"" contact"
+S0211-57352013000300012-1,33,4,"During the assessment, the patient was impressed by a ""peculiar"" contact rather than the usual phobic-anxious contact.",the usual phobic-anxious contact
+S0211-57352013000300012-1,34,1,She presents a strange -although subtle- alteration in eye contact.,She
+S0211-57352013000300012-1,34,2,She presents a strange -although subtle- alteration in eye contact.,a strange -although subtle- alteration
+S0211-57352013000300012-1,34,3,She presents a strange -although subtle- alteration in eye contact.,eye contact
+S0211-57352013000300012-1,35,1,Her language continues to be unspontaneous.,Her language
+S0211-57352013000300012-1,36,1,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",addition
+S0211-57352013000300012-1,36,2,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",the difficulties
+S0211-57352013000300012-1,36,3,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",a social level
+S0211-57352013000300012-1,36,4,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",the little interest
+S0211-57352013000300012-1,36,5,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",the environment
+S0211-57352013000300012-1,36,6,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",obsessive ideas
+S0211-57352013000300012-1,36,7,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",a hypochondriacal type
+S0211-57352013000300012-1,36,8,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",an absolute rejection
+S0211-57352013000300012-1,36,9,"In addition to the difficulties at a social level and the little interest in the environment, obsessive ideas of a hypochondriacal type and an absolute rejection of physical and sexual contact stand out.",physical and sexual contact
+S0211-57352013000300012-1,37,1,"In order to assess the patient's difficulties/abilities at an interpersonal level, simple social exposure exercises are proposed outside the consultation.",order
+S0211-57352013000300012-1,37,2,"In order to assess the patient's difficulties/abilities at an interpersonal level, simple social exposure exercises are proposed outside the consultation.",the patient's difficulties
+S0211-57352013000300012-1,37,3,"In order to assess the patient's difficulties/abilities at an interpersonal level, simple social exposure exercises are proposed outside the consultation.",/abilities
+S0211-57352013000300012-1,37,4,"In order to assess the patient's difficulties/abilities at an interpersonal level, simple social exposure exercises are proposed outside the consultation.",an interpersonal level
+S0211-57352013000300012-1,37,5,"In order to assess the patient's difficulties/abilities at an interpersonal level, simple social exposure exercises are proposed outside the consultation.",simple social exposure exercises
+S0211-57352013000300012-1,37,6,"In order to assess the patient's difficulties/abilities at an interpersonal level, simple social exposure exercises are proposed outside the consultation.",the consultation
+S0211-57352013000300012-1,38,1,The patient does not perform any of the proposed exercises/strategies.,The patient
+S0211-57352013000300012-1,38,2,The patient does not perform any of the proposed exercises/strategies.,any
+S0211-57352013000300012-1,38,3,The patient does not perform any of the proposed exercises/strategies.,the proposed exercises
+S0211-57352013000300012-1,38,4,The patient does not perform any of the proposed exercises/strategies.,/strategies
+S0211-57352013000300012-1,39,1,There is also no concern to resolve these difficulties.,no concern
+S0211-57352013000300012-1,39,2,There is also no concern to resolve these difficulties.,these difficulties
+S0211-57352013000300012-1,40,1,"On the contrary, she impresses with a certain indifference in this regard.",the contrary
+S0211-57352013000300012-1,40,2,"On the contrary, she impresses with a certain indifference in this regard.",she
+S0211-57352013000300012-1,40,3,"On the contrary, she impresses with a certain indifference in this regard.",a certain indifference
+S0211-57352013000300012-1,40,4,"On the contrary, she impresses with a certain indifference in this regard.",this regard
+S0211-57352013000300012-1,41,1,"Given this, doubts begin regarding social avoidance (uncomfortable vs. anxious?), and regarding the desire to relate socially (learned social discourse?).",this
+S0211-57352013000300012-1,41,2,"Given this, doubts begin regarding social avoidance (uncomfortable vs. anxious?), and regarding the desire to relate socially (learned social discourse?).",doubts
+S0211-57352013000300012-1,41,3,"Given this, doubts begin regarding social avoidance (uncomfortable vs. anxious?), and regarding the desire to relate socially (learned social discourse?).",social avoidance
+S0211-57352013000300012-1,41,4,"Given this, doubts begin regarding social avoidance (uncomfortable vs. anxious?), and regarding the desire to relate socially (learned social discourse?).",the desire
+S0211-57352013000300012-1,41,5,"Given this, doubts begin regarding social avoidance (uncomfortable vs. anxious?), and regarding the desire to relate socially (learned social discourse?).",social discourse
+S0211-57352013000300012-1,42,1,"Given these doubts, the suspicion arises that these symptoms could be explained by other diagnoses: schizoid traits? autism spectrum traits?",these doubts
+S0211-57352013000300012-1,42,2,"Given these doubts, the suspicion arises that these symptoms could be explained by other diagnoses: schizoid traits? autism spectrum traits?",the suspicion
+S0211-57352013000300012-1,42,3,"Given these doubts, the suspicion arises that these symptoms could be explained by other diagnoses: schizoid traits? autism spectrum traits?",these symptoms
+S0211-57352013000300012-1,42,4,"Given these doubts, the suspicion arises that these symptoms could be explained by other diagnoses: schizoid traits? autism spectrum traits?",other diagnoses
+S0211-57352013000300012-1,42,5,"Given these doubts, the suspicion arises that these symptoms could be explained by other diagnoses: schizoid traits? autism spectrum traits?",schizoid traits
+S0211-57352013000300012-1,42,6,"Given these doubts, the suspicion arises that these symptoms could be explained by other diagnoses: schizoid traits? autism spectrum traits?",autism spectrum traits
+S0211-57352013000300012-1,43,1,"Therefore, a new evaluation of the patient is proposed.",a new evaluation
+S0211-57352013000300012-1,43,2,"Therefore, a new evaluation of the patient is proposed.",the patient
+S0211-57352013000300012-1,44,1,Evaluation protocol and results thereof:,Evaluation protocol
+S0211-57352013000300012-1,44,2,Evaluation protocol and results thereof:,results
+S0211-57352013000300012-1,45,1,• Structured Clinical Interview for DSM-IV Axis II Disorders (SCID II):,• Structured Clinical Interview
+S0211-57352013000300012-1,45,2,• Structured Clinical Interview for DSM-IV Axis II Disorders (SCID II):,DSM-IV Axis II Disorders
+S0211-57352013000300012-1,45,3,• Structured Clinical Interview for DSM-IV Axis II Disorders (SCID II):,SCID II
+S0211-57352013000300012-1,46,1,- Schizoid Personality Disorder Criteria: 4/5.,- Schizoid Personality Disorder Criteria
+S0211-57352013000300012-1,47,1,Close to cut-off point.,point
+S0211-57352013000300012-1,48,1,- Avoidant Personality Disorder Criteria: 5/5.,- Avoidant Personality Disorder Criteria
+S0211-57352013000300012-1,49,1,Meets cutoff point.,cutoff point
+S0211-57352013000300012-1,50,1,• Theory of Mind Tests (TOM):,• Theory
+S0211-57352013000300012-1,50,2,• Theory of Mind Tests (TOM):,Mind Tests
+S0211-57352013000300012-1,50,3,• Theory of Mind Tests (TOM):,TOM
+S0211-57352013000300012-1,51,1,"- ""Happé Stories Test"": Shows an adequate ability to infer mental states in others, understand metaphors and double meanings.","- ""Happé Stories Test"
+S0211-57352013000300012-1,51,2,"- ""Happé Stories Test"": Shows an adequate ability to infer mental states in others, understand metaphors and double meanings.",an adequate ability
+S0211-57352013000300012-1,51,3,"- ""Happé Stories Test"": Shows an adequate ability to infer mental states in others, understand metaphors and double meanings.",mental states
+S0211-57352013000300012-1,51,4,"- ""Happé Stories Test"": Shows an adequate ability to infer mental states in others, understand metaphors and double meanings.",others
+S0211-57352013000300012-1,51,5,"- ""Happé Stories Test"": Shows an adequate ability to infer mental states in others, understand metaphors and double meanings.",metaphors
+S0211-57352013000300012-1,51,6,"- ""Happé Stories Test"": Shows an adequate ability to infer mental states in others, understand metaphors and double meanings.",double meanings
+S0211-57352013000300012-1,52,1,"- ""Mind in the Eyes Reading Test"": You are able to attribute to most elements (23/36) the appropriate feeling or emotion shown in the photograph.",the Eyes Reading Test
+S0211-57352013000300012-1,52,2,"- ""Mind in the Eyes Reading Test"": You are able to attribute to most elements (23/36) the appropriate feeling or emotion shown in the photograph.",You
+S0211-57352013000300012-1,52,3,"- ""Mind in the Eyes Reading Test"": You are able to attribute to most elements (23/36) the appropriate feeling or emotion shown in the photograph.",most elements
+S0211-57352013000300012-1,52,4,"- ""Mind in the Eyes Reading Test"": You are able to attribute to most elements (23/36) the appropriate feeling or emotion shown in the photograph.",the appropriate feeling
+S0211-57352013000300012-1,52,5,"- ""Mind in the Eyes Reading Test"": You are able to attribute to most elements (23/36) the appropriate feeling or emotion shown in the photograph.",emotion
+S0211-57352013000300012-1,52,6,"- ""Mind in the Eyes Reading Test"": You are able to attribute to most elements (23/36) the appropriate feeling or emotion shown in the photograph.",the photograph
+S0211-57352013000300012-1,53,1,"- ""Gaffe Test"": Correctly identifies ""gaffe"" stories but shows difficulties in attributing emotional states and intentionality to the characters.","- ""Gaffe Test"
+S0211-57352013000300012-1,53,2,"- ""Gaffe Test"": Correctly identifies ""gaffe"" stories but shows difficulties in attributing emotional states and intentionality to the characters.","""gaffe"" stories"
+S0211-57352013000300012-1,53,3,"- ""Gaffe Test"": Correctly identifies ""gaffe"" stories but shows difficulties in attributing emotional states and intentionality to the characters.",difficulties
+S0211-57352013000300012-1,53,4,"- ""Gaffe Test"": Correctly identifies ""gaffe"" stories but shows difficulties in attributing emotional states and intentionality to the characters.",emotional states
+S0211-57352013000300012-1,53,5,"- ""Gaffe Test"": Correctly identifies ""gaffe"" stories but shows difficulties in attributing emotional states and intentionality to the characters.",intentionality
+S0211-57352013000300012-1,53,6,"- ""Gaffe Test"": Correctly identifies ""gaffe"" stories but shows difficulties in attributing emotional states and intentionality to the characters.",the characters
+S0211-57352013000300012-1,54,1,• Wechsler Adult Intelligence Scale (WAIS-III): Verbal IQ= 99 Manipulative IQ= 94 Total IQ= 97 Range: Medium,WAIS-III
+S0211-57352013000300012-1,54,2,• Wechsler Adult Intelligence Scale (WAIS-III): Verbal IQ= 99 Manipulative IQ= 94 Total IQ= 97 Range: Medium,IQ=
+S0211-57352013000300012-1,54,3,• Wechsler Adult Intelligence Scale (WAIS-III): Verbal IQ= 99 Manipulative IQ= 94 Total IQ= 97 Range: Medium,Total IQ= 97 Range
+S0211-57352013000300012-1,54,4,• Wechsler Adult Intelligence Scale (WAIS-III): Verbal IQ= 99 Manipulative IQ= 94 Total IQ= 97 Range: Medium,Medium
+S0211-57352013000300012-1,55,1,• Autism Diagnostic Interview Revised (ADI-R): Alterations in reciprocal social interaction are identified.,• Autism Diagnostic Interview Revised
+S0211-57352013000300012-1,55,2,• Autism Diagnostic Interview Revised (ADI-R): Alterations in reciprocal social interaction are identified.,ADI-R): Alterations
+S0211-57352013000300012-1,55,3,• Autism Diagnostic Interview Revised (ADI-R): Alterations in reciprocal social interaction are identified.,reciprocal social interaction
+S0211-57352013000300012-1,56,1,Limited variety of facial expressions to communicate and regulate social interaction.,Limited variety
+S0211-57352013000300012-1,56,2,Limited variety of facial expressions to communicate and regulate social interaction.,facial expressions
+S0211-57352013000300012-1,56,3,Limited variety of facial expressions to communicate and regulate social interaction.,social interaction
+S0211-57352013000300012-1,57,1,Inability to develop relationships with equals.,Inability
+S0211-57352013000300012-1,57,2,Inability to develop relationships with equals.,relationships
+S0211-57352013000300012-1,57,3,Inability to develop relationships with equals.,equals
+S0211-57352013000300012-1,58,1,"A lack of socio-emotional reciprocity, inadequate social responses and a deficit in the search for sharing pleasure with others are observed.",A lack
+S0211-57352013000300012-1,58,2,"A lack of socio-emotional reciprocity, inadequate social responses and a deficit in the search for sharing pleasure with others are observed.",socio-emotional reciprocity
+S0211-57352013000300012-1,58,3,"A lack of socio-emotional reciprocity, inadequate social responses and a deficit in the search for sharing pleasure with others are observed.",inadequate social responses
+S0211-57352013000300012-1,58,4,"A lack of socio-emotional reciprocity, inadequate social responses and a deficit in the search for sharing pleasure with others are observed.",a deficit
+S0211-57352013000300012-1,58,5,"A lack of socio-emotional reciprocity, inadequate social responses and a deficit in the search for sharing pleasure with others are observed.",the search
+S0211-57352013000300012-1,58,6,"A lack of socio-emotional reciprocity, inadequate social responses and a deficit in the search for sharing pleasure with others are observed.",pleasure
+S0211-57352013000300012-1,58,7,"A lack of socio-emotional reciprocity, inadequate social responses and a deficit in the search for sharing pleasure with others are observed.",others
+S0211-57352013000300012-1,59,1,"Retrospectively, qualitative alterations in communication are identified, such as lack of spontaneous and varied symbolic play.",qualitative alterations
+S0211-57352013000300012-1,59,2,"Retrospectively, qualitative alterations in communication are identified, such as lack of spontaneous and varied symbolic play.",communication
+S0211-57352013000300012-1,59,3,"Retrospectively, qualitative alterations in communication are identified, such as lack of spontaneous and varied symbolic play.",lack
+S0211-57352013000300012-1,59,4,"Retrospectively, qualitative alterations in communication are identified, such as lack of spontaneous and varied symbolic play.",spontaneous and varied symbolic play
+S0211-57352013000300012-1,60,1,Some restricted behavioral patterns are also identified.,Some
+S0211-57352013000300012-1,61,1,• Magnetic Resonance (MRI): Cranial examination within normality.,• Magnetic Resonance
+S0211-57352013000300012-1,61,2,• Magnetic Resonance (MRI): Cranial examination within normality.,MRI
+S0211-57352013000300012-1,61,3,• Magnetic Resonance (MRI): Cranial examination within normality.,Cranial examination
+S0211-57352013000300012-1,61,4,• Magnetic Resonance (MRI): Cranial examination within normality.,normality
+S0211-57352013000300012-1,62,1,Overall Rating:,Overall Rating
+S0211-57352013000300012-1,63,1,"Throughout the examination, the patient appears cooperative but unmotivated.",the examination
+S0211-57352013000300012-1,63,2,"Throughout the examination, the patient appears cooperative but unmotivated.",the patient
+S0211-57352013000300012-1,64,1,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",The information
+S0211-57352013000300012-1,64,2,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",us
+S0211-57352013000300012-1,64,3,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",signs
+S0211-57352013000300012-1,64,4,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",an autism spectrum disorder
+S0211-57352013000300012-1,64,5,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",ASD
+S0211-57352013000300012-1,64,6,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",which
+S0211-57352013000300012-1,64,7,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",poor social interest
+S0211-57352013000300012-1,64,8,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",inappropriate expressions
+S0211-57352013000300012-1,64,9,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",behaviors
+S0211-57352013000300012-1,64,10,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",difficulties
+S0211-57352013000300012-1,64,11,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",social relationships
+S0211-57352013000300012-1,64,12,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",peers
+S0211-57352013000300012-1,64,13,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",facial expressions
+S0211-57352013000300012-1,64,14,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",restricted affectivity
+S0211-57352013000300012-1,64,15,"The information obtained allows us to identify signs of an autism spectrum disorder (ASD), which includes poor social interest, inappropriate expressions and behaviors, difficulties establishing social relationships with peers, facial expressions and restricted affectivity, and limited interests/activities.",limited interests/activities
+S0211-57352013000300012-1,65,1,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",The cognitive profile
+S0211-57352013000300012-1,65,2,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",performance
+S0211-57352013000300012-1,65,3,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",the 'TOM' domains
+S0211-57352013000300012-1,65,4,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",non-significant number
+S0211-57352013000300012-1,65,5,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",errors
+S0211-57352013000300012-1,65,6,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",although difficulty
+S0211-57352013000300012-1,65,7,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",emotional states
+S0211-57352013000300012-1,65,8,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",intentionality
+S0211-57352013000300012-1,65,9,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",the characters
+S0211-57352013000300012-1,65,10,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",the 'Mistakes' test
+S0211-57352013000300012-1,65,11,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",the profile
+S0211-57352013000300012-1,65,12,"The cognitive profile and performance in the 'TOM' domains (non-significant number of errors, although difficulty in attributing emotional states and intentionality to the characters in the 'Mistakes' test) are consistent with the profile observed in patients.",patients
+S0211-57352013000300012-1,66,1,High-functioning TEA (1).,High-functioning TEA

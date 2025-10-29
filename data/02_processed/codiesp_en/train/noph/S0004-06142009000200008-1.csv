@@ -1,0 +1,80 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142009000200008-1,1,1,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",A 32-year-old male
+S0004-06142009000200008-1,1,2,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",long-standing low back pain
+S0004-06142009000200008-1,1,3,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",that
+S0004-06142009000200008-1,1,4,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",recent days
+S0004-06142009000200008-1,1,5,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",a loss
+S0004-06142009000200008-1,1,6,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",thirty pounds
+S0004-06142009000200008-1,1,7,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",body weight
+S0004-06142009000200008-1,1,8,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",a period
+S0004-06142009000200008-1,1,9,"A 32-year-old male presented with long-standing low back pain that worsened in recent days, as well as a loss of thirty pounds of body weight in a period of approximately three months.",approximately three months
+S0004-06142009000200008-1,2,1,No symptoms and signs of adrenal hyperfunction were detected.,No symptoms
+S0004-06142009000200008-1,2,2,No symptoms and signs of adrenal hyperfunction were detected.,signs
+S0004-06142009000200008-1,2,3,No symptoms and signs of adrenal hyperfunction were detected.,adrenal hyperfunction
+S0004-06142009000200008-1,3,1,"During the abdominal examination, a hard tumor was palpated in the left hypochondrium that reached the mesogastrium and left iliac fossa.",the abdominal examination
+S0004-06142009000200008-1,3,2,"During the abdominal examination, a hard tumor was palpated in the left hypochondrium that reached the mesogastrium and left iliac fossa.",a hard tumor
+S0004-06142009000200008-1,3,3,"During the abdominal examination, a hard tumor was palpated in the left hypochondrium that reached the mesogastrium and left iliac fossa.",the left hypochondrium
+S0004-06142009000200008-1,3,4,"During the abdominal examination, a hard tumor was palpated in the left hypochondrium that reached the mesogastrium and left iliac fossa.",that
+S0004-06142009000200008-1,3,5,"During the abdominal examination, a hard tumor was palpated in the left hypochondrium that reached the mesogastrium and left iliac fossa.",the mesogastrium
+S0004-06142009000200008-1,3,6,"During the abdominal examination, a hard tumor was palpated in the left hypochondrium that reached the mesogastrium and left iliac fossa.",iliac fossa
+S0004-06142009000200008-1,4,1,"The imaging studies performed were: abdominal ultrasound, chest x-ray, descending urogram and computed axial tomography.",The imaging studies
+S0004-06142009000200008-1,4,2,"The imaging studies performed were: abdominal ultrasound, chest x-ray, descending urogram and computed axial tomography.",abdominal ultrasound
+S0004-06142009000200008-1,4,3,"The imaging studies performed were: abdominal ultrasound, chest x-ray, descending urogram and computed axial tomography.",chest
+S0004-06142009000200008-1,4,4,"The imaging studies performed were: abdominal ultrasound, chest x-ray, descending urogram and computed axial tomography.",-
+S0004-06142009000200008-1,4,5,"The imaging studies performed were: abdominal ultrasound, chest x-ray, descending urogram and computed axial tomography.",ray
+S0004-06142009000200008-1,4,6,"The imaging studies performed were: abdominal ultrasound, chest x-ray, descending urogram and computed axial tomography.",urogram
+S0004-06142009000200008-1,4,7,"The imaging studies performed were: abdominal ultrasound, chest x-ray, descending urogram and computed axial tomography.",computed axial tomography
+S0004-06142009000200008-1,5,1,No metastases were detected in the chest x-ray.,No metastases
+S0004-06142009000200008-1,5,2,No metastases were detected in the chest x-ray.,the chest
+S0004-06142009000200008-1,5,3,No metastases were detected in the chest x-ray.,x
+S0004-06142009000200008-1,5,4,No metastases were detected in the chest x-ray.,-
+S0004-06142009000200008-1,5,5,No metastases were detected in the chest x-ray.,ray
+S0004-06142009000200008-1,6,1,"The findings obtained in the other imaging studies indicated the presence of an extensive, well-defined mass, with regular contours and with heterogeneous signals suggestive of hemorrhagic and necrotic areas.",The findings
+S0004-06142009000200008-1,6,2,"The findings obtained in the other imaging studies indicated the presence of an extensive, well-defined mass, with regular contours and with heterogeneous signals suggestive of hemorrhagic and necrotic areas.",the other imaging studies
+S0004-06142009000200008-1,6,3,"The findings obtained in the other imaging studies indicated the presence of an extensive, well-defined mass, with regular contours and with heterogeneous signals suggestive of hemorrhagic and necrotic areas.",the presence
+S0004-06142009000200008-1,6,4,"The findings obtained in the other imaging studies indicated the presence of an extensive, well-defined mass, with regular contours and with heterogeneous signals suggestive of hemorrhagic and necrotic areas.","an extensive, well-defined mass"
+S0004-06142009000200008-1,6,5,"The findings obtained in the other imaging studies indicated the presence of an extensive, well-defined mass, with regular contours and with heterogeneous signals suggestive of hemorrhagic and necrotic areas.",regular contours
+S0004-06142009000200008-1,6,6,"The findings obtained in the other imaging studies indicated the presence of an extensive, well-defined mass, with regular contours and with heterogeneous signals suggestive of hemorrhagic and necrotic areas.",heterogeneous signals suggestive
+S0004-06142009000200008-1,6,7,"The findings obtained in the other imaging studies indicated the presence of an extensive, well-defined mass, with regular contours and with heterogeneous signals suggestive of hemorrhagic and necrotic areas.",hemorrhagic and necrotic areas
+S0004-06142009000200008-1,7,1,There was displacement of neighboring structures with infiltration.,neighboring structures
+S0004-06142009000200008-1,7,2,There was displacement of neighboring structures with infiltration.,infiltration
+S0004-06142009000200008-1,8,1,No infiltration of the liver or inferior vena cava was demonstrated.,No infiltration
+S0004-06142009000200008-1,8,2,No infiltration of the liver or inferior vena cava was demonstrated.,the liver
+S0004-06142009000200008-1,8,3,No infiltration of the liver or inferior vena cava was demonstrated.,inferior vena cava
+S0004-06142009000200008-1,9,1,The treatment consisted of excision surgery through the thoraco-abdominal route with clamping of the thoracic aorta to control intraoperative hemorrhage.,The treatment
+S0004-06142009000200008-1,9,2,The treatment consisted of excision surgery through the thoraco-abdominal route with clamping of the thoracic aorta to control intraoperative hemorrhage.,excision surgery
+S0004-06142009000200008-1,9,3,The treatment consisted of excision surgery through the thoraco-abdominal route with clamping of the thoracic aorta to control intraoperative hemorrhage.,the thoraco-abdominal route
+S0004-06142009000200008-1,9,4,The treatment consisted of excision surgery through the thoraco-abdominal route with clamping of the thoracic aorta to control intraoperative hemorrhage.,clamping
+S0004-06142009000200008-1,9,5,The treatment consisted of excision surgery through the thoraco-abdominal route with clamping of the thoracic aorta to control intraoperative hemorrhage.,the thoracic aorta
+S0004-06142009000200008-1,9,6,The treatment consisted of excision surgery through the thoraco-abdominal route with clamping of the thoracic aorta to control intraoperative hemorrhage.,intraoperative hemorrhage
+S0004-06142009000200008-1,10,1,"In addition to tumor resection, left nephrectomy and en bloc splenectomy with bundles of hilar lymphadenopathy were performed.",addition
+S0004-06142009000200008-1,10,2,"In addition to tumor resection, left nephrectomy and en bloc splenectomy with bundles of hilar lymphadenopathy were performed.",tumor resection
+S0004-06142009000200008-1,10,3,"In addition to tumor resection, left nephrectomy and en bloc splenectomy with bundles of hilar lymphadenopathy were performed.",nephrectomy
+S0004-06142009000200008-1,10,4,"In addition to tumor resection, left nephrectomy and en bloc splenectomy with bundles of hilar lymphadenopathy were performed.",en bloc splenectomy
+S0004-06142009000200008-1,10,5,"In addition to tumor resection, left nephrectomy and en bloc splenectomy with bundles of hilar lymphadenopathy were performed.",bundles
+S0004-06142009000200008-1,10,6,"In addition to tumor resection, left nephrectomy and en bloc splenectomy with bundles of hilar lymphadenopathy were performed.",hilar lymphadenopathy
+S0004-06142009000200008-1,11,1,"The excised tumor was well encapsulated, weighing 4350 g and with a maximum diameter of 24 cm.",The excised tumor
+S0004-06142009000200008-1,11,2,"The excised tumor was well encapsulated, weighing 4350 g and with a maximum diameter of 24 cm.",4350 g
+S0004-06142009000200008-1,11,3,"The excised tumor was well encapsulated, weighing 4350 g and with a maximum diameter of 24 cm.",a maximum diameter
+S0004-06142009000200008-1,11,4,"The excised tumor was well encapsulated, weighing 4350 g and with a maximum diameter of 24 cm.",24 cm
+S0004-06142009000200008-1,12,1,Its macroscopic study showed a solid mass with hemorrhagic areas.,Its macroscopic study
+S0004-06142009000200008-1,12,2,Its macroscopic study showed a solid mass with hemorrhagic areas.,a solid mass
+S0004-06142009000200008-1,12,3,Its macroscopic study showed a solid mass with hemorrhagic areas.,hemorrhagic areas
+S0004-06142009000200008-1,13,1,The tumor infiltrated the capsule and perinephric fat of the entire upper pole of the left kidney as well as the spleen.,The tumor
+S0004-06142009000200008-1,13,2,The tumor infiltrated the capsule and perinephric fat of the entire upper pole of the left kidney as well as the spleen.,the capsule and perinephric fat
+S0004-06142009000200008-1,13,3,The tumor infiltrated the capsule and perinephric fat of the entire upper pole of the left kidney as well as the spleen.,the entire upper pole
+S0004-06142009000200008-1,13,4,The tumor infiltrated the capsule and perinephric fat of the entire upper pole of the left kidney as well as the spleen.,the left kidney
+S0004-06142009000200008-1,13,5,The tumor infiltrated the capsule and perinephric fat of the entire upper pole of the left kidney as well as the spleen.,the spleen
+S0004-06142009000200008-1,14,1,"In the histological study, the diagnosis of a carcinoma of the adrenal gland was confirmed.",the histological study
+S0004-06142009000200008-1,14,2,"In the histological study, the diagnosis of a carcinoma of the adrenal gland was confirmed.",the diagnosis
+S0004-06142009000200008-1,14,3,"In the histological study, the diagnosis of a carcinoma of the adrenal gland was confirmed.",a carcinoma
+S0004-06142009000200008-1,14,4,"In the histological study, the diagnosis of a carcinoma of the adrenal gland was confirmed.",the adrenal gland
+S0004-06142009000200008-1,15,1,The postoperative evolution was satisfactory and he was discharged on the tenth day after the operation.,The postoperative evolution
+S0004-06142009000200008-1,15,2,The postoperative evolution was satisfactory and he was discharged on the tenth day after the operation.,he
+S0004-06142009000200008-1,15,3,The postoperative evolution was satisfactory and he was discharged on the tenth day after the operation.,the tenth day
+S0004-06142009000200008-1,15,4,The postoperative evolution was satisfactory and he was discharged on the tenth day after the operation.,the operation
+S0004-06142009000200008-1,16,1,Survival was six months.,Survival
+S0004-06142009000200008-1,16,2,Survival was six months.,six months
+S0004-06142009000200008-1,17,1,Death occurred due to progression of the disease.,Death
+S0004-06142009000200008-1,17,2,Death occurred due to progression of the disease.,progression
+S0004-06142009000200008-1,17,3,Death occurred due to progression of the disease.,the disease

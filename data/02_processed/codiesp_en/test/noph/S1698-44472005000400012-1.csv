@@ -1,0 +1,73 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1698-44472005000400012-1,1,1,A 67-year-old woman consulted our service for swelling in the posterior region of the right hemipalate.,A 67-year-old woman
+S1698-44472005000400012-1,1,2,A 67-year-old woman consulted our service for swelling in the posterior region of the right hemipalate.,our service
+S1698-44472005000400012-1,1,3,A 67-year-old woman consulted our service for swelling in the posterior region of the right hemipalate.,the posterior region
+S1698-44472005000400012-1,1,4,A 67-year-old woman consulted our service for swelling in the posterior region of the right hemipalate.,the right hemipalate
+S1698-44472005000400012-1,2,1,A biopsy was performed under local anesthesia with the diagnosis of PLGA.,A biopsy
+S1698-44472005000400012-1,2,2,A biopsy was performed under local anesthesia with the diagnosis of PLGA.,local anesthesia
+S1698-44472005000400012-1,2,3,A biopsy was performed under local anesthesia with the diagnosis of PLGA.,the diagnosis
+S1698-44472005000400012-1,2,4,A biopsy was performed under local anesthesia with the diagnosis of PLGA.,PLGA
+S1698-44472005000400012-1,3,1,"On cervical examination, she had lymphadenopathy at the right submandibular level.",cervical examination
+S1698-44472005000400012-1,3,2,"On cervical examination, she had lymphadenopathy at the right submandibular level.",she
+S1698-44472005000400012-1,3,3,"On cervical examination, she had lymphadenopathy at the right submandibular level.",the right submandibular level
+S1698-44472005000400012-1,4,1,The most relevant antecedent was treatment with radiotherapy in childhood for an unclassified pathology in the head and neck region.,The most relevant antecedent
+S1698-44472005000400012-1,4,2,The most relevant antecedent was treatment with radiotherapy in childhood for an unclassified pathology in the head and neck region.,treatment
+S1698-44472005000400012-1,4,3,The most relevant antecedent was treatment with radiotherapy in childhood for an unclassified pathology in the head and neck region.,radiotherapy
+S1698-44472005000400012-1,4,4,The most relevant antecedent was treatment with radiotherapy in childhood for an unclassified pathology in the head and neck region.,childhood
+S1698-44472005000400012-1,4,5,The most relevant antecedent was treatment with radiotherapy in childhood for an unclassified pathology in the head and neck region.,an unclassified pathology
+S1698-44472005000400012-1,4,6,The most relevant antecedent was treatment with radiotherapy in childhood for an unclassified pathology in the head and neck region.,the head
+S1698-44472005000400012-1,4,7,The most relevant antecedent was treatment with radiotherapy in childhood for an unclassified pathology in the head and neck region.,neck region
+S1698-44472005000400012-1,5,1,Orthopantomography was normal.,Orthopantomography
+S1698-44472005000400012-1,6,1,A cervicofacial computed tomography was requested and was reported as a stage IV lesion at the level of the right nasal fossa (T4N2CMx).,A cervicofacial computed tomography
+S1698-44472005000400012-1,6,2,A cervicofacial computed tomography was requested and was reported as a stage IV lesion at the level of the right nasal fossa (T4N2CMx).,a stage IV lesion
+S1698-44472005000400012-1,6,3,A cervicofacial computed tomography was requested and was reported as a stage IV lesion at the level of the right nasal fossa (T4N2CMx).,the level
+S1698-44472005000400012-1,6,4,A cervicofacial computed tomography was requested and was reported as a stage IV lesion at the level of the right nasal fossa (T4N2CMx).,the right nasal
+S1698-44472005000400012-1,6,5,A cervicofacial computed tomography was requested and was reported as a stage IV lesion at the level of the right nasal fossa (T4N2CMx).,fossa
+S1698-44472005000400012-1,7,1,"A cytological puncture of the submandibular adenopathy was performed, which reported probable PLGA.",A cytological puncture
+S1698-44472005000400012-1,7,2,"A cytological puncture of the submandibular adenopathy was performed, which reported probable PLGA.",the submandibular adenopathy
+S1698-44472005000400012-1,7,3,"A cytological puncture of the submandibular adenopathy was performed, which reported probable PLGA.",which
+S1698-44472005000400012-1,7,4,"A cytological puncture of the submandibular adenopathy was performed, which reported probable PLGA.",probable PLGA
+S1698-44472005000400012-1,8,1,MRI shows a well-defined lesion at the level of the nasal fossa with extension towards the pterygoid region.,MRI
+S1698-44472005000400012-1,8,2,MRI shows a well-defined lesion at the level of the nasal fossa with extension towards the pterygoid region.,a well-defined lesion
+S1698-44472005000400012-1,8,3,MRI shows a well-defined lesion at the level of the nasal fossa with extension towards the pterygoid region.,the level
+S1698-44472005000400012-1,8,4,MRI shows a well-defined lesion at the level of the nasal fossa with extension towards the pterygoid region.,the nasal
+S1698-44472005000400012-1,8,5,MRI shows a well-defined lesion at the level of the nasal fossa with extension towards the pterygoid region.,extension
+S1698-44472005000400012-1,8,6,MRI shows a well-defined lesion at the level of the nasal fossa with extension towards the pterygoid region.,the pterygoid region
+S1698-44472005000400012-1,9,1,Surgical intervention was decided under general anesthesia.,Surgical intervention
+S1698-44472005000400012-1,9,2,Surgical intervention was decided under general anesthesia.,general anesthesia
+S1698-44472005000400012-1,10,1,The tumor was approached using a Lefort I type maxillotomy.,The tumor
+S1698-44472005000400012-1,10,2,The tumor was approached using a Lefort I type maxillotomy.,a Lefort
+S1698-44472005000400012-1,10,3,The tumor was approached using a Lefort I type maxillotomy.,I
+S1698-44472005000400012-1,10,4,The tumor was approached using a Lefort I type maxillotomy.,maxillotomy
+S1698-44472005000400012-1,11,1,A unilateral suprahomohyoid cervical lymph node dissection was also performed.,A unilateral suprahomohyoid cervical lymph node dissection
+S1698-44472005000400012-1,12,1,Tumor resection and bone replacement of the maxilla were carried out using 1.5 mm preformed miniplates.,Tumor resection
+S1698-44472005000400012-1,12,2,Tumor resection and bone replacement of the maxilla were carried out using 1.5 mm preformed miniplates.,bone replacement
+S1698-44472005000400012-1,12,3,Tumor resection and bone replacement of the maxilla were carried out using 1.5 mm preformed miniplates.,the maxilla
+S1698-44472005000400012-1,12,4,Tumor resection and bone replacement of the maxilla were carried out using 1.5 mm preformed miniplates.,1.5 mm
+S1698-44472005000400012-1,12,5,Tumor resection and bone replacement of the maxilla were carried out using 1.5 mm preformed miniplates.,miniplates
+S1698-44472005000400012-1,13,1,"The definitive result of the pathological anatomy confirmed the diagnosis of PLGA, with invasion of surgical margins at the level of the right pterygomaxillary area.",The definitive result
+S1698-44472005000400012-1,13,2,"The definitive result of the pathological anatomy confirmed the diagnosis of PLGA, with invasion of surgical margins at the level of the right pterygomaxillary area.",the pathological anatomy
+S1698-44472005000400012-1,13,3,"The definitive result of the pathological anatomy confirmed the diagnosis of PLGA, with invasion of surgical margins at the level of the right pterygomaxillary area.",the diagnosis
+S1698-44472005000400012-1,13,4,"The definitive result of the pathological anatomy confirmed the diagnosis of PLGA, with invasion of surgical margins at the level of the right pterygomaxillary area.",PLGA
+S1698-44472005000400012-1,13,5,"The definitive result of the pathological anatomy confirmed the diagnosis of PLGA, with invasion of surgical margins at the level of the right pterygomaxillary area.",invasion
+S1698-44472005000400012-1,13,6,"The definitive result of the pathological anatomy confirmed the diagnosis of PLGA, with invasion of surgical margins at the level of the right pterygomaxillary area.",surgical margins
+S1698-44472005000400012-1,13,7,"The definitive result of the pathological anatomy confirmed the diagnosis of PLGA, with invasion of surgical margins at the level of the right pterygomaxillary area.",the level
+S1698-44472005000400012-1,13,8,"The definitive result of the pathological anatomy confirmed the diagnosis of PLGA, with invasion of surgical margins at the level of the right pterygomaxillary area.",the right pterygomaxillary area
+S1698-44472005000400012-1,14,1,"During dissection, metastatic lymphadenopathy (2/16) was detected on the right side (5).",dissection
+S1698-44472005000400012-1,14,2,"During dissection, metastatic lymphadenopathy (2/16) was detected on the right side (5).",metastatic lymphadenopathy
+S1698-44472005000400012-1,14,3,"During dissection, metastatic lymphadenopathy (2/16) was detected on the right side (5).",the right side
+S1698-44472005000400012-1,15,1,"The patient was presented in the Maxillofacial Surgery - Oncology session, deciding adjuvant radiotherapy in the right pterygomaxillary region and following imaging controls using resonance.",The patient
+S1698-44472005000400012-1,15,2,"The patient was presented in the Maxillofacial Surgery - Oncology session, deciding adjuvant radiotherapy in the right pterygomaxillary region and following imaging controls using resonance.",the Maxillofacial Surgery - Oncology session
+S1698-44472005000400012-1,15,3,"The patient was presented in the Maxillofacial Surgery - Oncology session, deciding adjuvant radiotherapy in the right pterygomaxillary region and following imaging controls using resonance.",adjuvant radiotherapy
+S1698-44472005000400012-1,15,4,"The patient was presented in the Maxillofacial Surgery - Oncology session, deciding adjuvant radiotherapy in the right pterygomaxillary region and following imaging controls using resonance.",the right pterygomaxillary region
+S1698-44472005000400012-1,15,5,"The patient was presented in the Maxillofacial Surgery - Oncology session, deciding adjuvant radiotherapy in the right pterygomaxillary region and following imaging controls using resonance.",imaging controls
+S1698-44472005000400012-1,15,6,"The patient was presented in the Maxillofacial Surgery - Oncology session, deciding adjuvant radiotherapy in the right pterygomaxillary region and following imaging controls using resonance.",resonance
+S1698-44472005000400012-1,16,1,"Given the persistence of tumor remains, it was decided to widen the surgical margins at the right pterygomaxillary level and reconstruct the defect using a Bichat buccal fat ball.",the persistence
+S1698-44472005000400012-1,16,2,"Given the persistence of tumor remains, it was decided to widen the surgical margins at the right pterygomaxillary level and reconstruct the defect using a Bichat buccal fat ball.",tumor
+S1698-44472005000400012-1,16,3,"Given the persistence of tumor remains, it was decided to widen the surgical margins at the right pterygomaxillary level and reconstruct the defect using a Bichat buccal fat ball.",it
+S1698-44472005000400012-1,16,4,"Given the persistence of tumor remains, it was decided to widen the surgical margins at the right pterygomaxillary level and reconstruct the defect using a Bichat buccal fat ball.",the surgical margins
+S1698-44472005000400012-1,16,5,"Given the persistence of tumor remains, it was decided to widen the surgical margins at the right pterygomaxillary level and reconstruct the defect using a Bichat buccal fat ball.",the right pterygomaxillary level
+S1698-44472005000400012-1,16,6,"Given the persistence of tumor remains, it was decided to widen the surgical margins at the right pterygomaxillary level and reconstruct the defect using a Bichat buccal fat ball.",the defect
+S1698-44472005000400012-1,16,7,"Given the persistence of tumor remains, it was decided to widen the surgical margins at the right pterygomaxillary level and reconstruct the defect using a Bichat buccal fat ball.",a Bichat buccal fat ball
+S1698-44472005000400012-1,17,1,"Two years later, the patient is undergoing regular check-ups and is disease-free.",the patient
+S1698-44472005000400012-1,17,2,"Two years later, the patient is undergoing regular check-ups and is disease-free.",regular check-ups

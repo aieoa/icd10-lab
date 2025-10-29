@@ -1,0 +1,83 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912007001200012-1,1,1,"A 62-year-old woman who reported, for 13 years, multiple episodes of blurred vision in both eyes with subsequent complete recovery of visual acuity.",A 62-year-old woman
+S0365-66912007001200012-1,1,2,"A 62-year-old woman who reported, for 13 years, multiple episodes of blurred vision in both eyes with subsequent complete recovery of visual acuity.",who
+S0365-66912007001200012-1,1,3,"A 62-year-old woman who reported, for 13 years, multiple episodes of blurred vision in both eyes with subsequent complete recovery of visual acuity.",13 years
+S0365-66912007001200012-1,1,4,"A 62-year-old woman who reported, for 13 years, multiple episodes of blurred vision in both eyes with subsequent complete recovery of visual acuity.",multiple episodes
+S0365-66912007001200012-1,1,5,"A 62-year-old woman who reported, for 13 years, multiple episodes of blurred vision in both eyes with subsequent complete recovery of visual acuity.",blurred vision
+S0365-66912007001200012-1,1,6,"A 62-year-old woman who reported, for 13 years, multiple episodes of blurred vision in both eyes with subsequent complete recovery of visual acuity.",both eyes
+S0365-66912007001200012-1,1,7,"A 62-year-old woman who reported, for 13 years, multiple episodes of blurred vision in both eyes with subsequent complete recovery of visual acuity.",subsequent complete recovery
+S0365-66912007001200012-1,1,8,"A 62-year-old woman who reported, for 13 years, multiple episodes of blurred vision in both eyes with subsequent complete recovery of visual acuity.",visual acuity
+S0365-66912007001200012-1,2,1,"The various outbreaks that she presented were treated with oral corticosteroid therapy, which were suspended after the respective remissions.",The various outbreaks
+S0365-66912007001200012-1,2,2,"The various outbreaks that she presented were treated with oral corticosteroid therapy, which were suspended after the respective remissions.",that
+S0365-66912007001200012-1,2,3,"The various outbreaks that she presented were treated with oral corticosteroid therapy, which were suspended after the respective remissions.",she
+S0365-66912007001200012-1,2,4,"The various outbreaks that she presented were treated with oral corticosteroid therapy, which were suspended after the respective remissions.",oral corticosteroid therapy
+S0365-66912007001200012-1,2,5,"The various outbreaks that she presented were treated with oral corticosteroid therapy, which were suspended after the respective remissions.",which
+S0365-66912007001200012-1,2,6,"The various outbreaks that she presented were treated with oral corticosteroid therapy, which were suspended after the respective remissions.",the respective remissions
+S0365-66912007001200012-1,3,1,She was diagnosed with serpiginous choroiditis based on clinical and angiographic findings.,She
+S0365-66912007001200012-1,3,2,She was diagnosed with serpiginous choroiditis based on clinical and angiographic findings.,serpiginous choroiditis
+S0365-66912007001200012-1,3,3,She was diagnosed with serpiginous choroiditis based on clinical and angiographic findings.,clinical and angiographic findings
+S0365-66912007001200012-1,4,1,"As a family history, she presents a twin sister of her mother with a similar condition.",a family history
+S0365-66912007001200012-1,4,2,"As a family history, she presents a twin sister of her mother with a similar condition.",she
+S0365-66912007001200012-1,4,3,"As a family history, she presents a twin sister of her mother with a similar condition.",a twin sister
+S0365-66912007001200012-1,4,4,"As a family history, she presents a twin sister of her mother with a similar condition.",her mother
+S0365-66912007001200012-1,4,5,"As a family history, she presents a twin sister of her mother with a similar condition.",a similar condition
+S0365-66912007001200012-1,5,1,She has no personal history of interest.,She
+S0365-66912007001200012-1,5,2,She has no personal history of interest.,no personal history
+S0365-66912007001200012-1,5,3,She has no personal history of interest.,interest
+S0365-66912007001200012-1,6,1,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",the last ophthalmological examination
+S0365-66912007001200012-1,6,2,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",the disease
+S0365-66912007001200012-1,6,3,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",inactive and visual acuity
+S0365-66912007001200012-1,6,4,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",VA
+S0365-66912007001200012-1,6,5,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",unity
+S0365-66912007001200012-1,6,6,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",both eyes
+S0365-66912007001200012-1,6,7,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",the significant chorioretinal atrophy
+S0365-66912007001200012-1,6,8,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",she
+S0365-66912007001200012-1,6,9,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",the posterior pole
+S0365-66912007001200012-1,6,10,"At the last ophthalmological examination, the disease remained inactive and visual acuity (VA) was unity in both eyes despite the significant chorioretinal atrophy and scarring that she presented in the posterior pole, including the macula.",the macula
+S0365-66912007001200012-1,7,1,The anterior segment did not show relevant findings and the intraocular pressure was 14 mmHg in both eyes.,The anterior segment
+S0365-66912007001200012-1,7,2,The anterior segment did not show relevant findings and the intraocular pressure was 14 mmHg in both eyes.,relevant findings
+S0365-66912007001200012-1,7,3,The anterior segment did not show relevant findings and the intraocular pressure was 14 mmHg in both eyes.,the intraocular pressure
+S0365-66912007001200012-1,7,4,The anterior segment did not show relevant findings and the intraocular pressure was 14 mmHg in both eyes.,14 mmHg
+S0365-66912007001200012-1,7,5,The anterior segment did not show relevant findings and the intraocular pressure was 14 mmHg in both eyes.,both eyes
+S0365-66912007001200012-1,8,1,"The fundus showed multiple geographic scar lesions, with variable atrophy and hypertrophy of the RPE throughout the posterior pole.",The fundus
+S0365-66912007001200012-1,8,2,"The fundus showed multiple geographic scar lesions, with variable atrophy and hypertrophy of the RPE throughout the posterior pole.",multiple geographic scar lesions
+S0365-66912007001200012-1,8,3,"The fundus showed multiple geographic scar lesions, with variable atrophy and hypertrophy of the RPE throughout the posterior pole.",variable atrophy
+S0365-66912007001200012-1,8,4,"The fundus showed multiple geographic scar lesions, with variable atrophy and hypertrophy of the RPE throughout the posterior pole.",hypertrophy
+S0365-66912007001200012-1,8,5,"The fundus showed multiple geographic scar lesions, with variable atrophy and hypertrophy of the RPE throughout the posterior pole.",the RPE
+S0365-66912007001200012-1,8,6,"The fundus showed multiple geographic scar lesions, with variable atrophy and hypertrophy of the RPE throughout the posterior pole.",the posterior pole
+S0365-66912007001200012-1,9,1,"Fluorescein angiography showed multiple lesions with a mottled appearance due to atrophy and hyperpigmentation, with staining in late phases.",Fluorescein angiography
+S0365-66912007001200012-1,9,2,"Fluorescein angiography showed multiple lesions with a mottled appearance due to atrophy and hyperpigmentation, with staining in late phases.",multiple lesions
+S0365-66912007001200012-1,9,3,"Fluorescein angiography showed multiple lesions with a mottled appearance due to atrophy and hyperpigmentation, with staining in late phases.",a mottled appearance
+S0365-66912007001200012-1,9,4,"Fluorescein angiography showed multiple lesions with a mottled appearance due to atrophy and hyperpigmentation, with staining in late phases.",atrophy
+S0365-66912007001200012-1,9,5,"Fluorescein angiography showed multiple lesions with a mottled appearance due to atrophy and hyperpigmentation, with staining in late phases.",hyperpigmentation
+S0365-66912007001200012-1,9,6,"Fluorescein angiography showed multiple lesions with a mottled appearance due to atrophy and hyperpigmentation, with staining in late phases.",late phases
+S0365-66912007001200012-1,10,1,"Four months earlier she began experiencing flatulent dyspepsia, vomiting and pruritus.",she
+S0365-66912007001200012-1,10,2,"Four months earlier she began experiencing flatulent dyspepsia, vomiting and pruritus.",flatulent dyspepsia
+S0365-66912007001200012-1,10,3,"Four months earlier she began experiencing flatulent dyspepsia, vomiting and pruritus.",vomiting
+S0365-66912007001200012-1,10,4,"Four months earlier she began experiencing flatulent dyspepsia, vomiting and pruritus.",pruritus
+S0365-66912007001200012-1,11,1,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",the laboratory studies
+S0365-66912007001200012-1,11,2,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",she
+S0365-66912007001200012-1,11,3,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",an increase
+S0365-66912007001200012-1,11,4,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",transaminases
+S0365-66912007001200012-1,11,5,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",GOT
+S0365-66912007001200012-1,11,6,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",GPT
+S0365-66912007001200012-1,11,7,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",(gammaglutamyltranspeptidase
+S0365-66912007001200012-1,11,8,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",hypergamma-globulinemia
+S0365-66912007001200012-1,11,9,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",(IgG
+S0365-66912007001200012-1,11,10,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",AMA
+S0365-66912007001200012-1,11,11,"In the laboratory studies performed, she presents an increase in transaminases (GOT 110 and GPT 90), GGT (gammaglutamyltranspeptidase) 110, hypergamma-globulinemia (IgG 1620), ANA (antinuclear antibodies) 1/320, AMA (antimitochondrial antibodies) negative. .",antimitochondrial antibodies
+S0365-66912007001200012-1,12,1,"HBV surface antigen, anti-HBs antibody, anti-HBc antibody and anti-HCV antibody negative.",HBV surface antigen
+S0365-66912007001200012-1,12,2,"HBV surface antigen, anti-HBs antibody, anti-HBc antibody and anti-HCV antibody negative.",anti-HBs antibody
+S0365-66912007001200012-1,12,3,"HBV surface antigen, anti-HBs antibody, anti-HBc antibody and anti-HCV antibody negative.",anti-HBc antibody
+S0365-66912007001200012-1,12,4,"HBV surface antigen, anti-HBs antibody, anti-HBc antibody and anti-HCV antibody negative.",anti-HCV antibody
+S0365-66912007001200012-1,13,1,A liver ultrasound was performed and was normal.,A liver ultrasound
+S0365-66912007001200012-1,14,1,The patient had a good response to calculolytic bile acids.,The patient
+S0365-66912007001200012-1,14,2,The patient had a good response to calculolytic bile acids.,a good response
+S0365-66912007001200012-1,14,3,The patient had a good response to calculolytic bile acids.,calculolytic bile acids
+S0365-66912007001200012-1,15,1,The suspected diagnosis was autoimmune hepatitis.,The suspected diagnosis
+S0365-66912007001200012-1,15,2,The suspected diagnosis was autoimmune hepatitis.,autoimmune hepatitis
+S0365-66912007001200012-1,16,1,It was decided not to perform aggressive diagnostic tests such as a liver biopsy due to the mild activity of the digestive system.,It
+S0365-66912007001200012-1,16,2,It was decided not to perform aggressive diagnostic tests such as a liver biopsy due to the mild activity of the digestive system.,aggressive diagnostic tests
+S0365-66912007001200012-1,16,3,It was decided not to perform aggressive diagnostic tests such as a liver biopsy due to the mild activity of the digestive system.,a liver biopsy
+S0365-66912007001200012-1,16,4,It was decided not to perform aggressive diagnostic tests such as a liver biopsy due to the mild activity of the digestive system.,the mild activity
+S0365-66912007001200012-1,16,5,It was decided not to perform aggressive diagnostic tests such as a liver biopsy due to the mild activity of the digestive system.,the digestive system

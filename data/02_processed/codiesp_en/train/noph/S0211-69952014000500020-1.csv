@@ -1,0 +1,86 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0211-69952014000500020-1,1,1,A 35-year-old man was diagnosed with HLA B27-positive ankylosing spondylitis in 2011.,A 35-year-old man
+S0211-69952014000500020-1,1,2,A 35-year-old man was diagnosed with HLA B27-positive ankylosing spondylitis in 2011.,HLA B27-positive ankylosing spondylitis
+S0211-69952014000500020-1,2,1,An abdominal ultrasound showed multiple liver and kidney cysts.,An abdominal ultrasound
+S0211-69952014000500020-1,2,2,An abdominal ultrasound showed multiple liver and kidney cysts.,multiple liver
+S0211-69952014000500020-1,2,3,An abdominal ultrasound showed multiple liver and kidney cysts.,kidney
+S0211-69952014000500020-1,3,1,18cm right kidney and 19cm left kidney.,18cm right kidney
+S0211-69952014000500020-1,3,2,18cm right kidney and 19cm left kidney.,19cm
+S0211-69952014000500020-1,3,3,18cm right kidney and 19cm left kidney.,kidney
+S0211-69952014000500020-1,4,1,"In the absence of a family history of cystic diseases, he was diagnosed with polycystic disease due to a de novo mutation.",the absence
+S0211-69952014000500020-1,4,2,"In the absence of a family history of cystic diseases, he was diagnosed with polycystic disease due to a de novo mutation.",a family history
+S0211-69952014000500020-1,4,3,"In the absence of a family history of cystic diseases, he was diagnosed with polycystic disease due to a de novo mutation.",cystic diseases
+S0211-69952014000500020-1,4,4,"In the absence of a family history of cystic diseases, he was diagnosed with polycystic disease due to a de novo mutation.",he
+S0211-69952014000500020-1,4,5,"In the absence of a family history of cystic diseases, he was diagnosed with polycystic disease due to a de novo mutation.",polycystic disease
+S0211-69952014000500020-1,4,6,"In the absence of a family history of cystic diseases, he was diagnosed with polycystic disease due to a de novo mutation.",a de novo mutation
+S0211-69952014000500020-1,5,1,In March 2011 he started treatment with adalimumab (Humira®) 40 mg every 15 days.,March
+S0211-69952014000500020-1,5,2,In March 2011 he started treatment with adalimumab (Humira®) 40 mg every 15 days.,he
+S0211-69952014000500020-1,5,3,In March 2011 he started treatment with adalimumab (Humira®) 40 mg every 15 days.,treatment
+S0211-69952014000500020-1,5,4,In March 2011 he started treatment with adalimumab (Humira®) 40 mg every 15 days.,adalimumab
+S0211-69952014000500020-1,5,5,In March 2011 he started treatment with adalimumab (Humira®) 40 mg every 15 days.,Humira®
+S0211-69952014000500020-1,6,1,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",that time
+S0211-69952014000500020-1,6,2,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",he
+S0211-69952014000500020-1,6,3,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",hemoglobin
+S0211-69952014000500020-1,6,4,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",Hb
+S0211-69952014000500020-1,6,5,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",dl
+S0211-69952014000500020-1,6,6,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",Cr) 2.3mg/dl
+S0211-69952014000500020-1,6,7,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",estimated glomerular filtration rate
+S0211-69952014000500020-1,6,8,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",eGFR
+S0211-69952014000500020-1,6,9,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",MDRD
+S0211-69952014000500020-1,6,10,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",Modification
+S0211-69952014000500020-1,6,11,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",Diet
+S0211-69952014000500020-1,6,12,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",Renal Disease
+S0211-69952014000500020-1,6,13,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",34ml/min/1.73m2
+S0211-69952014000500020-1,6,14,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",proteinuria
+S0211-69952014000500020-1,6,15,"At that time he presented: hemoglobin (Hb) 12.4g/dl, creatinine (Cr) 2.3mg/dl, estimated glomerular filtration rate (eGFR) MDRD (Modification of Diet in Renal Disease) 34ml/min/1.73m2, proteinuria of 10mg/dl.",10mg/dl
+S0211-69952014000500020-1,7,1,"In September 2011 he shows: Cr 3.24mg/dl, eGFR MDRD 23ml/min/1.73m2, proteinuria 1.78g/24h.",September
+S0211-69952014000500020-1,7,2,"In September 2011 he shows: Cr 3.24mg/dl, eGFR MDRD 23ml/min/1.73m2, proteinuria 1.78g/24h.",he
+S0211-69952014000500020-1,7,3,"In September 2011 he shows: Cr 3.24mg/dl, eGFR MDRD 23ml/min/1.73m2, proteinuria 1.78g/24h.",Cr
+S0211-69952014000500020-1,7,4,"In September 2011 he shows: Cr 3.24mg/dl, eGFR MDRD 23ml/min/1.73m2, proteinuria 1.78g/24h.",dl
+S0211-69952014000500020-1,7,5,"In September 2011 he shows: Cr 3.24mg/dl, eGFR MDRD 23ml/min/1.73m2, proteinuria 1.78g/24h.",MDRD 23ml/min/1.73m2
+S0211-69952014000500020-1,8,1,He discontinued treatment in January 2012 due to the development of polyneuropathy and purpura.,He
+S0211-69952014000500020-1,8,2,He discontinued treatment in January 2012 due to the development of polyneuropathy and purpura.,treatment
+S0211-69952014000500020-1,8,3,He discontinued treatment in January 2012 due to the development of polyneuropathy and purpura.,January
+S0211-69952014000500020-1,8,4,He discontinued treatment in January 2012 due to the development of polyneuropathy and purpura.,the development
+S0211-69952014000500020-1,8,5,He discontinued treatment in January 2012 due to the development of polyneuropathy and purpura.,purpura
+S0211-69952014000500020-1,9,1,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",February
+S0211-69952014000500020-1,9,2,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",a magnetic resonance imaging
+S0211-69952014000500020-1,9,3,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",MRI
+S0211-69952014000500020-1,9,4,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",a right kidney
+S0211-69952014000500020-1,9,5,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",18cm
+S0211-69952014000500020-1,9,6,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",volume
+S0211-69952014000500020-1,9,7,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",2450ml
+S0211-69952014000500020-1,9,8,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",a left kidney
+S0211-69952014000500020-1,9,9,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",18cm
+S0211-69952014000500020-1,9,10,"In February 2012, a magnetic resonance imaging (MRI) showed a right kidney measuring 18cm (volume of 2450ml) and a left kidney measuring 18cm (2250ml).",2250ml
+S0211-69952014000500020-1,10,1,"In April 2012, Golimumab (Simponi®) 50 mg every five weeks was started.",April
+S0211-69952014000500020-1,10,2,"In April 2012, Golimumab (Simponi®) 50 mg every five weeks was started.",Golimumab
+S0211-69952014000500020-1,10,3,"In April 2012, Golimumab (Simponi®) 50 mg every five weeks was started.",Simponi
+S0211-69952014000500020-1,10,4,"In April 2012, Golimumab (Simponi®) 50 mg every five weeks was started.",®
+S0211-69952014000500020-1,10,5,"In April 2012, Golimumab (Simponi®) 50 mg every five weeks was started.",50 mg
+S0211-69952014000500020-1,10,6,"In April 2012, Golimumab (Simponi®) 50 mg every five weeks was started.",every five weeks
+S0211-69952014000500020-1,11,1,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",Six doses
+S0211-69952014000500020-1,11,2,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",it
+S0211-69952014000500020-1,11,3,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",September
+S0211-69952014000500020-1,11,4,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",the patient
+S0211-69952014000500020-1,11,5,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",a striking increase
+S0211-69952014000500020-1,11,6,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",abdominal diameter
+S0211-69952014000500020-1,11,7,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",umbilical hernia
+S0211-69952014000500020-1,11,8,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",that
+S0211-69952014000500020-1,11,9,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",the administration
+S0211-69952014000500020-1,11,10,"Six doses were administered and it was suspended in September 2012, when the patient reported a striking increase in abdominal diameter and umbilical hernia that was directly related to the administration of the drug.",the drug
+S0211-69952014000500020-1,12,1,A final dose is administered in December 2012.,A final dose
+S0211-69952014000500020-1,12,2,A final dose is administered in December 2012.,December
+S0211-69952014000500020-1,13,1,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",March
+S0211-69952014000500020-1,13,2,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",a new MRI
+S0211-69952014000500020-1,13,3,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",a right kidney
+S0211-69952014000500020-1,13,4,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",25.4 cm
+S0211-69952014000500020-1,13,5,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",a volume
+S0211-69952014000500020-1,13,6,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",3899 ml
+S0211-69952014000500020-1,13,7,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",a left kidney
+S0211-69952014000500020-1,13,8,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",24.1 cm
+S0211-69952014000500020-1,13,9,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",a volume
+S0211-69952014000500020-1,13,10,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",2739 ml
+S0211-69952014000500020-1,13,11,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",a slight increase
+S0211-69952014000500020-1,13,12,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",a much smaller amount
+S0211-69952014000500020-1,13,13,"In March 2013, a new MRI showed a right kidney measuring 25.4 cm with a volume of 3899 ml and a left kidney measuring 24.1 cm with a volume of 2739 ml and a slight increase in a much smaller amount of liver cysts.",liver cysts

@@ -1,0 +1,111 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062003000900013-1,1,1,"54-year-old male, smoker 30 cigarettes a day.",54-year-old male
+S0210-48062003000900013-1,1,2,"54-year-old male, smoker 30 cigarettes a day.",30 cigarettes
+S0210-48062003000900013-1,2,1,"He consulted for the first time in Urology in May 2000, due to lower urinary tract infection and left renal colic.",He
+S0210-48062003000900013-1,2,2,"He consulted for the first time in Urology in May 2000, due to lower urinary tract infection and left renal colic.",the first time
+S0210-48062003000900013-1,2,3,"He consulted for the first time in Urology in May 2000, due to lower urinary tract infection and left renal colic.",Urology
+S0210-48062003000900013-1,2,4,"He consulted for the first time in Urology in May 2000, due to lower urinary tract infection and left renal colic.",May
+S0210-48062003000900013-1,2,5,"He consulted for the first time in Urology in May 2000, due to lower urinary tract infection and left renal colic.",lower urinary tract infection
+S0210-48062003000900013-1,2,6,"He consulted for the first time in Urology in May 2000, due to lower urinary tract infection and left renal colic.",renal colic
+S0210-48062003000900013-1,3,1,"Upon rectal examination, a fixed, stony, and irregular prostate is palpated in both lobes.",rectal examination
+S0210-48062003000900013-1,3,2,"Upon rectal examination, a fixed, stony, and irregular prostate is palpated in both lobes.","a fixed, stony"
+S0210-48062003000900013-1,3,3,"Upon rectal examination, a fixed, stony, and irregular prostate is palpated in both lobes.",irregular prostate
+S0210-48062003000900013-1,3,4,"Upon rectal examination, a fixed, stony, and irregular prostate is palpated in both lobes.",both lobes
+S0210-48062003000900013-1,4,1,"The ultrasound shows no alterations of interest, except for prostate growth for age (prostate of approximately 65 grams).",The ultrasound
+S0210-48062003000900013-1,4,2,"The ultrasound shows no alterations of interest, except for prostate growth for age (prostate of approximately 65 grams).",no alterations
+S0210-48062003000900013-1,4,3,"The ultrasound shows no alterations of interest, except for prostate growth for age (prostate of approximately 65 grams).",interest
+S0210-48062003000900013-1,4,4,"The ultrasound shows no alterations of interest, except for prostate growth for age (prostate of approximately 65 grams).",prostate growth
+S0210-48062003000900013-1,4,5,"The ultrasound shows no alterations of interest, except for prostate growth for age (prostate of approximately 65 grams).",age
+S0210-48062003000900013-1,4,6,"The ultrasound shows no alterations of interest, except for prostate growth for age (prostate of approximately 65 grams).",prostate
+S0210-48062003000900013-1,4,7,"The ultrasound shows no alterations of interest, except for prostate growth for age (prostate of approximately 65 grams).",approximately 65 grams
+S0210-48062003000900013-1,5,1,The PSA is 223.,The PSA
+S0210-48062003000900013-1,6,1,The prostate biopsy detected 6 cylinders markedly infiltrated by a Gleason VII adenocarcinoma.,The prostate biopsy
+S0210-48062003000900013-1,6,2,The prostate biopsy detected 6 cylinders markedly infiltrated by a Gleason VII adenocarcinoma.,6 cylinders
+S0210-48062003000900013-1,6,3,The prostate biopsy detected 6 cylinders markedly infiltrated by a Gleason VII adenocarcinoma.,a Gleason VII adenocarcinoma
+S0210-48062003000900013-1,7,1,"A staging bone scan was performed, which showed no evidence of bone pathology, and complete androgen blockade was initiated with antiandrogens and LH-RH analogues (August 2000).",A staging bone scan
+S0210-48062003000900013-1,7,2,"A staging bone scan was performed, which showed no evidence of bone pathology, and complete androgen blockade was initiated with antiandrogens and LH-RH analogues (August 2000).",which
+S0210-48062003000900013-1,7,3,"A staging bone scan was performed, which showed no evidence of bone pathology, and complete androgen blockade was initiated with antiandrogens and LH-RH analogues (August 2000).",no evidence
+S0210-48062003000900013-1,7,4,"A staging bone scan was performed, which showed no evidence of bone pathology, and complete androgen blockade was initiated with antiandrogens and LH-RH analogues (August 2000).",bone pathology
+S0210-48062003000900013-1,7,5,"A staging bone scan was performed, which showed no evidence of bone pathology, and complete androgen blockade was initiated with antiandrogens and LH-RH analogues (August 2000).",complete androgen blockade
+S0210-48062003000900013-1,7,6,"A staging bone scan was performed, which showed no evidence of bone pathology, and complete androgen blockade was initiated with antiandrogens and LH-RH analogues (August 2000).",antiandrogens and LH-RH analogues
+S0210-48062003000900013-1,7,7,"A staging bone scan was performed, which showed no evidence of bone pathology, and complete androgen blockade was initiated with antiandrogens and LH-RH analogues (August 2000).",August
+S0210-48062003000900013-1,8,1,"During follow-up, the PSA levels progressively increased (January 2001: 0.5, August 2001: 0.7, February 2002: 6.4, April 2002: 14), without the patient noticing any worsening of his general condition.",follow-up
+S0210-48062003000900013-1,8,2,"During follow-up, the PSA levels progressively increased (January 2001: 0.5, August 2001: 0.7, February 2002: 6.4, April 2002: 14), without the patient noticing any worsening of his general condition.",the PSA levels
+S0210-48062003000900013-1,8,3,"During follow-up, the PSA levels progressively increased (January 2001: 0.5, August 2001: 0.7, February 2002: 6.4, April 2002: 14), without the patient noticing any worsening of his general condition.",the patient
+S0210-48062003000900013-1,8,4,"During follow-up, the PSA levels progressively increased (January 2001: 0.5, August 2001: 0.7, February 2002: 6.4, April 2002: 14), without the patient noticing any worsening of his general condition.",any worsening
+S0210-48062003000900013-1,8,5,"During follow-up, the PSA levels progressively increased (January 2001: 0.5, August 2001: 0.7, February 2002: 6.4, April 2002: 14), without the patient noticing any worsening of his general condition.",his general condition
+S0210-48062003000900013-1,9,1,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",February
+S0210-48062003000900013-1,9,2,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",April
+S0210-48062003000900013-1,9,3,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",he
+S0210-48062003000900013-1,9,4,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",the emergency room
+S0210-48062003000900013-1,9,5,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",two episodes
+S0210-48062003000900013-1,9,6,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",hematuria
+S0210-48062003000900013-1,9,7,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",urine retention
+S0210-48062003000900013-1,9,8,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",bladder catheterization
+S0210-48062003000900013-1,9,9,"In February and April 2002 he went to the emergency room due to two episodes of hematuria and urine retention, requiring bladder catheterization for a month.",a month
+S0210-48062003000900013-1,10,1,"He progressively worsened his obstructive symptoms over two months, reaching the point of urinating almost by drip in June 2002.",He
+S0210-48062003000900013-1,10,2,"He progressively worsened his obstructive symptoms over two months, reaching the point of urinating almost by drip in June 2002.",his obstructive symptoms
+S0210-48062003000900013-1,10,3,"He progressively worsened his obstructive symptoms over two months, reaching the point of urinating almost by drip in June 2002.",two months
+S0210-48062003000900013-1,10,4,"He progressively worsened his obstructive symptoms over two months, reaching the point of urinating almost by drip in June 2002.",the point
+S0210-48062003000900013-1,10,5,"He progressively worsened his obstructive symptoms over two months, reaching the point of urinating almost by drip in June 2002.",drip
+S0210-48062003000900013-1,10,6,"He progressively worsened his obstructive symptoms over two months, reaching the point of urinating almost by drip in June 2002.",June
+S0210-48062003000900013-1,11,1,"The flowmetric study in May 2002 showed a maximum flow of 2 ml/sec, with a residual of 80 ml.",The flowmetric study
+S0210-48062003000900013-1,11,2,"The flowmetric study in May 2002 showed a maximum flow of 2 ml/sec, with a residual of 80 ml.",May
+S0210-48062003000900013-1,11,3,"The flowmetric study in May 2002 showed a maximum flow of 2 ml/sec, with a residual of 80 ml.",a maximum flow
+S0210-48062003000900013-1,11,4,"The flowmetric study in May 2002 showed a maximum flow of 2 ml/sec, with a residual of 80 ml.",2 ml/sec
+S0210-48062003000900013-1,11,5,"The flowmetric study in May 2002 showed a maximum flow of 2 ml/sec, with a residual of 80 ml.",a residual
+S0210-48062003000900013-1,11,6,"The flowmetric study in May 2002 showed a maximum flow of 2 ml/sec, with a residual of 80 ml.",80 ml
+S0210-48062003000900013-1,12,1,"Due to this clearly obstructive worsening of his disease, transurethral resection of the prostate was proposed.",this clearly obstructive worsening
+S0210-48062003000900013-1,12,2,"Due to this clearly obstructive worsening of his disease, transurethral resection of the prostate was proposed.",his disease
+S0210-48062003000900013-1,12,3,"Due to this clearly obstructive worsening of his disease, transurethral resection of the prostate was proposed.",transurethral resection
+S0210-48062003000900013-1,12,4,"Due to this clearly obstructive worsening of his disease, transurethral resection of the prostate was proposed.",the prostate
+S0210-48062003000900013-1,13,1,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",July
+S0210-48062003000900013-1,13,2,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",the resector
+S0210-48062003000900013-1,13,3,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",the resection
+S0210-48062003000900013-1,13,4,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",the prostate
+S0210-48062003000900013-1,13,5,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",a penile urethra
+S0210-48062003000900013-1,13,6,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",mamelonated formations
+S0210-48062003000900013-1,13,7,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",0.5-1 cm
+S0210-48062003000900013-1,13,8,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",polypoid
+S0210-48062003000900013-1,13,9,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",which
+S0210-48062003000900013-1,13,10,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",entry
+S0210-48062003000900013-1,13,11,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",the bladder
+S0210-48062003000900013-1,13,12,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",they
+S0210-48062003000900013-1,13,13,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",the caliber
+S0210-48062003000900013-1,13,14,"In July 2002, when the resector was introduced to carry out the resection of the prostate, a penile urethra was observed full of mamelonated formations of 0.5-1 cm, polypoid, which made entry to the bladder difficult, because they reduced the caliber. urethral and bleed on friction.",friction
+S0210-48062003000900013-1,14,1,"The rest of the bulbar and prostatic urethra is normal, the latter somewhat unstructured.",The rest
+S0210-48062003000900013-1,14,2,"The rest of the bulbar and prostatic urethra is normal, the latter somewhat unstructured.",the bulbar
+S0210-48062003000900013-1,14,3,"The rest of the bulbar and prostatic urethra is normal, the latter somewhat unstructured.",prostatic urethra
+S0210-48062003000900013-1,15,1,R.T.U is not performed. due to difficult vision.,R.T.U
+S0210-48062003000900013-1,15,2,R.T.U is not performed. due to difficult vision.,difficult vision
+S0210-48062003000900013-1,16,1,"In July 2002, after confirming a PSA of 22, antiandrogens were withdrawn, maintaining the analogues and including the patient in a trial with Atrasentan (M00-244).",July
+S0210-48062003000900013-1,16,2,"In July 2002, after confirming a PSA of 22, antiandrogens were withdrawn, maintaining the analogues and including the patient in a trial with Atrasentan (M00-244).",a PSA
+S0210-48062003000900013-1,16,3,"In July 2002, after confirming a PSA of 22, antiandrogens were withdrawn, maintaining the analogues and including the patient in a trial with Atrasentan (M00-244).",antiandrogens
+S0210-48062003000900013-1,16,4,"In July 2002, after confirming a PSA of 22, antiandrogens were withdrawn, maintaining the analogues and including the patient in a trial with Atrasentan (M00-244).",the analogues
+S0210-48062003000900013-1,16,5,"In July 2002, after confirming a PSA of 22, antiandrogens were withdrawn, maintaining the analogues and including the patient in a trial with Atrasentan (M00-244).",the patient
+S0210-48062003000900013-1,16,6,"In July 2002, after confirming a PSA of 22, antiandrogens were withdrawn, maintaining the analogues and including the patient in a trial with Atrasentan (M00-244).",a trial
+S0210-48062003000900013-1,16,7,"In July 2002, after confirming a PSA of 22, antiandrogens were withdrawn, maintaining the analogues and including the patient in a trial with Atrasentan (M00-244).",Atrasentan
+S0210-48062003000900013-1,16,8,"In July 2002, after confirming a PSA of 22, antiandrogens were withdrawn, maintaining the analogues and including the patient in a trial with Atrasentan (M00-244).",M00
+S0210-48062003000900013-1,17,1,"The persistence of severe obstructive symptoms justified a resection of the urethral and prostate mamelons, sending both samples separately to the pathological anatomy department to obtain the histological affiliation of the former.",The persistence
+S0210-48062003000900013-1,17,2,"The persistence of severe obstructive symptoms justified a resection of the urethral and prostate mamelons, sending both samples separately to the pathological anatomy department to obtain the histological affiliation of the former.",severe obstructive symptoms
+S0210-48062003000900013-1,17,3,"The persistence of severe obstructive symptoms justified a resection of the urethral and prostate mamelons, sending both samples separately to the pathological anatomy department to obtain the histological affiliation of the former.",a resection
+S0210-48062003000900013-1,17,4,"The persistence of severe obstructive symptoms justified a resection of the urethral and prostate mamelons, sending both samples separately to the pathological anatomy department to obtain the histological affiliation of the former.",the urethral and prostate mamelons
+S0210-48062003000900013-1,17,5,"The persistence of severe obstructive symptoms justified a resection of the urethral and prostate mamelons, sending both samples separately to the pathological anatomy department to obtain the histological affiliation of the former.",both samples
+S0210-48062003000900013-1,17,6,"The persistence of severe obstructive symptoms justified a resection of the urethral and prostate mamelons, sending both samples separately to the pathological anatomy department to obtain the histological affiliation of the former.",the pathological anatomy department
+S0210-48062003000900013-1,17,7,"The persistence of severe obstructive symptoms justified a resection of the urethral and prostate mamelons, sending both samples separately to the pathological anatomy department to obtain the histological affiliation of the former.",the histological affiliation
+S0210-48062003000900013-1,18,1,Bladder catheterization was maintained for 3 weeks.,Bladder catheterization
+S0210-48062003000900013-1,18,2,Bladder catheterization was maintained for 3 weeks.,3 weeks
+S0210-48062003000900013-1,19,1,The histological diagnosis of the urethral tissue was: masses formed exclusively by a Gleason X adenocarcinoma.,The histological diagnosis
+S0210-48062003000900013-1,19,2,The histological diagnosis of the urethral tissue was: masses formed exclusively by a Gleason X adenocarcinoma.,the urethral tissue
+S0210-48062003000900013-1,19,3,The histological diagnosis of the urethral tissue was: masses formed exclusively by a Gleason X adenocarcinoma.,masses
+S0210-48062003000900013-1,19,4,The histological diagnosis of the urethral tissue was: masses formed exclusively by a Gleason X adenocarcinoma.,a Gleason X adenocarcinoma
+S0210-48062003000900013-1,20,1,"Regarding the prostate tissue itself, the diagnosis was the same.",the prostate tissue
+S0210-48062003000900013-1,20,2,"Regarding the prostate tissue itself, the diagnosis was the same.",itself
+S0210-48062003000900013-1,20,3,"Regarding the prostate tissue itself, the diagnosis was the same.",the diagnosis
+S0210-48062003000900013-1,21,1,"At present, the patient is in excellent general condition, attending the relevant consultations as required by the trial protocol, without symptoms derived from his illness.",present
+S0210-48062003000900013-1,21,2,"At present, the patient is in excellent general condition, attending the relevant consultations as required by the trial protocol, without symptoms derived from his illness.",the patient
+S0210-48062003000900013-1,21,3,"At present, the patient is in excellent general condition, attending the relevant consultations as required by the trial protocol, without symptoms derived from his illness.",excellent general condition
+S0210-48062003000900013-1,21,4,"At present, the patient is in excellent general condition, attending the relevant consultations as required by the trial protocol, without symptoms derived from his illness.",the relevant consultations
+S0210-48062003000900013-1,21,5,"At present, the patient is in excellent general condition, attending the relevant consultations as required by the trial protocol, without symptoms derived from his illness.",the trial protocol
+S0210-48062003000900013-1,21,6,"At present, the patient is in excellent general condition, attending the relevant consultations as required by the trial protocol, without symptoms derived from his illness.",symptoms
+S0210-48062003000900013-1,21,7,"At present, the patient is in excellent general condition, attending the relevant consultations as required by the trial protocol, without symptoms derived from his illness.",his illness

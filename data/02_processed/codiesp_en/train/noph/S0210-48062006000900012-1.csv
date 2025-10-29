@@ -1,0 +1,54 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062006000900012-1,1,1,57 year old male.,57 year old male
+S0210-48062006000900012-1,2,1,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",a history
+S0210-48062006000900012-1,2,2,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",right nephroureterectomy
+S0210-48062006000900012-1,2,3,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",transitional cell carcinoma
+S0210-48062006000900012-1,2,4,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",radical cystoprostatectomy
+S0210-48062006000900012-1,2,5,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",Bricker-type urinary diversion
+S0210-48062006000900012-1,2,6,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",(pTis No Mo
+S0210-48062006000900012-1,2,7,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",bladder carcinoma
+S0210-48062006000900012-1,2,8,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",situ refractory
+S0210-48062006000900012-1,2,9,"With a history of right nephroureterectomy for transitional cell carcinoma in 1991 and radical cystoprostatectomy with Bricker-type urinary diversion in 1995 (pTis No Mo, performed due to bladder carcinoma in situ refractory to BCG).",BCG
+S0210-48062006000900012-1,3,1,"He came to our office to consider converting his urinary diversion, as he had stoma prolapse and reported that his life was very limited by the external self-adhesive device.",He
+S0210-48062006000900012-1,3,2,"He came to our office to consider converting his urinary diversion, as he had stoma prolapse and reported that his life was very limited by the external self-adhesive device.",our office
+S0210-48062006000900012-1,3,3,"He came to our office to consider converting his urinary diversion, as he had stoma prolapse and reported that his life was very limited by the external self-adhesive device.",his urinary diversion
+S0210-48062006000900012-1,3,4,"He came to our office to consider converting his urinary diversion, as he had stoma prolapse and reported that his life was very limited by the external self-adhesive device.",he
+S0210-48062006000900012-1,3,5,"He came to our office to consider converting his urinary diversion, as he had stoma prolapse and reported that his life was very limited by the external self-adhesive device.",stoma prolapse
+S0210-48062006000900012-1,3,6,"He came to our office to consider converting his urinary diversion, as he had stoma prolapse and reported that his life was very limited by the external self-adhesive device.",his life
+S0210-48062006000900012-1,3,7,"He came to our office to consider converting his urinary diversion, as he had stoma prolapse and reported that his life was very limited by the external self-adhesive device.",the external self-adhesive device
+S0210-48062006000900012-1,4,1,"A thoraco-abdominal CT scan was requested as a restaging study, and no signs of tumor activity were found.",A thoraco-abdominal CT scan
+S0210-48062006000900012-1,4,2,"A thoraco-abdominal CT scan was requested as a restaging study, and no signs of tumor activity were found.",a restaging study
+S0210-48062006000900012-1,4,3,"A thoraco-abdominal CT scan was requested as a restaging study, and no signs of tumor activity were found.",no signs
+S0210-48062006000900012-1,4,4,"A thoraco-abdominal CT scan was requested as a restaging study, and no signs of tumor activity were found.",tumor activity
+S0210-48062006000900012-1,5,1,His baseline creatinine was 1.5 mg/dl.,His baseline creatinine
+S0210-48062006000900012-1,5,2,His baseline creatinine was 1.5 mg/dl.,1.5 mg
+S0210-48062006000900012-1,5,3,His baseline creatinine was 1.5 mg/dl.,dl
+S0210-48062006000900012-1,6,1,"An exploratory laparoscopy was performed in May 2003, with complete dissection of the pelvis, identifying the urethral stump with a Benique.",An exploratory laparoscopy
+S0210-48062006000900012-1,6,2,"An exploratory laparoscopy was performed in May 2003, with complete dissection of the pelvis, identifying the urethral stump with a Benique.",May
+S0210-48062006000900012-1,6,3,"An exploratory laparoscopy was performed in May 2003, with complete dissection of the pelvis, identifying the urethral stump with a Benique.",complete dissection
+S0210-48062006000900012-1,6,4,"An exploratory laparoscopy was performed in May 2003, with complete dissection of the pelvis, identifying the urethral stump with a Benique.",the urethral stump
+S0210-48062006000900012-1,6,5,"An exploratory laparoscopy was performed in May 2003, with complete dissection of the pelvis, identifying the urethral stump with a Benique.",a Benique
+S0210-48062006000900012-1,7,1,We resected the urethral stump and an intraoperative biopsy ruled out tumor infiltration.,We
+S0210-48062006000900012-1,7,2,We resected the urethral stump and an intraoperative biopsy ruled out tumor infiltration.,the urethral stump
+S0210-48062006000900012-1,7,3,We resected the urethral stump and an intraoperative biopsy ruled out tumor infiltration.,an intraoperative biopsy
+S0210-48062006000900012-1,7,4,We resected the urethral stump and an intraoperative biopsy ruled out tumor infiltration.,tumor infiltration
+S0210-48062006000900012-1,8,1,The neobladder (Studer) was constructed after externalizing 45 cm of terminal ileum through the stoma orifice.,The neobladder
+S0210-48062006000900012-1,8,2,The neobladder (Studer) was constructed after externalizing 45 cm of terminal ileum through the stoma orifice.,Studer
+S0210-48062006000900012-1,8,3,The neobladder (Studer) was constructed after externalizing 45 cm of terminal ileum through the stoma orifice.,45 cm
+S0210-48062006000900012-1,8,4,The neobladder (Studer) was constructed after externalizing 45 cm of terminal ileum through the stoma orifice.,terminal ileum
+S0210-48062006000900012-1,8,5,The neobladder (Studer) was constructed after externalizing 45 cm of terminal ileum through the stoma orifice.,the stoma orifice
+S0210-48062006000900012-1,9,1,The urethra-neobladder anastomosis was performed laparoscopically.,The urethra-neobladder anastomosis
+S0210-48062006000900012-1,10,1,"The total surgical time was 480 minutes, with an estimated bleeding of 100 cc.",The total surgical time
+S0210-48062006000900012-1,10,2,"The total surgical time was 480 minutes, with an estimated bleeding of 100 cc.",480 minutes
+S0210-48062006000900012-1,10,3,"The total surgical time was 480 minutes, with an estimated bleeding of 100 cc.",an estimated bleeding
+S0210-48062006000900012-1,10,4,"The total surgical time was 480 minutes, with an estimated bleeding of 100 cc.",100 cc
+S0210-48062006000900012-1,11,1,The patient was discharged on the sixth postoperative day without complications.,The patient
+S0210-48062006000900012-1,11,2,The patient was discharged on the sixth postoperative day without complications.,the sixth postoperative day
+S0210-48062006000900012-1,11,3,The patient was discharged on the sixth postoperative day without complications.,complications
+S0210-48062006000900012-1,12,1,"The evolution since then (29 months) has been favorable, with no evidence of metabolic alterations or signs of recurrence of the underlying disease.",The evolution
+S0210-48062006000900012-1,12,2,"The evolution since then (29 months) has been favorable, with no evidence of metabolic alterations or signs of recurrence of the underlying disease.",(29 months
+S0210-48062006000900012-1,12,3,"The evolution since then (29 months) has been favorable, with no evidence of metabolic alterations or signs of recurrence of the underlying disease.",no evidence
+S0210-48062006000900012-1,12,4,"The evolution since then (29 months) has been favorable, with no evidence of metabolic alterations or signs of recurrence of the underlying disease.",metabolic alterations
+S0210-48062006000900012-1,12,5,"The evolution since then (29 months) has been favorable, with no evidence of metabolic alterations or signs of recurrence of the underlying disease.",signs
+S0210-48062006000900012-1,12,6,"The evolution since then (29 months) has been favorable, with no evidence of metabolic alterations or signs of recurrence of the underlying disease.",recurrence
+S0210-48062006000900012-1,12,7,"The evolution since then (29 months) has been favorable, with no evidence of metabolic alterations or signs of recurrence of the underlying disease.",the underlying disease

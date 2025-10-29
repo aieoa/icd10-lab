@@ -1,0 +1,60 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062009000300013-1,1,1,66 year old male,66 year old male
+S0210-48062009000300013-1,2,1,"Personal history: Prostatic adenomectomy, left renal colic, peptic ulcer.",Personal history
+S0210-48062009000300013-1,2,2,"Personal history: Prostatic adenomectomy, left renal colic, peptic ulcer.",Prostatic adenomectomy
+S0210-48062009000300013-1,2,3,"Personal history: Prostatic adenomectomy, left renal colic, peptic ulcer.","renal colic, peptic ulcer"
+S0210-48062009000300013-1,3,1,No previous hypertension.,No previous hypertension
+S0210-48062009000300013-1,4,1,Heterozygous betathalassemia.,Heterozygous betathalassemia
+S0210-48062009000300013-1,5,1,Uric pyelic lithiasis of the left kidney.,Uric pyelic lithiasis
+S0210-48062009000300013-1,5,2,Uric pyelic lithiasis of the left kidney.,the left kidney
+S0210-48062009000300013-1,6,1,Carrier of double J catheter at the time of ESWL.,Carrier
+S0210-48062009000300013-1,6,2,Carrier of double J catheter at the time of ESWL.,double J catheter
+S0210-48062009000300013-1,6,3,Carrier of double J catheter at the time of ESWL.,the time
+S0210-48062009000300013-1,6,4,Carrier of double J catheter at the time of ESWL.,ESWL
+S0210-48062009000300013-1,7,1,"Leoch ineffective 4 weeks before the second, in which the hematoma occurred.",Leoch
+S0210-48062009000300013-1,7,2,"Leoch ineffective 4 weeks before the second, in which the hematoma occurred.",which
+S0210-48062009000300013-1,7,3,"Leoch ineffective 4 weeks before the second, in which the hematoma occurred.",the hematoma
+S0210-48062009000300013-1,8,1,"(4,000 impacts at intensity 4 and 1,000 at 5).","(4,000 impacts"
+S0210-48062009000300013-1,8,2,"(4,000 impacts at intensity 4 and 1,000 at 5).",intensity
+S0210-48062009000300013-1,9,1,"He had severe pain at the end of the procedure that required supplemental IV analgesia, although without hemodynamic alteration.",He
+S0210-48062009000300013-1,9,2,"He had severe pain at the end of the procedure that required supplemental IV analgesia, although without hemodynamic alteration.",severe pain
+S0210-48062009000300013-1,9,3,"He had severe pain at the end of the procedure that required supplemental IV analgesia, although without hemodynamic alteration.",the end
+S0210-48062009000300013-1,9,4,"He had severe pain at the end of the procedure that required supplemental IV analgesia, although without hemodynamic alteration.",the procedure
+S0210-48062009000300013-1,9,5,"He had severe pain at the end of the procedure that required supplemental IV analgesia, although without hemodynamic alteration.",that
+S0210-48062009000300013-1,9,6,"He had severe pain at the end of the procedure that required supplemental IV analgesia, although without hemodynamic alteration.",supplemental IV analgesia
+S0210-48062009000300013-1,9,7,"He had severe pain at the end of the procedure that required supplemental IV analgesia, although without hemodynamic alteration.",hemodynamic alteration
+S0210-48062009000300013-1,10,1,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",He
+S0210-48062009000300013-1,10,2,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",Leoch
+S0210-48062009000300013-1,10,3,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",5 days
+S0210-48062009000300013-1,10,4,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",poor general condition
+S0210-48062009000300013-1,10,5,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",lumbar pain
+S0210-48062009000300013-1,10,6,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",Hb
+S0210-48062009000300013-1,10,7,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",the hematoma
+S0210-48062009000300013-1,10,8,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",echo
+S0210-48062009000300013-1,10,9,"He was discharged after Leoch and was treated urgently after 5 days with poor general condition, asthenia, left lumbar pain and Hb of 8, with the hematoma being confirmed on echo and CT.",CT
+S0210-48062009000300013-1,11,1,Creatinine elevation up to 1.8.,Creatinine elevation
+S0210-48062009000300013-1,12,1,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",Leoch
+S0210-48062009000300013-1,12,2,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",Hb
+S0210-48062009000300013-1,12,3,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",administration
+S0210-48062009000300013-1,12,4,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",3 concentrated red blood cells
+S0210-48062009000300013-1,12,5,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",the persistence
+S0210-48062009000300013-1,12,6,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",intense lumbar pain
+S0210-48062009000300013-1,12,7,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",fever
+S0210-48062009000300013-1,12,8,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",38-39º C
+S0210-48062009000300013-1,12,9,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",the hematoma
+S0210-48062009000300013-1,12,10,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",a lumbar incision
+S0210-48062009000300013-1,12,11,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",the existence
+S0210-48062009000300013-1,12,12,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",subcapsular hematoma
+S0210-48062009000300013-1,12,13,"Ten days after Leoch with Hb stabilized at 8 after administration of 3 concentrated red blood cells, and given the persistence of intense lumbar pain and fever (38-39º C), the hematoma was drained through a lumbar incision, verifying the existence of subcapsular hematoma, not infected, without active bleeding.",active bleeding
+S0210-48062009000300013-1,13,1,"After 48 hours, kidney function had normalized, fever had disappeared, and he only reported moderate pain typical of lumbotomies.",48 hours
+S0210-48062009000300013-1,13,2,"After 48 hours, kidney function had normalized, fever had disappeared, and he only reported moderate pain typical of lumbotomies.",kidney function
+S0210-48062009000300013-1,13,3,"After 48 hours, kidney function had normalized, fever had disappeared, and he only reported moderate pain typical of lumbotomies.",fever
+S0210-48062009000300013-1,13,4,"After 48 hours, kidney function had normalized, fever had disappeared, and he only reported moderate pain typical of lumbotomies.",he
+S0210-48062009000300013-1,13,5,"After 48 hours, kidney function had normalized, fever had disappeared, and he only reported moderate pain typical of lumbotomies.",moderate pain
+S0210-48062009000300013-1,13,6,"After 48 hours, kidney function had normalized, fever had disappeared, and he only reported moderate pain typical of lumbotomies.",lumbotomies
+S0210-48062009000300013-1,14,1,She was discharged 4 days after the intervention.,She
+S0210-48062009000300013-1,14,2,She was discharged 4 days after the intervention.,the intervention
+S0210-48062009000300013-1,15,1,"At 2 months, renal ultrasound, IVU, and renal function were normal.",2 months
+S0210-48062009000300013-1,15,2,"At 2 months, renal ultrasound, IVU, and renal function were normal.",renal ultrasound
+S0210-48062009000300013-1,15,3,"At 2 months, renal ultrasound, IVU, and renal function were normal.",IVU
+S0210-48062009000300013-1,15,4,"At 2 months, renal ultrasound, IVU, and renal function were normal.",renal function

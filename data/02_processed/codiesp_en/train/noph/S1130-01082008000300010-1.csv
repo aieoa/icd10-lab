@@ -1,0 +1,155 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082008000300010-1,1,1,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",A 41-year-old man
+S1130-01082008000300010-1,1,2,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",no toxic habits
+S1130-01082008000300010-1,1,3,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",a history
+S1130-01082008000300010-1,1,4,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",lactose intolerance
+S1130-01082008000300010-1,1,5,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",Crohn's disease
+S1130-01082008000300010-1,1,6,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",an inflammatory pattern
+S1130-01082008000300010-1,1,7,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",ileal involvement
+S1130-01082008000300010-1,1,8,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",which
+S1130-01082008000300010-1,1,9,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",an episode
+S1130-01082008000300010-1,1,10,"A 41-year-old man with no toxic habits and a history of lactose intolerance, diagnosed in 2003 with Crohn's disease with an inflammatory pattern and ileal involvement, which debuted two years earlier with an episode of uveitis.",uveitis
+S1130-01082008000300010-1,2,1,He is currently in clinical remission without any maintenance treatment.,He
+S1130-01082008000300010-1,2,2,He is currently in clinical remission without any maintenance treatment.,clinical remission
+S1130-01082008000300010-1,2,3,He is currently in clinical remission without any maintenance treatment.,any maintenance treatment
+S1130-01082008000300010-1,3,1,"He has had a cold in the upper respiratory tract for two months, accompanied in recent days by cough, whitish expectoration and a fever of 38ºC.",He
+S1130-01082008000300010-1,3,2,"He has had a cold in the upper respiratory tract for two months, accompanied in recent days by cough, whitish expectoration and a fever of 38ºC.",a cold
+S1130-01082008000300010-1,3,3,"He has had a cold in the upper respiratory tract for two months, accompanied in recent days by cough, whitish expectoration and a fever of 38ºC.",the upper respiratory tract
+S1130-01082008000300010-1,3,4,"He has had a cold in the upper respiratory tract for two months, accompanied in recent days by cough, whitish expectoration and a fever of 38ºC.",two months
+S1130-01082008000300010-1,3,5,"He has had a cold in the upper respiratory tract for two months, accompanied in recent days by cough, whitish expectoration and a fever of 38ºC.",recent days
+S1130-01082008000300010-1,3,6,"He has had a cold in the upper respiratory tract for two months, accompanied in recent days by cough, whitish expectoration and a fever of 38ºC.",cough
+S1130-01082008000300010-1,3,7,"He has had a cold in the upper respiratory tract for two months, accompanied in recent days by cough, whitish expectoration and a fever of 38ºC.",whitish expectoration
+S1130-01082008000300010-1,3,8,"He has had a cold in the upper respiratory tract for two months, accompanied in recent days by cough, whitish expectoration and a fever of 38ºC.",a fever
+S1130-01082008000300010-1,4,1,"Initially diagnosed with right basal pneumonia, he received treatment with antibiotics and mucolytics with little improvement.",right basal pneumonia
+S1130-01082008000300010-1,4,2,"Initially diagnosed with right basal pneumonia, he received treatment with antibiotics and mucolytics with little improvement.",he
+S1130-01082008000300010-1,4,3,"Initially diagnosed with right basal pneumonia, he received treatment with antibiotics and mucolytics with little improvement.",treatment
+S1130-01082008000300010-1,4,4,"Initially diagnosed with right basal pneumonia, he received treatment with antibiotics and mucolytics with little improvement.",antibiotics
+S1130-01082008000300010-1,4,5,"Initially diagnosed with right basal pneumonia, he received treatment with antibiotics and mucolytics with little improvement.",mucolytics
+S1130-01082008000300010-1,4,6,"Initially diagnosed with right basal pneumonia, he received treatment with antibiotics and mucolytics with little improvement.",little improvement
+S1130-01082008000300010-1,5,1,"Subsequently he presented dyspnea, purulent expectoration, asthenia and loss of 8-10 kg.",he
+S1130-01082008000300010-1,5,2,"Subsequently he presented dyspnea, purulent expectoration, asthenia and loss of 8-10 kg.",dyspnea
+S1130-01082008000300010-1,5,3,"Subsequently he presented dyspnea, purulent expectoration, asthenia and loss of 8-10 kg.",purulent expectoration
+S1130-01082008000300010-1,5,4,"Subsequently he presented dyspnea, purulent expectoration, asthenia and loss of 8-10 kg.",asthenia
+S1130-01082008000300010-1,5,5,"Subsequently he presented dyspnea, purulent expectoration, asthenia and loss of 8-10 kg.",loss
+S1130-01082008000300010-1,5,6,"Subsequently he presented dyspnea, purulent expectoration, asthenia and loss of 8-10 kg.",8-10 kg
+S1130-01082008000300010-1,6,1,"After not improving, he was referred to the hospital, entering the pulmonology service.",he
+S1130-01082008000300010-1,6,2,"After not improving, he was referred to the hospital, entering the pulmonology service.",the hospital
+S1130-01082008000300010-1,6,3,"After not improving, he was referred to the hospital, entering the pulmonology service.",the pulmonology service
+S1130-01082008000300010-1,7,1,"The physical examination revealed pale skin, Tª: 37.2 ºC, and lung auscultation showed crackles at the right base.",The physical examination
+S1130-01082008000300010-1,7,2,"The physical examination revealed pale skin, Tª: 37.2 ºC, and lung auscultation showed crackles at the right base.",pale skin
+S1130-01082008000300010-1,7,3,"The physical examination revealed pale skin, Tª: 37.2 ºC, and lung auscultation showed crackles at the right base.",Tª
+S1130-01082008000300010-1,7,4,"The physical examination revealed pale skin, Tª: 37.2 ºC, and lung auscultation showed crackles at the right base.",lung auscultation
+S1130-01082008000300010-1,7,5,"The physical examination revealed pale skin, Tª: 37.2 ºC, and lung auscultation showed crackles at the right base.",crackles
+S1130-01082008000300010-1,7,6,"The physical examination revealed pale skin, Tª: 37.2 ºC, and lung auscultation showed crackles at the right base.",the right base
+S1130-01082008000300010-1,8,1,-Complementary explorations:,-Complementary explorations
+S1130-01082008000300010-1,9,1,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",Systematic
+S1130-01082008000300010-1,9,2,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",66 mm 1st hour
+S1130-01082008000300010-1,9,3,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",leukocytes
+S1130-01082008000300010-1,9,4,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.","6,900/ul"
+S1130-01082008000300010-1,9,5,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",normal formula
+S1130-01082008000300010-1,9,6,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",red blood cells
+S1130-01082008000300010-1,9,7,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.","4,570,000/ul"
+S1130-01082008000300010-1,9,8,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",Hb
+S1130-01082008000300010-1,9,9,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",11.9 g
+S1130-01082008000300010-1,9,10,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",dl
+S1130-01082008000300010-1,9,11,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",Hct
+S1130-01082008000300010-1,9,12,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.",35.6%
+S1130-01082008000300010-1,9,13,"• Systematic: ESR: 66 mm 1st hour, leukocytes: 6,900/ul with normal formula, red blood cells: 4,570,000/ul; Hb: 11.9 g/dl; Hct: 35.6%; platelets: 366,000/ul.","366,000/ul"
+S1130-01082008000300010-1,10,1,Biochemistry: no significant findings.,Biochemistry
+S1130-01082008000300010-1,10,2,Biochemistry: no significant findings.,no significant findings
+S1130-01082008000300010-1,11,1,Coagulation: normal.,Coagulation
+S1130-01082008000300010-1,12,1,Sat O2: 95%.,Sat O2
+S1130-01082008000300010-1,12,2,Sat O2: 95%.,95%
+S1130-01082008000300010-1,13,1,• Blood cultures negative for anaerobes and aerobes.,• Blood cultures
+S1130-01082008000300010-1,13,2,• Blood cultures negative for anaerobes and aerobes.,anaerobes
+S1130-01082008000300010-1,13,3,• Blood cultures negative for anaerobes and aerobes.,aerobes
+S1130-01082008000300010-1,14,1,HIV serology: negative.,HIV serology
+S1130-01082008000300010-1,15,1,Negative sputum bacteriology.,Negative sputum bacteriology
+S1130-01082008000300010-1,16,1,Bacterial Ag in urine: negative for pneumococcus and legionella.,Bacterial Ag
+S1130-01082008000300010-1,16,2,Bacterial Ag in urine: negative for pneumococcus and legionella.,urine
+S1130-01082008000300010-1,16,3,Bacterial Ag in urine: negative for pneumococcus and legionella.,pneumococcus
+S1130-01082008000300010-1,16,4,Bacterial Ag in urine: negative for pneumococcus and legionella.,legionella
+S1130-01082008000300010-1,17,1,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",Chest X
+S1130-01082008000300010-1,17,2,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",-
+S1130-01082008000300010-1,17,3,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",admission
+S1130-01082008000300010-1,17,4,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",alveolar
+S1130-01082008000300010-1,17,5,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",the right base
+S1130-01082008000300010-1,17,6,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",the left base
+S1130-01082008000300010-1,17,7,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",which
+S1130-01082008000300010-1,17,8,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",subsequent radiological controls
+S1130-01082008000300010-1,17,9,"• Chest X-ray on admission: alveolar infiltrates in the right base and minimal infiltrates in the left base, which in subsequent radiological controls become migratory to segment 6, also affecting the right middle lobe.",the right middle lobe
+S1130-01082008000300010-1,18,1,"Days later, condensation was observed in the right upper lobe, reducing the basal infiltrates.",condensation
+S1130-01082008000300010-1,18,2,"Days later, condensation was observed in the right upper lobe, reducing the basal infiltrates.",the right upper lobe
+S1130-01082008000300010-1,19,1,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,Spirometry
+S1130-01082008000300010-1,19,2,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,FVC
+S1130-01082008000300010-1,19,3,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,2.52 l
+S1130-01082008000300010-1,19,4,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,56%
+S1130-01082008000300010-1,19,5,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,FEV1
+S1130-01082008000300010-1,19,6,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,2.23 l
+S1130-01082008000300010-1,19,7,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,60%
+S1130-01082008000300010-1,19,8,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,FEV1/VC
+S1130-01082008000300010-1,19,9,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,78%
+S1130-01082008000300010-1,19,10,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,1.96 l
+S1130-01082008000300010-1,19,11,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,46%
+S1130-01082008000300010-1,19,12,• Spirometry: FVC: 2.52 l (56%); FEV1: 2.23 l (60%); FEV1/VC: 78%; MMEF25-75: 1.96 l (46%): non-obstructive ventilatory failure.,non-obstructive ventilatory failure
+S1130-01082008000300010-1,20,1,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,the right upper lobe
+S1130-01082008000300010-1,20,2,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,the right middle lobe
+S1130-01082008000300010-1,20,3,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,partial resolution
+S1130-01082008000300010-1,20,4,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,the right lower lobe
+S1130-01082008000300010-1,20,5,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,image
+S1130-01082008000300010-1,20,6,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,alveolar infiltrate
+S1130-01082008000300010-1,20,7,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,partial resolution image
+S1130-01082008000300010-1,20,8,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,the posterior segment
+S1130-01082008000300010-1,20,9,• Chest CT: extensive parenchymal consolidation in the right upper lobe; resolution consolidation and volume loss in the right middle lobe; consolidation in partial resolution in the right lower lobe with image of alveolar infiltrate and partial resolution image in the posterior segment of the left upper lobe.,the left upper lobe
+S1130-01082008000300010-1,21,1,"• After the results, fiberoptic bronchoscopy with bronchioalveolar lavage (BAL) and transbronchial biopsy (BTB) was performed: no endoluminal lesions or mucosal alteration were observed.",the results
+S1130-01082008000300010-1,21,2,"• After the results, fiberoptic bronchoscopy with bronchioalveolar lavage (BAL) and transbronchial biopsy (BTB) was performed: no endoluminal lesions or mucosal alteration were observed.",fiberoptic bronchoscopy
+S1130-01082008000300010-1,21,3,"• After the results, fiberoptic bronchoscopy with bronchioalveolar lavage (BAL) and transbronchial biopsy (BTB) was performed: no endoluminal lesions or mucosal alteration were observed.",bronchioalveolar lavage
+S1130-01082008000300010-1,21,4,"• After the results, fiberoptic bronchoscopy with bronchioalveolar lavage (BAL) and transbronchial biopsy (BTB) was performed: no endoluminal lesions or mucosal alteration were observed.",(BAL
+S1130-01082008000300010-1,21,5,"• After the results, fiberoptic bronchoscopy with bronchioalveolar lavage (BAL) and transbronchial biopsy (BTB) was performed: no endoluminal lesions or mucosal alteration were observed.",transbronchial biopsy
+S1130-01082008000300010-1,21,6,"• After the results, fiberoptic bronchoscopy with bronchioalveolar lavage (BAL) and transbronchial biopsy (BTB) was performed: no endoluminal lesions or mucosal alteration were observed.",BTB
+S1130-01082008000300010-1,21,7,"• After the results, fiberoptic bronchoscopy with bronchioalveolar lavage (BAL) and transbronchial biopsy (BTB) was performed: no endoluminal lesions or mucosal alteration were observed.",no endoluminal lesions
+S1130-01082008000300010-1,21,8,"• After the results, fiberoptic bronchoscopy with bronchioalveolar lavage (BAL) and transbronchial biopsy (BTB) was performed: no endoluminal lesions or mucosal alteration were observed.",mucosal alteration
+S1130-01082008000300010-1,22,1,"BAL microbiology: normal upper respiratory tract flora with negative Legionella, Gram, AFB and fungal culture.",BAL microbiology
+S1130-01082008000300010-1,22,2,"BAL microbiology: normal upper respiratory tract flora with negative Legionella, Gram, AFB and fungal culture.",normal upper respiratory tract flora
+S1130-01082008000300010-1,22,3,"BAL microbiology: normal upper respiratory tract flora with negative Legionella, Gram, AFB and fungal culture.",negative Legionella
+S1130-01082008000300010-1,22,4,"BAL microbiology: normal upper respiratory tract flora with negative Legionella, Gram, AFB and fungal culture.",Gram
+S1130-01082008000300010-1,22,5,"BAL microbiology: normal upper respiratory tract flora with negative Legionella, Gram, AFB and fungal culture.",AFB
+S1130-01082008000300010-1,22,6,"BAL microbiology: normal upper respiratory tract flora with negative Legionella, Gram, AFB and fungal culture.",fungal culture
+S1130-01082008000300010-1,23,1,"BAL: 80 cells/mm3, 65% macrophages, 25% lymphocytes (increased), 5% eosinophils and 5% PMN.",BAL
+S1130-01082008000300010-1,23,2,"BAL: 80 cells/mm3, 65% macrophages, 25% lymphocytes (increased), 5% eosinophils and 5% PMN.",80 cells
+S1130-01082008000300010-1,23,3,"BAL: 80 cells/mm3, 65% macrophages, 25% lymphocytes (increased), 5% eosinophils and 5% PMN.",mm3
+S1130-01082008000300010-1,23,4,"BAL: 80 cells/mm3, 65% macrophages, 25% lymphocytes (increased), 5% eosinophils and 5% PMN.",65% macrophages
+S1130-01082008000300010-1,23,5,"BAL: 80 cells/mm3, 65% macrophages, 25% lymphocytes (increased), 5% eosinophils and 5% PMN.",25% lymphocytes
+S1130-01082008000300010-1,23,6,"BAL: 80 cells/mm3, 65% macrophages, 25% lymphocytes (increased), 5% eosinophils and 5% PMN.",5% eosinophils
+S1130-01082008000300010-1,23,7,"BAL: 80 cells/mm3, 65% macrophages, 25% lymphocytes (increased), 5% eosinophils and 5% PMN.",5%
+S1130-01082008000300010-1,23,8,"BAL: 80 cells/mm3, 65% macrophages, 25% lymphocytes (increased), 5% eosinophils and 5% PMN.",PMN
+S1130-01082008000300010-1,24,1,Lymphocyte populations: CD4/CD8 ratio: 0.87.,Lymphocyte populations
+S1130-01082008000300010-1,24,2,Lymphocyte populations: CD4/CD8 ratio: 0.87.,CD4
+S1130-01082008000300010-1,24,3,Lymphocyte populations: CD4/CD8 ratio: 0.87.,CD8 ratio
+S1130-01082008000300010-1,25,1,Transbronchial biopsy: widened interalveolar septa due to chronic inflammation and fibrosis.,Transbronchial biopsy
+S1130-01082008000300010-1,25,2,Transbronchial biopsy: widened interalveolar septa due to chronic inflammation and fibrosis.,interalveolar septa
+S1130-01082008000300010-1,25,3,Transbronchial biopsy: widened interalveolar septa due to chronic inflammation and fibrosis.,chronic inflammation
+S1130-01082008000300010-1,25,4,Transbronchial biopsy: widened interalveolar septa due to chronic inflammation and fibrosis.,fibrosis
+S1130-01082008000300010-1,26,1,Alveolar cell hyperplasia with desquamation of pneumocytes in the lumen and PAS-negative granular exudate.,Alveolar cell hyperplasia
+S1130-01082008000300010-1,26,2,Alveolar cell hyperplasia with desquamation of pneumocytes in the lumen and PAS-negative granular exudate.,desquamation
+S1130-01082008000300010-1,26,3,Alveolar cell hyperplasia with desquamation of pneumocytes in the lumen and PAS-negative granular exudate.,pneumocytes
+S1130-01082008000300010-1,26,4,Alveolar cell hyperplasia with desquamation of pneumocytes in the lumen and PAS-negative granular exudate.,the lumen
+S1130-01082008000300010-1,26,5,Alveolar cell hyperplasia with desquamation of pneumocytes in the lumen and PAS-negative granular exudate.,PAS-negative granular exudate
+S1130-01082008000300010-1,27,1,Myxoid granulation tissue emerging from terminal bronchi into the lumen.,Myxoid granulation tissue
+S1130-01082008000300010-1,27,2,Myxoid granulation tissue emerging from terminal bronchi into the lumen.,the lumen
+S1130-01082008000300010-1,28,1,No granulomatous lesions or hyaline membranes.,No granulomatous lesions
+S1130-01082008000300010-1,28,2,No granulomatous lesions or hyaline membranes.,hyaline membranes
+S1130-01082008000300010-1,29,1,All of the above is compatible with organizing pneumonia with bronchiolitis obliterans.,All
+S1130-01082008000300010-1,29,2,All of the above is compatible with organizing pneumonia with bronchiolitis obliterans.,the above
+S1130-01082008000300010-1,29,3,All of the above is compatible with organizing pneumonia with bronchiolitis obliterans.,pneumonia
+S1130-01082008000300010-1,29,4,All of the above is compatible with organizing pneumonia with bronchiolitis obliterans.,bronchiolitis obliterans
+S1130-01082008000300010-1,30,1,"Treatment was started with prednisone at a dose of 1 mg/kg/day, the fever subsided and the rest of the symptoms improved.",Treatment
+S1130-01082008000300010-1,30,2,"Treatment was started with prednisone at a dose of 1 mg/kg/day, the fever subsided and the rest of the symptoms improved.",prednisone
+S1130-01082008000300010-1,30,3,"Treatment was started with prednisone at a dose of 1 mg/kg/day, the fever subsided and the rest of the symptoms improved.",a dose
+S1130-01082008000300010-1,30,4,"Treatment was started with prednisone at a dose of 1 mg/kg/day, the fever subsided and the rest of the symptoms improved.",kg
+S1130-01082008000300010-1,30,5,"Treatment was started with prednisone at a dose of 1 mg/kg/day, the fever subsided and the rest of the symptoms improved.",the fever
+S1130-01082008000300010-1,30,6,"Treatment was started with prednisone at a dose of 1 mg/kg/day, the fever subsided and the rest of the symptoms improved.",the rest
+S1130-01082008000300010-1,30,7,"Treatment was started with prednisone at a dose of 1 mg/kg/day, the fever subsided and the rest of the symptoms improved.",the symptoms
+S1130-01082008000300010-1,31,1,After one and three months the patient is asymptomatic and radiological controls are normal.,one and three months
+S1130-01082008000300010-1,31,2,After one and three months the patient is asymptomatic and radiological controls are normal.,the patient
+S1130-01082008000300010-1,31,3,After one and three months the patient is asymptomatic and radiological controls are normal.,asymptomatic and radiological controls

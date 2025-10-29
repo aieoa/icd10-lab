@@ -1,0 +1,176 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1137-66272011000300024-1,1,1,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",This
+S1137-66272011000300024-1,1,2,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",a 25-year-old patient
+S1137-66272011000300024-1,1,3,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",Ukraine
+S1137-66272011000300024-1,1,4,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",diabetes
+S1137-66272011000300024-1,1,5,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",pancreatic agenesis
+S1137-66272011000300024-1,1,6,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",5 years
+S1137-66272011000300024-1,1,7,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",our service
+S1137-66272011000300024-1,1,8,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",the Emergency Department
+S1137-66272011000300024-1,1,9,"This is a 25-year-old patient, originally from Ukraine, diagnosed with diabetes secondary to pancreatic agenesis for 5 years, admitted to our service from the Emergency Department due to non-acidotic ketotic hyperglycemic decompensation.",non-acidotic ketotic hyperglycemic decompensation
+S1137-66272011000300024-1,2,1,"Since diagnosis, the patient has had acceptable metabolic control with HbA1c less than 7% with dietary treatment and exercise.",diagnosis
+S1137-66272011000300024-1,2,2,"Since diagnosis, the patient has had acceptable metabolic control with HbA1c less than 7% with dietary treatment and exercise.",the patient
+S1137-66272011000300024-1,2,3,"Since diagnosis, the patient has had acceptable metabolic control with HbA1c less than 7% with dietary treatment and exercise.",acceptable metabolic control
+S1137-66272011000300024-1,2,4,"Since diagnosis, the patient has had acceptable metabolic control with HbA1c less than 7% with dietary treatment and exercise.",HbA1c
+S1137-66272011000300024-1,2,5,"Since diagnosis, the patient has had acceptable metabolic control with HbA1c less than 7% with dietary treatment and exercise.",less than 7%
+S1137-66272011000300024-1,2,6,"Since diagnosis, the patient has had acceptable metabolic control with HbA1c less than 7% with dietary treatment and exercise.",dietary treatment
+S1137-66272011000300024-1,2,7,"Since diagnosis, the patient has had acceptable metabolic control with HbA1c less than 7% with dietary treatment and exercise.",exercise
+S1137-66272011000300024-1,3,1,"Among her family history, she has a diabetic great-grandfather and healthy parents and siblings.",her family history
+S1137-66272011000300024-1,3,2,"Among her family history, she has a diabetic great-grandfather and healthy parents and siblings.",she
+S1137-66272011000300024-1,3,3,"Among her family history, she has a diabetic great-grandfather and healthy parents and siblings.",a diabetic great-grandfather
+S1137-66272011000300024-1,3,4,"Among her family history, she has a diabetic great-grandfather and healthy parents and siblings.",healthy parents
+S1137-66272011000300024-1,3,5,"Among her family history, she has a diabetic great-grandfather and healthy parents and siblings.",siblings
+S1137-66272011000300024-1,4,1,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",the anamnesis
+S1137-66272011000300024-1,4,2,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",admission
+S1137-66272011000300024-1,4,3,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",the patient
+S1137-66272011000300024-1,4,4,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",poor metabolic control
+S1137-66272011000300024-1,4,5,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",two months
+S1137-66272011000300024-1,4,6,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",the onset
+S1137-66272011000300024-1,4,7,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",frequent episodes
+S1137-66272011000300024-1,4,8,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",urinary infections
+S1137-66272011000300024-1,4,9,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",vulvovaginal candidiasis
+S1137-66272011000300024-1,4,10,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",paronychia
+S1137-66272011000300024-1,4,11,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",the fingers
+S1137-66272011000300024-1,4,12,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",symptoms
+S1137-66272011000300024-1,4,13,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",polydipsia
+S1137-66272011000300024-1,4,14,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",intense polyuria
+S1137-66272011000300024-1,4,15,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",and loss
+S1137-66272011000300024-1,4,16,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",6.4 kg
+S1137-66272011000300024-1,4,17,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",weight
+S1137-66272011000300024-1,4,18,"In the anamnesis, upon admission the patient reported poor metabolic control for two months, coinciding with the onset of frequent episodes of urinary infections, and recently, aggravated by vulvovaginal candidiasis and paronychia in the fingers, with symptoms of polydipsia, intense polyuria. and loss of 6.4 kg of weight during this period.",this period
+S1137-66272011000300024-1,5,1,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,the physical examination
+S1137-66272011000300024-1,5,2,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,she
+S1137-66272011000300024-1,5,3,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,167 cm
+S1137-66272011000300024-1,5,4,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,weight
+S1137-66272011000300024-1,5,5,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,38.6 kg
+S1137-66272011000300024-1,5,6,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,BMI
+S1137-66272011000300024-1,5,7,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,13.4 kg/m2
+S1137-66272011000300024-1,5,8,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,BP 120/80 mmHg
+S1137-66272011000300024-1,5,9,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,HR 116 bpm
+S1137-66272011000300024-1,5,10,In the physical examination she stands out: height 167 cm; weight 38.6 kg; BMI 13.4 kg/m2; BP 120/80 mmHg; HR 116 bpm; saturation 97%.,saturation
+S1137-66272011000300024-1,7,1,Thyroid grade 0.,Thyroid grade
+S1137-66272011000300024-1,8,1,Normal AC and AP.,Normal AC
+S1137-66272011000300024-1,8,2,Normal AC and AP.,AP
+S1137-66272011000300024-1,9,1,"Abdomen soft and depressible, not painful, without masses or megalias.",Abdomen
+S1137-66272011000300024-1,9,2,"Abdomen soft and depressible, not painful, without masses or megalias.",masses
+S1137-66272011000300024-1,9,3,"Abdomen soft and depressible, not painful, without masses or megalias.",megalias
+S1137-66272011000300024-1,10,1,MMII without edema and preserved peripheral pulses.,MMII
+S1137-66272011000300024-1,10,2,MMII without edema and preserved peripheral pulses.,edema
+S1137-66272011000300024-1,10,3,MMII without edema and preserved peripheral pulses.,preserved peripheral pulses
+S1137-66272011000300024-1,11,1,"Vibratory sensitivity, with preserved monofilament and deep tendon reflexes.",Vibratory sensitivity
+S1137-66272011000300024-1,11,2,"Vibratory sensitivity, with preserved monofilament and deep tendon reflexes.",preserved monofilament
+S1137-66272011000300024-1,12,1,Erythematous and pruritic lesions in the vulvar and perianal region suggestive of candidiasis.,Erythematous and pruritic lesions
+S1137-66272011000300024-1,12,2,Erythematous and pruritic lesions in the vulvar and perianal region suggestive of candidiasis.,the vulvar and perianal region suggestive
+S1137-66272011000300024-1,12,3,Erythematous and pruritic lesions in the vulvar and perianal region suggestive of candidiasis.,candidiasis
+S1137-66272011000300024-1,13,1,Paronychia in the fourth finger of the right hand.,Paronychia
+S1137-66272011000300024-1,13,2,Paronychia in the fourth finger of the right hand.,the fourth finger
+S1137-66272011000300024-1,13,3,Paronychia in the fourth finger of the right hand.,the right hand
+S1137-66272011000300024-1,14,1,Extensive diabetic dermopathy on legs and arms.,legs
+S1137-66272011000300024-1,14,2,Extensive diabetic dermopathy on legs and arms.,arms
+S1137-66272011000300024-1,15,1,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",Complementary tests
+S1137-66272011000300024-1,15,2,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",Normal blood count
+S1137-66272011000300024-1,15,3,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",ESR
+S1137-66272011000300024-1,15,4,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",/h
+S1137-66272011000300024-1,15,5,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",glucose
+S1137-66272011000300024-1,15,6,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",552 mg/dL
+S1137-66272011000300024-1,15,7,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",Cr
+S1137-66272011000300024-1,15,8,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",0.8 mg/mL
+S1137-66272011000300024-1,15,9,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",total cholesterol
+S1137-66272011000300024-1,15,10,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",mg/dL
+S1137-66272011000300024-1,15,11,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",LDL-C
+S1137-66272011000300024-1,15,12,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",mg/dL
+S1137-66272011000300024-1,15,13,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",HDL-C
+S1137-66272011000300024-1,15,14,"Complementary tests: Normal blood count, ESR 35 mm/h, glucose 552 mg/dL, Cr 0.8 mg/mL, total cholesterol 205 mg/dL, LDL-C 125 mg/dL, HDL-C 58 mg/dL.",mg/dL.
+S1137-66272011000300024-1,16,1,"Normal liver profile except GOT 54 IU (7-32), GPT 63 IU (5-31) and GGT 59 (7-32).",Normal liver profile
+S1137-66272011000300024-1,16,2,"Normal liver profile except GOT 54 IU (7-32), GPT 63 IU (5-31) and GGT 59 (7-32).",GOT 54 IU
+S1137-66272011000300024-1,16,3,"Normal liver profile except GOT 54 IU (7-32), GPT 63 IU (5-31) and GGT 59 (7-32).",GPT 63 IU
+S1137-66272011000300024-1,16,4,"Normal liver profile except GOT 54 IU (7-32), GPT 63 IU (5-31) and GGT 59 (7-32).",GGT
+S1137-66272011000300024-1,17,1,Albumin/creatinine ratio: 0.6µg/mgr.,Albumin/creatinine ratio
+S1137-66272011000300024-1,17,2,Albumin/creatinine ratio: 0.6µg/mgr.,0.6µg
+S1137-66272011000300024-1,17,3,Albumin/creatinine ratio: 0.6µg/mgr.,mgr
+S1137-66272011000300024-1,18,1,Urine glucose 5567 mg/dL.,Urine glucose
+S1137-66272011000300024-1,18,2,Urine glucose 5567 mg/dL.,5567 mg/dL.
+S1137-66272011000300024-1,19,1,Methyl ketone in urine 50 mg/dL.,Methyl ketone
+S1137-66272011000300024-1,19,2,Methyl ketone in urine 50 mg/dL.,urine
+S1137-66272011000300024-1,19,3,Methyl ketone in urine 50 mg/dL.,mg/dL.
+S1137-66272011000300024-1,20,1,HbA1c 16.2%.,HbA1c
+S1137-66272011000300024-1,21,1,Basal C peptide 166 pmol/L (298-2350).,Basal C
+S1137-66272011000300024-1,22,1,"Anti-GAD 0.2 KU/L (0-0.9), anti-IA2 0.2 KU/L (0-1) and anti-insulin (IAA) 77.2 nU/mL (N<40) antibodies .",Anti-GAD 0.2 KU/L
+S1137-66272011000300024-1,22,2,"Anti-GAD 0.2 KU/L (0-0.9), anti-IA2 0.2 KU/L (0-1) and anti-insulin (IAA) 77.2 nU/mL (N<40) antibodies .",anti-IA2 0.2 KU/L
+S1137-66272011000300024-1,22,3,"Anti-GAD 0.2 KU/L (0-0.9), anti-IA2 0.2 KU/L (0-1) and anti-insulin (IAA) 77.2 nU/mL (N<40) antibodies .",(IAA
+S1137-66272011000300024-1,22,4,"Anti-GAD 0.2 KU/L (0-0.9), anti-IA2 0.2 KU/L (0-1) and anti-insulin (IAA) 77.2 nU/mL (N<40) antibodies .",mL
+S1137-66272011000300024-1,22,5,"Anti-GAD 0.2 KU/L (0-0.9), anti-IA2 0.2 KU/L (0-1) and anti-insulin (IAA) 77.2 nU/mL (N<40) antibodies .",(N<40
+S1137-66272011000300024-1,23,1,IgA antitransglutaminase antibodies 0.82 KU/L (0-10).,IgA antitransglutaminase
+S1137-66272011000300024-1,23,2,IgA antitransglutaminase antibodies 0.82 KU/L (0-10).,0.82 KU/L
+S1137-66272011000300024-1,24,1,Anti-TG 149 (0-40) and anti-TPO 13.3 (0-35) antibodies.,Anti
+S1137-66272011000300024-1,24,2,Anti-TG 149 (0-40) and anti-TPO 13.3 (0-35) antibodies.,-
+S1137-66272011000300024-1,24,3,Anti-TG 149 (0-40) and anti-TPO 13.3 (0-35) antibodies.,TG
+S1137-66272011000300024-1,24,4,Anti-TG 149 (0-40) and anti-TPO 13.3 (0-35) antibodies.,anti
+S1137-66272011000300024-1,24,5,Anti-TG 149 (0-40) and anti-TPO 13.3 (0-35) antibodies.,-
+S1137-66272011000300024-1,24,6,Anti-TG 149 (0-40) and anti-TPO 13.3 (0-35) antibodies.,TPO
+S1137-66272011000300024-1,25,1,TSH 3.1,TSH
+S1137-66272011000300024-1,26,1,Gynecological examination: bicornuate uterus.,Gynecological examination
+S1137-66272011000300024-1,26,2,Gynecological examination: bicornuate uterus.,bicornuate uterus
+S1137-66272011000300024-1,27,1,Fundus examination and normal retinography.,Fundus examination
+S1137-66272011000300024-1,27,2,Fundus examination and normal retinography.,normal retinography
+S1137-66272011000300024-1,28,1,Abdominopelvic CT with contrast: dorsal agenesis of the pancreas.,Abdominopelvic CT
+S1137-66272011000300024-1,28,2,Abdominopelvic CT with contrast: dorsal agenesis of the pancreas.,contrast
+S1137-66272011000300024-1,28,3,Abdominopelvic CT with contrast: dorsal agenesis of the pancreas.,: dorsal agenesis
+S1137-66272011000300024-1,28,4,Abdominopelvic CT with contrast: dorsal agenesis of the pancreas.,the pancreas
+S1137-66272011000300024-1,29,1,"Abdominal ECHO: in the left kidney, multiple cortical cysts smaller than 1 cm, diffuse throughout the left renal parenchyma without evidence of dilation of the pyelocalyceal system or other findings.",the left kidney
+S1137-66272011000300024-1,29,2,"Abdominal ECHO: in the left kidney, multiple cortical cysts smaller than 1 cm, diffuse throughout the left renal parenchyma without evidence of dilation of the pyelocalyceal system or other findings.",multiple cortical cysts
+S1137-66272011000300024-1,29,3,"Abdominal ECHO: in the left kidney, multiple cortical cysts smaller than 1 cm, diffuse throughout the left renal parenchyma without evidence of dilation of the pyelocalyceal system or other findings.",smaller than 1 cm
+S1137-66272011000300024-1,29,4,"Abdominal ECHO: in the left kidney, multiple cortical cysts smaller than 1 cm, diffuse throughout the left renal parenchyma without evidence of dilation of the pyelocalyceal system or other findings.",the left renal parenchyma
+S1137-66272011000300024-1,29,5,"Abdominal ECHO: in the left kidney, multiple cortical cysts smaller than 1 cm, diffuse throughout the left renal parenchyma without evidence of dilation of the pyelocalyceal system or other findings.",evidence
+S1137-66272011000300024-1,29,6,"Abdominal ECHO: in the left kidney, multiple cortical cysts smaller than 1 cm, diffuse throughout the left renal parenchyma without evidence of dilation of the pyelocalyceal system or other findings.",dilation
+S1137-66272011000300024-1,29,7,"Abdominal ECHO: in the left kidney, multiple cortical cysts smaller than 1 cm, diffuse throughout the left renal parenchyma without evidence of dilation of the pyelocalyceal system or other findings.",the pyelocalyceal system
+S1137-66272011000300024-1,29,8,"Abdominal ECHO: in the left kidney, multiple cortical cysts smaller than 1 cm, diffuse throughout the left renal parenchyma without evidence of dilation of the pyelocalyceal system or other findings.",other findings
+S1137-66272011000300024-1,30,1,Normal right kidney.,Normal right kidney
+S1137-66272011000300024-1,31,1,Absence of pancreatic body and tail.,Absence
+S1137-66272011000300024-1,31,2,Absence of pancreatic body and tail.,pancreatic body
+S1137-66272011000300024-1,31,3,Absence of pancreatic body and tail.,tail
+S1137-66272011000300024-1,32,1,Exudate culture from the whitlow grew Klebsiella oxytoca and the vulvovaginal culture was positive for Candida albicans.,Exudate culture
+S1137-66272011000300024-1,32,2,Exudate culture from the whitlow grew Klebsiella oxytoca and the vulvovaginal culture was positive for Candida albicans.,the whitlow
+S1137-66272011000300024-1,32,3,Exudate culture from the whitlow grew Klebsiella oxytoca and the vulvovaginal culture was positive for Candida albicans.,Klebsiella oxytoca
+S1137-66272011000300024-1,32,4,Exudate culture from the whitlow grew Klebsiella oxytoca and the vulvovaginal culture was positive for Candida albicans.,the vulvovaginal culture
+S1137-66272011000300024-1,32,5,Exudate culture from the whitlow grew Klebsiella oxytoca and the vulvovaginal culture was positive for Candida albicans.,Candida
+S1137-66272011000300024-1,33,1,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",the suspicion
+S1137-66272011000300024-1,33,2,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",MODY type diabetes
+S1137-66272011000300024-1,33,3,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",a genetic study
+S1137-66272011000300024-1,33,4,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",semiquantitative fluorescent PCR
+S1137-66272011000300024-1,33,5,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",a heterozygous deletion
+S1137-66272011000300024-1,33,6,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",at least exons
+S1137-66272011000300024-1,33,7,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",the HNF1 β gene
+S1137-66272011000300024-1,33,8,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",which
+S1137-66272011000300024-1,33,9,"With the suspicion of MODY type diabetes, a genetic study was requested using semiquantitative fluorescent PCR, detecting a heterozygous deletion of at least exons 1 to 8 of the HNF1 β gene, which is associated with type 5.",type
+S1137-66272011000300024-1,34,1,Treatment was started with insulin glargine and insulin aspart 1.3 U/kg.,Treatment
+S1137-66272011000300024-1,34,2,Treatment was started with insulin glargine and insulin aspart 1.3 U/kg.,insulin glargine
+S1137-66272011000300024-1,34,3,Treatment was started with insulin glargine and insulin aspart 1.3 U/kg.,insulin aspart
+S1137-66272011000300024-1,34,4,Treatment was started with insulin glargine and insulin aspart 1.3 U/kg.,kg
+S1137-66272011000300024-1,35,1,"Oral fluconazole 100 mg/day (10 days) and a single-dose vaginal suppository of clotrimazole 400 mg were administered, and the fungal lesions disappeared.",Oral fluconazole
+S1137-66272011000300024-1,35,2,"Oral fluconazole 100 mg/day (10 days) and a single-dose vaginal suppository of clotrimazole 400 mg were administered, and the fungal lesions disappeared.",100 mg
+S1137-66272011000300024-1,35,3,"Oral fluconazole 100 mg/day (10 days) and a single-dose vaginal suppository of clotrimazole 400 mg were administered, and the fungal lesions disappeared.",(10 days
+S1137-66272011000300024-1,35,4,"Oral fluconazole 100 mg/day (10 days) and a single-dose vaginal suppository of clotrimazole 400 mg were administered, and the fungal lesions disappeared.",a single-dose vaginal suppository
+S1137-66272011000300024-1,35,5,"Oral fluconazole 100 mg/day (10 days) and a single-dose vaginal suppository of clotrimazole 400 mg were administered, and the fungal lesions disappeared.",clotrimazole
+S1137-66272011000300024-1,35,6,"Oral fluconazole 100 mg/day (10 days) and a single-dose vaginal suppository of clotrimazole 400 mg were administered, and the fungal lesions disappeared.",400 mg
+S1137-66272011000300024-1,35,7,"Oral fluconazole 100 mg/day (10 days) and a single-dose vaginal suppository of clotrimazole 400 mg were administered, and the fungal lesions disappeared.",the fungal lesions
+S1137-66272011000300024-1,36,1,"In subsequent controls, HbA1c levels of less than 6% were detected with a progressive decrease in insulin to 0.5 U/kg 6 months after admission.",subsequent controls
+S1137-66272011000300024-1,36,2,"In subsequent controls, HbA1c levels of less than 6% were detected with a progressive decrease in insulin to 0.5 U/kg 6 months after admission.",HbA1c levels
+S1137-66272011000300024-1,36,3,"In subsequent controls, HbA1c levels of less than 6% were detected with a progressive decrease in insulin to 0.5 U/kg 6 months after admission.",less than 6%
+S1137-66272011000300024-1,36,4,"In subsequent controls, HbA1c levels of less than 6% were detected with a progressive decrease in insulin to 0.5 U/kg 6 months after admission.",a progressive decrease
+S1137-66272011000300024-1,36,5,"In subsequent controls, HbA1c levels of less than 6% were detected with a progressive decrease in insulin to 0.5 U/kg 6 months after admission.",insulin
+S1137-66272011000300024-1,36,6,"In subsequent controls, HbA1c levels of less than 6% were detected with a progressive decrease in insulin to 0.5 U/kg 6 months after admission.",0.5 U
+S1137-66272011000300024-1,36,7,"In subsequent controls, HbA1c levels of less than 6% were detected with a progressive decrease in insulin to 0.5 U/kg 6 months after admission.",kg
+S1137-66272011000300024-1,36,8,"In subsequent controls, HbA1c levels of less than 6% were detected with a progressive decrease in insulin to 0.5 U/kg 6 months after admission.",admission
+S1137-66272011000300024-1,37,1,"Eight months later, the diabetic dermopathy disappeared and 18 months after admission, the patient has regained her initial weight and insulin requirements remain at 0.5 U/kg.",admission
+S1137-66272011000300024-1,37,2,"Eight months later, the diabetic dermopathy disappeared and 18 months after admission, the patient has regained her initial weight and insulin requirements remain at 0.5 U/kg.",the patient
+S1137-66272011000300024-1,37,3,"Eight months later, the diabetic dermopathy disappeared and 18 months after admission, the patient has regained her initial weight and insulin requirements remain at 0.5 U/kg.",her initial weight
+S1137-66272011000300024-1,37,4,"Eight months later, the diabetic dermopathy disappeared and 18 months after admission, the patient has regained her initial weight and insulin requirements remain at 0.5 U/kg.",insulin requirements
+S1137-66272011000300024-1,37,5,"Eight months later, the diabetic dermopathy disappeared and 18 months after admission, the patient has regained her initial weight and insulin requirements remain at 0.5 U/kg.",0.5 U
+S1137-66272011000300024-1,37,6,"Eight months later, the diabetic dermopathy disappeared and 18 months after admission, the patient has regained her initial weight and insulin requirements remain at 0.5 U/kg.",kg
+S1137-66272011000300024-1,38,1,Kidney function has remained within normal limits and negative microalbuminuria.,Kidney function
+S1137-66272011000300024-1,38,2,Kidney function has remained within normal limits and negative microalbuminuria.,normal limits
+S1137-66272011000300024-1,38,3,Kidney function has remained within normal limits and negative microalbuminuria.,negative microalbuminuria
+S1137-66272011000300024-1,39,1,It only maintains a slight increase in transaminases.,It
+S1137-66272011000300024-1,39,2,It only maintains a slight increase in transaminases.,a slight increase
+S1137-66272011000300024-1,39,3,It only maintains a slight increase in transaminases.,transaminases

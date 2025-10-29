@@ -1,0 +1,80 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0212-16112014000600030-2,1,1,"47-year-old male, referred to us from the Rehabilitation Service in February 2011, for evaluation of his obesity.",47-year-old male
+S0212-16112014000600030-2,1,2,"47-year-old male, referred to us from the Rehabilitation Service in February 2011, for evaluation of his obesity.",us
+S0212-16112014000600030-2,1,3,"47-year-old male, referred to us from the Rehabilitation Service in February 2011, for evaluation of his obesity.",the Rehabilitation Service
+S0212-16112014000600030-2,1,4,"47-year-old male, referred to us from the Rehabilitation Service in February 2011, for evaluation of his obesity.",February
+S0212-16112014000600030-2,1,5,"47-year-old male, referred to us from the Rehabilitation Service in February 2011, for evaluation of his obesity.",evaluation
+S0212-16112014000600030-2,1,6,"47-year-old male, referred to us from the Rehabilitation Service in February 2011, for evaluation of his obesity.",his obesity
+S0212-16112014000600030-2,2,1,"The patient had a personal history of a spinal cord injury after a work accident in 2004, with a vertebral fracture and incomplete paraplegia at the level of L1.",The patient
+S0212-16112014000600030-2,2,2,"The patient had a personal history of a spinal cord injury after a work accident in 2004, with a vertebral fracture and incomplete paraplegia at the level of L1.",a personal history
+S0212-16112014000600030-2,2,3,"The patient had a personal history of a spinal cord injury after a work accident in 2004, with a vertebral fracture and incomplete paraplegia at the level of L1.",a spinal cord injury
+S0212-16112014000600030-2,2,4,"The patient had a personal history of a spinal cord injury after a work accident in 2004, with a vertebral fracture and incomplete paraplegia at the level of L1.",a work accident
+S0212-16112014000600030-2,2,5,"The patient had a personal history of a spinal cord injury after a work accident in 2004, with a vertebral fracture and incomplete paraplegia at the level of L1.",a vertebral fracture
+S0212-16112014000600030-2,2,6,"The patient had a personal history of a spinal cord injury after a work accident in 2004, with a vertebral fracture and incomplete paraplegia at the level of L1.",incomplete paraplegia
+S0212-16112014000600030-2,2,7,"The patient had a personal history of a spinal cord injury after a work accident in 2004, with a vertebral fracture and incomplete paraplegia at the level of L1.",the level
+S0212-16112014000600030-2,2,8,"The patient had a personal history of a spinal cord injury after a work accident in 2004, with a vertebral fracture and incomplete paraplegia at the level of L1.",L1
+S0212-16112014000600030-2,3,1,He smokes more than 20 cigarettes a day and has high blood pressure that he treats with enalapril 20 / hydrochlorothiazide 12.5 every 24 hours and untreated hypertriglyceridemia.,He
+S0212-16112014000600030-2,3,2,He smokes more than 20 cigarettes a day and has high blood pressure that he treats with enalapril 20 / hydrochlorothiazide 12.5 every 24 hours and untreated hypertriglyceridemia.,more than 20 cigarettes
+S0212-16112014000600030-2,3,3,He smokes more than 20 cigarettes a day and has high blood pressure that he treats with enalapril 20 / hydrochlorothiazide 12.5 every 24 hours and untreated hypertriglyceridemia.,high blood pressure
+S0212-16112014000600030-2,3,4,He smokes more than 20 cigarettes a day and has high blood pressure that he treats with enalapril 20 / hydrochlorothiazide 12.5 every 24 hours and untreated hypertriglyceridemia.,he
+S0212-16112014000600030-2,3,5,He smokes more than 20 cigarettes a day and has high blood pressure that he treats with enalapril 20 / hydrochlorothiazide 12.5 every 24 hours and untreated hypertriglyceridemia.,enalapril 20 / hydrochlorothiazide 12.5 every 24 hours and untreated hypertriglyceridemia
+S0212-16112014000600030-2,4,1,"In the guided anamnesis, he reported a lot of difficulty in his daily life (he requires a wheelchair to move around and uses standing for transfers).",the guided anamnesis
+S0212-16112014000600030-2,4,2,"In the guided anamnesis, he reported a lot of difficulty in his daily life (he requires a wheelchair to move around and uses standing for transfers).",he
+S0212-16112014000600030-2,4,3,"In the guided anamnesis, he reported a lot of difficulty in his daily life (he requires a wheelchair to move around and uses standing for transfers).",a lot
+S0212-16112014000600030-2,4,4,"In the guided anamnesis, he reported a lot of difficulty in his daily life (he requires a wheelchair to move around and uses standing for transfers).",difficulty
+S0212-16112014000600030-2,4,5,"In the guided anamnesis, he reported a lot of difficulty in his daily life (he requires a wheelchair to move around and uses standing for transfers).",his daily life
+S0212-16112014000600030-2,4,6,"In the guided anamnesis, he reported a lot of difficulty in his daily life (he requires a wheelchair to move around and uses standing for transfers).",he
+S0212-16112014000600030-2,4,7,"In the guided anamnesis, he reported a lot of difficulty in his daily life (he requires a wheelchair to move around and uses standing for transfers).",a wheelchair
+S0212-16112014000600030-2,4,8,"In the guided anamnesis, he reported a lot of difficulty in his daily life (he requires a wheelchair to move around and uses standing for transfers).",transfers
+S0212-16112014000600030-2,5,1,He admitted to having a big appetite and snacking between meals.,He
+S0212-16112014000600030-2,5,2,He admitted to having a big appetite and snacking between meals.,a big appetite
+S0212-16112014000600030-2,5,3,He admitted to having a big appetite and snacking between meals.,meals
+S0212-16112014000600030-2,6,1,"Since 2006 he has tried several times to lose weight, without success.",he
+S0212-16112014000600030-2,6,2,"Since 2006 he has tried several times to lose weight, without success.",weight
+S0212-16112014000600030-2,6,3,"Since 2006 he has tried several times to lose weight, without success.",success
+S0212-16112014000600030-2,7,1,"On examination, he weighed 135 kg and had a height of 1.72 cm, BMI 46.62 kg/m2. tA 145/92.",examination
+S0212-16112014000600030-2,7,2,"On examination, he weighed 135 kg and had a height of 1.72 cm, BMI 46.62 kg/m2. tA 145/92.",he
+S0212-16112014000600030-2,7,3,"On examination, he weighed 135 kg and had a height of 1.72 cm, BMI 46.62 kg/m2. tA 145/92.",135 kg
+S0212-16112014000600030-2,7,4,"On examination, he weighed 135 kg and had a height of 1.72 cm, BMI 46.62 kg/m2. tA 145/92.",a height
+S0212-16112014000600030-2,7,5,"On examination, he weighed 135 kg and had a height of 1.72 cm, BMI 46.62 kg/m2. tA 145/92.",1.72 cm
+S0212-16112014000600030-2,7,6,"On examination, he weighed 135 kg and had a height of 1.72 cm, BMI 46.62 kg/m2. tA 145/92.",46.62 kg/m2
+S0212-16112014000600030-2,8,1,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,analysis
+S0212-16112014000600030-2,8,2,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,he
+S0212-16112014000600030-2,8,3,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,cholesterol
+S0212-16112014000600030-2,8,4,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,/
+S0212-16112014000600030-2,8,5,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,triglycerides
+S0212-16112014000600030-2,8,6,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,mg
+S0212-16112014000600030-2,8,7,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,/dL
+S0212-16112014000600030-2,8,8,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,HDL cholesterol
+S0212-16112014000600030-2,8,9,In analysis he highlighted cholesterol 222 mg/dl and triglycerides 260 mg/dL with HDL cholesterol 41 mg/dl.,dl
+S0212-16112014000600030-2,9,1,"After being evaluated by a multidisciplinary team at our hospital, and contraindications for surgery were ruled out, his case was approved and he underwent a laparoscopic Roux-en-Y gastric bypass in January 2014.",a multidisciplinary team
+S0212-16112014000600030-2,9,2,"After being evaluated by a multidisciplinary team at our hospital, and contraindications for surgery were ruled out, his case was approved and he underwent a laparoscopic Roux-en-Y gastric bypass in January 2014.",our hospital
+S0212-16112014000600030-2,9,3,"After being evaluated by a multidisciplinary team at our hospital, and contraindications for surgery were ruled out, his case was approved and he underwent a laparoscopic Roux-en-Y gastric bypass in January 2014.",contraindications
+S0212-16112014000600030-2,9,4,"After being evaluated by a multidisciplinary team at our hospital, and contraindications for surgery were ruled out, his case was approved and he underwent a laparoscopic Roux-en-Y gastric bypass in January 2014.",surgery
+S0212-16112014000600030-2,9,5,"After being evaluated by a multidisciplinary team at our hospital, and contraindications for surgery were ruled out, his case was approved and he underwent a laparoscopic Roux-en-Y gastric bypass in January 2014.",his case
+S0212-16112014000600030-2,9,6,"After being evaluated by a multidisciplinary team at our hospital, and contraindications for surgery were ruled out, his case was approved and he underwent a laparoscopic Roux-en-Y gastric bypass in January 2014.",he
+S0212-16112014000600030-2,9,7,"After being evaluated by a multidisciplinary team at our hospital, and contraindications for surgery were ruled out, his case was approved and he underwent a laparoscopic Roux-en-Y gastric bypass in January 2014.",a laparoscopic Roux-en-Y gastric bypass
+S0212-16112014000600030-2,9,8,"After being evaluated by a multidisciplinary team at our hospital, and contraindications for surgery were ruled out, his case was approved and he underwent a laparoscopic Roux-en-Y gastric bypass in January 2014.",January
+S0212-16112014000600030-2,10,1,"One month after surgery the patient feels well, he had no complications in the immediate postoperative period; and he currently denies vomiting.",surgery
+S0212-16112014000600030-2,10,2,"One month after surgery the patient feels well, he had no complications in the immediate postoperative period; and he currently denies vomiting.",the patient
+S0212-16112014000600030-2,10,3,"One month after surgery the patient feels well, he had no complications in the immediate postoperative period; and he currently denies vomiting.",he
+S0212-16112014000600030-2,10,4,"One month after surgery the patient feels well, he had no complications in the immediate postoperative period; and he currently denies vomiting.",no complications
+S0212-16112014000600030-2,10,5,"One month after surgery the patient feels well, he had no complications in the immediate postoperative period; and he currently denies vomiting.",the immediate postoperative period
+S0212-16112014000600030-2,10,6,"One month after surgery the patient feels well, he had no complications in the immediate postoperative period; and he currently denies vomiting.",he
+S0212-16112014000600030-2,11,1,He has less appetite and takes a fractional liquid diet.,He
+S0212-16112014000600030-2,11,2,He has less appetite and takes a fractional liquid diet.,less appetite
+S0212-16112014000600030-2,11,3,He has less appetite and takes a fractional liquid diet.,a fractional liquid diet
+S0212-16112014000600030-2,12,1,His current weight is 120 kg.,His current weight
+S0212-16112014000600030-2,12,2,His current weight is 120 kg.,120 kg
+S0212-16112014000600030-2,13,1,"From the point of view of his cormobilities, he has stopped hypotensive treatment and BP control at home is optimal (110/90).",the point
+S0212-16112014000600030-2,13,2,"From the point of view of his cormobilities, he has stopped hypotensive treatment and BP control at home is optimal (110/90).",view
+S0212-16112014000600030-2,13,3,"From the point of view of his cormobilities, he has stopped hypotensive treatment and BP control at home is optimal (110/90).",his cormobilities
+S0212-16112014000600030-2,13,4,"From the point of view of his cormobilities, he has stopped hypotensive treatment and BP control at home is optimal (110/90).",he
+S0212-16112014000600030-2,13,5,"From the point of view of his cormobilities, he has stopped hypotensive treatment and BP control at home is optimal (110/90).",hypotensive treatment
+S0212-16112014000600030-2,13,6,"From the point of view of his cormobilities, he has stopped hypotensive treatment and BP control at home is optimal (110/90).",BP control
+S0212-16112014000600030-2,13,7,"From the point of view of his cormobilities, he has stopped hypotensive treatment and BP control at home is optimal (110/90).",home
+S0212-16112014000600030-2,14,1,"Analytically, he has not presented a vitamin deficiency, with supplementation of a vitamin complex per day.",he
+S0212-16112014000600030-2,14,2,"Analytically, he has not presented a vitamin deficiency, with supplementation of a vitamin complex per day.",a vitamin deficiency
+S0212-16112014000600030-2,14,3,"Analytically, he has not presented a vitamin deficiency, with supplementation of a vitamin complex per day.",supplementation
+S0212-16112014000600030-2,14,4,"Analytically, he has not presented a vitamin deficiency, with supplementation of a vitamin complex per day.",a vitamin complex
+S0212-16112014000600030-2,14,5,"Analytically, he has not presented a vitamin deficiency, with supplementation of a vitamin complex per day.",day

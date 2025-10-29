@@ -1,0 +1,101 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142007000900010-1,1,1,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",This
+S0004-06142007000900010-1,1,2,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",a 59-year-old patient
+S0004-06142007000900010-1,1,3,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",who
+S0004-06142007000900010-1,1,4,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",a gunshot wound
+S0004-06142007000900010-1,1,5,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",an entry hole
+S0004-06142007000900010-1,1,6,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",the buttock
+S0004-06142007000900010-1,1,7,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",about 4 millimeters
+S0004-06142007000900010-1,1,8,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",diameter
+S0004-06142007000900010-1,1,9,"This is a 59-year-old patient who was admitted with a gunshot wound with an entry hole in the buttock, about 4 millimeters in diameter and no exit hole.",no exit hole
+S0004-06142007000900010-1,2,1,"He also has another gunshot wound to the right thigh with an entry hole from behind and an exit hole from the front, without affecting important structures.",He
+S0004-06142007000900010-1,2,2,"He also has another gunshot wound to the right thigh with an entry hole from behind and an exit hole from the front, without affecting important structures.",another gunshot wound
+S0004-06142007000900010-1,2,3,"He also has another gunshot wound to the right thigh with an entry hole from behind and an exit hole from the front, without affecting important structures.",the right thigh
+S0004-06142007000900010-1,2,4,"He also has another gunshot wound to the right thigh with an entry hole from behind and an exit hole from the front, without affecting important structures.",an entry hole
+S0004-06142007000900010-1,2,5,"He also has another gunshot wound to the right thigh with an entry hole from behind and an exit hole from the front, without affecting important structures.",an exit hole
+S0004-06142007000900010-1,2,6,"He also has another gunshot wound to the right thigh with an entry hole from behind and an exit hole from the front, without affecting important structures.",the front
+S0004-06142007000900010-1,2,7,"He also has another gunshot wound to the right thigh with an entry hole from behind and an exit hole from the front, without affecting important structures.",important structures
+S0004-06142007000900010-1,3,1,"The patient is conscious, oriented and with slight abdominal defense.",The patient
+S0004-06142007000900010-1,3,2,"The patient is conscious, oriented and with slight abdominal defense.",slight abdominal defense
+S0004-06142007000900010-1,4,1,"The simple abdominal x-ray shows a bullet located at the level of the pubic symphysis, as well as a fracture of the right descending ramus.",The simple abdominal x
+S0004-06142007000900010-1,4,2,"The simple abdominal x-ray shows a bullet located at the level of the pubic symphysis, as well as a fracture of the right descending ramus.",-
+S0004-06142007000900010-1,4,3,"The simple abdominal x-ray shows a bullet located at the level of the pubic symphysis, as well as a fracture of the right descending ramus.",ray
+S0004-06142007000900010-1,4,4,"The simple abdominal x-ray shows a bullet located at the level of the pubic symphysis, as well as a fracture of the right descending ramus.",a bullet
+S0004-06142007000900010-1,4,5,"The simple abdominal x-ray shows a bullet located at the level of the pubic symphysis, as well as a fracture of the right descending ramus.",the level
+S0004-06142007000900010-1,4,6,"The simple abdominal x-ray shows a bullet located at the level of the pubic symphysis, as well as a fracture of the right descending ramus.",the pubic symphysis
+S0004-06142007000900010-1,4,7,"The simple abdominal x-ray shows a bullet located at the level of the pubic symphysis, as well as a fracture of the right descending ramus.",a fracture
+S0004-06142007000900010-1,4,8,"The simple abdominal x-ray shows a bullet located at the level of the pubic symphysis, as well as a fracture of the right descending ramus.",the right descending ramus
+S0004-06142007000900010-1,5,1,"The patient arrives in retention, with catheterization being impossible, so a suprapubic catheter is placed.",The patient
+S0004-06142007000900010-1,5,2,"The patient arrives in retention, with catheterization being impossible, so a suprapubic catheter is placed.",retention
+S0004-06142007000900010-1,5,3,"The patient arrives in retention, with catheterization being impossible, so a suprapubic catheter is placed.",catheterization
+S0004-06142007000900010-1,5,4,"The patient arrives in retention, with catheterization being impossible, so a suprapubic catheter is placed.",a suprapubic catheter
+S0004-06142007000900010-1,6,1,"Afterwards, a laparotomy was performed, and no other lesions were found, and a left colostomy was performed.",a laparotomy
+S0004-06142007000900010-1,6,2,"Afterwards, a laparotomy was performed, and no other lesions were found, and a left colostomy was performed.",no other lesions
+S0004-06142007000900010-1,6,3,"Afterwards, a laparotomy was performed, and no other lesions were found, and a left colostomy was performed.",a left colostomy
+S0004-06142007000900010-1,7,1,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",a urethrogram
+S0004-06142007000900010-1,7,2,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",passage
+S0004-06142007000900010-1,7,3,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",contrast
+S0004-06142007000900010-1,7,4,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",the urethra
+S0004-06142007000900010-1,7,5,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",the rectum
+S0004-06142007000900010-1,7,6,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",which
+S0004-06142007000900010-1,7,7,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",high fever
+S0004-06142007000900010-1,7,8,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",chills
+S0004-06142007000900010-1,7,9,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",that
+S0004-06142007000900010-1,7,10,"The next day a urethrogram is performed, verifying that there is passage of contrast from the urethra to the rectum, which causes high fever with chills that lasts for a few days.",a few days
+S0004-06142007000900010-1,8,1,"Subsequently, five days after the first intervention, the patient is taken to the operating room, a colonoscopy is performed, revealing the rectal perforation.",the first intervention
+S0004-06142007000900010-1,8,2,"Subsequently, five days after the first intervention, the patient is taken to the operating room, a colonoscopy is performed, revealing the rectal perforation.",the patient
+S0004-06142007000900010-1,8,3,"Subsequently, five days after the first intervention, the patient is taken to the operating room, a colonoscopy is performed, revealing the rectal perforation.",the operating room
+S0004-06142007000900010-1,8,4,"Subsequently, five days after the first intervention, the patient is taken to the operating room, a colonoscopy is performed, revealing the rectal perforation.",a colonoscopy
+S0004-06142007000900010-1,8,5,"Subsequently, five days after the first intervention, the patient is taken to the operating room, a colonoscopy is performed, revealing the rectal perforation.",the rectal perforation
+S0004-06142007000900010-1,9,1,"Next, an endoscopic urethrotome is introduced to the prostatic urethra, visualizing the apparently large orifice that connects the urethra with the rectum.",an endoscopic urethrotome
+S0004-06142007000900010-1,9,2,"Next, an endoscopic urethrotome is introduced to the prostatic urethra, visualizing the apparently large orifice that connects the urethra with the rectum.",the prostatic urethra
+S0004-06142007000900010-1,9,3,"Next, an endoscopic urethrotome is introduced to the prostatic urethra, visualizing the apparently large orifice that connects the urethra with the rectum.",the apparently large orifice
+S0004-06142007000900010-1,9,4,"Next, an endoscopic urethrotome is introduced to the prostatic urethra, visualizing the apparently large orifice that connects the urethra with the rectum.",that
+S0004-06142007000900010-1,9,5,"Next, an endoscopic urethrotome is introduced to the prostatic urethra, visualizing the apparently large orifice that connects the urethra with the rectum.",the urethra
+S0004-06142007000900010-1,9,6,"Next, an endoscopic urethrotome is introduced to the prostatic urethra, visualizing the apparently large orifice that connects the urethra with the rectum.",the rectum
+S0004-06142007000900010-1,10,1,"Despite everything, it is possible to find the path that leads to the bladder and finally a size 18 catheter is left.",everything
+S0004-06142007000900010-1,10,2,"Despite everything, it is possible to find the path that leads to the bladder and finally a size 18 catheter is left.",it
+S0004-06142007000900010-1,10,3,"Despite everything, it is possible to find the path that leads to the bladder and finally a size 18 catheter is left.",the path
+S0004-06142007000900010-1,10,4,"Despite everything, it is possible to find the path that leads to the bladder and finally a size 18 catheter is left.",that
+S0004-06142007000900010-1,10,5,"Despite everything, it is possible to find the path that leads to the bladder and finally a size 18 catheter is left.",the bladder
+S0004-06142007000900010-1,10,6,"Despite everything, it is possible to find the path that leads to the bladder and finally a size 18 catheter is left.",a size 18 catheter
+S0004-06142007000900010-1,11,1,"Immediately afterwards, in the same surgical procedure, a laparotomy is performed up to the pubic symphysis, the abdomen is checked again, verifying that there is no injury.",the same surgical procedure
+S0004-06142007000900010-1,11,2,"Immediately afterwards, in the same surgical procedure, a laparotomy is performed up to the pubic symphysis, the abdomen is checked again, verifying that there is no injury.",a laparotomy
+S0004-06142007000900010-1,11,3,"Immediately afterwards, in the same surgical procedure, a laparotomy is performed up to the pubic symphysis, the abdomen is checked again, verifying that there is no injury.",the pubic symphysis
+S0004-06142007000900010-1,11,4,"Immediately afterwards, in the same surgical procedure, a laparotomy is performed up to the pubic symphysis, the abdomen is checked again, verifying that there is no injury.",the abdomen
+S0004-06142007000900010-1,11,5,"Immediately afterwards, in the same surgical procedure, a laparotomy is performed up to the pubic symphysis, the abdomen is checked again, verifying that there is no injury.",no injury
+S0004-06142007000900010-1,12,1,"The space of Retzius is then dissected and, using radiological control, the anterior surface of the prostate, which is hyperplastic, is palpated until the projectile is touched.",The space
+S0004-06142007000900010-1,12,2,"The space of Retzius is then dissected and, using radiological control, the anterior surface of the prostate, which is hyperplastic, is palpated until the projectile is touched.",Retzius
+S0004-06142007000900010-1,12,3,"The space of Retzius is then dissected and, using radiological control, the anterior surface of the prostate, which is hyperplastic, is palpated until the projectile is touched.",radiological control
+S0004-06142007000900010-1,12,4,"The space of Retzius is then dissected and, using radiological control, the anterior surface of the prostate, which is hyperplastic, is palpated until the projectile is touched.",the anterior surface
+S0004-06142007000900010-1,12,5,"The space of Retzius is then dissected and, using radiological control, the anterior surface of the prostate, which is hyperplastic, is palpated until the projectile is touched.",the prostate
+S0004-06142007000900010-1,12,6,"The space of Retzius is then dissected and, using radiological control, the anterior surface of the prostate, which is hyperplastic, is palpated until the projectile is touched.",which
+S0004-06142007000900010-1,12,7,"The space of Retzius is then dissected and, using radiological control, the anterior surface of the prostate, which is hyperplastic, is palpated until the projectile is touched.",the projectile
+S0004-06142007000900010-1,13,1,"Next, with a ring forceps and always under radiological control, the bullet can be grabbed and extracted.",a ring
+S0004-06142007000900010-1,13,2,"Next, with a ring forceps and always under radiological control, the bullet can be grabbed and extracted.",radiological control
+S0004-06142007000900010-1,13,3,"Next, with a ring forceps and always under radiological control, the bullet can be grabbed and extracted.",the bullet
+S0004-06142007000900010-1,14,1,The postoperative period was uneventful and the patient was discharged a few days later with the tube.,The postoperative period
+S0004-06142007000900010-1,14,2,The postoperative period was uneventful and the patient was discharged a few days later with the tube.,the patient
+S0004-06142007000900010-1,14,3,The postoperative period was uneventful and the patient was discharged a few days later with the tube.,the tube
+S0004-06142007000900010-1,15,1,"After three months the patient is asymptomatic, a new colonoscopy is performed, it is found that the rectal opening has disappeared and the colostomy is closed, without incident.",three months
+S0004-06142007000900010-1,15,2,"After three months the patient is asymptomatic, a new colonoscopy is performed, it is found that the rectal opening has disappeared and the colostomy is closed, without incident.",the patient
+S0004-06142007000900010-1,15,3,"After three months the patient is asymptomatic, a new colonoscopy is performed, it is found that the rectal opening has disappeared and the colostomy is closed, without incident.",a new colonoscopy
+S0004-06142007000900010-1,15,4,"After three months the patient is asymptomatic, a new colonoscopy is performed, it is found that the rectal opening has disappeared and the colostomy is closed, without incident.",it
+S0004-06142007000900010-1,15,5,"After three months the patient is asymptomatic, a new colonoscopy is performed, it is found that the rectal opening has disappeared and the colostomy is closed, without incident.",the rectal opening
+S0004-06142007000900010-1,15,6,"After three months the patient is asymptomatic, a new colonoscopy is performed, it is found that the rectal opening has disappeared and the colostomy is closed, without incident.",the colostomy
+S0004-06142007000900010-1,15,7,"After three months the patient is asymptomatic, a new colonoscopy is performed, it is found that the rectal opening has disappeared and the colostomy is closed, without incident.",incident
+S0004-06142007000900010-1,16,1,"However, the tube is left on for three more months, that is, a total of six months.",the tube
+S0004-06142007000900010-1,16,2,"However, the tube is left on for three more months, that is, a total of six months.",three more months
+S0004-06142007000900010-1,16,3,"However, the tube is left on for three more months, that is, a total of six months.",a total
+S0004-06142007000900010-1,16,4,"However, the tube is left on for three more months, that is, a total of six months.",six months
+S0004-06142007000900010-1,17,1,"After this time, a urethrogram is performed again, it is verified that the gap has closed and the catheter is removed.",this time
+S0004-06142007000900010-1,17,2,"After this time, a urethrogram is performed again, it is verified that the gap has closed and the catheter is removed.",a urethrogram
+S0004-06142007000900010-1,17,3,"After this time, a urethrogram is performed again, it is verified that the gap has closed and the catheter is removed.",it
+S0004-06142007000900010-1,17,4,"After this time, a urethrogram is performed again, it is verified that the gap has closed and the catheter is removed.",the gap
+S0004-06142007000900010-1,17,5,"After this time, a urethrogram is performed again, it is verified that the gap has closed and the catheter is removed.",the catheter
+S0004-06142007000900010-1,18,1,"Six months later, the patient returns for control, is asymptomatic and has normal sexual function; This time only an ultrasound was performed, which was normal and he was discharged definitively.",the patient returns
+S0004-06142007000900010-1,18,2,"Six months later, the patient returns for control, is asymptomatic and has normal sexual function; This time only an ultrasound was performed, which was normal and he was discharged definitively.",control
+S0004-06142007000900010-1,18,3,"Six months later, the patient returns for control, is asymptomatic and has normal sexual function; This time only an ultrasound was performed, which was normal and he was discharged definitively.",normal sexual function
+S0004-06142007000900010-1,18,4,"Six months later, the patient returns for control, is asymptomatic and has normal sexual function; This time only an ultrasound was performed, which was normal and he was discharged definitively.",only an ultrasound
+S0004-06142007000900010-1,18,5,"Six months later, the patient returns for control, is asymptomatic and has normal sexual function; This time only an ultrasound was performed, which was normal and he was discharged definitively.",which
+S0004-06142007000900010-1,18,6,"Six months later, the patient returns for control, is asymptomatic and has normal sexual function; This time only an ultrasound was performed, which was normal and he was discharged definitively.",he

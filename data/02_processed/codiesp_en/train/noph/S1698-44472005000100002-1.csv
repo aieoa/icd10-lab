@@ -1,0 +1,54 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1698-44472005000100002-1,1,1,"In June 2003, a 40-year-old female patient, originally from and residing in a town near Guatemala City, presented to a consultation referred by her general dentist with an asymptomatic, dark brown pigmented macule, discovered during a clinical examination. routine.",June
+S1698-44472005000100002-1,1,2,"In June 2003, a 40-year-old female patient, originally from and residing in a town near Guatemala City, presented to a consultation referred by her general dentist with an asymptomatic, dark brown pigmented macule, discovered during a clinical examination. routine.",a town
+S1698-44472005000100002-1,1,3,"In June 2003, a 40-year-old female patient, originally from and residing in a town near Guatemala City, presented to a consultation referred by her general dentist with an asymptomatic, dark brown pigmented macule, discovered during a clinical examination. routine.",Guatemala City
+S1698-44472005000100002-1,1,4,"In June 2003, a 40-year-old female patient, originally from and residing in a town near Guatemala City, presented to a consultation referred by her general dentist with an asymptomatic, dark brown pigmented macule, discovered during a clinical examination. routine.",a consultation
+S1698-44472005000100002-1,1,5,"In June 2003, a 40-year-old female patient, originally from and residing in a town near Guatemala City, presented to a consultation referred by her general dentist with an asymptomatic, dark brown pigmented macule, discovered during a clinical examination. routine.",her general dentist
+S1698-44472005000100002-1,1,6,"In June 2003, a 40-year-old female patient, originally from and residing in a town near Guatemala City, presented to a consultation referred by her general dentist with an asymptomatic, dark brown pigmented macule, discovered during a clinical examination. routine.","an asymptomatic, dark brown pigmented macule"
+S1698-44472005000100002-1,1,7,"In June 2003, a 40-year-old female patient, originally from and residing in a town near Guatemala City, presented to a consultation referred by her general dentist with an asymptomatic, dark brown pigmented macule, discovered during a clinical examination. routine.",a clinical examination
+S1698-44472005000100002-1,2,1,"The lesion was located in the anterior mucosa of the hard palate, measuring 0.5 cm in diameter.",The lesion
+S1698-44472005000100002-1,2,2,"The lesion was located in the anterior mucosa of the hard palate, measuring 0.5 cm in diameter.",the anterior mucosa
+S1698-44472005000100002-1,2,3,"The lesion was located in the anterior mucosa of the hard palate, measuring 0.5 cm in diameter.",the hard palate
+S1698-44472005000100002-1,2,4,"The lesion was located in the anterior mucosa of the hard palate, measuring 0.5 cm in diameter.",0.5 cm
+S1698-44472005000100002-1,2,5,"The lesion was located in the anterior mucosa of the hard palate, measuring 0.5 cm in diameter.",diameter
+S1698-44472005000100002-1,3,1,The patient had no significant medical history and was in good health.,The patient
+S1698-44472005000100002-1,3,2,The patient had no significant medical history and was in good health.,no significant medical history
+S1698-44472005000100002-1,3,3,The patient had no significant medical history and was in good health.,good health
+S1698-44472005000100002-1,4,1,She reported not taking any type of medication.,She
+S1698-44472005000100002-1,4,2,She reported not taking any type of medication.,any type
+S1698-44472005000100002-1,4,3,She reported not taking any type of medication.,medication
+S1698-44472005000100002-1,5,1,The patient had lost her upper incisors due to extractions and used an inadequately designed removable acrylic partial prosthesis that caused erythema due to pressure on the underlying mucosa.,The patient
+S1698-44472005000100002-1,5,2,The patient had lost her upper incisors due to extractions and used an inadequately designed removable acrylic partial prosthesis that caused erythema due to pressure on the underlying mucosa.,her upper incisors
+S1698-44472005000100002-1,5,3,The patient had lost her upper incisors due to extractions and used an inadequately designed removable acrylic partial prosthesis that caused erythema due to pressure on the underlying mucosa.,extractions
+S1698-44472005000100002-1,5,4,The patient had lost her upper incisors due to extractions and used an inadequately designed removable acrylic partial prosthesis that caused erythema due to pressure on the underlying mucosa.,an inadequately designed removable acrylic partial prosthesis
+S1698-44472005000100002-1,5,5,The patient had lost her upper incisors due to extractions and used an inadequately designed removable acrylic partial prosthesis that caused erythema due to pressure on the underlying mucosa.,that
+S1698-44472005000100002-1,5,6,The patient had lost her upper incisors due to extractions and used an inadequately designed removable acrylic partial prosthesis that caused erythema due to pressure on the underlying mucosa.,erythema
+S1698-44472005000100002-1,5,7,The patient had lost her upper incisors due to extractions and used an inadequately designed removable acrylic partial prosthesis that caused erythema due to pressure on the underlying mucosa.,pressure
+S1698-44472005000100002-1,5,8,The patient had lost her upper incisors due to extractions and used an inadequately designed removable acrylic partial prosthesis that caused erythema due to pressure on the underlying mucosa.,the underlying mucosa
+S1698-44472005000100002-1,6,1,Candidiasis was ruled out by exfoliative cytology.,Candidiasis
+S1698-44472005000100002-1,6,2,Candidiasis was ruled out by exfoliative cytology.,exfoliative cytology
+S1698-44472005000100002-1,7,1,"An excisional biopsy was performed under local anesthesia, using the punch technique with a 0.6 cm diameter instrument.",An excisional biopsy
+S1698-44472005000100002-1,7,2,"An excisional biopsy was performed under local anesthesia, using the punch technique with a 0.6 cm diameter instrument.",local anesthesia
+S1698-44472005000100002-1,7,3,"An excisional biopsy was performed under local anesthesia, using the punch technique with a 0.6 cm diameter instrument.",the punch technique
+S1698-44472005000100002-1,7,4,"An excisional biopsy was performed under local anesthesia, using the punch technique with a 0.6 cm diameter instrument.",a 0.6 cm diameter instrument
+S1698-44472005000100002-1,8,1,The surgical site healed by secondary intention without complications.,The surgical site
+S1698-44472005000100002-1,8,2,The surgical site healed by secondary intention without complications.,secondary intention
+S1698-44472005000100002-1,8,3,The surgical site healed by secondary intention without complications.,complications
+S1698-44472005000100002-1,9,1,The tissue obtained from the biopsy was fixed in 10% buffered formalin and processed routinely.,The tissue
+S1698-44472005000100002-1,9,2,The tissue obtained from the biopsy was fixed in 10% buffered formalin and processed routinely.,the biopsy
+S1698-44472005000100002-1,9,3,The tissue obtained from the biopsy was fixed in 10% buffered formalin and processed routinely.,10% buffered formalin
+S1698-44472005000100002-1,10,1,"The microscopic study of the same, with hematoxylin-eosin staining, revealed a fragment of mucosa covered by slightly acanthotic stratified squamous epithelium, with spongiosis, which contained numerous dendritic melanocytes.",The microscopic study
+S1698-44472005000100002-1,10,2,"The microscopic study of the same, with hematoxylin-eosin staining, revealed a fragment of mucosa covered by slightly acanthotic stratified squamous epithelium, with spongiosis, which contained numerous dendritic melanocytes.",hematoxylin-eosin staining
+S1698-44472005000100002-1,10,3,"The microscopic study of the same, with hematoxylin-eosin staining, revealed a fragment of mucosa covered by slightly acanthotic stratified squamous epithelium, with spongiosis, which contained numerous dendritic melanocytes.",a fragment
+S1698-44472005000100002-1,10,4,"The microscopic study of the same, with hematoxylin-eosin staining, revealed a fragment of mucosa covered by slightly acanthotic stratified squamous epithelium, with spongiosis, which contained numerous dendritic melanocytes.",mucosa
+S1698-44472005000100002-1,10,5,"The microscopic study of the same, with hematoxylin-eosin staining, revealed a fragment of mucosa covered by slightly acanthotic stratified squamous epithelium, with spongiosis, which contained numerous dendritic melanocytes.",slightly acanthotic stratified squamous epithelium
+S1698-44472005000100002-1,10,6,"The microscopic study of the same, with hematoxylin-eosin staining, revealed a fragment of mucosa covered by slightly acanthotic stratified squamous epithelium, with spongiosis, which contained numerous dendritic melanocytes.",spongiosis
+S1698-44472005000100002-1,10,7,"The microscopic study of the same, with hematoxylin-eosin staining, revealed a fragment of mucosa covered by slightly acanthotic stratified squamous epithelium, with spongiosis, which contained numerous dendritic melanocytes.",which
+S1698-44472005000100002-1,10,8,"The microscopic study of the same, with hematoxylin-eosin staining, revealed a fragment of mucosa covered by slightly acanthotic stratified squamous epithelium, with spongiosis, which contained numerous dendritic melanocytes.",numerous dendritic melanocytes
+S1698-44472005000100002-1,11,1,The underlying connective tissue showed the presence of melanin pigment admixed to a mild inflammatory infiltrate of lymphocytic predominance.,The underlying connective tissue
+S1698-44472005000100002-1,11,2,The underlying connective tissue showed the presence of melanin pigment admixed to a mild inflammatory infiltrate of lymphocytic predominance.,the presence
+S1698-44472005000100002-1,11,3,The underlying connective tissue showed the presence of melanin pigment admixed to a mild inflammatory infiltrate of lymphocytic predominance.,melanin pigment
+S1698-44472005000100002-1,11,4,The underlying connective tissue showed the presence of melanin pigment admixed to a mild inflammatory infiltrate of lymphocytic predominance.,a mild inflammatory infiltrate
+S1698-44472005000100002-1,11,5,The underlying connective tissue showed the presence of melanin pigment admixed to a mild inflammatory infiltrate of lymphocytic predominance.,lymphocytic predominance
+S1698-44472005000100002-1,12,1,The definitive diagnosis was melanoacanthosis.,The definitive diagnosis
+S1698-44472005000100002-1,12,2,The definitive diagnosis was melanoacanthosis.,melanoacanthosis

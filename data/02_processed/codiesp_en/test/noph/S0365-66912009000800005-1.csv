@@ -1,0 +1,59 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912009000800005-1,1,1,An 80-year-old woman comes to the hospital with diplopia of 7 days' duration.,An 80-year-old woman
+S0365-66912009000800005-1,1,2,An 80-year-old woman comes to the hospital with diplopia of 7 days' duration.,the hospital
+S0365-66912009000800005-1,1,3,An 80-year-old woman comes to the hospital with diplopia of 7 days' duration.,diplopia
+S0365-66912009000800005-1,1,4,An 80-year-old woman comes to the hospital with diplopia of 7 days' duration.,7 days' duration
+S0365-66912009000800005-1,2,1,The diagnosis was complete paralysis of the right third cranial nerve with pupillary involvement.,The diagnosis
+S0365-66912009000800005-1,2,2,The diagnosis was complete paralysis of the right third cranial nerve with pupillary involvement.,complete paralysis
+S0365-66912009000800005-1,2,3,The diagnosis was complete paralysis of the right third cranial nerve with pupillary involvement.,the right third cranial nerve
+S0365-66912009000800005-1,2,4,The diagnosis was complete paralysis of the right third cranial nerve with pupillary involvement.,pupillary involvement
+S0365-66912009000800005-1,3,1,"She did not report headache, jaw claudication, or stiffness in the neck and joints.",She
+S0365-66912009000800005-1,3,2,"She did not report headache, jaw claudication, or stiffness in the neck and joints.",headache
+S0365-66912009000800005-1,3,3,"She did not report headache, jaw claudication, or stiffness in the neck and joints.",jaw claudication
+S0365-66912009000800005-1,3,4,"She did not report headache, jaw claudication, or stiffness in the neck and joints.",the neck
+S0365-66912009000800005-1,3,5,"She did not report headache, jaw claudication, or stiffness in the neck and joints.",joints
+S0365-66912009000800005-1,4,1,Her personal history was only significant for high blood pressure.,Her personal history
+S0365-66912009000800005-1,4,2,Her personal history was only significant for high blood pressure.,high blood pressure
+S0365-66912009000800005-1,5,1,Her ophthalmological history was unremarkable.,Her ophthalmological history
+S0365-66912009000800005-1,6,1,Ocular motility examination in the left eye (LE) was normal.,Ocular motility examination
+S0365-66912009000800005-1,6,2,Ocular motility examination in the left eye (LE) was normal.,the left eye
+S0365-66912009000800005-1,6,3,Ocular motility examination in the left eye (LE) was normal.,LE
+S0365-66912009000800005-1,7,1,The right eye (OD) had eyelid ptosis and limited mobility in all gaze positions except abduction.,The right eye
+S0365-66912009000800005-1,7,2,The right eye (OD) had eyelid ptosis and limited mobility in all gaze positions except abduction.,OD
+S0365-66912009000800005-1,7,3,The right eye (OD) had eyelid ptosis and limited mobility in all gaze positions except abduction.,eyelid ptosis
+S0365-66912009000800005-1,7,4,The right eye (OD) had eyelid ptosis and limited mobility in all gaze positions except abduction.,limited mobility
+S0365-66912009000800005-1,7,5,The right eye (OD) had eyelid ptosis and limited mobility in all gaze positions except abduction.,all gaze positions
+S0365-66912009000800005-1,7,6,The right eye (OD) had eyelid ptosis and limited mobility in all gaze positions except abduction.,abduction
+S0365-66912009000800005-1,8,1,"The pupillary light reaction in the LE was 3 mm to 2 mm, the pupillary response in the RE was slow from 5 mm to 4 mm.",The pupillary light reaction
+S0365-66912009000800005-1,8,2,"The pupillary light reaction in the LE was 3 mm to 2 mm, the pupillary response in the RE was slow from 5 mm to 4 mm.",the LE
+S0365-66912009000800005-1,8,3,"The pupillary light reaction in the LE was 3 mm to 2 mm, the pupillary response in the RE was slow from 5 mm to 4 mm.",2 mm
+S0365-66912009000800005-1,8,4,"The pupillary light reaction in the LE was 3 mm to 2 mm, the pupillary response in the RE was slow from 5 mm to 4 mm.",the pupillary response
+S0365-66912009000800005-1,8,5,"The pupillary light reaction in the LE was 3 mm to 2 mm, the pupillary response in the RE was slow from 5 mm to 4 mm.",the RE
+S0365-66912009000800005-1,9,1,There was no afferent pupillary defect.,no afferent pupillary defect
+S0365-66912009000800005-1,10,1,Slit lamp examination was characteristic of bilateral cataract.,Slit lamp examination
+S0365-66912009000800005-1,10,2,Slit lamp examination was characteristic of bilateral cataract.,bilateral cataract
+S0365-66912009000800005-1,11,1,The fundus was normal.,The fundus
+S0365-66912009000800005-1,12,1,A cerebral magnetic resonance angiography did not detect pathology.,A cerebral magnetic resonance angiography
+S0365-66912009000800005-1,12,2,A cerebral magnetic resonance angiography did not detect pathology.,pathology
+S0365-66912009000800005-1,13,1,"In the laboratory study, the erythrocyte sedimentation rate (ESR) was 28 mm/h, C-reactive protein was 0.2 mg/dl (normal, <0.8 mg/dl) and platelets were 175,000/ml3. .",the laboratory study
+S0365-66912009000800005-1,13,2,"In the laboratory study, the erythrocyte sedimentation rate (ESR) was 28 mm/h, C-reactive protein was 0.2 mg/dl (normal, <0.8 mg/dl) and platelets were 175,000/ml3. .",the erythrocyte sedimentation rate
+S0365-66912009000800005-1,13,3,"In the laboratory study, the erythrocyte sedimentation rate (ESR) was 28 mm/h, C-reactive protein was 0.2 mg/dl (normal, <0.8 mg/dl) and platelets were 175,000/ml3. .",ESR
+S0365-66912009000800005-1,13,4,"In the laboratory study, the erythrocyte sedimentation rate (ESR) was 28 mm/h, C-reactive protein was 0.2 mg/dl (normal, <0.8 mg/dl) and platelets were 175,000/ml3. .",28 mm
+S0365-66912009000800005-1,13,5,"In the laboratory study, the erythrocyte sedimentation rate (ESR) was 28 mm/h, C-reactive protein was 0.2 mg/dl (normal, <0.8 mg/dl) and platelets were 175,000/ml3. .",/h
+S0365-66912009000800005-1,13,6,"In the laboratory study, the erythrocyte sedimentation rate (ESR) was 28 mm/h, C-reactive protein was 0.2 mg/dl (normal, <0.8 mg/dl) and platelets were 175,000/ml3. .",C-reactive protein
+S0365-66912009000800005-1,13,7,"In the laboratory study, the erythrocyte sedimentation rate (ESR) was 28 mm/h, C-reactive protein was 0.2 mg/dl (normal, <0.8 mg/dl) and platelets were 175,000/ml3. .",0.2 mg
+S0365-66912009000800005-1,13,8,"In the laboratory study, the erythrocyte sedimentation rate (ESR) was 28 mm/h, C-reactive protein was 0.2 mg/dl (normal, <0.8 mg/dl) and platelets were 175,000/ml3. .",platelets
+S0365-66912009000800005-1,14,1,"Rheumatoid factor, antinuclear antibodies, antineutrophil cytoplasmic antibodies, antiacetylcholine receptor antibodies, and luetic serology were negative.",Rheumatoid factor
+S0365-66912009000800005-1,14,2,"Rheumatoid factor, antinuclear antibodies, antineutrophil cytoplasmic antibodies, antiacetylcholine receptor antibodies, and luetic serology were negative.",antinuclear antibodies
+S0365-66912009000800005-1,14,3,"Rheumatoid factor, antinuclear antibodies, antineutrophil cytoplasmic antibodies, antiacetylcholine receptor antibodies, and luetic serology were negative.",antineutrophil cytoplasmic antibodies
+S0365-66912009000800005-1,14,4,"Rheumatoid factor, antinuclear antibodies, antineutrophil cytoplasmic antibodies, antiacetylcholine receptor antibodies, and luetic serology were negative.",antiacetylcholine receptor
+S0365-66912009000800005-1,14,5,"Rheumatoid factor, antinuclear antibodies, antineutrophil cytoplasmic antibodies, antiacetylcholine receptor antibodies, and luetic serology were negative.",luetic serology
+S0365-66912009000800005-1,15,1,The diagnosis of AT was considered and a biopsy of the temporal artery was performed.,The diagnosis
+S0365-66912009000800005-1,15,2,The diagnosis of AT was considered and a biopsy of the temporal artery was performed.,AT
+S0365-66912009000800005-1,15,3,The diagnosis of AT was considered and a biopsy of the temporal artery was performed.,a biopsy
+S0365-66912009000800005-1,15,4,The diagnosis of AT was considered and a biopsy of the temporal artery was performed.,the temporal artery
+S0365-66912009000800005-1,16,1,The pathological anatomy revealed stenosis of the arterial lumen with rupture of the internal limiting and inflammatory and giant cells.,The pathological anatomy
+S0365-66912009000800005-1,16,2,The pathological anatomy revealed stenosis of the arterial lumen with rupture of the internal limiting and inflammatory and giant cells.,stenosis
+S0365-66912009000800005-1,16,3,The pathological anatomy revealed stenosis of the arterial lumen with rupture of the internal limiting and inflammatory and giant cells.,the arterial lumen
+S0365-66912009000800005-1,16,4,The pathological anatomy revealed stenosis of the arterial lumen with rupture of the internal limiting and inflammatory and giant cells.,rupture
+S0365-66912009000800005-1,16,5,The pathological anatomy revealed stenosis of the arterial lumen with rupture of the internal limiting and inflammatory and giant cells.,the internal limiting and inflammatory and giant cells

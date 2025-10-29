@@ -1,0 +1,58 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1137-66272011000100013-3,1,1,"45-year-old male, worker in quarries for 15 years.",45-year-old male
+S1137-66272011000100013-3,1,2,"45-year-old male, worker in quarries for 15 years.",worker
+S1137-66272011000100013-3,1,3,"45-year-old male, worker in quarries for 15 years.",quarries
+S1137-66272011000100013-3,1,4,"45-year-old male, worker in quarries for 15 years.",15 years
+S1137-66272011000100013-3,2,1,Diagnosed with complicated silicosis in FMP.,complicated silicosis
+S1137-66272011000100013-3,2,2,Diagnosed with complicated silicosis in FMP.,FMP
+S1137-66272011000100013-3,3,1,"Ex-smoker for two years, 25 packs/year.",Ex
+S1137-66272011000100013-3,3,2,"Ex-smoker for two years, 25 packs/year.",two years
+S1137-66272011000100013-3,3,3,"Ex-smoker for two years, 25 packs/year.",25 packs
+S1137-66272011000100013-3,4,1,Pulmonary tuberculosis in 2007.,Pulmonary tuberculosis
+S1137-66272011000100013-3,5,1,"He attended the Emergency Department in March 2009 with threatening hemoptysis, preceded by cough and brownish sputum for 4 weeks.",He
+S1137-66272011000100013-3,5,2,"He attended the Emergency Department in March 2009 with threatening hemoptysis, preceded by cough and brownish sputum for 4 weeks.",the Emergency Department
+S1137-66272011000100013-3,5,3,"He attended the Emergency Department in March 2009 with threatening hemoptysis, preceded by cough and brownish sputum for 4 weeks.",March
+S1137-66272011000100013-3,5,4,"He attended the Emergency Department in March 2009 with threatening hemoptysis, preceded by cough and brownish sputum for 4 weeks.",threatening hemoptysis
+S1137-66272011000100013-3,5,5,"He attended the Emergency Department in March 2009 with threatening hemoptysis, preceded by cough and brownish sputum for 4 weeks.",cough and brownish sputum
+S1137-66272011000100013-3,5,6,"He attended the Emergency Department in March 2009 with threatening hemoptysis, preceded by cough and brownish sputum for 4 weeks.",4 weeks
+S1137-66272011000100013-3,6,1,The physical examination revealed normal vital signs and bilateral rhonchi on lung auscultation.,The physical examination
+S1137-66272011000100013-3,6,2,The physical examination revealed normal vital signs and bilateral rhonchi on lung auscultation.,normal vital signs
+S1137-66272011000100013-3,6,3,The physical examination revealed normal vital signs and bilateral rhonchi on lung auscultation.,bilateral rhonchi
+S1137-66272011000100013-3,6,4,The physical examination revealed normal vital signs and bilateral rhonchi on lung auscultation.,lung auscultation
+S1137-66272011000100013-3,7,1,"Serum analysis revealed leukocytosis (11,280 cells/μl with 80% neutrophils) without other alterations.",Serum analysis
+S1137-66272011000100013-3,7,2,"Serum analysis revealed leukocytosis (11,280 cells/μl with 80% neutrophils) without other alterations.",leukocytosis
+S1137-66272011000100013-3,7,3,"Serum analysis revealed leukocytosis (11,280 cells/μl with 80% neutrophils) without other alterations.","11,280 cells"
+S1137-66272011000100013-3,7,4,"Serum analysis revealed leukocytosis (11,280 cells/μl with 80% neutrophils) without other alterations.",μl
+S1137-66272011000100013-3,7,5,"Serum analysis revealed leukocytosis (11,280 cells/μl with 80% neutrophils) without other alterations.",80% neutrophils
+S1137-66272011000100013-3,7,6,"Serum analysis revealed leukocytosis (11,280 cells/μl with 80% neutrophils) without other alterations.",other alterations
+S1137-66272011000100013-3,8,1,Fiberoptic bronchoscopy revealed a large clot in the right upper lobe bronchus.,Fiberoptic bronchoscopy
+S1137-66272011000100013-3,8,2,Fiberoptic bronchoscopy revealed a large clot in the right upper lobe bronchus.,a large clot
+S1137-66272011000100013-3,8,3,Fiberoptic bronchoscopy revealed a large clot in the right upper lobe bronchus.,the right upper lobe bronchus
+S1137-66272011000100013-3,9,1,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",The CT scan
+S1137-66272011000100013-3,9,2,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",bilateral and diffuse micronodular interstitial involvement
+S1137-66272011000100013-3,9,3,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",some calcified nodules
+S1137-66272011000100013-3,9,4,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",the upper lobes
+S1137-66272011000100013-3,9,5,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",conglomerates
+S1137-66272011000100013-3,9,6,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",that
+S1137-66272011000100013-3,9,7,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",previous studies
+S1137-66272011000100013-3,9,8,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",the appearance
+S1137-66272011000100013-3,9,9,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",material
+S1137-66272011000100013-3,9,10,"The CT scan showed bilateral and diffuse micronodular interstitial involvement, some calcified nodules, predominantly in the upper lobes and conglomerates that had increased compared to previous studies, with the appearance of material inside, as well as nodular and diffuse pleural thickening.",pleural thickening
+S1137-66272011000100013-3,10,1,The culture was positive for Aspergillus fumigatus in sputum and bronchial aspirate.,The culture
+S1137-66272011000100013-3,10,2,The culture was positive for Aspergillus fumigatus in sputum and bronchial aspirate.,Aspergillus fumigatus
+S1137-66272011000100013-3,10,3,The culture was positive for Aspergillus fumigatus in sputum and bronchial aspirate.,sputum and bronchial aspirate
+S1137-66272011000100013-3,11,1,"In blood, IgG precipitins were positive and the galactomannan antigen was negative.",blood
+S1137-66272011000100013-3,11,2,"In blood, IgG precipitins were positive and the galactomannan antigen was negative.",IgG precipitins
+S1137-66272011000100013-3,11,3,"In blood, IgG precipitins were positive and the galactomannan antigen was negative.",the galactomannan antigen
+S1137-66272011000100013-3,12,1,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,Embolization
+S1137-66272011000100013-3,12,2,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,the bronchial arteries
+S1137-66272011000100013-3,12,3,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,the LSI
+S1137-66272011000100013-3,12,4,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,control
+S1137-66272011000100013-3,12,5,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,hemoptysis
+S1137-66272011000100013-3,12,6,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,treatment
+S1137-66272011000100013-3,12,7,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,voriconazole
+S1137-66272011000100013-3,12,8,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,good evolution
+S1137-66272011000100013-3,12,9,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,one year
+S1137-66272011000100013-3,12,10,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,treatment
+S1137-66272011000100013-3,12,11,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,negativization
+S1137-66272011000100013-3,12,12,Embolization of the bronchial arteries of the LSI was performed with control of hemoptysis and treatment with voriconazole was instituted with good evolution after one year of treatment with negativization of serum precipitins.,serum precipitins

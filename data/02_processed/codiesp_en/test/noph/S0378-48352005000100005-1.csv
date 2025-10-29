@@ -1,0 +1,82 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0378-48352005000100005-1,1,1,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,An 80-year-old woman
+S0378-48352005000100005-1,1,2,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,who
+S0378-48352005000100005-1,1,3,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,the presence
+S0378-48352005000100005-1,1,4,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,a tumor
+S0378-48352005000100005-1,1,5,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,her left breast
+S0378-48352005000100005-1,1,6,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,sixteen years
+S0378-48352005000100005-1,1,7,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,she
+S0378-48352005000100005-1,1,8,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,fear
+S0378-48352005000100005-1,1,9,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,the diagnosis
+S0378-48352005000100005-1,1,10,An 80-year-old woman who reported the presence of a tumor in her left breast for sixteen years that she had not wanted to consult about for fear of the diagnosis and possible treatments.,possible treatments
+S0378-48352005000100005-1,2,1,"Although she reported that at first the growth had been slow and indolent, in the last two years she had progressed to the point of self-amputation of the breast.",she
+S0378-48352005000100005-1,2,2,"Although she reported that at first the growth had been slow and indolent, in the last two years she had progressed to the point of self-amputation of the breast.",the growth
+S0378-48352005000100005-1,2,3,"Although she reported that at first the growth had been slow and indolent, in the last two years she had progressed to the point of self-amputation of the breast.",the last two years
+S0378-48352005000100005-1,2,4,"Although she reported that at first the growth had been slow and indolent, in the last two years she had progressed to the point of self-amputation of the breast.",she
+S0378-48352005000100005-1,2,5,"Although she reported that at first the growth had been slow and indolent, in the last two years she had progressed to the point of self-amputation of the breast.",the point
+S0378-48352005000100005-1,2,6,"Although she reported that at first the growth had been slow and indolent, in the last two years she had progressed to the point of self-amputation of the breast.",self-amputation
+S0378-48352005000100005-1,2,7,"Although she reported that at first the growth had been slow and indolent, in the last two years she had progressed to the point of self-amputation of the breast.",the breast
+S0378-48352005000100005-1,3,1,"She had finally attended the consultation encouraged by her family after presenting back pain and progressive dyspnea, which had become more evident in the previous weeks.",She
+S0378-48352005000100005-1,3,2,"She had finally attended the consultation encouraged by her family after presenting back pain and progressive dyspnea, which had become more evident in the previous weeks.",the consultation
+S0378-48352005000100005-1,3,3,"She had finally attended the consultation encouraged by her family after presenting back pain and progressive dyspnea, which had become more evident in the previous weeks.",her family
+S0378-48352005000100005-1,3,4,"She had finally attended the consultation encouraged by her family after presenting back pain and progressive dyspnea, which had become more evident in the previous weeks.",pain
+S0378-48352005000100005-1,3,5,"She had finally attended the consultation encouraged by her family after presenting back pain and progressive dyspnea, which had become more evident in the previous weeks.",progressive dyspnea
+S0378-48352005000100005-1,3,6,"She had finally attended the consultation encouraged by her family after presenting back pain and progressive dyspnea, which had become more evident in the previous weeks.",which
+S0378-48352005000100005-1,3,7,"She had finally attended the consultation encouraged by her family after presenting back pain and progressive dyspnea, which had become more evident in the previous weeks.",the previous weeks
+S0378-48352005000100005-1,4,1,"At that time, she had ipsilateral axillary and supraclavicular lymphadenopathy.",that time
+S0378-48352005000100005-1,4,2,"At that time, she had ipsilateral axillary and supraclavicular lymphadenopathy.",she
+S0378-48352005000100005-1,4,3,"At that time, she had ipsilateral axillary and supraclavicular lymphadenopathy.",ipsilateral axillary and supraclavicular lymphadenopathy
+S0378-48352005000100005-1,5,1,Her chest x-ray revealed signs of pleural effusion and probable carcinomatous lymphangitis.,Her chest
+S0378-48352005000100005-1,5,2,Her chest x-ray revealed signs of pleural effusion and probable carcinomatous lymphangitis.,x
+S0378-48352005000100005-1,5,3,Her chest x-ray revealed signs of pleural effusion and probable carcinomatous lymphangitis.,-
+S0378-48352005000100005-1,5,4,Her chest x-ray revealed signs of pleural effusion and probable carcinomatous lymphangitis.,ray
+S0378-48352005000100005-1,5,5,Her chest x-ray revealed signs of pleural effusion and probable carcinomatous lymphangitis.,signs
+S0378-48352005000100005-1,5,6,Her chest x-ray revealed signs of pleural effusion and probable carcinomatous lymphangitis.,pleural effusion
+S0378-48352005000100005-1,5,7,Her chest x-ray revealed signs of pleural effusion and probable carcinomatous lymphangitis.,probable carcinomatous lymphangitis
+S0378-48352005000100005-1,6,1,The bone scan showed multiple uptakes.,The bone scan
+S0378-48352005000100005-1,6,2,The bone scan showed multiple uptakes.,multiple uptakes
+S0378-48352005000100005-1,7,1,The clinical diagnosis was confirmed by puncture of a nodule that protruded above the breast bed; Cytology was compatible with infiltrating ductal carcinoma.,The clinical diagnosis
+S0378-48352005000100005-1,7,2,The clinical diagnosis was confirmed by puncture of a nodule that protruded above the breast bed; Cytology was compatible with infiltrating ductal carcinoma.,puncture
+S0378-48352005000100005-1,7,3,The clinical diagnosis was confirmed by puncture of a nodule that protruded above the breast bed; Cytology was compatible with infiltrating ductal carcinoma.,a nodule
+S0378-48352005000100005-1,7,4,The clinical diagnosis was confirmed by puncture of a nodule that protruded above the breast bed; Cytology was compatible with infiltrating ductal carcinoma.,that
+S0378-48352005000100005-1,7,5,The clinical diagnosis was confirmed by puncture of a nodule that protruded above the breast bed; Cytology was compatible with infiltrating ductal carcinoma.,the breast bed
+S0378-48352005000100005-1,7,6,The clinical diagnosis was confirmed by puncture of a nodule that protruded above the breast bed; Cytology was compatible with infiltrating ductal carcinoma.,Cytology
+S0378-48352005000100005-1,7,7,The clinical diagnosis was confirmed by puncture of a nodule that protruded above the breast bed; Cytology was compatible with infiltrating ductal carcinoma.,infiltrating ductal carcinoma
+S0378-48352005000100005-1,8,1,The patient began treatment with tamoxifen.,The patient
+S0378-48352005000100005-1,8,2,The patient began treatment with tamoxifen.,treatment
+S0378-48352005000100005-1,8,3,The patient began treatment with tamoxifen.,tamoxifen
+S0378-48352005000100005-1,9,1,"Two days later she suddenly experienced a significant worsening of her back pain, so it was necessary to increase analgesia.",she
+S0378-48352005000100005-1,9,2,"Two days later she suddenly experienced a significant worsening of her back pain, so it was necessary to increase analgesia.",a significant worsening
+S0378-48352005000100005-1,9,3,"Two days later she suddenly experienced a significant worsening of her back pain, so it was necessary to increase analgesia.",her back pain
+S0378-48352005000100005-1,9,4,"Two days later she suddenly experienced a significant worsening of her back pain, so it was necessary to increase analgesia.",it
+S0378-48352005000100005-1,9,5,"Two days later she suddenly experienced a significant worsening of her back pain, so it was necessary to increase analgesia.",analgesia
+S0378-48352005000100005-1,10,1,"In the following two weeks, the patient herself gradually withdrew the analgesics until she stopped them.",the following two weeks
+S0378-48352005000100005-1,10,2,"In the following two weeks, the patient herself gradually withdrew the analgesics until she stopped them.",the patient
+S0378-48352005000100005-1,10,3,"In the following two weeks, the patient herself gradually withdrew the analgesics until she stopped them.",herself
+S0378-48352005000100005-1,10,4,"In the following two weeks, the patient herself gradually withdrew the analgesics until she stopped them.",the analgesics
+S0378-48352005000100005-1,10,5,"In the following two weeks, the patient herself gradually withdrew the analgesics until she stopped them.",she
+S0378-48352005000100005-1,10,6,"In the following two weeks, the patient herself gradually withdrew the analgesics until she stopped them.",them
+S0378-48352005000100005-1,11,1,"After a transient elevation, both CA153 and alkaline phosphatase decreased until they reached normal levels.",a transient elevation
+S0378-48352005000100005-1,11,2,"After a transient elevation, both CA153 and alkaline phosphatase decreased until they reached normal levels.",both CA153
+S0378-48352005000100005-1,11,3,"After a transient elevation, both CA153 and alkaline phosphatase decreased until they reached normal levels.",alkaline phosphatase
+S0378-48352005000100005-1,11,4,"After a transient elevation, both CA153 and alkaline phosphatase decreased until they reached normal levels.",they
+S0378-48352005000100005-1,11,5,"After a transient elevation, both CA153 and alkaline phosphatase decreased until they reached normal levels.",normal levels
+S0378-48352005000100005-1,12,1,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",six months
+S0378-48352005000100005-1,12,2,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",a complete response
+S0378-48352005000100005-1,12,3,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",the lymphadenopathy
+S0378-48352005000100005-1,12,4,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",a small remnant
+S0378-48352005000100005-1,12,5,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",the breast bed
+S0378-48352005000100005-1,12,6,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",The scintigraphy
+S0378-48352005000100005-1,12,7,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",a certain attenuation
+S0378-48352005000100005-1,12,8,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",the hyperuptake areas
+S0378-48352005000100005-1,12,9,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",a clear improvement
+S0378-48352005000100005-1,12,10,"After six months, a complete response of the lymphadenopathy had been obtained, although a small remnant persisted in the breast bed; The scintigraphy showed a certain attenuation of the hyperuptake areas and a clear improvement in lung involvement was seen.",lung involvement
+S0378-48352005000100005-1,13,1,The patient maintained the response for 22 months.,The patient
+S0378-48352005000100005-1,13,2,The patient maintained the response for 22 months.,the response
+S0378-48352005000100005-1,13,3,The patient maintained the response for 22 months.,22 months
+S0378-48352005000100005-1,14,1,After progression she received several lines of hormonal treatment.,progression
+S0378-48352005000100005-1,14,2,After progression she received several lines of hormonal treatment.,she
+S0378-48352005000100005-1,14,3,After progression she received several lines of hormonal treatment.,several lines
+S0378-48352005000100005-1,14,4,After progression she received several lines of hormonal treatment.,hormonal treatment
+S0378-48352005000100005-1,15,1,She died 56 months after diagnosis.,She
+S0378-48352005000100005-1,15,2,She died 56 months after diagnosis.,diagnosis

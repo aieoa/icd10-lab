@@ -1,0 +1,98 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-05582015000300004-1,1,1,A 47-year-old woman came to our service 3 months after discovering a tumor in the left preauricular region.,A 47-year-old woman
+S1130-05582015000300004-1,1,2,A 47-year-old woman came to our service 3 months after discovering a tumor in the left preauricular region.,our service
+S1130-05582015000300004-1,1,3,A 47-year-old woman came to our service 3 months after discovering a tumor in the left preauricular region.,a tumor
+S1130-05582015000300004-1,1,4,A 47-year-old woman came to our service 3 months after discovering a tumor in the left preauricular region.,the left preauricular region
+S1130-05582015000300004-1,2,1,The patient reports that the lesion had a sudden onset and progressive growth.,The patient
+S1130-05582015000300004-1,2,2,The patient reports that the lesion had a sudden onset and progressive growth.,the lesion
+S1130-05582015000300004-1,2,3,The patient reports that the lesion had a sudden onset and progressive growth.,a sudden onset
+S1130-05582015000300004-1,2,4,The patient reports that the lesion had a sudden onset and progressive growth.,progressive growth
+S1130-05582015000300004-1,3,1,"She complains of pain in the left temporal, cervical and periocular region.",She
+S1130-05582015000300004-1,3,2,"She complains of pain in the left temporal, cervical and periocular region.",pain
+S1130-05582015000300004-1,3,3,"She complains of pain in the left temporal, cervical and periocular region.","the left temporal, cervical and periocular region"
+S1130-05582015000300004-1,4,1,"The only notable medical history is essential arterial hypertension under treatment with angiotensin-converting enzyme inhibitors, with no other relevant systemic alterations.",The only notable medical history
+S1130-05582015000300004-1,4,2,"The only notable medical history is essential arterial hypertension under treatment with angiotensin-converting enzyme inhibitors, with no other relevant systemic alterations.",essential arterial hypertension
+S1130-05582015000300004-1,4,3,"The only notable medical history is essential arterial hypertension under treatment with angiotensin-converting enzyme inhibitors, with no other relevant systemic alterations.",treatment
+S1130-05582015000300004-1,4,4,"The only notable medical history is essential arterial hypertension under treatment with angiotensin-converting enzyme inhibitors, with no other relevant systemic alterations.",angiotensin-converting enzyme inhibitors
+S1130-05582015000300004-1,4,5,"The only notable medical history is essential arterial hypertension under treatment with angiotensin-converting enzyme inhibitors, with no other relevant systemic alterations.",no other relevant systemic alterations
+S1130-05582015000300004-1,5,1,The physical examination revealed a nodule approximately 1.5 cm in diameter in the left preauricular region.,The physical examination
+S1130-05582015000300004-1,5,2,The physical examination revealed a nodule approximately 1.5 cm in diameter in the left preauricular region.,a nodule
+S1130-05582015000300004-1,5,3,The physical examination revealed a nodule approximately 1.5 cm in diameter in the left preauricular region.,approximately 1.5 cm
+S1130-05582015000300004-1,5,4,The physical examination revealed a nodule approximately 1.5 cm in diameter in the left preauricular region.,diameter
+S1130-05582015000300004-1,5,5,The physical examination revealed a nodule approximately 1.5 cm in diameter in the left preauricular region.,the left preauricular region
+S1130-05582015000300004-1,6,1,"On palpation, the tumor is soft, mobile and slightly tender to the touch.",palpation
+S1130-05582015000300004-1,6,2,"On palpation, the tumor is soft, mobile and slightly tender to the touch.",the tumor
+S1130-05582015000300004-1,6,3,"On palpation, the tumor is soft, mobile and slightly tender to the touch.",the touch
+S1130-05582015000300004-1,7,1,The maximum oral opening is 45 mm and there is joint clicking in both joints.,The maximum oral opening
+S1130-05582015000300004-1,7,2,The maximum oral opening is 45 mm and there is joint clicking in both joints.,45 mm
+S1130-05582015000300004-1,7,3,The maximum oral opening is 45 mm and there is joint clicking in both joints.,joint clicking
+S1130-05582015000300004-1,7,4,The maximum oral opening is 45 mm and there is joint clicking in both joints.,both joints
+S1130-05582015000300004-1,8,1,The rest of the head and neck examination is unremarkable.,The rest
+S1130-05582015000300004-1,8,2,The rest of the head and neck examination is unremarkable.,the head
+S1130-05582015000300004-1,8,3,The rest of the head and neck examination is unremarkable.,neck examination
+S1130-05582015000300004-1,9,1,Computed tomography (CT) and magnetic resonance imaging (MRI) reveal an image suggestive of a 1.8 × 1.7 × 1.4 cm cystic lesion adjacent to the upper border of the parotid gland.,Computed tomography
+S1130-05582015000300004-1,9,2,Computed tomography (CT) and magnetic resonance imaging (MRI) reveal an image suggestive of a 1.8 × 1.7 × 1.4 cm cystic lesion adjacent to the upper border of the parotid gland.,CT
+S1130-05582015000300004-1,9,3,Computed tomography (CT) and magnetic resonance imaging (MRI) reveal an image suggestive of a 1.8 × 1.7 × 1.4 cm cystic lesion adjacent to the upper border of the parotid gland.,magnetic resonance imaging
+S1130-05582015000300004-1,9,4,Computed tomography (CT) and magnetic resonance imaging (MRI) reveal an image suggestive of a 1.8 × 1.7 × 1.4 cm cystic lesion adjacent to the upper border of the parotid gland.,MRI
+S1130-05582015000300004-1,9,5,Computed tomography (CT) and magnetic resonance imaging (MRI) reveal an image suggestive of a 1.8 × 1.7 × 1.4 cm cystic lesion adjacent to the upper border of the parotid gland.,an image suggestive
+S1130-05582015000300004-1,9,6,Computed tomography (CT) and magnetic resonance imaging (MRI) reveal an image suggestive of a 1.8 × 1.7 × 1.4 cm cystic lesion adjacent to the upper border of the parotid gland.,a 1.8 × 1.7 × 1.4 cm cystic lesion
+S1130-05582015000300004-1,9,7,Computed tomography (CT) and magnetic resonance imaging (MRI) reveal an image suggestive of a 1.8 × 1.7 × 1.4 cm cystic lesion adjacent to the upper border of the parotid gland.,the upper border
+S1130-05582015000300004-1,9,8,Computed tomography (CT) and magnetic resonance imaging (MRI) reveal an image suggestive of a 1.8 × 1.7 × 1.4 cm cystic lesion adjacent to the upper border of the parotid gland.,the parotid gland
+S1130-05582015000300004-1,10,1,"MRI shows a pedicle dependent on the left TMJ, with the position of the articular meniscus and displacement of the mandibular condyle with normal open and closed mouth.",MRI
+S1130-05582015000300004-1,10,2,"MRI shows a pedicle dependent on the left TMJ, with the position of the articular meniscus and displacement of the mandibular condyle with normal open and closed mouth.",a pedicle
+S1130-05582015000300004-1,10,3,"MRI shows a pedicle dependent on the left TMJ, with the position of the articular meniscus and displacement of the mandibular condyle with normal open and closed mouth.",the left TMJ
+S1130-05582015000300004-1,10,4,"MRI shows a pedicle dependent on the left TMJ, with the position of the articular meniscus and displacement of the mandibular condyle with normal open and closed mouth.",the position
+S1130-05582015000300004-1,10,5,"MRI shows a pedicle dependent on the left TMJ, with the position of the articular meniscus and displacement of the mandibular condyle with normal open and closed mouth.",the articular
+S1130-05582015000300004-1,10,6,"MRI shows a pedicle dependent on the left TMJ, with the position of the articular meniscus and displacement of the mandibular condyle with normal open and closed mouth.",displacement
+S1130-05582015000300004-1,10,7,"MRI shows a pedicle dependent on the left TMJ, with the position of the articular meniscus and displacement of the mandibular condyle with normal open and closed mouth.",the mandibular condyle
+S1130-05582015000300004-1,10,8,"MRI shows a pedicle dependent on the left TMJ, with the position of the articular meniscus and displacement of the mandibular condyle with normal open and closed mouth.",normal open and closed mouth
+S1130-05582015000300004-1,11,1,"A fine needle aspiration was performed, which was reported as a sample consisting entirely of proteinaceous material and histiocytes, compatible with a cystic lesion.",A fine needle aspiration
+S1130-05582015000300004-1,11,2,"A fine needle aspiration was performed, which was reported as a sample consisting entirely of proteinaceous material and histiocytes, compatible with a cystic lesion.",which
+S1130-05582015000300004-1,11,3,"A fine needle aspiration was performed, which was reported as a sample consisting entirely of proteinaceous material and histiocytes, compatible with a cystic lesion.",a sample
+S1130-05582015000300004-1,11,4,"A fine needle aspiration was performed, which was reported as a sample consisting entirely of proteinaceous material and histiocytes, compatible with a cystic lesion.",proteinaceous material
+S1130-05582015000300004-1,11,5,"A fine needle aspiration was performed, which was reported as a sample consisting entirely of proteinaceous material and histiocytes, compatible with a cystic lesion.",histiocytes
+S1130-05582015000300004-1,11,6,"A fine needle aspiration was performed, which was reported as a sample consisting entirely of proteinaceous material and histiocytes, compatible with a cystic lesion.",a cystic lesion
+S1130-05582015000300004-1,12,1,"Given the findings obtained, surgical treatment is carried out through a preauricular approach, identifying the trunk of the facial nerve and its respective branches.",the findings
+S1130-05582015000300004-1,12,2,"Given the findings obtained, surgical treatment is carried out through a preauricular approach, identifying the trunk of the facial nerve and its respective branches.",surgical treatment
+S1130-05582015000300004-1,12,3,"Given the findings obtained, surgical treatment is carried out through a preauricular approach, identifying the trunk of the facial nerve and its respective branches.",a preauricular approach
+S1130-05582015000300004-1,12,4,"Given the findings obtained, surgical treatment is carried out through a preauricular approach, identifying the trunk of the facial nerve and its respective branches.",the trunk
+S1130-05582015000300004-1,12,5,"Given the findings obtained, surgical treatment is carried out through a preauricular approach, identifying the trunk of the facial nerve and its respective branches.",the facial nerve
+S1130-05582015000300004-1,12,6,"Given the findings obtained, surgical treatment is carried out through a preauricular approach, identifying the trunk of the facial nerve and its respective branches.",its respective branches
+S1130-05582015000300004-1,13,1,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",dissection
+S1130-05582015000300004-1,13,2,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",the facial nerve
+S1130-05582015000300004-1,13,3,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",it
+S1130-05582015000300004-1,13,4,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",a superficial parotidectomy
+S1130-05582015000300004-1,13,5,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",the upper portion
+S1130-05582015000300004-1,13,6,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",multiple adhesions
+S1130-05582015000300004-1,13,7,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",the lesion
+S1130-05582015000300004-1,13,8,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",the synovial cyst
+S1130-05582015000300004-1,13,9,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",the frontal branch
+S1130-05582015000300004-1,13,10,"After dissection of the facial nerve, it was decided to perform a superficial parotidectomy of the upper portion when multiple adhesions were found to the lesion, isolating the synovial cyst above the frontal branch of the facial nerve.",the facial nerve
+S1130-05582015000300004-1,14,1,"Subsequently, the pedicle that communicates the cyst with the temporomandibular joint was visualized, proceeding to its ligation and subsequent resection.",the pedicle
+S1130-05582015000300004-1,14,2,"Subsequently, the pedicle that communicates the cyst with the temporomandibular joint was visualized, proceeding to its ligation and subsequent resection.",that
+S1130-05582015000300004-1,14,3,"Subsequently, the pedicle that communicates the cyst with the temporomandibular joint was visualized, proceeding to its ligation and subsequent resection.",the cyst
+S1130-05582015000300004-1,14,4,"Subsequently, the pedicle that communicates the cyst with the temporomandibular joint was visualized, proceeding to its ligation and subsequent resection.",the temporomandibular joint
+S1130-05582015000300004-1,14,5,"Subsequently, the pedicle that communicates the cyst with the temporomandibular joint was visualized, proceeding to its ligation and subsequent resection.",its ligation
+S1130-05582015000300004-1,14,6,"Subsequently, the pedicle that communicates the cyst with the temporomandibular joint was visualized, proceeding to its ligation and subsequent resection.",subsequent resection
+S1130-05582015000300004-1,15,1,The wound was sutured in layers.,The wound
+S1130-05582015000300004-1,15,2,The wound was sutured in layers.,layers
+S1130-05582015000300004-1,16,1,The surgical specimen obtained was fixed with 10% formalin.,The surgical specimen
+S1130-05582015000300004-1,16,2,The surgical specimen obtained was fixed with 10% formalin.,10% formalin
+S1130-05582015000300004-1,17,1,Histological sections stained with hematoxylin and eosin revealed a multilocular cystic lesion.,Histological sections
+S1130-05582015000300004-1,17,2,Histological sections stained with hematoxylin and eosin revealed a multilocular cystic lesion.,hematoxylin
+S1130-05582015000300004-1,17,3,Histological sections stained with hematoxylin and eosin revealed a multilocular cystic lesion.,eosin
+S1130-05582015000300004-1,17,4,Histological sections stained with hematoxylin and eosin revealed a multilocular cystic lesion.,a multilocular cystic lesion
+S1130-05582015000300004-1,18,1,"To establish with certainty the presence of synoviocytes in the lining of the cyst, an immunohistochemical analysis is performed to confirm their existence.",certainty
+S1130-05582015000300004-1,18,2,"To establish with certainty the presence of synoviocytes in the lining of the cyst, an immunohistochemical analysis is performed to confirm their existence.",the presence
+S1130-05582015000300004-1,18,3,"To establish with certainty the presence of synoviocytes in the lining of the cyst, an immunohistochemical analysis is performed to confirm their existence.",synoviocytes
+S1130-05582015000300004-1,18,4,"To establish with certainty the presence of synoviocytes in the lining of the cyst, an immunohistochemical analysis is performed to confirm their existence.",the lining
+S1130-05582015000300004-1,18,5,"To establish with certainty the presence of synoviocytes in the lining of the cyst, an immunohistochemical analysis is performed to confirm their existence.",the cyst
+S1130-05582015000300004-1,18,6,"To establish with certainty the presence of synoviocytes in the lining of the cyst, an immunohistochemical analysis is performed to confirm their existence.",an immunohistochemical analysis
+S1130-05582015000300004-1,18,7,"To establish with certainty the presence of synoviocytes in the lining of the cyst, an immunohistochemical analysis is performed to confirm their existence.",their existence
+S1130-05582015000300004-1,19,1,"During the patient's outpatient follow-up after 9 months of evolution, she has not shown postoperative complications or signs of recurrence.",the patient's outpatient follow-up
+S1130-05582015000300004-1,19,2,"During the patient's outpatient follow-up after 9 months of evolution, she has not shown postoperative complications or signs of recurrence.",9 months
+S1130-05582015000300004-1,19,3,"During the patient's outpatient follow-up after 9 months of evolution, she has not shown postoperative complications or signs of recurrence.",evolution
+S1130-05582015000300004-1,19,4,"During the patient's outpatient follow-up after 9 months of evolution, she has not shown postoperative complications or signs of recurrence.",she
+S1130-05582015000300004-1,19,5,"During the patient's outpatient follow-up after 9 months of evolution, she has not shown postoperative complications or signs of recurrence.",postoperative complications
+S1130-05582015000300004-1,19,6,"During the patient's outpatient follow-up after 9 months of evolution, she has not shown postoperative complications or signs of recurrence.",signs
+S1130-05582015000300004-1,19,7,"During the patient's outpatient follow-up after 9 months of evolution, she has not shown postoperative complications or signs of recurrence.",recurrence

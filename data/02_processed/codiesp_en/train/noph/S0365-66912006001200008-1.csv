@@ -1,0 +1,169 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912006001200008-1,1,1,"One year and five months old male, referred by his pediatrician for strabismus.",One year and five months old male
+S0365-66912006001200008-1,1,2,"One year and five months old male, referred by his pediatrician for strabismus.",his pediatrician
+S0365-66912006001200008-1,1,3,"One year and five months old male, referred by his pediatrician for strabismus.",strabismus
+S0365-66912006001200008-1,2,1,"He presents esotropia (15 degrees) and small hypertropia in the right eye (RE), the left eye (LE) is dominant.",He
+S0365-66912006001200008-1,2,2,"He presents esotropia (15 degrees) and small hypertropia in the right eye (RE), the left eye (LE) is dominant.",esotropia
+S0365-66912006001200008-1,2,3,"He presents esotropia (15 degrees) and small hypertropia in the right eye (RE), the left eye (LE) is dominant.",15 degrees
+S0365-66912006001200008-1,2,4,"He presents esotropia (15 degrees) and small hypertropia in the right eye (RE), the left eye (LE) is dominant.",small hypertropia
+S0365-66912006001200008-1,2,5,"He presents esotropia (15 degrees) and small hypertropia in the right eye (RE), the left eye (LE) is dominant.",the right eye
+S0365-66912006001200008-1,2,6,"He presents esotropia (15 degrees) and small hypertropia in the right eye (RE), the left eye (LE) is dominant.",RE
+S0365-66912006001200008-1,2,7,"He presents esotropia (15 degrees) and small hypertropia in the right eye (RE), the left eye (LE) is dominant.",the left eye
+S0365-66912006001200008-1,2,8,"He presents esotropia (15 degrees) and small hypertropia in the right eye (RE), the left eye (LE) is dominant.",LE
+S0365-66912006001200008-1,3,1,Visual acuity (VA) is low in RE (is bothered by occluding the LE) and acceptable in LE (fixes gaze and picks up small objects).,Visual acuity
+S0365-66912006001200008-1,3,2,Visual acuity (VA) is low in RE (is bothered by occluding the LE) and acceptable in LE (fixes gaze and picks up small objects).,VA
+S0365-66912006001200008-1,3,3,Visual acuity (VA) is low in RE (is bothered by occluding the LE) and acceptable in LE (fixes gaze and picks up small objects).,RE
+S0365-66912006001200008-1,3,4,Visual acuity (VA) is low in RE (is bothered by occluding the LE) and acceptable in LE (fixes gaze and picks up small objects).,the LE
+S0365-66912006001200008-1,3,5,Visual acuity (VA) is low in RE (is bothered by occluding the LE) and acceptable in LE (fixes gaze and picks up small objects).,LE
+S0365-66912006001200008-1,3,6,Visual acuity (VA) is low in RE (is bothered by occluding the LE) and acceptable in LE (fixes gaze and picks up small objects).,fixes
+S0365-66912006001200008-1,3,7,Visual acuity (VA) is low in RE (is bothered by occluding the LE) and acceptable in LE (fixes gaze and picks up small objects).,small objects
+S0365-66912006001200008-1,4,1,The light reflection on the cornea makes us suspect eccentric fixation in both eyes.,The light reflection
+S0365-66912006001200008-1,4,2,The light reflection on the cornea makes us suspect eccentric fixation in both eyes.,the cornea
+S0365-66912006001200008-1,4,3,The light reflection on the cornea makes us suspect eccentric fixation in both eyes.,us
+S0365-66912006001200008-1,4,4,The light reflection on the cornea makes us suspect eccentric fixation in both eyes.,eccentric fixation
+S0365-66912006001200008-1,4,5,The light reflection on the cornea makes us suspect eccentric fixation in both eyes.,both eyes
+S0365-66912006001200008-1,5,1,The child had suffered febrile seizures.,The child
+S0365-66912006001200008-1,5,2,The child had suffered febrile seizures.,febrile seizures
+S0365-66912006001200008-1,6,1,"The family history highlights that his mother had chickenpox while pregnant (between 16 and 18 weeks), and that a maternal uncle suffers from Alport syndrome.",The family history
+S0365-66912006001200008-1,6,2,"The family history highlights that his mother had chickenpox while pregnant (between 16 and 18 weeks), and that a maternal uncle suffers from Alport syndrome.",his mother
+S0365-66912006001200008-1,6,3,"The family history highlights that his mother had chickenpox while pregnant (between 16 and 18 weeks), and that a maternal uncle suffers from Alport syndrome.",chickenpox
+S0365-66912006001200008-1,6,4,"The family history highlights that his mother had chickenpox while pregnant (between 16 and 18 weeks), and that a maternal uncle suffers from Alport syndrome.",a maternal uncle
+S0365-66912006001200008-1,6,5,"The family history highlights that his mother had chickenpox while pregnant (between 16 and 18 weeks), and that a maternal uncle suffers from Alport syndrome.",Alport syndrome
+S0365-66912006001200008-1,7,1,The anterior pole is normal.,The anterior pole
+S0365-66912006001200008-1,8,1,In schoscopy the neutral point is +2 in both eyes.,schoscopy
+S0365-66912006001200008-1,8,2,In schoscopy the neutral point is +2 in both eyes.,the neutral point
+S0365-66912006001200008-1,8,3,In schoscopy the neutral point is +2 in both eyes.,+2
+S0365-66912006001200008-1,8,4,In schoscopy the neutral point is +2 in both eyes.,both eyes
+S0365-66912006001200008-1,9,1,"Through indirect ophthalmoscopy, oval lesions were seen in both macules, predominantly in the temporal half, suggestive of old retinochoroiditis, with normal periphery.",indirect ophthalmoscopy
+S0365-66912006001200008-1,9,2,"Through indirect ophthalmoscopy, oval lesions were seen in both macules, predominantly in the temporal half, suggestive of old retinochoroiditis, with normal periphery.",oval lesions
+S0365-66912006001200008-1,9,3,"Through indirect ophthalmoscopy, oval lesions were seen in both macules, predominantly in the temporal half, suggestive of old retinochoroiditis, with normal periphery.",both macules
+S0365-66912006001200008-1,9,4,"Through indirect ophthalmoscopy, oval lesions were seen in both macules, predominantly in the temporal half, suggestive of old retinochoroiditis, with normal periphery.",the temporal half
+S0365-66912006001200008-1,9,5,"Through indirect ophthalmoscopy, oval lesions were seen in both macules, predominantly in the temporal half, suggestive of old retinochoroiditis, with normal periphery.",old retinochoroiditis
+S0365-66912006001200008-1,9,6,"Through indirect ophthalmoscopy, oval lesions were seen in both macules, predominantly in the temporal half, suggestive of old retinochoroiditis, with normal periphery.",normal periphery
+S0365-66912006001200008-1,10,1,"In the RE it is larger, highly pigmented and with whitish glial tissue in the center; The temporal arches are curved towards the pathological area, and there is temporal parapapillary atrophy.",the RE
+S0365-66912006001200008-1,10,2,"In the RE it is larger, highly pigmented and with whitish glial tissue in the center; The temporal arches are curved towards the pathological area, and there is temporal parapapillary atrophy.",it
+S0365-66912006001200008-1,10,3,"In the RE it is larger, highly pigmented and with whitish glial tissue in the center; The temporal arches are curved towards the pathological area, and there is temporal parapapillary atrophy.",whitish glial tissue
+S0365-66912006001200008-1,10,4,"In the RE it is larger, highly pigmented and with whitish glial tissue in the center; The temporal arches are curved towards the pathological area, and there is temporal parapapillary atrophy.",the center
+S0365-66912006001200008-1,10,5,"In the RE it is larger, highly pigmented and with whitish glial tissue in the center; The temporal arches are curved towards the pathological area, and there is temporal parapapillary atrophy.",The temporal arches
+S0365-66912006001200008-1,10,6,"In the RE it is larger, highly pigmented and with whitish glial tissue in the center; The temporal arches are curved towards the pathological area, and there is temporal parapapillary atrophy.",the pathological area
+S0365-66912006001200008-1,10,7,"In the RE it is larger, highly pigmented and with whitish glial tissue in the center; The temporal arches are curved towards the pathological area, and there is temporal parapapillary atrophy.",temporal parapapillary atrophy
+S0365-66912006001200008-1,11,1,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",the LE
+S0365-66912006001200008-1,11,2,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",a well-defined chorioretinal atrophy
+S0365-66912006001200008-1,11,3,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",pigmented edges
+S0365-66912006001200008-1,11,4,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",normal retinal vessels
+S0365-66912006001200008-1,11,5,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",some choroids
+S0365-66912006001200008-1,11,6,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",the sclera
+S0365-66912006001200008-1,11,7,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",clusters
+S0365-66912006001200008-1,11,8,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",pigment
+S0365-66912006001200008-1,11,9,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",scleral ectasia
+S0365-66912006001200008-1,11,10,"In the LE there is a well-defined chorioretinal atrophy, with pigmented edges, normal retinal vessels and some choroids on the sclera with clusters of pigment; scleral ectasia is seen under the retina.",the retina
+S0365-66912006001200008-1,12,1,The child does not present nystagmus or other ocular or systemic lesions.,The child
+S0365-66912006001200008-1,12,2,The child does not present nystagmus or other ocular or systemic lesions.,nystagmus
+S0365-66912006001200008-1,12,3,The child does not present nystagmus or other ocular or systemic lesions.,other ocular or systemic lesions
+S0365-66912006001200008-1,13,1,The skull x-ray is normal.,The skull
+S0365-66912006001200008-1,13,2,The skull x-ray is normal.,x
+S0365-66912006001200008-1,13,3,The skull x-ray is normal.,-
+S0365-66912006001200008-1,13,4,The skull x-ray is normal.,ray
+S0365-66912006001200008-1,14,1,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",intrauterine ocular infection
+S0365-66912006001200008-1,14,2,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",serology
+S0365-66912006001200008-1,14,3,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",TORCH
+S0365-66912006001200008-1,14,4,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",(acronym
+S0365-66912006001200008-1,14,5,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",Toxoplasma
+S0365-66912006001200008-1,14,6,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",Rubella
+S0365-66912006001200008-1,14,7,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",Cytomegalovirus
+S0365-66912006001200008-1,14,8,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",Herpes
+S0365-66912006001200008-1,14,9,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",syphilis
+S0365-66912006001200008-1,14,10,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",lymphocytic choriomeningitis virus
+S0365-66912006001200008-1,14,11,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",the child
+S0365-66912006001200008-1,14,12,"If intrauterine ocular infection is suspected, serology is requested for TORCH (acronym for Toxoplasma, Rubella, Cytomegalovirus and Herpes), syphilis and lymphocytic choriomeningitis virus, for the child and the mother.",the mother
+S0365-66912006001200008-1,15,1,"Both are negative for toxoplasma (both IgG 0.14 IU/ml, by enzyme immunoassay, EIA).",Both
+S0365-66912006001200008-1,15,2,"Both are negative for toxoplasma (both IgG 0.14 IU/ml, by enzyme immunoassay, EIA).",toxoplasma
+S0365-66912006001200008-1,15,3,"Both are negative for toxoplasma (both IgG 0.14 IU/ml, by enzyme immunoassay, EIA).",both
+S0365-66912006001200008-1,15,4,"Both are negative for toxoplasma (both IgG 0.14 IU/ml, by enzyme immunoassay, EIA).",0.14 IU
+S0365-66912006001200008-1,15,5,"Both are negative for toxoplasma (both IgG 0.14 IU/ml, by enzyme immunoassay, EIA).",ml
+S0365-66912006001200008-1,15,6,"Both are negative for toxoplasma (both IgG 0.14 IU/ml, by enzyme immunoassay, EIA).",enzyme immunoassay
+S0365-66912006001200008-1,15,7,"Both are negative for toxoplasma (both IgG 0.14 IU/ml, by enzyme immunoassay, EIA).",EIA
+S0365-66912006001200008-1,16,1,"Cytomegalovirus, child negative, mother positive with low titers (Ig G 2.1 Index, by EIA).",Cytomegalovirus
+S0365-66912006001200008-1,16,2,"Cytomegalovirus, child negative, mother positive with low titers (Ig G 2.1 Index, by EIA).",child negative
+S0365-66912006001200008-1,16,3,"Cytomegalovirus, child negative, mother positive with low titers (Ig G 2.1 Index, by EIA).",mother
+S0365-66912006001200008-1,16,4,"Cytomegalovirus, child negative, mother positive with low titers (Ig G 2.1 Index, by EIA).",low titers
+S0365-66912006001200008-1,16,5,"Cytomegalovirus, child negative, mother positive with low titers (Ig G 2.1 Index, by EIA).",Ig
+S0365-66912006001200008-1,16,6,"Cytomegalovirus, child negative, mother positive with low titers (Ig G 2.1 Index, by EIA).",G
+S0365-66912006001200008-1,16,7,"Cytomegalovirus, child negative, mother positive with low titers (Ig G 2.1 Index, by EIA).",EIA
+S0365-66912006001200008-1,17,1,"Herpes type I, negative child, positive mother with low titers (IgG 2 Index, by EIA).",Herpes
+S0365-66912006001200008-1,17,2,"Herpes type I, negative child, positive mother with low titers (IgG 2 Index, by EIA).",I
+S0365-66912006001200008-1,17,3,"Herpes type I, negative child, positive mother with low titers (IgG 2 Index, by EIA).",negative child
+S0365-66912006001200008-1,17,4,"Herpes type I, negative child, positive mother with low titers (IgG 2 Index, by EIA).",positive mother
+S0365-66912006001200008-1,17,5,"Herpes type I, negative child, positive mother with low titers (IgG 2 Index, by EIA).",low titers
+S0365-66912006001200008-1,17,6,"Herpes type I, negative child, positive mother with low titers (IgG 2 Index, by EIA).",IgG 2 Index
+S0365-66912006001200008-1,17,7,"Herpes type I, negative child, positive mother with low titers (IgG 2 Index, by EIA).",EIA
+S0365-66912006001200008-1,18,1,"Herpes type II, negative child, positive mother with low titers (IgG 2.39 Index, by EIA).",Herpes type II
+S0365-66912006001200008-1,18,2,"Herpes type II, negative child, positive mother with low titers (IgG 2.39 Index, by EIA).",negative child
+S0365-66912006001200008-1,18,3,"Herpes type II, negative child, positive mother with low titers (IgG 2.39 Index, by EIA).",positive mother
+S0365-66912006001200008-1,18,4,"Herpes type II, negative child, positive mother with low titers (IgG 2.39 Index, by EIA).",low titers
+S0365-66912006001200008-1,18,5,"Herpes type II, negative child, positive mother with low titers (IgG 2.39 Index, by EIA).",IgG
+S0365-66912006001200008-1,18,6,"Herpes type II, negative child, positive mother with low titers (IgG 2.39 Index, by EIA).",2.39 Index
+S0365-66912006001200008-1,18,7,"Herpes type II, negative child, positive mother with low titers (IgG 2.39 Index, by EIA).",EIA
+S0365-66912006001200008-1,19,1,"Varicella-zoster virus, child negative, mother positive with high titers (IgG 2.68 Index and IgM negative, by EIA).",Varicella-zoster virus
+S0365-66912006001200008-1,19,2,"Varicella-zoster virus, child negative, mother positive with high titers (IgG 2.68 Index and IgM negative, by EIA).",child negative
+S0365-66912006001200008-1,19,3,"Varicella-zoster virus, child negative, mother positive with high titers (IgG 2.68 Index and IgM negative, by EIA).",mother
+S0365-66912006001200008-1,19,4,"Varicella-zoster virus, child negative, mother positive with high titers (IgG 2.68 Index and IgM negative, by EIA).",high titers
+S0365-66912006001200008-1,19,5,"Varicella-zoster virus, child negative, mother positive with high titers (IgG 2.68 Index and IgM negative, by EIA).",IgG 2.68 Index
+S0365-66912006001200008-1,19,6,"Varicella-zoster virus, child negative, mother positive with high titers (IgG 2.68 Index and IgM negative, by EIA).",IgM
+S0365-66912006001200008-1,19,7,"Varicella-zoster virus, child negative, mother positive with high titers (IgG 2.68 Index and IgM negative, by EIA).",EIA
+S0365-66912006001200008-1,20,1,"Syphilis, RPR mother and son negative.",Syphilis
+S0365-66912006001200008-1,20,2,"Syphilis, RPR mother and son negative.",RPR mother
+S0365-66912006001200008-1,20,3,"Syphilis, RPR mother and son negative.",son
+S0365-66912006001200008-1,21,1,"Rubella, both positive when vaccinated (child IgG 59.3 IU/ml, mother IgG 113.7 IU/ml, by EIA).",Rubella
+S0365-66912006001200008-1,21,2,"Rubella, both positive when vaccinated (child IgG 59.3 IU/ml, mother IgG 113.7 IU/ml, by EIA).",child
+S0365-66912006001200008-1,21,3,"Rubella, both positive when vaccinated (child IgG 59.3 IU/ml, mother IgG 113.7 IU/ml, by EIA).",mother
+S0365-66912006001200008-1,21,4,"Rubella, both positive when vaccinated (child IgG 59.3 IU/ml, mother IgG 113.7 IU/ml, by EIA).",IU
+S0365-66912006001200008-1,21,5,"Rubella, both positive when vaccinated (child IgG 59.3 IU/ml, mother IgG 113.7 IU/ml, by EIA).",ml
+S0365-66912006001200008-1,21,6,"Rubella, both positive when vaccinated (child IgG 59.3 IU/ml, mother IgG 113.7 IU/ml, by EIA).",EIA
+S0365-66912006001200008-1,22,1,"Lymphocytic choriomeningitis virus, both positive, but with low titers that are not significant (IgG 1/32, by indirect immunofluorescence).",Lymphocytic choriomeningitis virus
+S0365-66912006001200008-1,22,2,"Lymphocytic choriomeningitis virus, both positive, but with low titers that are not significant (IgG 1/32, by indirect immunofluorescence).",low titers
+S0365-66912006001200008-1,22,3,"Lymphocytic choriomeningitis virus, both positive, but with low titers that are not significant (IgG 1/32, by indirect immunofluorescence).",that
+S0365-66912006001200008-1,22,4,"Lymphocytic choriomeningitis virus, both positive, but with low titers that are not significant (IgG 1/32, by indirect immunofluorescence).",indirect immunofluorescence
+S0365-66912006001200008-1,23,1,"All of this allows us to rule out an infectious etiology, since the child's antibodies are not elevated, and suggests that it is a bilateral atypical macular coloboma.",All
+S0365-66912006001200008-1,23,2,"All of this allows us to rule out an infectious etiology, since the child's antibodies are not elevated, and suggests that it is a bilateral atypical macular coloboma.",this
+S0365-66912006001200008-1,23,3,"All of this allows us to rule out an infectious etiology, since the child's antibodies are not elevated, and suggests that it is a bilateral atypical macular coloboma.",us
+S0365-66912006001200008-1,23,4,"All of this allows us to rule out an infectious etiology, since the child's antibodies are not elevated, and suggests that it is a bilateral atypical macular coloboma.",an infectious etiology
+S0365-66912006001200008-1,23,5,"All of this allows us to rule out an infectious etiology, since the child's antibodies are not elevated, and suggests that it is a bilateral atypical macular coloboma.",the child's antibodies
+S0365-66912006001200008-1,23,6,"All of this allows us to rule out an infectious etiology, since the child's antibodies are not elevated, and suggests that it is a bilateral atypical macular coloboma.",it
+S0365-66912006001200008-1,23,7,"All of this allows us to rule out an infectious etiology, since the child's antibodies are not elevated, and suggests that it is a bilateral atypical macular coloboma.",a bilateral atypical macular coloboma
+S0365-66912006001200008-1,24,1,"As there are hereditary cases (1), the fundus of his parents and siblings is examined, they are all normal.",hereditary cases
+S0365-66912006001200008-1,24,2,"As there are hereditary cases (1), the fundus of his parents and siblings is examined, they are all normal.",the fundus
+S0365-66912006001200008-1,24,3,"As there are hereditary cases (1), the fundus of his parents and siblings is examined, they are all normal.",his parents
+S0365-66912006001200008-1,24,4,"As there are hereditary cases (1), the fundus of his parents and siblings is examined, they are all normal.",siblings
+S0365-66912006001200008-1,24,5,"As there are hereditary cases (1), the fundus of his parents and siblings is examined, they are all normal.",they
+S0365-66912006001200008-1,25,1,"It can also be associated with hypercalciuria and hypomagnesemia (2), but in this case the calcium/creatinine index and magnesemia are within normal limits.",It
+S0365-66912006001200008-1,25,2,"It can also be associated with hypercalciuria and hypomagnesemia (2), but in this case the calcium/creatinine index and magnesemia are within normal limits.",hypercalciuria
+S0365-66912006001200008-1,25,3,"It can also be associated with hypercalciuria and hypomagnesemia (2), but in this case the calcium/creatinine index and magnesemia are within normal limits.",hypomagnesemia
+S0365-66912006001200008-1,25,4,"It can also be associated with hypercalciuria and hypomagnesemia (2), but in this case the calcium/creatinine index and magnesemia are within normal limits.",this case
+S0365-66912006001200008-1,25,5,"It can also be associated with hypercalciuria and hypomagnesemia (2), but in this case the calcium/creatinine index and magnesemia are within normal limits.",normal limits
+S0365-66912006001200008-1,26,1,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",we
+S0365-66912006001200008-1,26,2,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",the evolution
+S0365-66912006001200008-1,26,3,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",three years
+S0365-66912006001200008-1,26,4,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",age
+S0365-66912006001200008-1,26,5,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",the VA
+S0365-66912006001200008-1,26,6,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",the RE
+S0365-66912006001200008-1,26,7,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",light perception
+S0365-66912006001200008-1,26,8,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",projection
+S0365-66912006001200008-1,26,9,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",the LE
+S0365-66912006001200008-1,26,10,"Subsequently we have followed the evolution until three years of age, the VA in the RE is light perception and projection, and in the LE it is 0.2.",it
+S0365-66912006001200008-1,27,1,"In the visual evoked potentials, by stimulation with luminous glasses and checkerboard, there is a clear asymmetry, with detriment in OD.",the visual evoked potentials
+S0365-66912006001200008-1,27,2,"In the visual evoked potentials, by stimulation with luminous glasses and checkerboard, there is a clear asymmetry, with detriment in OD.",stimulation
+S0365-66912006001200008-1,27,3,"In the visual evoked potentials, by stimulation with luminous glasses and checkerboard, there is a clear asymmetry, with detriment in OD.",luminous glasses
+S0365-66912006001200008-1,27,4,"In the visual evoked potentials, by stimulation with luminous glasses and checkerboard, there is a clear asymmetry, with detriment in OD.",checkerboard
+S0365-66912006001200008-1,27,5,"In the visual evoked potentials, by stimulation with luminous glasses and checkerboard, there is a clear asymmetry, with detriment in OD.",a clear asymmetry
+S0365-66912006001200008-1,27,6,"In the visual evoked potentials, by stimulation with luminous glasses and checkerboard, there is a clear asymmetry, with detriment in OD.",detriment
+S0365-66912006001200008-1,27,7,"In the visual evoked potentials, by stimulation with luminous glasses and checkerboard, there is a clear asymmetry, with detriment in OD.",OD
+S0365-66912006001200008-1,28,1,Penalty with patches was not considered due to the large size of the RE coloboma.,Penalty
+S0365-66912006001200008-1,28,2,Penalty with patches was not considered due to the large size of the RE coloboma.,patches
+S0365-66912006001200008-1,28,3,Penalty with patches was not considered due to the large size of the RE coloboma.,the large size
+S0365-66912006001200008-1,28,4,Penalty with patches was not considered due to the large size of the RE coloboma.,the RE coloboma
+S0365-66912006001200008-1,29,1,"It would be interesting to do an ocular ultrasound, but it was decided to wait until the patient was older and cooperated when performing it.",It
+S0365-66912006001200008-1,29,2,"It would be interesting to do an ocular ultrasound, but it was decided to wait until the patient was older and cooperated when performing it.",an ocular ultrasound
+S0365-66912006001200008-1,29,3,"It would be interesting to do an ocular ultrasound, but it was decided to wait until the patient was older and cooperated when performing it.",it
+S0365-66912006001200008-1,29,4,"It would be interesting to do an ocular ultrasound, but it was decided to wait until the patient was older and cooperated when performing it.",the patient
+S0365-66912006001200008-1,29,5,"It would be interesting to do an ocular ultrasound, but it was decided to wait until the patient was older and cooperated when performing it.",it

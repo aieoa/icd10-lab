@@ -1,0 +1,47 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912011001000003-1,1,1,The first case is that of a 9-year-old girl who reported blurred vision.,The first case
+S0365-66912011001000003-1,1,2,The first case is that of a 9-year-old girl who reported blurred vision.,that
+S0365-66912011001000003-1,1,3,The first case is that of a 9-year-old girl who reported blurred vision.,a 9-year-old girl
+S0365-66912011001000003-1,1,4,The first case is that of a 9-year-old girl who reported blurred vision.,who
+S0365-66912011001000003-1,1,5,The first case is that of a 9-year-old girl who reported blurred vision.,blurred vision
+S0365-66912011001000003-1,2,1,"Her visual acuity was 0.2 and 0.3 according to Snellen optotype, respectively.",Her visual acuity
+S0365-66912011001000003-1,2,2,"Her visual acuity was 0.2 and 0.3 according to Snellen optotype, respectively.",Snellen optotype
+S0365-66912011001000003-1,3,1,"Her refraction was determined under cycloplegia to rule out refractive errors, being + 0.75 in both eyes.",Her refraction
+S0365-66912011001000003-1,3,2,"Her refraction was determined under cycloplegia to rule out refractive errors, being + 0.75 in both eyes.",cycloplegia
+S0365-66912011001000003-1,3,3,"Her refraction was determined under cycloplegia to rule out refractive errors, being + 0.75 in both eyes.",refractive errors
+S0365-66912011001000003-1,3,4,"Her refraction was determined under cycloplegia to rule out refractive errors, being + 0.75 in both eyes.",both eyes
+S0365-66912011001000003-1,4,1,"The rest of the ophthalmological examination was normal, with a stereopsis of 60""-40"".",The rest
+S0365-66912011001000003-1,4,2,"The rest of the ophthalmological examination was normal, with a stereopsis of 60""-40"".",the ophthalmological examination
+S0365-66912011001000003-1,4,3,"The rest of the ophthalmological examination was normal, with a stereopsis of 60""-40"".",a stereopsis
+S0365-66912011001000003-1,4,4,"The rest of the ophthalmological examination was normal, with a stereopsis of 60""-40"".","60""-40"
+S0365-66912011001000003-1,5,1,"Upon further investigation of the anamnesis, it was found out that she was a girl adopted at 7 years of age.",further investigation
+S0365-66912011001000003-1,5,2,"Upon further investigation of the anamnesis, it was found out that she was a girl adopted at 7 years of age.",the anamnesis
+S0365-66912011001000003-1,5,3,"Upon further investigation of the anamnesis, it was found out that she was a girl adopted at 7 years of age.",it
+S0365-66912011001000003-1,5,4,"Upon further investigation of the anamnesis, it was found out that she was a girl adopted at 7 years of age.",she
+S0365-66912011001000003-1,5,5,"Upon further investigation of the anamnesis, it was found out that she was a girl adopted at 7 years of age.",a girl
+S0365-66912011001000003-1,5,6,"Upon further investigation of the anamnesis, it was found out that she was a girl adopted at 7 years of age.",7 years
+S0365-66912011001000003-1,5,7,"Upon further investigation of the anamnesis, it was found out that she was a girl adopted at 7 years of age.",age
+S0365-66912011001000003-1,6,1,"While she was drawing in the office, it was observed that she managed herself without difficulty, even dilated, so the symptoms seemed disproportionate and simulation was suspected.",she
+S0365-66912011001000003-1,6,2,"While she was drawing in the office, it was observed that she managed herself without difficulty, even dilated, so the symptoms seemed disproportionate and simulation was suspected.",the office
+S0365-66912011001000003-1,6,3,"While she was drawing in the office, it was observed that she managed herself without difficulty, even dilated, so the symptoms seemed disproportionate and simulation was suspected.",it
+S0365-66912011001000003-1,6,4,"While she was drawing in the office, it was observed that she managed herself without difficulty, even dilated, so the symptoms seemed disproportionate and simulation was suspected.",she
+S0365-66912011001000003-1,6,5,"While she was drawing in the office, it was observed that she managed herself without difficulty, even dilated, so the symptoms seemed disproportionate and simulation was suspected.",herself
+S0365-66912011001000003-1,6,6,"While she was drawing in the office, it was observed that she managed herself without difficulty, even dilated, so the symptoms seemed disproportionate and simulation was suspected.",difficulty
+S0365-66912011001000003-1,6,7,"While she was drawing in the office, it was observed that she managed herself without difficulty, even dilated, so the symptoms seemed disproportionate and simulation was suspected.",the symptoms
+S0365-66912011001000003-1,6,8,"While she was drawing in the office, it was observed that she managed herself without difficulty, even dilated, so the symptoms seemed disproportionate and simulation was suspected.",simulation
+S0365-66912011001000003-1,7,1,"She resorted to the mirror test, turning out to see the 0.4 line with both eyes.",She
+S0365-66912011001000003-1,7,2,"She resorted to the mirror test, turning out to see the 0.4 line with both eyes.",the mirror test
+S0365-66912011001000003-1,7,3,"She resorted to the mirror test, turning out to see the 0.4 line with both eyes.",the 0.4 line
+S0365-66912011001000003-1,7,4,"She resorted to the mirror test, turning out to see the 0.4 line with both eyes.",both eyes
+S0365-66912011001000003-1,8,1,"Considering that plane mirrors have the property of doubling distances, its real acuity would correspond to 0.8.",plane mirrors
+S0365-66912011001000003-1,8,2,"Considering that plane mirrors have the property of doubling distances, its real acuity would correspond to 0.8.",the property
+S0365-66912011001000003-1,8,3,"Considering that plane mirrors have the property of doubling distances, its real acuity would correspond to 0.8.",doubling distances
+S0365-66912011001000003-1,8,4,"Considering that plane mirrors have the property of doubling distances, its real acuity would correspond to 0.8.",its real acuity
+S0365-66912011001000003-1,9,1,The case was discussed with the parents and it was decided to carry out periodic reviews.,The case
+S0365-66912011001000003-1,9,2,The case was discussed with the parents and it was decided to carry out periodic reviews.,the parents
+S0365-66912011001000003-1,9,3,The case was discussed with the parents and it was decided to carry out periodic reviews.,it
+S0365-66912011001000003-1,9,4,The case was discussed with the parents and it was decided to carry out periodic reviews.,periodic reviews
+S0365-66912011001000003-1,10,1,Her acuity improved to unity with both eyes at 3 months.,Her acuity
+S0365-66912011001000003-1,10,2,Her acuity improved to unity with both eyes at 3 months.,unity
+S0365-66912011001000003-1,10,3,Her acuity improved to unity with both eyes at 3 months.,both eyes
+S0365-66912011001000003-1,10,4,Her acuity improved to unity with both eyes at 3 months.,3 months

@@ -1,0 +1,76 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1137-66272011000100012-1,1,1,A 69-year-old woman comes to the clinic due to recurring respiratory infections.,A 69-year-old woman
+S1137-66272011000100012-1,1,2,A 69-year-old woman comes to the clinic due to recurring respiratory infections.,the clinic
+S1137-66272011000100012-1,1,3,A 69-year-old woman comes to the clinic due to recurring respiratory infections.,respiratory infections
+S1137-66272011000100012-1,2,1,"The patient does not report allergies or toxic habits, she is hypertensive under treatment with amlodipine and has hypothyroidism treated with levothyroxine.",The patient
+S1137-66272011000100012-1,2,2,"The patient does not report allergies or toxic habits, she is hypertensive under treatment with amlodipine and has hypothyroidism treated with levothyroxine.",allergies
+S1137-66272011000100012-1,2,3,"The patient does not report allergies or toxic habits, she is hypertensive under treatment with amlodipine and has hypothyroidism treated with levothyroxine.",toxic habits
+S1137-66272011000100012-1,2,4,"The patient does not report allergies or toxic habits, she is hypertensive under treatment with amlodipine and has hypothyroidism treated with levothyroxine.",she
+S1137-66272011000100012-1,2,5,"The patient does not report allergies or toxic habits, she is hypertensive under treatment with amlodipine and has hypothyroidism treated with levothyroxine.",treatment
+S1137-66272011000100012-1,2,6,"The patient does not report allergies or toxic habits, she is hypertensive under treatment with amlodipine and has hypothyroidism treated with levothyroxine.",amlodipine
+S1137-66272011000100012-1,2,7,"The patient does not report allergies or toxic habits, she is hypertensive under treatment with amlodipine and has hypothyroidism treated with levothyroxine.",hypothyroidism
+S1137-66272011000100012-1,2,8,"The patient does not report allergies or toxic habits, she is hypertensive under treatment with amlodipine and has hypothyroidism treated with levothyroxine.",levothyroxine
+S1137-66272011000100012-1,3,1,She had a hysterectomy with a double adnexectomy 20 years earlier.,She
+S1137-66272011000100012-1,3,2,She had a hysterectomy with a double adnexectomy 20 years earlier.,a hysterectomy
+S1137-66272011000100012-1,3,3,She had a hysterectomy with a double adnexectomy 20 years earlier.,a double adnexectomy
+S1137-66272011000100012-1,4,1,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",She
+S1137-66272011000100012-1,4,2,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",a 10-year clinical history
+S1137-66272011000100012-1,4,3,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",frequent respiratory infections
+S1137-66272011000100012-1,4,4,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",predominantly winter
+S1137-66272011000100012-1,4,5,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",summer
+S1137-66272011000100012-1,4,6,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",cough
+S1137-66272011000100012-1,4,7,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",dyspnea
+S1137-66272011000100012-1,4,8,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",wheezing
+S1137-66272011000100012-1,4,9,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",purulent
+S1137-66272011000100012-1,4,10,"She reports a 10-year clinical history of frequent respiratory infections, predominantly winter but also present in summer, consisting of cough, dyspnea, wheezing and purulent expectoration.",expectoration
+S1137-66272011000100012-1,5,1,She also reports orthopnea.,She
+S1137-66272011000100012-1,5,2,She also reports orthopnea.,orthopnea
+S1137-66272011000100012-1,6,1,"On physical examination, she presented rhythmic cardiac auscultation, without murmurs or extratones, and pulmonary auscultation with some isolated rhonchi.",physical examination
+S1137-66272011000100012-1,6,2,"On physical examination, she presented rhythmic cardiac auscultation, without murmurs or extratones, and pulmonary auscultation with some isolated rhonchi.",she
+S1137-66272011000100012-1,6,3,"On physical examination, she presented rhythmic cardiac auscultation, without murmurs or extratones, and pulmonary auscultation with some isolated rhonchi.",rhythmic cardiac auscultation
+S1137-66272011000100012-1,6,4,"On physical examination, she presented rhythmic cardiac auscultation, without murmurs or extratones, and pulmonary auscultation with some isolated rhonchi.",murmurs
+S1137-66272011000100012-1,6,5,"On physical examination, she presented rhythmic cardiac auscultation, without murmurs or extratones, and pulmonary auscultation with some isolated rhonchi.",extratones
+S1137-66272011000100012-1,6,6,"On physical examination, she presented rhythmic cardiac auscultation, without murmurs or extratones, and pulmonary auscultation with some isolated rhonchi.",pulmonary auscultation
+S1137-66272011000100012-1,6,7,"On physical examination, she presented rhythmic cardiac auscultation, without murmurs or extratones, and pulmonary auscultation with some isolated rhonchi.",some isolated rhonchi
+S1137-66272011000100012-1,7,1,Perimaleolar edema can be seen on her extremities.,Perimaleolar edema
+S1137-66272011000100012-1,7,2,Perimaleolar edema can be seen on her extremities.,her extremities
+S1137-66272011000100012-1,8,1,"Spirometry was performed with the following result: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, positive bronchodilator test.",Spirometry
+S1137-66272011000100012-1,8,2,"Spirometry was performed with the following result: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, positive bronchodilator test.",the following result
+S1137-66272011000100012-1,8,3,"Spirometry was performed with the following result: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, positive bronchodilator test.",FVC
+S1137-66272011000100012-1,8,4,"Spirometry was performed with the following result: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, positive bronchodilator test.",67%
+S1137-66272011000100012-1,8,5,"Spirometry was performed with the following result: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, positive bronchodilator test.",FEV1
+S1137-66272011000100012-1,8,6,"Spirometry was performed with the following result: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, positive bronchodilator test.",56%
+S1137-66272011000100012-1,8,7,"Spirometry was performed with the following result: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, positive bronchodilator test.",68%
+S1137-66272011000100012-1,8,8,"Spirometry was performed with the following result: FVC 67%; FEV1 56%; PEF 73%; FEV1/FVC 68%, positive bronchodilator test.",positive bronchodilator test
+S1137-66272011000100012-1,9,1,"Pulmonary gas diffusion is slightly reduced, being 72.6% of the reference value.",Pulmonary gas diffusion
+S1137-66272011000100012-1,9,2,"Pulmonary gas diffusion is slightly reduced, being 72.6% of the reference value.",72.6%
+S1137-66272011000100012-1,9,3,"Pulmonary gas diffusion is slightly reduced, being 72.6% of the reference value.",the reference value
+S1137-66272011000100012-1,10,1,The chest x-ray showed kyphoscoliosis without other alterations.,The chest
+S1137-66272011000100012-1,10,2,The chest x-ray showed kyphoscoliosis without other alterations.,x
+S1137-66272011000100012-1,10,3,The chest x-ray showed kyphoscoliosis without other alterations.,-
+S1137-66272011000100012-1,10,4,The chest x-ray showed kyphoscoliosis without other alterations.,ray
+S1137-66272011000100012-1,10,5,The chest x-ray showed kyphoscoliosis without other alterations.,kyphoscoliosis
+S1137-66272011000100012-1,10,6,The chest x-ray showed kyphoscoliosis without other alterations.,other alterations
+S1137-66272011000100012-1,11,1,"In the computed tomography, areas of emphysema and bronchiectasis are observed in both bases, more evident in the middle lobe.",the computed tomography
+S1137-66272011000100012-1,11,2,"In the computed tomography, areas of emphysema and bronchiectasis are observed in both bases, more evident in the middle lobe.",areas
+S1137-66272011000100012-1,11,3,"In the computed tomography, areas of emphysema and bronchiectasis are observed in both bases, more evident in the middle lobe.",emphysema
+S1137-66272011000100012-1,11,4,"In the computed tomography, areas of emphysema and bronchiectasis are observed in both bases, more evident in the middle lobe.",bronchiectasis
+S1137-66272011000100012-1,11,5,"In the computed tomography, areas of emphysema and bronchiectasis are observed in both bases, more evident in the middle lobe.",both bases
+S1137-66272011000100012-1,11,6,"In the computed tomography, areas of emphysema and bronchiectasis are observed in both bases, more evident in the middle lobe.",the middle lobe
+S1137-66272011000100012-1,12,1,"In the blood analysis study, only an AAT deficiency (30 mg/dl) was observed.",the blood analysis study
+S1137-66272011000100012-1,12,2,"In the blood analysis study, only an AAT deficiency (30 mg/dl) was observed.",only an AAT deficiency
+S1137-66272011000100012-1,12,3,"In the blood analysis study, only an AAT deficiency (30 mg/dl) was observed.",30 mg
+S1137-66272011000100012-1,12,4,"In the blood analysis study, only an AAT deficiency (30 mg/dl) was observed.",dl
+S1137-66272011000100012-1,13,1,Fiberoptic bronchoscopy was performed without significant findings.,Fiberoptic bronchoscopy
+S1137-66272011000100012-1,13,2,Fiberoptic bronchoscopy was performed without significant findings.,significant findings
+S1137-66272011000100012-1,14,1,"With these results, an AAT phenotype is made, which demonstrates the ZZ type.",these results
+S1137-66272011000100012-1,14,2,"With these results, an AAT phenotype is made, which demonstrates the ZZ type.",an AAT phenotype
+S1137-66272011000100012-1,14,3,"With these results, an AAT phenotype is made, which demonstrates the ZZ type.",which
+S1137-66272011000100012-1,14,4,"With these results, an AAT phenotype is made, which demonstrates the ZZ type.",the ZZ type
+S1137-66272011000100012-1,15,1,"Diagnosed with asthma and D-AAT, treatment for asthma was instituted with significant improvement.",asthma
+S1137-66272011000100012-1,15,2,"Diagnosed with asthma and D-AAT, treatment for asthma was instituted with significant improvement.",D-AAT
+S1137-66272011000100012-1,15,3,"Diagnosed with asthma and D-AAT, treatment for asthma was instituted with significant improvement.",treatment
+S1137-66272011000100012-1,15,4,"Diagnosed with asthma and D-AAT, treatment for asthma was instituted with significant improvement.",asthma
+S1137-66272011000100012-1,15,5,"Diagnosed with asthma and D-AAT, treatment for asthma was instituted with significant improvement.",significant improvement
+S1137-66272011000100012-1,16,1,"Initially, D-AAT replacement treatment is not performed to maintain acceptable lung function.",D-AAT replacement treatment
+S1137-66272011000100012-1,16,2,"Initially, D-AAT replacement treatment is not performed to maintain acceptable lung function.",acceptable lung function

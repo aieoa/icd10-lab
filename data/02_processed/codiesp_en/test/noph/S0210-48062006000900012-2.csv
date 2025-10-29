@@ -1,0 +1,91 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062006000900012-2,1,1,63-year-old male.,63-year-old male
+S0210-48062006000900012-2,2,1,He consulted for monosymptomatic macroscopic hematuria.,He
+S0210-48062006000900012-2,2,2,He consulted for monosymptomatic macroscopic hematuria.,monosymptomatic macroscopic hematuria
+S0210-48062006000900012-2,3,1,An ultrasound was requested and a 5 cm mass was observed on the left lateral aspect of the bladder that produced ureterohydronephrosis in the left kidney.,An ultrasound
+S0210-48062006000900012-2,3,2,An ultrasound was requested and a 5 cm mass was observed on the left lateral aspect of the bladder that produced ureterohydronephrosis in the left kidney.,a 5 cm mass
+S0210-48062006000900012-2,3,3,An ultrasound was requested and a 5 cm mass was observed on the left lateral aspect of the bladder that produced ureterohydronephrosis in the left kidney.,the left lateral aspect
+S0210-48062006000900012-2,3,4,An ultrasound was requested and a 5 cm mass was observed on the left lateral aspect of the bladder that produced ureterohydronephrosis in the left kidney.,the bladder
+S0210-48062006000900012-2,3,5,An ultrasound was requested and a 5 cm mass was observed on the left lateral aspect of the bladder that produced ureterohydronephrosis in the left kidney.,that
+S0210-48062006000900012-2,3,6,An ultrasound was requested and a 5 cm mass was observed on the left lateral aspect of the bladder that produced ureterohydronephrosis in the left kidney.,ureterohydronephrosis
+S0210-48062006000900012-2,3,7,An ultrasound was requested and a 5 cm mass was observed on the left lateral aspect of the bladder that produced ureterohydronephrosis in the left kidney.,the left kidney
+S0210-48062006000900012-2,4,1,"We performed a TUR-biopsy, revealing a high-grade infiltrating bladder tumor.",We
+S0210-48062006000900012-2,4,2,"We performed a TUR-biopsy, revealing a high-grade infiltrating bladder tumor.",a TUR-biopsy
+S0210-48062006000900012-2,4,3,"We performed a TUR-biopsy, revealing a high-grade infiltrating bladder tumor.",a high-grade infiltrating bladder tumor
+S0210-48062006000900012-2,5,1,The extension study was negative.,The extension study
+S0210-48062006000900012-2,6,1,The patient's creatinine was 2.5 mg/dl.,The patient's creatinine
+S0210-48062006000900012-2,6,2,The patient's creatinine was 2.5 mg/dl.,2.5 mg
+S0210-48062006000900012-2,6,3,The patient's creatinine was 2.5 mg/dl.,dl
+S0210-48062006000900012-2,7,1,"A laparoscopic radical cystoprostatectomy with Bricker-type urinary diversion was performed in March 2005 (high-grade pT2b No Mo, affecting the trigonal area and posterior aspect).",A laparoscopic radical cystoprostatectomy
+S0210-48062006000900012-2,7,2,"A laparoscopic radical cystoprostatectomy with Bricker-type urinary diversion was performed in March 2005 (high-grade pT2b No Mo, affecting the trigonal area and posterior aspect).",Bricker-type urinary diversion
+S0210-48062006000900012-2,7,3,"A laparoscopic radical cystoprostatectomy with Bricker-type urinary diversion was performed in March 2005 (high-grade pT2b No Mo, affecting the trigonal area and posterior aspect).",March
+S0210-48062006000900012-2,7,4,"A laparoscopic radical cystoprostatectomy with Bricker-type urinary diversion was performed in March 2005 (high-grade pT2b No Mo, affecting the trigonal area and posterior aspect).",(high-grade pT2b No Mo
+S0210-48062006000900012-2,7,5,"A laparoscopic radical cystoprostatectomy with Bricker-type urinary diversion was performed in March 2005 (high-grade pT2b No Mo, affecting the trigonal area and posterior aspect).",the trigonal area
+S0210-48062006000900012-2,7,6,"A laparoscopic radical cystoprostatectomy with Bricker-type urinary diversion was performed in March 2005 (high-grade pT2b No Mo, affecting the trigonal area and posterior aspect).",posterior aspect
+S0210-48062006000900012-2,8,1,The surgical course evolved favorably.,The surgical course
+S0210-48062006000900012-2,9,1,"In the postoperative review one month after surgery, left ureterohydronephrosis was reduced, maintaining a certain degree of cortical atrophy, and renal function improved (creatinine of 1.65 mg/dl).",the postoperative review
+S0210-48062006000900012-2,9,2,"In the postoperative review one month after surgery, left ureterohydronephrosis was reduced, maintaining a certain degree of cortical atrophy, and renal function improved (creatinine of 1.65 mg/dl).",surgery
+S0210-48062006000900012-2,9,3,"In the postoperative review one month after surgery, left ureterohydronephrosis was reduced, maintaining a certain degree of cortical atrophy, and renal function improved (creatinine of 1.65 mg/dl).",left ureterohydronephrosis
+S0210-48062006000900012-2,9,4,"In the postoperative review one month after surgery, left ureterohydronephrosis was reduced, maintaining a certain degree of cortical atrophy, and renal function improved (creatinine of 1.65 mg/dl).",a certain degree
+S0210-48062006000900012-2,9,5,"In the postoperative review one month after surgery, left ureterohydronephrosis was reduced, maintaining a certain degree of cortical atrophy, and renal function improved (creatinine of 1.65 mg/dl).",cortical atrophy
+S0210-48062006000900012-2,9,6,"In the postoperative review one month after surgery, left ureterohydronephrosis was reduced, maintaining a certain degree of cortical atrophy, and renal function improved (creatinine of 1.65 mg/dl).",renal function
+S0210-48062006000900012-2,9,7,"In the postoperative review one month after surgery, left ureterohydronephrosis was reduced, maintaining a certain degree of cortical atrophy, and renal function improved (creatinine of 1.65 mg/dl).",1.65 mg
+S0210-48062006000900012-2,9,8,"In the postoperative review one month after surgery, left ureterohydronephrosis was reduced, maintaining a certain degree of cortical atrophy, and renal function improved (creatinine of 1.65 mg/dl).",dl
+S0210-48062006000900012-2,10,1,"The patient had very poor tolerance to the stoma, insisting on its conversion to a continent diversion.",The patient
+S0210-48062006000900012-2,10,2,"The patient had very poor tolerance to the stoma, insisting on its conversion to a continent diversion.",very poor tolerance
+S0210-48062006000900012-2,10,3,"The patient had very poor tolerance to the stoma, insisting on its conversion to a continent diversion.",the stoma
+S0210-48062006000900012-2,10,4,"The patient had very poor tolerance to the stoma, insisting on its conversion to a continent diversion.",its conversion
+S0210-48062006000900012-2,10,5,"The patient had very poor tolerance to the stoma, insisting on its conversion to a continent diversion.",a continent diversion
+S0210-48062006000900012-2,11,1,Situation that we consider due to the improvement in his kidney function.,Situation
+S0210-48062006000900012-2,11,2,Situation that we consider due to the improvement in his kidney function.,we
+S0210-48062006000900012-2,11,3,Situation that we consider due to the improvement in his kidney function.,the improvement
+S0210-48062006000900012-2,11,4,Situation that we consider due to the improvement in his kidney function.,his kidney function
+S0210-48062006000900012-2,12,1,"Two months later we performed an exploratory laparotomy, achieving a good pelvic dissection and identification of the urethral stump.",we
+S0210-48062006000900012-2,12,2,"Two months later we performed an exploratory laparotomy, achieving a good pelvic dissection and identification of the urethral stump.",an exploratory laparotomy
+S0210-48062006000900012-2,12,3,"Two months later we performed an exploratory laparotomy, achieving a good pelvic dissection and identification of the urethral stump.",a good pelvic dissection
+S0210-48062006000900012-2,12,4,"Two months later we performed an exploratory laparotomy, achieving a good pelvic dissection and identification of the urethral stump.",identification
+S0210-48062006000900012-2,12,5,"Two months later we performed an exploratory laparotomy, achieving a good pelvic dissection and identification of the urethral stump.",the urethral stump
+S0210-48062006000900012-2,13,1,We constructed an ileal neobladder with 45 cm of ileum.,We
+S0210-48062006000900012-2,13,2,We constructed an ileal neobladder with 45 cm of ileum.,an ileal neobladder
+S0210-48062006000900012-2,13,3,We constructed an ileal neobladder with 45 cm of ileum.,45 cm
+S0210-48062006000900012-2,13,4,We constructed an ileal neobladder with 45 cm of ileum.,ileum
+S0210-48062006000900012-2,14,1,"The surgical time was 180 minutes, with bleeding less than 80 cc.",The surgical time
+S0210-48062006000900012-2,14,2,"The surgical time was 180 minutes, with bleeding less than 80 cc.",180 minutes
+S0210-48062006000900012-2,14,3,"The surgical time was 180 minutes, with bleeding less than 80 cc.",less than 80 cc
+S0210-48062006000900012-2,15,1,The patient was discharged on the sixth postoperative day without complications.,The patient
+S0210-48062006000900012-2,15,2,The patient was discharged on the sixth postoperative day without complications.,the sixth postoperative day
+S0210-48062006000900012-2,15,3,The patient was discharged on the sixth postoperative day without complications.,complications
+S0210-48062006000900012-2,16,1,"Five months after surgery, he is continent during the day and night, with good emptying of the reservoir.",surgery
+S0210-48062006000900012-2,16,2,"Five months after surgery, he is continent during the day and night, with good emptying of the reservoir.",he
+S0210-48062006000900012-2,16,3,"Five months after surgery, he is continent during the day and night, with good emptying of the reservoir.",continent
+S0210-48062006000900012-2,16,4,"Five months after surgery, he is continent during the day and night, with good emptying of the reservoir.",the day
+S0210-48062006000900012-2,16,5,"Five months after surgery, he is continent during the day and night, with good emptying of the reservoir.",night
+S0210-48062006000900012-2,16,6,"Five months after surgery, he is continent during the day and night, with good emptying of the reservoir.",good emptying
+S0210-48062006000900012-2,16,7,"Five months after surgery, he is continent during the day and night, with good emptying of the reservoir.",the reservoir
+S0210-48062006000900012-2,17,1,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",Both patients
+S0210-48062006000900012-2,17,2,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",the risks
+S0210-48062006000900012-2,17,3,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",surgery
+S0210-48062006000900012-2,17,4,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",its possible complications
+S0210-48062006000900012-2,17,5,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",the potential sequelae
+S0210-48062006000900012-2,17,6,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",terms
+S0210-48062006000900012-2,17,7,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",metabolic disorders
+S0210-48062006000900012-2,17,8,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",persistent diarrhea
+S0210-48062006000900012-2,17,9,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",incontinence
+S0210-48062006000900012-2,17,10,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",the need
+S0210-48062006000900012-2,17,11,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",self-catheterization
+S0210-48062006000900012-2,17,12,"Both patients were thoroughly informed of the risks of surgery and its possible complications, as well as the potential sequelae in terms of metabolic disorders, persistent diarrhea and incontinence and/or the need for self-catheterization due to high post-micturition residue.",high post-micturition residue
+S0210-48062006000900012-2,18,1,"In both, the Bricker loop was freed from the abdominal wall and after shortening it was anastomosed to the chimney of the neobladder, not requiring ureteral reimplantation.",both
+S0210-48062006000900012-2,18,2,"In both, the Bricker loop was freed from the abdominal wall and after shortening it was anastomosed to the chimney of the neobladder, not requiring ureteral reimplantation.",the Bricker loop
+S0210-48062006000900012-2,18,3,"In both, the Bricker loop was freed from the abdominal wall and after shortening it was anastomosed to the chimney of the neobladder, not requiring ureteral reimplantation.",the abdominal wall
+S0210-48062006000900012-2,18,4,"In both, the Bricker loop was freed from the abdominal wall and after shortening it was anastomosed to the chimney of the neobladder, not requiring ureteral reimplantation.",it
+S0210-48062006000900012-2,18,5,"In both, the Bricker loop was freed from the abdominal wall and after shortening it was anastomosed to the chimney of the neobladder, not requiring ureteral reimplantation.",the chimney
+S0210-48062006000900012-2,18,6,"In both, the Bricker loop was freed from the abdominal wall and after shortening it was anastomosed to the chimney of the neobladder, not requiring ureteral reimplantation.",the neobladder
+S0210-48062006000900012-2,18,7,"In both, the Bricker loop was freed from the abdominal wall and after shortening it was anastomosed to the chimney of the neobladder, not requiring ureteral reimplantation.",ureteral reimplantation
+S0210-48062006000900012-2,19,1,"The urinary catheter was removed after 3 weeks, and both achieved continence in a short period of time.",The urinary catheter
+S0210-48062006000900012-2,19,2,"The urinary catheter was removed after 3 weeks, and both achieved continence in a short period of time.",3 weeks
+S0210-48062006000900012-2,19,3,"The urinary catheter was removed after 3 weeks, and both achieved continence in a short period of time.",both
+S0210-48062006000900012-2,19,4,"The urinary catheter was removed after 3 weeks, and both achieved continence in a short period of time.",continence
+S0210-48062006000900012-2,19,5,"The urinary catheter was removed after 3 weeks, and both achieved continence in a short period of time.",a short period
+S0210-48062006000900012-2,19,6,"The urinary catheter was removed after 3 weeks, and both achieved continence in a short period of time.",time
+S0210-48062006000900012-2,20,1,Both patients are very satisfied with the orthotopic bypass.,Both patients
+S0210-48062006000900012-2,20,2,Both patients are very satisfied with the orthotopic bypass.,the orthotopic bypass

@@ -1,0 +1,56 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0212-16112011000600041-1,1,1,"25-year-old woman, smoker of about 10 cigarettes/day, with no other history of interest.",25-year-old woman
+S0212-16112011000600041-1,1,2,"25-year-old woman, smoker of about 10 cigarettes/day, with no other history of interest.",smoker
+S0212-16112011000600041-1,1,3,"25-year-old woman, smoker of about 10 cigarettes/day, with no other history of interest.",about 10 cigarettes
+S0212-16112011000600041-1,1,4,"25-year-old woman, smoker of about 10 cigarettes/day, with no other history of interest.",no other history
+S0212-16112011000600041-1,1,5,"25-year-old woman, smoker of about 10 cigarettes/day, with no other history of interest.",interest
+S0212-16112011000600041-1,2,1,"She was admitted with symptoms of > 5 diarrheal stools, sometimes accompanied by blood and weight loss.",She
+S0212-16112011000600041-1,2,2,"She was admitted with symptoms of > 5 diarrheal stools, sometimes accompanied by blood and weight loss.",symptoms
+S0212-16112011000600041-1,2,3,"She was admitted with symptoms of > 5 diarrheal stools, sometimes accompanied by blood and weight loss.",> 5 diarrheal stools
+S0212-16112011000600041-1,2,4,"She was admitted with symptoms of > 5 diarrheal stools, sometimes accompanied by blood and weight loss.",blood
+S0212-16112011000600041-1,2,5,"She was admitted with symptoms of > 5 diarrheal stools, sometimes accompanied by blood and weight loss.",weight loss
+S0212-16112011000600041-1,3,1,"A colonoscopy was performed, observing a normal colonic mucosa.",A colonoscopy
+S0212-16112011000600041-1,3,2,"A colonoscopy was performed, observing a normal colonic mucosa.",a normal colonic mucosa
+S0212-16112011000600041-1,4,1,"In the terminal ileum, three ulcerations with irregular contours are seen, with a fibrinous background.",the terminal ileum
+S0212-16112011000600041-1,4,2,"In the terminal ileum, three ulcerations with irregular contours are seen, with a fibrinous background.",three ulcerations
+S0212-16112011000600041-1,4,3,"In the terminal ileum, three ulcerations with irregular contours are seen, with a fibrinous background.",irregular contours
+S0212-16112011000600041-1,4,4,"In the terminal ileum, three ulcerations with irregular contours are seen, with a fibrinous background.",a fibrinous background
+S0212-16112011000600041-1,5,1,"Biopsies are taken, which confirm the diagnosis of Crohn's disease.",Biopsies
+S0212-16112011000600041-1,5,2,"Biopsies are taken, which confirm the diagnosis of Crohn's disease.",which
+S0212-16112011000600041-1,5,3,"Biopsies are taken, which confirm the diagnosis of Crohn's disease.",the diagnosis
+S0212-16112011000600041-1,5,4,"Biopsies are taken, which confirm the diagnosis of Crohn's disease.",Crohn's disease
+S0212-16112011000600041-1,6,1,"Analytically, she has an albumin of 2,890 mg/dl with no other findings.",she
+S0212-16112011000600041-1,6,2,"Analytically, she has an albumin of 2,890 mg/dl with no other findings.",an albumin
+S0212-16112011000600041-1,6,3,"Analytically, she has an albumin of 2,890 mg/dl with no other findings.","2,890 mg"
+S0212-16112011000600041-1,6,4,"Analytically, she has an albumin of 2,890 mg/dl with no other findings.",dl
+S0212-16112011000600041-1,6,5,"Analytically, she has an albumin of 2,890 mg/dl with no other findings.",no other findings
+S0212-16112011000600041-1,7,1,"She was referred to the Nutrition consultation, not observing protein catabolism, reduction in intake or other causes of malnutrition.",She
+S0212-16112011000600041-1,7,2,"She was referred to the Nutrition consultation, not observing protein catabolism, reduction in intake or other causes of malnutrition.",the Nutrition consultation
+S0212-16112011000600041-1,7,3,"She was referred to the Nutrition consultation, not observing protein catabolism, reduction in intake or other causes of malnutrition.",protein catabolism
+S0212-16112011000600041-1,7,4,"She was referred to the Nutrition consultation, not observing protein catabolism, reduction in intake or other causes of malnutrition.",reduction
+S0212-16112011000600041-1,7,5,"She was referred to the Nutrition consultation, not observing protein catabolism, reduction in intake or other causes of malnutrition.",other causes
+S0212-16112011000600041-1,7,6,"She was referred to the Nutrition consultation, not observing protein catabolism, reduction in intake or other causes of malnutrition.",malnutrition
+S0212-16112011000600041-1,8,1,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,A1AT
+S0212-16112011000600041-1,8,2,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,blood
+S0212-16112011000600041-1,8,3,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,159 mg
+S0212-16112011000600041-1,8,4,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,dl
+S0212-16112011000600041-1,8,5,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,A1AT
+S0212-16112011000600041-1,8,6,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,feces
+S0212-16112011000600041-1,8,7,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,1.28 mg
+S0212-16112011000600041-1,8,8,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,g
+S0212-16112011000600041-1,8,9,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,stool weight
+S0212-16112011000600041-1,8,10,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,24 hours
+S0212-16112011000600041-1,8,11,A1AT is performed in blood: 159 mg/dl; A1AT in feces: 1.28 mg/g; stool weight in 24 hours: 182.84 g.,182.84 g.
+S0212-16112011000600041-1,9,1,"A1AT clearance was 147.19 ml/day (> 56 ml/day), confirming the diagnosis of PLE.",A1AT clearance
+S0212-16112011000600041-1,9,2,"A1AT clearance was 147.19 ml/day (> 56 ml/day), confirming the diagnosis of PLE.",147.19 ml
+S0212-16112011000600041-1,9,3,"A1AT clearance was 147.19 ml/day (> 56 ml/day), confirming the diagnosis of PLE.",day
+S0212-16112011000600041-1,9,4,"A1AT clearance was 147.19 ml/day (> 56 ml/day), confirming the diagnosis of PLE.",56 ml
+S0212-16112011000600041-1,9,5,"A1AT clearance was 147.19 ml/day (> 56 ml/day), confirming the diagnosis of PLE.",day
+S0212-16112011000600041-1,9,6,"A1AT clearance was 147.19 ml/day (> 56 ml/day), confirming the diagnosis of PLE.",the diagnosis
+S0212-16112011000600041-1,9,7,"A1AT clearance was 147.19 ml/day (> 56 ml/day), confirming the diagnosis of PLE.",PLE
+S0212-16112011000600041-1,10,1,"After treatment with azathioprine and high protein nutritional supplements, the patient improved clinically, with serum albumin rising to 3,270 mg/dl.",treatment
+S0212-16112011000600041-1,10,2,"After treatment with azathioprine and high protein nutritional supplements, the patient improved clinically, with serum albumin rising to 3,270 mg/dl.",azathioprine and high protein nutritional supplements
+S0212-16112011000600041-1,10,3,"After treatment with azathioprine and high protein nutritional supplements, the patient improved clinically, with serum albumin rising to 3,270 mg/dl.",the patient
+S0212-16112011000600041-1,10,4,"After treatment with azathioprine and high protein nutritional supplements, the patient improved clinically, with serum albumin rising to 3,270 mg/dl.",serum albumin
+S0212-16112011000600041-1,10,5,"After treatment with azathioprine and high protein nutritional supplements, the patient improved clinically, with serum albumin rising to 3,270 mg/dl.","3,270 mg"
+S0212-16112011000600041-1,10,6,"After treatment with azathioprine and high protein nutritional supplements, the patient improved clinically, with serum albumin rising to 3,270 mg/dl.",dl

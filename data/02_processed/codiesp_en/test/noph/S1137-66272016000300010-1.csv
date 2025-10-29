@@ -1,0 +1,136 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1137-66272016000300010-1,1,1,"A 94-year-old patient, allergic to penicillin and its derivatives, with no relevant medical or surgical history, who does not take regular medication.",A 94-year-old patient
+S1137-66272016000300010-1,1,2,"A 94-year-old patient, allergic to penicillin and its derivatives, with no relevant medical or surgical history, who does not take regular medication.",penicillin
+S1137-66272016000300010-1,1,3,"A 94-year-old patient, allergic to penicillin and its derivatives, with no relevant medical or surgical history, who does not take regular medication.",no relevant medical or surgical history
+S1137-66272016000300010-1,1,4,"A 94-year-old patient, allergic to penicillin and its derivatives, with no relevant medical or surgical history, who does not take regular medication.",who
+S1137-66272016000300010-1,1,5,"A 94-year-old patient, allergic to penicillin and its derivatives, with no relevant medical or surgical history, who does not take regular medication.",regular medication
+S1137-66272016000300010-1,2,1,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",She
+S1137-66272016000300010-1,2,2,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",the last 4-5 days
+S1137-66272016000300010-1,2,3,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",she
+S1137-66272016000300010-1,2,4,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",episodes
+S1137-66272016000300010-1,2,5,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",epigastric abdominal pain
+S1137-66272016000300010-1,2,6,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",nausea
+S1137-66272016000300010-1,2,7,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",abundant vomiting
+S1137-66272016000300010-1,2,8,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",bilious characteristics
+S1137-66272016000300010-1,2,9,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",which
+S1137-66272016000300010-1,2,10,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",she
+S1137-66272016000300010-1,2,11,"She reports that in the last 4-5 days she has had episodes of epigastric abdominal pain with nausea and abundant vomiting of bilious characteristics, which is why she went to the emergency room.",the emergency room
+S1137-66272016000300010-1,3,1,She has not presented alterations in the depositional rhythm or in the characteristics of the stools.,She
+S1137-66272016000300010-1,3,2,She has not presented alterations in the depositional rhythm or in the characteristics of the stools.,alterations
+S1137-66272016000300010-1,3,3,She has not presented alterations in the depositional rhythm or in the characteristics of the stools.,the depositional rhythm
+S1137-66272016000300010-1,3,4,She has not presented alterations in the depositional rhythm or in the characteristics of the stools.,the characteristics
+S1137-66272016000300010-1,3,5,She has not presented alterations in the depositional rhythm or in the characteristics of the stools.,the stools
+S1137-66272016000300010-1,4,1,She does not present fever or other associated symptoms.,She
+S1137-66272016000300010-1,4,2,She does not present fever or other associated symptoms.,fever
+S1137-66272016000300010-1,4,3,She does not present fever or other associated symptoms.,other associated symptoms
+S1137-66272016000300010-1,5,1,"The physical examination highlights: blood pressure 120/80 mmHg, heart rate 106 bpm, O2 saturation 96% with FiO2 21%, temperature 36.3o C. Conscious.",blood
+S1137-66272016000300010-1,5,2,"The physical examination highlights: blood pressure 120/80 mmHg, heart rate 106 bpm, O2 saturation 96% with FiO2 21%, temperature 36.3o C. Conscious.",120/80 mmHg
+S1137-66272016000300010-1,5,3,"The physical examination highlights: blood pressure 120/80 mmHg, heart rate 106 bpm, O2 saturation 96% with FiO2 21%, temperature 36.3o C. Conscious.",heart rate
+S1137-66272016000300010-1,5,4,"The physical examination highlights: blood pressure 120/80 mmHg, heart rate 106 bpm, O2 saturation 96% with FiO2 21%, temperature 36.3o C. Conscious.",106 bpm
+S1137-66272016000300010-1,5,5,"The physical examination highlights: blood pressure 120/80 mmHg, heart rate 106 bpm, O2 saturation 96% with FiO2 21%, temperature 36.3o C. Conscious.",O2 saturation
+S1137-66272016000300010-1,5,6,"The physical examination highlights: blood pressure 120/80 mmHg, heart rate 106 bpm, O2 saturation 96% with FiO2 21%, temperature 36.3o C. Conscious.",FiO2
+S1137-66272016000300010-1,5,7,"The physical examination highlights: blood pressure 120/80 mmHg, heart rate 106 bpm, O2 saturation 96% with FiO2 21%, temperature 36.3o C. Conscious.",21%
+S1137-66272016000300010-1,5,8,"The physical examination highlights: blood pressure 120/80 mmHg, heart rate 106 bpm, O2 saturation 96% with FiO2 21%, temperature 36.3o C. Conscious.",temperature 36.3o C. Conscious
+S1137-66272016000300010-1,8,1,Normal coloration of skin and mucous membranes.,Normal coloration
+S1137-66272016000300010-1,8,2,Normal coloration of skin and mucous membranes.,skin
+S1137-66272016000300010-1,8,3,Normal coloration of skin and mucous membranes.,mucous membranes
+S1137-66272016000300010-1,9,1,Good distal perfusion.,Good distal perfusion
+S1137-66272016000300010-1,10,1,Eupneic.,Eupneic
+S1137-66272016000300010-1,11,1,"Cardiac auscultation: rhythmic heart sounds at 100 bpm, panfocal systolic murmur predominantly in the aortic focus.",Cardiac auscultation
+S1137-66272016000300010-1,11,2,"Cardiac auscultation: rhythmic heart sounds at 100 bpm, panfocal systolic murmur predominantly in the aortic focus.",rhythmic heart
+S1137-66272016000300010-1,11,3,"Cardiac auscultation: rhythmic heart sounds at 100 bpm, panfocal systolic murmur predominantly in the aortic focus.",100 bpm
+S1137-66272016000300010-1,11,4,"Cardiac auscultation: rhythmic heart sounds at 100 bpm, panfocal systolic murmur predominantly in the aortic focus.",panfocal systolic murmur
+S1137-66272016000300010-1,11,5,"Cardiac auscultation: rhythmic heart sounds at 100 bpm, panfocal systolic murmur predominantly in the aortic focus.",the aortic focus
+S1137-66272016000300010-1,12,1,Lung auscultation: normal vesicular murmur.,Lung auscultation
+S1137-66272016000300010-1,12,2,Lung auscultation: normal vesicular murmur.,normal vesicular murmur
+S1137-66272016000300010-1,13,1,"Abdomen: soft, depressible, not painful on palpation; No masses or visceromegaly were palpable, nor distension or tympanism.",palpation
+S1137-66272016000300010-1,13,2,"Abdomen: soft, depressible, not painful on palpation; No masses or visceromegaly were palpable, nor distension or tympanism.",No masses
+S1137-66272016000300010-1,13,3,"Abdomen: soft, depressible, not painful on palpation; No masses or visceromegaly were palpable, nor distension or tympanism.",visceromegaly
+S1137-66272016000300010-1,14,1,Normal peristalsis.,Normal peristalsis
+S1137-66272016000300010-1,15,1,Rectal examination: fingertip with traces of normal feces.,Rectal examination
+S1137-66272016000300010-1,15,2,Rectal examination: fingertip with traces of normal feces.,traces
+S1137-66272016000300010-1,15,3,Rectal examination: fingertip with traces of normal feces.,normal feces
+S1137-66272016000300010-1,16,1,Lower extremities without edema or signs of deep vein thrombosis.,Lower extremities
+S1137-66272016000300010-1,16,2,Lower extremities without edema or signs of deep vein thrombosis.,edema
+S1137-66272016000300010-1,16,3,Lower extremities without edema or signs of deep vein thrombosis.,signs
+S1137-66272016000300010-1,16,4,Lower extremities without edema or signs of deep vein thrombosis.,deep vein thrombosis
+S1137-66272016000300010-1,17,1,"After the initial assessment, we request:",the initial assessment
+S1137-66272016000300010-1,17,2,"After the initial assessment, we request:",we
+S1137-66272016000300010-1,18,1,"- Electrocardiogram: sinus rhythm at 105 bpm, without alterations in repolarization, depolarization or conduction disorders.",- Electrocardiogram
+S1137-66272016000300010-1,18,2,"- Electrocardiogram: sinus rhythm at 105 bpm, without alterations in repolarization, depolarization or conduction disorders.",sinus rhythm
+S1137-66272016000300010-1,18,3,"- Electrocardiogram: sinus rhythm at 105 bpm, without alterations in repolarization, depolarization or conduction disorders.",105 bpm
+S1137-66272016000300010-1,18,4,"- Electrocardiogram: sinus rhythm at 105 bpm, without alterations in repolarization, depolarization or conduction disorders.",alterations
+S1137-66272016000300010-1,18,5,"- Electrocardiogram: sinus rhythm at 105 bpm, without alterations in repolarization, depolarization or conduction disorders.","repolarization, depolarization or conduction disorders"
+S1137-66272016000300010-1,19,1,- Chest x-ray: normal cardiac silhouette without acute pleuroparenchymal alterations.,- Chest x-ray: normal cardiac silhouette
+S1137-66272016000300010-1,19,2,- Chest x-ray: normal cardiac silhouette without acute pleuroparenchymal alterations.,acute pleuroparenchymal alterations
+S1137-66272016000300010-1,20,1,- Blood analysis: hemoglobin 11 mg/dL with hematocrit 35%.,- Blood analysis
+S1137-66272016000300010-1,20,2,- Blood analysis: hemoglobin 11 mg/dL with hematocrit 35%.,hemoglobin
+S1137-66272016000300010-1,20,3,- Blood analysis: hemoglobin 11 mg/dL with hematocrit 35%.,mg
+S1137-66272016000300010-1,20,4,- Blood analysis: hemoglobin 11 mg/dL with hematocrit 35%.,/dL
+S1137-66272016000300010-1,20,5,- Blood analysis: hemoglobin 11 mg/dL with hematocrit 35%.,hematocrit
+S1137-66272016000300010-1,20,6,- Blood analysis: hemoglobin 11 mg/dL with hematocrit 35%.,35%
+S1137-66272016000300010-1,21,1,Urea 51 mg/dL with plasma creatinine in normal values.,Urea
+S1137-66272016000300010-1,21,2,Urea 51 mg/dL with plasma creatinine in normal values.,mg
+S1137-66272016000300010-1,21,3,Urea 51 mg/dL with plasma creatinine in normal values.,/dL
+S1137-66272016000300010-1,21,4,Urea 51 mg/dL with plasma creatinine in normal values.,plasma creatinine
+S1137-66272016000300010-1,21,5,Urea 51 mg/dL with plasma creatinine in normal values.,normal values
+S1137-66272016000300010-1,22,1,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",Medical treatment
+S1137-66272016000300010-1,22,2,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",fluid therapy
+S1137-66272016000300010-1,22,3,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",antiemetics
+S1137-66272016000300010-1,22,4,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",clinical suspicion
+S1137-66272016000300010-1,22,5,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",a possible obstructive process
+S1137-66272016000300010-1,22,6,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",the upper digestive tract
+S1137-66272016000300010-1,22,7,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",a motor disorder
+S1137-66272016000300010-1,22,8,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",gastroparesis
+S1137-66272016000300010-1,22,9,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",it
+S1137-66272016000300010-1,22,10,"Medical treatment was started with fluid therapy and antiemetics, and given clinical suspicion of a possible obstructive process of the upper digestive tract due to a motor disorder (gastroparesis), it was decided to perform oral endoscopy.",oral endoscopy
+S1137-66272016000300010-1,23,1,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",oral endoscopy
+S1137-66272016000300010-1,23,2,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",a solid formation
+S1137-66272016000300010-1,23,3,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",spherical morphology
+S1137-66272016000300010-1,23,4,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",color
+S1137-66272016000300010-1,23,5,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",about 3 centimeters
+S1137-66272016000300010-1,23,6,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",diameter
+S1137-66272016000300010-1,23,7,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",that
+S1137-66272016000300010-1,23,8,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",obstruction
+S1137-66272016000300010-1,23,9,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",transit
+S1137-66272016000300010-1,23,10,"During oral endoscopy, a solid formation with spherical morphology and yellowish color about 3 centimeters in diameter is identified that is located in the duodenum and causes obstruction of transit at that level.",that level
+S1137-66272016000300010-1,24,1,The patient is diagnosed with gallstone ileus due to stones stuck in the duodenum (Bouperet Syndrome).,The patient
+S1137-66272016000300010-1,24,2,The patient is diagnosed with gallstone ileus due to stones stuck in the duodenum (Bouperet Syndrome).,gallstone ileus
+S1137-66272016000300010-1,24,3,The patient is diagnosed with gallstone ileus due to stones stuck in the duodenum (Bouperet Syndrome).,stones
+S1137-66272016000300010-1,24,4,The patient is diagnosed with gallstone ileus due to stones stuck in the duodenum (Bouperet Syndrome).,the duodenum (Bouperet Syndrome
+S1137-66272016000300010-1,25,1,"The usual treatment for this entity is surgical, but given the advanced age of the patient, it was decided to attempt endoscopic extraction.",The usual treatment
+S1137-66272016000300010-1,25,2,"The usual treatment for this entity is surgical, but given the advanced age of the patient, it was decided to attempt endoscopic extraction.",this entity
+S1137-66272016000300010-1,25,3,"The usual treatment for this entity is surgical, but given the advanced age of the patient, it was decided to attempt endoscopic extraction.",the advanced age
+S1137-66272016000300010-1,25,4,"The usual treatment for this entity is surgical, but given the advanced age of the patient, it was decided to attempt endoscopic extraction.",the patient
+S1137-66272016000300010-1,25,5,"The usual treatment for this entity is surgical, but given the advanced age of the patient, it was decided to attempt endoscopic extraction.",it
+S1137-66272016000300010-1,25,6,"The usual treatment for this entity is surgical, but given the advanced age of the patient, it was decided to attempt endoscopic extraction.",endoscopic extraction
+S1137-66272016000300010-1,26,1,"First, the duodenum was disimpacted, making a hold using a mesh loop and then the pylorus was crossed in the opposite direction, and the lithiasis was transported to the stomach.",the duodenum
+S1137-66272016000300010-1,26,2,"First, the duodenum was disimpacted, making a hold using a mesh loop and then the pylorus was crossed in the opposite direction, and the lithiasis was transported to the stomach.",a hold
+S1137-66272016000300010-1,26,3,"First, the duodenum was disimpacted, making a hold using a mesh loop and then the pylorus was crossed in the opposite direction, and the lithiasis was transported to the stomach.",a mesh loop
+S1137-66272016000300010-1,26,4,"First, the duodenum was disimpacted, making a hold using a mesh loop and then the pylorus was crossed in the opposite direction, and the lithiasis was transported to the stomach.",the pylorus
+S1137-66272016000300010-1,26,5,"First, the duodenum was disimpacted, making a hold using a mesh loop and then the pylorus was crossed in the opposite direction, and the lithiasis was transported to the stomach.",the opposite direction
+S1137-66272016000300010-1,26,6,"First, the duodenum was disimpacted, making a hold using a mesh loop and then the pylorus was crossed in the opposite direction, and the lithiasis was transported to the stomach.",the lithiasis
+S1137-66272016000300010-1,26,7,"First, the duodenum was disimpacted, making a hold using a mesh loop and then the pylorus was crossed in the opposite direction, and the lithiasis was transported to the stomach.",the stomach
+S1137-66272016000300010-1,27,1,"Once there, lithotripsy maneuvers were performed without success.",lithotripsy maneuvers
+S1137-66272016000300010-1,27,2,"Once there, lithotripsy maneuvers were performed without success.",success
+S1137-66272016000300010-1,28,1,"Subsequently, with a polypectomy loop, the stone was partially introduced into an overtube, since the diameter of the stone was larger.",a polypectomy loop
+S1137-66272016000300010-1,28,2,"Subsequently, with a polypectomy loop, the stone was partially introduced into an overtube, since the diameter of the stone was larger.",the stone
+S1137-66272016000300010-1,28,3,"Subsequently, with a polypectomy loop, the stone was partially introduced into an overtube, since the diameter of the stone was larger.",an overtube
+S1137-66272016000300010-1,28,4,"Subsequently, with a polypectomy loop, the stone was partially introduced into an overtube, since the diameter of the stone was larger.",the diameter
+S1137-66272016000300010-1,28,5,"Subsequently, with a polypectomy loop, the stone was partially introduced into an overtube, since the diameter of the stone was larger.",the stone
+S1137-66272016000300010-1,29,1,The stone is removed by endoscopy through the oral cavity.,The stone
+S1137-66272016000300010-1,29,2,The stone is removed by endoscopy through the oral cavity.,the oral cavity
+S1137-66272016000300010-1,30,1,"Subsequently, the mucosa of the stomach and duodenum was reviewed without observing erosions or mucosal lesions.",the mucosa
+S1137-66272016000300010-1,30,2,"Subsequently, the mucosa of the stomach and duodenum was reviewed without observing erosions or mucosal lesions.",the stomach
+S1137-66272016000300010-1,30,3,"Subsequently, the mucosa of the stomach and duodenum was reviewed without observing erosions or mucosal lesions.",duodenum
+S1137-66272016000300010-1,30,4,"Subsequently, the mucosa of the stomach and duodenum was reviewed without observing erosions or mucosal lesions.",erosions
+S1137-66272016000300010-1,30,5,"Subsequently, the mucosa of the stomach and duodenum was reviewed without observing erosions or mucosal lesions.",mucosal lesions
+S1137-66272016000300010-1,31,1,"After removal of the stone, the patient's clinical condition resolved and she was asymptomatic.",removal
+S1137-66272016000300010-1,31,2,"After removal of the stone, the patient's clinical condition resolved and she was asymptomatic.",the stone
+S1137-66272016000300010-1,31,3,"After removal of the stone, the patient's clinical condition resolved and she was asymptomatic.",the patient's clinical condition
+S1137-66272016000300010-1,31,4,"After removal of the stone, the patient's clinical condition resolved and she was asymptomatic.",she
+S1137-66272016000300010-1,32,1,She underwent analytical and radiographic control with no complications observed and she was discharged from the hospital 24 hours later.,She
+S1137-66272016000300010-1,32,2,She underwent analytical and radiographic control with no complications observed and she was discharged from the hospital 24 hours later.,analytical and radiographic control
+S1137-66272016000300010-1,32,3,She underwent analytical and radiographic control with no complications observed and she was discharged from the hospital 24 hours later.,no complications
+S1137-66272016000300010-1,32,4,She underwent analytical and radiographic control with no complications observed and she was discharged from the hospital 24 hours later.,she
+S1137-66272016000300010-1,32,5,She underwent analytical and radiographic control with no complications observed and she was discharged from the hospital 24 hours later.,the hospital

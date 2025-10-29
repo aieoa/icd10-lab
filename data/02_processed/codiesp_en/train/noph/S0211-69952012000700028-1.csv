@@ -1,0 +1,186 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0211-69952012000700028-1,1,1,"An 84-year-old man with a personal history of allergy to procaine and streptomycin, underwent left hip replacement and bilateral inguinal hernia.",An 84-year-old man
+S0211-69952012000700028-1,1,2,"An 84-year-old man with a personal history of allergy to procaine and streptomycin, underwent left hip replacement and bilateral inguinal hernia.",a personal history
+S0211-69952012000700028-1,1,3,"An 84-year-old man with a personal history of allergy to procaine and streptomycin, underwent left hip replacement and bilateral inguinal hernia.",allergy
+S0211-69952012000700028-1,1,4,"An 84-year-old man with a personal history of allergy to procaine and streptomycin, underwent left hip replacement and bilateral inguinal hernia.",procaine
+S0211-69952012000700028-1,1,5,"An 84-year-old man with a personal history of allergy to procaine and streptomycin, underwent left hip replacement and bilateral inguinal hernia.",streptomycin
+S0211-69952012000700028-1,1,6,"An 84-year-old man with a personal history of allergy to procaine and streptomycin, underwent left hip replacement and bilateral inguinal hernia.",hip replacement
+S0211-69952012000700028-1,1,7,"An 84-year-old man with a personal history of allergy to procaine and streptomycin, underwent left hip replacement and bilateral inguinal hernia.",bilateral inguinal hernia
+S0211-69952012000700028-1,2,1,In August 2010 he was diagnosed with PR and treatment with prednisone 30 mg/day was indicated.,August
+S0211-69952012000700028-1,2,2,In August 2010 he was diagnosed with PR and treatment with prednisone 30 mg/day was indicated.,he
+S0211-69952012000700028-1,2,3,In August 2010 he was diagnosed with PR and treatment with prednisone 30 mg/day was indicated.,PR
+S0211-69952012000700028-1,2,4,In August 2010 he was diagnosed with PR and treatment with prednisone 30 mg/day was indicated.,treatment
+S0211-69952012000700028-1,2,5,In August 2010 he was diagnosed with PR and treatment with prednisone 30 mg/day was indicated.,prednisone 30 mg/day
+S0211-69952012000700028-1,3,1,The patient was independent in activities of daily living and had no cognitive impairment.,The patient
+S0211-69952012000700028-1,3,2,The patient was independent in activities of daily living and had no cognitive impairment.,activities
+S0211-69952012000700028-1,3,3,The patient was independent in activities of daily living and had no cognitive impairment.,daily living
+S0211-69952012000700028-1,3,4,The patient was independent in activities of daily living and had no cognitive impairment.,no cognitive impairment
+S0211-69952012000700028-1,4,1,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",the time
+S0211-69952012000700028-1,4,2,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",the Nephrology Service
+S0211-69952012000700028-1,4,3,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",RP
+S0211-69952012000700028-1,4,4,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",he
+S0211-69952012000700028-1,4,5,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",therapy
+S0211-69952012000700028-1,4,6,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",prednisone
+S0211-69952012000700028-1,4,7,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",5 mg
+S0211-69952012000700028-1,4,8,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",enalapril
+S0211-69952012000700028-1,4,9,"At the time of consulting the Nephrology Service (8 months after RP was diagnosed), he was on therapy with prednisone 5 mg, omeprazole 20 mg/day, enalapril 5 mg every 12 hours, levothyroxine 25 mg/day, chlorthalidone 12, 5 mg/day.",chlorthalidone
+S0211-69952012000700028-1,5,1,The patient was admitted to the Nephrology Service due to an increase in volume in the lower limbs and the abdomino-scrotal region for four days.,The patient
+S0211-69952012000700028-1,5,2,The patient was admitted to the Nephrology Service due to an increase in volume in the lower limbs and the abdomino-scrotal region for four days.,the Nephrology Service
+S0211-69952012000700028-1,5,3,The patient was admitted to the Nephrology Service due to an increase in volume in the lower limbs and the abdomino-scrotal region for four days.,an increase
+S0211-69952012000700028-1,5,4,The patient was admitted to the Nephrology Service due to an increase in volume in the lower limbs and the abdomino-scrotal region for four days.,volume
+S0211-69952012000700028-1,5,5,The patient was admitted to the Nephrology Service due to an increase in volume in the lower limbs and the abdomino-scrotal region for four days.,the lower limbs
+S0211-69952012000700028-1,5,6,The patient was admitted to the Nephrology Service due to an increase in volume in the lower limbs and the abdomino-scrotal region for four days.,the abdomino-scrotal region
+S0211-69952012000700028-1,5,7,The patient was admitted to the Nephrology Service due to an increase in volume in the lower limbs and the abdomino-scrotal region for four days.,four days
+S0211-69952012000700028-1,6,1,During the interrogation he only reported a slight decrease in the rate of diuresis and nocturia all at once.,the interrogation
+S0211-69952012000700028-1,6,2,During the interrogation he only reported a slight decrease in the rate of diuresis and nocturia all at once.,he
+S0211-69952012000700028-1,6,3,During the interrogation he only reported a slight decrease in the rate of diuresis and nocturia all at once.,a slight decrease
+S0211-69952012000700028-1,6,4,During the interrogation he only reported a slight decrease in the rate of diuresis and nocturia all at once.,the rate
+S0211-69952012000700028-1,6,5,During the interrogation he only reported a slight decrease in the rate of diuresis and nocturia all at once.,diuresis
+S0211-69952012000700028-1,6,6,During the interrogation he only reported a slight decrease in the rate of diuresis and nocturia all at once.,nocturia
+S0211-69952012000700028-1,7,1,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",The physical examination
+S0211-69952012000700028-1,7,2,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",a blood pressure
+S0211-69952012000700028-1,7,3,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",150/80 mmHg
+S0211-69952012000700028-1,7,4,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",heart rate
+S0211-69952012000700028-1,7,5,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",80 bpm
+S0211-69952012000700028-1,7,6,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",globular abdomen
+S0211-69952012000700028-1,7,7,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",dullness
+S0211-69952012000700028-1,7,8,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",the mesogastrium
+S0211-69952012000700028-1,7,9,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",edema
+S0211-69952012000700028-1,7,10,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",the lower limbs
+S0211-69952012000700028-1,7,11,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",the rest
+S0211-69952012000700028-1,7,12,"The physical examination revealed a blood pressure of 150/80 mmHg, heart rate of 80 bpm, globular abdomen with dullness in the mesogastrium and pitting edema in the lower limbs, with the rest of the examination being unremarkable.",the examination
+S0211-69952012000700028-1,8,1,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,Blood tests
+S0211-69952012000700028-1,8,2,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,admission
+S0211-69952012000700028-1,8,3,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,creatinine
+S0211-69952012000700028-1,8,4,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,dl
+S0211-69952012000700028-1,8,5,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,dl
+S0211-69952012000700028-1,8,6,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,104 mg
+S0211-69952012000700028-1,8,7,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,dl
+S0211-69952012000700028-1,8,8,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,albumin
+S0211-69952012000700028-1,8,9,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,2.2 g
+S0211-69952012000700028-1,8,10,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,dl
+S0211-69952012000700028-1,8,11,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,Total proteins
+S0211-69952012000700028-1,8,12,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,5 mg
+S0211-69952012000700028-1,8,13,Blood tests upon admission showed: creatinine: 0.8 mg/dl; cholesterol: 354 mg/dl; triglycerides: 104 mg/dl; albumin: 2.2 g/dl; Total proteins: 5 mg/dl.,dl
+S0211-69952012000700028-1,9,1,The blood count and coagulation were normal.,The blood count
+S0211-69952012000700028-1,9,2,The blood count and coagulation were normal.,coagulation
+S0211-69952012000700028-1,10,1,"Hepatitis B, C and human immunodeficiency virus serology: negative.",Hepatitis B
+S0211-69952012000700028-1,10,2,"Hepatitis B, C and human immunodeficiency virus serology: negative.",C
+S0211-69952012000700028-1,10,3,"Hepatitis B, C and human immunodeficiency virus serology: negative.",human immunodeficiency virus serology
+S0211-69952012000700028-1,11,1,"In the immunological study, antinuclear antibodies and antineutrophil cytoplasmic antibodies were negative, and complement was normal.",the immunological study
+S0211-69952012000700028-1,11,2,"In the immunological study, antinuclear antibodies and antineutrophil cytoplasmic antibodies were negative, and complement was normal.",antinuclear antibodies
+S0211-69952012000700028-1,11,3,"In the immunological study, antinuclear antibodies and antineutrophil cytoplasmic antibodies were negative, and complement was normal.",antineutrophil cytoplasmic antibodies
+S0211-69952012000700028-1,11,4,"In the immunological study, antinuclear antibodies and antineutrophil cytoplasmic antibodies were negative, and complement was normal.",complement
+S0211-69952012000700028-1,12,1,IgG was 450 mg/dl (normal range: 751-1560) and IgM and IgA were normal.,IgG
+S0211-69952012000700028-1,12,2,IgG was 450 mg/dl (normal range: 751-1560) and IgM and IgA were normal.,450 mg/dl (normal range
+S0211-69952012000700028-1,12,3,IgG was 450 mg/dl (normal range: 751-1560) and IgM and IgA were normal.,IgM
+S0211-69952012000700028-1,12,4,IgG was 450 mg/dl (normal range: 751-1560) and IgM and IgA were normal.,IgA
+S0211-69952012000700028-1,13,1,Blood electrophoresis showed a percentage decrease in albumin without monoclonal peaks.,Blood electrophoresis
+S0211-69952012000700028-1,13,2,Blood electrophoresis showed a percentage decrease in albumin without monoclonal peaks.,a percentage decrease
+S0211-69952012000700028-1,13,3,Blood electrophoresis showed a percentage decrease in albumin without monoclonal peaks.,albumin
+S0211-69952012000700028-1,13,4,Blood electrophoresis showed a percentage decrease in albumin without monoclonal peaks.,monoclonal peaks
+S0211-69952012000700028-1,14,1,"Tumor markers (carcinoembryonic antigen [CEA], CA19-9, alpha-fetoprotein, and prostate-specific antigen [PSA]) were within normal values.",Tumor markers
+S0211-69952012000700028-1,14,2,"Tumor markers (carcinoembryonic antigen [CEA], CA19-9, alpha-fetoprotein, and prostate-specific antigen [PSA]) were within normal values.",carcinoembryonic antigen
+S0211-69952012000700028-1,14,3,"Tumor markers (carcinoembryonic antigen [CEA], CA19-9, alpha-fetoprotein, and prostate-specific antigen [PSA]) were within normal values.",CEA
+S0211-69952012000700028-1,14,4,"Tumor markers (carcinoembryonic antigen [CEA], CA19-9, alpha-fetoprotein, and prostate-specific antigen [PSA]) were within normal values.",PSA
+S0211-69952012000700028-1,14,5,"Tumor markers (carcinoembryonic antigen [CEA], CA19-9, alpha-fetoprotein, and prostate-specific antigen [PSA]) were within normal values.",normal values
+S0211-69952012000700028-1,15,1,CA125 of 136 IU/ml (normal value: 0-35).,CA125 of 136 IU/ml (normal value
+S0211-69952012000700028-1,16,1,Protein quantification in 24-hour urine was 9.51 g/24 h.,Protein quantification
+S0211-69952012000700028-1,16,2,Protein quantification in 24-hour urine was 9.51 g/24 h.,24-hour urine
+S0211-69952012000700028-1,16,3,Protein quantification in 24-hour urine was 9.51 g/24 h.,9.51 g/24
+S0211-69952012000700028-1,17,1,"Creatinine clearance, 77 ml/min.",Creatinine clearance
+S0211-69952012000700028-1,17,2,"Creatinine clearance, 77 ml/min.",77 ml
+S0211-69952012000700028-1,17,3,"Creatinine clearance, 77 ml/min.",min
+S0211-69952012000700028-1,18,1,"Urine electrophoresis also ruled out the presence of monoclonal peaks, with Bence-Jones proteinuria being negative.",Urine electrophoresis
+S0211-69952012000700028-1,18,2,"Urine electrophoresis also ruled out the presence of monoclonal peaks, with Bence-Jones proteinuria being negative.",the presence
+S0211-69952012000700028-1,18,3,"Urine electrophoresis also ruled out the presence of monoclonal peaks, with Bence-Jones proteinuria being negative.",monoclonal peaks
+S0211-69952012000700028-1,18,4,"Urine electrophoresis also ruled out the presence of monoclonal peaks, with Bence-Jones proteinuria being negative.",Bence-Jones proteinuria
+S0211-69952012000700028-1,19,1,The chest x-ray revealed a right pleural effusion.,The chest x
+S0211-69952012000700028-1,19,2,The chest x-ray revealed a right pleural effusion.,-
+S0211-69952012000700028-1,19,3,The chest x-ray revealed a right pleural effusion.,ray
+S0211-69952012000700028-1,19,4,The chest x-ray revealed a right pleural effusion.,a right pleural effusion
+S0211-69952012000700028-1,20,1,"In the renal ultrasound, the kidneys were 11 cm in size and there were no stones or dilation.",the renal ultrasound
+S0211-69952012000700028-1,20,2,"In the renal ultrasound, the kidneys were 11 cm in size and there were no stones or dilation.",the kidneys
+S0211-69952012000700028-1,20,3,"In the renal ultrasound, the kidneys were 11 cm in size and there were no stones or dilation.",11 cm
+S0211-69952012000700028-1,20,4,"In the renal ultrasound, the kidneys were 11 cm in size and there were no stones or dilation.",size
+S0211-69952012000700028-1,20,5,"In the renal ultrasound, the kidneys were 11 cm in size and there were no stones or dilation.",no stones
+S0211-69952012000700028-1,20,6,"In the renal ultrasound, the kidneys were 11 cm in size and there were no stones or dilation.",dilation
+S0211-69952012000700028-1,21,1,"An abdominal computed tomography scan was performed, which revealed thickening of the gastric folds.",An abdominal computed tomography scan
+S0211-69952012000700028-1,21,2,"An abdominal computed tomography scan was performed, which revealed thickening of the gastric folds.",which
+S0211-69952012000700028-1,21,3,"An abdominal computed tomography scan was performed, which revealed thickening of the gastric folds.",thickening
+S0211-69952012000700028-1,21,4,"An abdominal computed tomography scan was performed, which revealed thickening of the gastric folds.",the gastric folds
+S0211-69952012000700028-1,22,1,"For this reason, a gastroscopy was requested, which confirmed the existence of a thickened pyloric fold, but without evidence of malignancy in the pathological study.",this reason
+S0211-69952012000700028-1,22,2,"For this reason, a gastroscopy was requested, which confirmed the existence of a thickened pyloric fold, but without evidence of malignancy in the pathological study.",a gastroscopy
+S0211-69952012000700028-1,22,3,"For this reason, a gastroscopy was requested, which confirmed the existence of a thickened pyloric fold, but without evidence of malignancy in the pathological study.",which
+S0211-69952012000700028-1,22,4,"For this reason, a gastroscopy was requested, which confirmed the existence of a thickened pyloric fold, but without evidence of malignancy in the pathological study.",the existence
+S0211-69952012000700028-1,22,5,"For this reason, a gastroscopy was requested, which confirmed the existence of a thickened pyloric fold, but without evidence of malignancy in the pathological study.",a thickened pyloric fold
+S0211-69952012000700028-1,22,6,"For this reason, a gastroscopy was requested, which confirmed the existence of a thickened pyloric fold, but without evidence of malignancy in the pathological study.",evidence
+S0211-69952012000700028-1,22,7,"For this reason, a gastroscopy was requested, which confirmed the existence of a thickened pyloric fold, but without evidence of malignancy in the pathological study.",malignancy
+S0211-69952012000700028-1,22,8,"For this reason, a gastroscopy was requested, which confirmed the existence of a thickened pyloric fold, but without evidence of malignancy in the pathological study.",the pathological study
+S0211-69952012000700028-1,23,1,"Given the presence of a florid nephrotic syndrome, an ultrasound-guided percutaneous renal biopsy was performed with the findings: «5 glomeruli per section plane, all of them with usual histological characteristics.",the presence
+S0211-69952012000700028-1,23,2,"Given the presence of a florid nephrotic syndrome, an ultrasound-guided percutaneous renal biopsy was performed with the findings: «5 glomeruli per section plane, all of them with usual histological characteristics.",a florid nephrotic syndrome
+S0211-69952012000700028-1,23,3,"Given the presence of a florid nephrotic syndrome, an ultrasound-guided percutaneous renal biopsy was performed with the findings: «5 glomeruli per section plane, all of them with usual histological characteristics.",an ultrasound-guided percutaneous renal biopsy
+S0211-69952012000700028-1,23,4,"Given the presence of a florid nephrotic syndrome, an ultrasound-guided percutaneous renal biopsy was performed with the findings: «5 glomeruli per section plane, all of them with usual histological characteristics.",the findings
+S0211-69952012000700028-1,23,5,"Given the presence of a florid nephrotic syndrome, an ultrasound-guided percutaneous renal biopsy was performed with the findings: «5 glomeruli per section plane, all of them with usual histological characteristics.",section
+S0211-69952012000700028-1,23,6,"Given the presence of a florid nephrotic syndrome, an ultrasound-guided percutaneous renal biopsy was performed with the findings: «5 glomeruli per section plane, all of them with usual histological characteristics.",all
+S0211-69952012000700028-1,23,7,"Given the presence of a florid nephrotic syndrome, an ultrasound-guided percutaneous renal biopsy was performed with the findings: «5 glomeruli per section plane, all of them with usual histological characteristics.",them
+S0211-69952012000700028-1,23,8,"Given the presence of a florid nephrotic syndrome, an ultrasound-guided percutaneous renal biopsy was performed with the findings: «5 glomeruli per section plane, all of them with usual histological characteristics.",usual histological characteristics
+S0211-69952012000700028-1,24,1,"Immunofluorescence was negative for the markers studied (IgG, IgA, IgM and C3).",Immunofluorescence
+S0211-69952012000700028-1,24,2,"Immunofluorescence was negative for the markers studied (IgG, IgA, IgM and C3).",the markers
+S0211-69952012000700028-1,25,1,"""Both the interstitium, the tubules and the vascular component had no lesions.""",Both the interstitium
+S0211-69952012000700028-1,25,2,"""Both the interstitium, the tubules and the vascular component had no lesions.""",the tubules
+S0211-69952012000700028-1,25,3,"""Both the interstitium, the tubules and the vascular component had no lesions.""",the vascular component
+S0211-69952012000700028-1,25,4,"""Both the interstitium, the tubules and the vascular component had no lesions.""",no lesions
+S0211-69952012000700028-1,26,1,The final diagnosis was minimal change nephropathy (MCN).,The final diagnosis
+S0211-69952012000700028-1,26,2,The final diagnosis was minimal change nephropathy (MCN).,minimal change nephropathy
+S0211-69952012000700028-1,26,3,The final diagnosis was minimal change nephropathy (MCN).,MCN
+S0211-69952012000700028-1,27,1,"Based on the biopsy findings, the prednisone dose was increased to 1 mg/kg/day.",the biopsy findings
+S0211-69952012000700028-1,27,2,"Based on the biopsy findings, the prednisone dose was increased to 1 mg/kg/day.",the prednisone dose
+S0211-69952012000700028-1,27,3,"Based on the biopsy findings, the prednisone dose was increased to 1 mg/kg/day.",1 mg
+S0211-69952012000700028-1,27,4,"Based on the biopsy findings, the prednisone dose was increased to 1 mg/kg/day.",kg
+S0211-69952012000700028-1,27,5,"Based on the biopsy findings, the prednisone dose was increased to 1 mg/kg/day.",/day
+S0211-69952012000700028-1,28,1,"One month later, in the outpatient clinic, remission of the clinical and biochemical nephrotic syndrome was confirmed and a descending prednisone regimen was indicated.",the outpatient clinic
+S0211-69952012000700028-1,28,2,"One month later, in the outpatient clinic, remission of the clinical and biochemical nephrotic syndrome was confirmed and a descending prednisone regimen was indicated.",remission
+S0211-69952012000700028-1,28,3,"One month later, in the outpatient clinic, remission of the clinical and biochemical nephrotic syndrome was confirmed and a descending prednisone regimen was indicated.",the clinical and biochemical nephrotic syndrome
+S0211-69952012000700028-1,28,4,"One month later, in the outpatient clinic, remission of the clinical and biochemical nephrotic syndrome was confirmed and a descending prednisone regimen was indicated.",a descending prednisone regimen
+S0211-69952012000700028-1,29,1,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",the patient
+S0211-69952012000700028-1,29,2,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",maintenance therapy
+S0211-69952012000700028-1,29,3,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",prednisone
+S0211-69952012000700028-1,29,4,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",5 mg
+S0211-69952012000700028-1,29,5,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",/day
+S0211-69952012000700028-1,29,6,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",a relapse
+S0211-69952012000700028-1,29,7,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",nephrotic syndrome
+S0211-69952012000700028-1,29,8,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",which
+S0211-69952012000700028-1,29,9,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",the dose
+S0211-69952012000700028-1,29,10,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",prednisone
+S0211-69952012000700028-1,29,11,"Seven months later, when the patient was on maintenance therapy with prednisone 5 mg/day, a relapse of nephrotic syndrome was observed, which forced the dose of prednisone to be increased to 50 mg/day.",50 mg/day
+S0211-69952012000700028-1,30,1,"After the disappearance of the nephrotic syndrome, a decreasing prednisone regimen was indicated until reaching a dose of 2.5 mg/day.",the disappearance
+S0211-69952012000700028-1,30,2,"After the disappearance of the nephrotic syndrome, a decreasing prednisone regimen was indicated until reaching a dose of 2.5 mg/day.",the nephrotic syndrome
+S0211-69952012000700028-1,30,3,"After the disappearance of the nephrotic syndrome, a decreasing prednisone regimen was indicated until reaching a dose of 2.5 mg/day.",a decreasing prednisone regimen
+S0211-69952012000700028-1,30,4,"After the disappearance of the nephrotic syndrome, a decreasing prednisone regimen was indicated until reaching a dose of 2.5 mg/day.",a dose
+S0211-69952012000700028-1,30,5,"After the disappearance of the nephrotic syndrome, a decreasing prednisone regimen was indicated until reaching a dose of 2.5 mg/day.",2.5 mg/day
+S0211-69952012000700028-1,31,1,"One month after maintaining prednisone at a dose of 2.5 mg/dl, the patient consulted his primary care physician due to edema.",prednisone
+S0211-69952012000700028-1,31,2,"One month after maintaining prednisone at a dose of 2.5 mg/dl, the patient consulted his primary care physician due to edema.",a dose
+S0211-69952012000700028-1,31,3,"One month after maintaining prednisone at a dose of 2.5 mg/dl, the patient consulted his primary care physician due to edema.",2.5 mg/dl
+S0211-69952012000700028-1,31,4,"One month after maintaining prednisone at a dose of 2.5 mg/dl, the patient consulted his primary care physician due to edema.",the patient
+S0211-69952012000700028-1,31,5,"One month after maintaining prednisone at a dose of 2.5 mg/dl, the patient consulted his primary care physician due to edema.",his primary care physician
+S0211-69952012000700028-1,31,6,"One month after maintaining prednisone at a dose of 2.5 mg/dl, the patient consulted his primary care physician due to edema.",edema
+S0211-69952012000700028-1,32,1,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",The analysis
+S0211-69952012000700028-1,32,2,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",the appearance
+S0211-69952012000700028-1,32,3,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",proteinuria
+S0211-69952012000700028-1,32,4,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",1.66 g
+S0211-69952012000700028-1,32,5,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",day
+S0211-69952012000700028-1,32,6,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",it
+S0211-69952012000700028-1,32,7,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",the dose
+S0211-69952012000700028-1,32,8,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",prednisone
+S0211-69952012000700028-1,32,9,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",10 mg
+S0211-69952012000700028-1,32,10,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",/day
+S0211-69952012000700028-1,32,11,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",the disappearance
+S0211-69952012000700028-1,32,12,"The analysis confirmed the appearance of proteinuria of 1.66 g/day, so it was decided to increase the dose of prednisone to 10 mg/day, achieving the disappearance of proteinuria.",proteinuria
+S0211-69952012000700028-1,33,1,"In the last Nephrology review, on maintenance with prednisone 10 mg/day, the patient was asymptomatic and without proteinuria.",the last Nephrology review
+S0211-69952012000700028-1,33,2,"In the last Nephrology review, on maintenance with prednisone 10 mg/day, the patient was asymptomatic and without proteinuria.",maintenance
+S0211-69952012000700028-1,33,3,"In the last Nephrology review, on maintenance with prednisone 10 mg/day, the patient was asymptomatic and without proteinuria.",prednisone
+S0211-69952012000700028-1,33,4,"In the last Nephrology review, on maintenance with prednisone 10 mg/day, the patient was asymptomatic and without proteinuria.",10 mg
+S0211-69952012000700028-1,33,5,"In the last Nephrology review, on maintenance with prednisone 10 mg/day, the patient was asymptomatic and without proteinuria.",/day
+S0211-69952012000700028-1,33,6,"In the last Nephrology review, on maintenance with prednisone 10 mg/day, the patient was asymptomatic and without proteinuria.",the patient
+S0211-69952012000700028-1,33,7,"In the last Nephrology review, on maintenance with prednisone 10 mg/day, the patient was asymptomatic and without proteinuria.",proteinuria

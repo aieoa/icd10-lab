@@ -1,0 +1,63 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142006000100010-1,1,1,"Female patient, 62 years old, obese, with diabetes and hypertension for one year.",Female patient
+S0004-06142006000100010-1,1,2,"Female patient, 62 years old, obese, with diabetes and hypertension for one year.",obese
+S0004-06142006000100010-1,1,3,"Female patient, 62 years old, obese, with diabetes and hypertension for one year.",diabetes
+S0004-06142006000100010-1,1,4,"Female patient, 62 years old, obese, with diabetes and hypertension for one year.",hypertension
+S0004-06142006000100010-1,1,5,"Female patient, 62 years old, obese, with diabetes and hypertension for one year.",one year
+S0004-06142006000100010-1,2,1,"For the past 6 months she has been reporting sporadic, low-intensity right lumbar pain.",the past 6 months
+S0004-06142006000100010-1,2,2,"For the past 6 months she has been reporting sporadic, low-intensity right lumbar pain.",she
+S0004-06142006000100010-1,2,3,"For the past 6 months she has been reporting sporadic, low-intensity right lumbar pain.","sporadic, low-intensity right lumbar pain"
+S0004-06142006000100010-1,3,1,The physical check was normal.,The physical check
+S0004-06142006000100010-1,4,1,"An abdominal ultrasound was performed, which showed a hypoechoic right adrenal mass measuring 80 mm that compressed the upper pole of the right kidney.",An abdominal ultrasound
+S0004-06142006000100010-1,4,2,"An abdominal ultrasound was performed, which showed a hypoechoic right adrenal mass measuring 80 mm that compressed the upper pole of the right kidney.",which
+S0004-06142006000100010-1,4,3,"An abdominal ultrasound was performed, which showed a hypoechoic right adrenal mass measuring 80 mm that compressed the upper pole of the right kidney.",a hypoechoic right adrenal mass
+S0004-06142006000100010-1,4,4,"An abdominal ultrasound was performed, which showed a hypoechoic right adrenal mass measuring 80 mm that compressed the upper pole of the right kidney.",80 mm
+S0004-06142006000100010-1,4,5,"An abdominal ultrasound was performed, which showed a hypoechoic right adrenal mass measuring 80 mm that compressed the upper pole of the right kidney.",that
+S0004-06142006000100010-1,4,6,"An abdominal ultrasound was performed, which showed a hypoechoic right adrenal mass measuring 80 mm that compressed the upper pole of the right kidney.",the upper pole
+S0004-06142006000100010-1,4,7,"An abdominal ultrasound was performed, which showed a hypoechoic right adrenal mass measuring 80 mm that compressed the upper pole of the right kidney.",the right kidney
+S0004-06142006000100010-1,5,1,"Descending urogram, expansive process in the right adrenal, the upper pole of the right kidney displaced downwards.",urogram
+S0004-06142006000100010-1,5,2,"Descending urogram, expansive process in the right adrenal, the upper pole of the right kidney displaced downwards.",expansive process
+S0004-06142006000100010-1,5,3,"Descending urogram, expansive process in the right adrenal, the upper pole of the right kidney displaced downwards.",the right adrenal
+S0004-06142006000100010-1,5,4,"Descending urogram, expansive process in the right adrenal, the upper pole of the right kidney displaced downwards.",the upper pole
+S0004-06142006000100010-1,5,5,"Descending urogram, expansive process in the right adrenal, the upper pole of the right kidney displaced downwards.",the right kidney
+S0004-06142006000100010-1,6,1,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",the helical CT
+S0004-06142006000100010-1,6,2,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",tumor mass
+S0004-06142006000100010-1,6,3,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",a greater diameter
+S0004-06142006000100010-1,6,4,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",8.7x76 cm
+S0004-06142006000100010-1,6,5,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",irregular contours
+S0004-06142006000100010-1,6,6,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",heterogeneous density
+S0004-06142006000100010-1,6,7,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",100 - 37 HU
+S0004-06142006000100010-1,6,8,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",an adrenal tumor
+S0004-06142006000100010-1,6,9,"In the helical CT, tumor mass with a greater diameter of 8.7x76 cm with irregular contours, heterogeneous density of 100 - 37 HU, septated, compatible with an adrenal tumor of fatty density.",fatty density
+S0004-06142006000100010-1,7,1,Figure 1,Figure
+S0004-06142006000100010-1,8,1,The hormonal study to determine cortisol was normal.,The hormonal study
+S0004-06142006000100010-1,8,2,The hormonal study to determine cortisol was normal.,cortisol
+S0004-06142006000100010-1,9,1,The patient underwent surgery through a lumbar approach.,The patient
+S0004-06142006000100010-1,9,2,The patient underwent surgery through a lumbar approach.,surgery
+S0004-06142006000100010-1,9,3,The patient underwent surgery through a lumbar approach.,a lumbar approach
+S0004-06142006000100010-1,10,1,"The intraoperative findings were a tumor located in the right adrenal gland, well delimited with irregular borders with lobulations.",The intraoperative findings
+S0004-06142006000100010-1,10,2,"The intraoperative findings were a tumor located in the right adrenal gland, well delimited with irregular borders with lobulations.",a tumor
+S0004-06142006000100010-1,10,3,"The intraoperative findings were a tumor located in the right adrenal gland, well delimited with irregular borders with lobulations.",the right adrenal gland
+S0004-06142006000100010-1,10,4,"The intraoperative findings were a tumor located in the right adrenal gland, well delimited with irregular borders with lobulations.",irregular borders
+S0004-06142006000100010-1,10,5,"The intraoperative findings were a tumor located in the right adrenal gland, well delimited with irregular borders with lobulations.",lobulations
+S0004-06142006000100010-1,11,1,Right adrenalectomy was performed without complications.,Right adrenalectomy
+S0004-06142006000100010-1,11,2,Right adrenalectomy was performed without complications.,complications
+S0004-06142006000100010-1,12,1,"The patient's postoperative evolution is favorable, remaining asymptomatic.",The patient's postoperative evolution
+S0004-06142006000100010-1,12,2,"The patient's postoperative evolution is favorable, remaining asymptomatic.","favorable, remaining asymptomatic"
+S0004-06142006000100010-1,13,1,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",The pathologist
+S0004-06142006000100010-1,13,2,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",the piece
+S0004-06142006000100010-1,13,3,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",a weight
+S0004-06142006000100010-1,13,4,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",171.4 g
+S0004-06142006000100010-1,13,5,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",dimensions
+S0004-06142006000100010-1,13,6,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",9 x 8 x 6 cm
+S0004-06142006000100010-1,13,7,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",the cut
+S0004-06142006000100010-1,13,8,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",yellow-orange areas
+S0004-06142006000100010-1,13,9,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",other areas
+S0004-06142006000100010-1,13,10,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",hemorrhages
+S0004-06142006000100010-1,13,11,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",tissue
+S0004-06142006000100010-1,13,12,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",areas
+S0004-06142006000100010-1,13,13,"The pathologist reported the piece with a weight of 171.4 g, dimensions of 9 x 8 x 6 cm and the cut with yellow-orange areas and other areas of hemorrhages and adipose tissue alternating with areas of calcifications.",calcifications
+S0004-06142006000100010-1,14,1,Histopathological examination: myelolipoma of the adrenal gland with extensive areas of calcifications.,Histopathological examination: myelolipoma
+S0004-06142006000100010-1,14,2,Histopathological examination: myelolipoma of the adrenal gland with extensive areas of calcifications.,the adrenal gland
+S0004-06142006000100010-1,14,3,Histopathological examination: myelolipoma of the adrenal gland with extensive areas of calcifications.,extensive areas
+S0004-06142006000100010-1,14,4,Histopathological examination: myelolipoma of the adrenal gland with extensive areas of calcifications.,calcifications

@@ -1,0 +1,88 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082008000400017-1,1,1,A 76-year-old patient underwent emergency surgery for a perforated cecum tumor that obstructed the terminal ileum.,A 76-year-old patient
+S1130-01082008000400017-1,1,2,A 76-year-old patient underwent emergency surgery for a perforated cecum tumor that obstructed the terminal ileum.,emergency surgery
+S1130-01082008000400017-1,1,3,A 76-year-old patient underwent emergency surgery for a perforated cecum tumor that obstructed the terminal ileum.,a perforated cecum tumor
+S1130-01082008000400017-1,1,4,A 76-year-old patient underwent emergency surgery for a perforated cecum tumor that obstructed the terminal ileum.,that
+S1130-01082008000400017-1,1,5,A 76-year-old patient underwent emergency surgery for a perforated cecum tumor that obstructed the terminal ileum.,the terminal ileum
+S1130-01082008000400017-1,2,1,"His personal history included ischemic heart disease with an AMI and an aortocoronary bypass 13 and 6 years ago, respectively.",His personal history
+S1130-01082008000400017-1,2,2,"His personal history included ischemic heart disease with an AMI and an aortocoronary bypass 13 and 6 years ago, respectively.",ischemic heart disease
+S1130-01082008000400017-1,2,3,"His personal history included ischemic heart disease with an AMI and an aortocoronary bypass 13 and 6 years ago, respectively.",an AMI
+S1130-01082008000400017-1,2,4,"His personal history included ischemic heart disease with an AMI and an aortocoronary bypass 13 and 6 years ago, respectively.",an aortocoronary bypass
+S1130-01082008000400017-1,3,1,He underwent a right hemicolectomy and resection of 15 cm of ileum with reconstruction of the transit through an ileocolic anastomosis.,He
+S1130-01082008000400017-1,3,2,He underwent a right hemicolectomy and resection of 15 cm of ileum with reconstruction of the transit through an ileocolic anastomosis.,a right hemicolectomy
+S1130-01082008000400017-1,3,3,He underwent a right hemicolectomy and resection of 15 cm of ileum with reconstruction of the transit through an ileocolic anastomosis.,resection
+S1130-01082008000400017-1,3,4,He underwent a right hemicolectomy and resection of 15 cm of ileum with reconstruction of the transit through an ileocolic anastomosis.,15 cm
+S1130-01082008000400017-1,3,5,He underwent a right hemicolectomy and resection of 15 cm of ileum with reconstruction of the transit through an ileocolic anastomosis.,ileum
+S1130-01082008000400017-1,3,6,He underwent a right hemicolectomy and resection of 15 cm of ileum with reconstruction of the transit through an ileocolic anastomosis.,reconstruction
+S1130-01082008000400017-1,3,7,He underwent a right hemicolectomy and resection of 15 cm of ileum with reconstruction of the transit through an ileocolic anastomosis.,the transit
+S1130-01082008000400017-1,3,8,He underwent a right hemicolectomy and resection of 15 cm of ileum with reconstruction of the transit through an ileocolic anastomosis.,an ileocolic anastomosis
+S1130-01082008000400017-1,4,1,The presence of a liver metastasis was observed in segment 8 with a size of 4 cm.,The presence
+S1130-01082008000400017-1,4,2,The presence of a liver metastasis was observed in segment 8 with a size of 4 cm.,a liver metastasis
+S1130-01082008000400017-1,4,3,The presence of a liver metastasis was observed in segment 8 with a size of 4 cm.,segment
+S1130-01082008000400017-1,4,4,The presence of a liver metastasis was observed in segment 8 with a size of 4 cm.,a size
+S1130-01082008000400017-1,4,5,The presence of a liver metastasis was observed in segment 8 with a size of 4 cm.,4 cm
+S1130-01082008000400017-1,5,1,He required a second intervention 4 days later for intra-abdominal abscess.,He
+S1130-01082008000400017-1,5,2,He required a second intervention 4 days later for intra-abdominal abscess.,a second intervention
+S1130-01082008000400017-1,5,3,He required a second intervention 4 days later for intra-abdominal abscess.,intra-abdominal abscess
+S1130-01082008000400017-1,6,1,The pathological study showed well-differentiated adenocarcinoma with 17 nodes free of tumor infiltration (T4N0M1).,The pathological study
+S1130-01082008000400017-1,6,2,The pathological study showed well-differentiated adenocarcinoma with 17 nodes free of tumor infiltration (T4N0M1).,well-differentiated adenocarcinoma
+S1130-01082008000400017-1,6,3,The pathological study showed well-differentiated adenocarcinoma with 17 nodes free of tumor infiltration (T4N0M1).,tumor infiltration
+S1130-01082008000400017-1,7,1,The postoperative CT scan revealed a 3.5 cm solid nodular lesion in segment 8 of the liver.,The postoperative CT scan
+S1130-01082008000400017-1,7,2,The postoperative CT scan revealed a 3.5 cm solid nodular lesion in segment 8 of the liver.,a 3.5 cm solid nodular lesion
+S1130-01082008000400017-1,7,3,The postoperative CT scan revealed a 3.5 cm solid nodular lesion in segment 8 of the liver.,segment
+S1130-01082008000400017-1,7,4,The postoperative CT scan revealed a 3.5 cm solid nodular lesion in segment 8 of the liver.,the liver
+S1130-01082008000400017-1,8,1,Postoperative QM with FOLFOX was performed with a decrease in the size of the lesion to 2.5 cm.,Postoperative QM
+S1130-01082008000400017-1,8,2,Postoperative QM with FOLFOX was performed with a decrease in the size of the lesion to 2.5 cm.,FOLFOX
+S1130-01082008000400017-1,8,3,Postoperative QM with FOLFOX was performed with a decrease in the size of the lesion to 2.5 cm.,a decrease
+S1130-01082008000400017-1,8,4,Postoperative QM with FOLFOX was performed with a decrease in the size of the lesion to 2.5 cm.,the size
+S1130-01082008000400017-1,8,5,Postoperative QM with FOLFOX was performed with a decrease in the size of the lesion to 2.5 cm.,the lesion
+S1130-01082008000400017-1,8,6,Postoperative QM with FOLFOX was performed with a decrease in the size of the lesion to 2.5 cm.,2.5 cm
+S1130-01082008000400017-1,9,1,"Six months after surgery on the primary tumor, it was decided to perform laparoscopic RF of the liver metastasis, given the patient's high surgical risk.",surgery
+S1130-01082008000400017-1,9,2,"Six months after surgery on the primary tumor, it was decided to perform laparoscopic RF of the liver metastasis, given the patient's high surgical risk.",the primary tumor
+S1130-01082008000400017-1,9,3,"Six months after surgery on the primary tumor, it was decided to perform laparoscopic RF of the liver metastasis, given the patient's high surgical risk.",it
+S1130-01082008000400017-1,9,4,"Six months after surgery on the primary tumor, it was decided to perform laparoscopic RF of the liver metastasis, given the patient's high surgical risk.",laparoscopic RF
+S1130-01082008000400017-1,9,5,"Six months after surgery on the primary tumor, it was decided to perform laparoscopic RF of the liver metastasis, given the patient's high surgical risk.",the liver metastasis
+S1130-01082008000400017-1,9,6,"Six months after surgery on the primary tumor, it was decided to perform laparoscopic RF of the liver metastasis, given the patient's high surgical risk.",the patient's high surgical risk
+S1130-01082008000400017-1,10,1,The procedure was performed under general anesthesia and with the patient in a supine position.,The procedure
+S1130-01082008000400017-1,10,2,The procedure was performed under general anesthesia and with the patient in a supine position.,general anesthesia
+S1130-01082008000400017-1,10,3,The procedure was performed under general anesthesia and with the patient in a supine position.,the patient
+S1130-01082008000400017-1,10,4,The procedure was performed under general anesthesia and with the patient in a supine position.,a supine position
+S1130-01082008000400017-1,11,1,The trocar for access to the abdominal cavity and for the optics was located at the level of the epigastrium.,The trocar
+S1130-01082008000400017-1,11,2,The trocar for access to the abdominal cavity and for the optics was located at the level of the epigastrium.,access
+S1130-01082008000400017-1,11,3,The trocar for access to the abdominal cavity and for the optics was located at the level of the epigastrium.,the abdominal cavity
+S1130-01082008000400017-1,11,4,The trocar for access to the abdominal cavity and for the optics was located at the level of the epigastrium.,the optics
+S1130-01082008000400017-1,11,5,The trocar for access to the abdominal cavity and for the optics was located at the level of the epigastrium.,the level
+S1130-01082008000400017-1,11,6,The trocar for access to the abdominal cavity and for the optics was located at the level of the epigastrium.,the epigastrium
+S1130-01082008000400017-1,12,1,An 11 mm trocar was used that was placed below the costal margin.,An 11 mm trocar
+S1130-01082008000400017-1,12,2,An 11 mm trocar was used that was placed below the costal margin.,that
+S1130-01082008000400017-1,12,3,An 11 mm trocar was used that was placed below the costal margin.,the costal margin
+S1130-01082008000400017-1,13,1,The portable 7.5 Mhz laparoscopic ultrasound transducer was placed through the 11 mm trocar.,The portable 7.5 Mhz laparoscopic ultrasound transducer
+S1130-01082008000400017-1,13,2,The portable 7.5 Mhz laparoscopic ultrasound transducer was placed through the 11 mm trocar.,the 11 mm trocar
+S1130-01082008000400017-1,14,1,No other metastatic lesion was observed on intraoperative ultrasound.,No other metastatic lesion
+S1130-01082008000400017-1,14,2,No other metastatic lesion was observed on intraoperative ultrasound.,intraoperative ultrasound
+S1130-01082008000400017-1,15,1,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",ultrasound and laparoscopic control
+S1130-01082008000400017-1,15,2,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",the electrode
+S1130-01082008000400017-1,15,3,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",the center
+S1130-01082008000400017-1,15,4,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",the lesion
+S1130-01082008000400017-1,15,5,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",a target temperature
+S1130-01082008000400017-1,15,6,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",105 ºC
+S1130-01082008000400017-1,15,7,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",a treatment time
+S1130-01082008000400017-1,15,8,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",6 minutes
+S1130-01082008000400017-1,15,9,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",150 W and correct ablation
+S1130-01082008000400017-1,15,10,"Under ultrasound and laparoscopic control, the electrode was inserted into the center of the lesion and ablated with a target temperature of 105 ºC, a treatment time of 6 minutes, a power achieved of 150 W and correct ablation of the intrahepatic path.",the intrahepatic path
+S1130-01082008000400017-1,16,1,The RF electrode used was 25 cm long and had an ablation diameter of 4 cm.,The RF
+S1130-01082008000400017-1,16,2,The RF electrode used was 25 cm long and had an ablation diameter of 4 cm.,an ablation diameter
+S1130-01082008000400017-1,16,3,The RF electrode used was 25 cm long and had an ablation diameter of 4 cm.,4 cm
+S1130-01082008000400017-1,17,1,The lesion became hyperechoic after ablation and no residual lesion was noted.,The lesion
+S1130-01082008000400017-1,17,2,The lesion became hyperechoic after ablation and no residual lesion was noted.,ablation
+S1130-01082008000400017-1,17,3,The lesion became hyperechoic after ablation and no residual lesion was noted.,no residual lesion
+S1130-01082008000400017-1,18,1,There were no postoperative complications and the hospital stay was one day.,no postoperative complications
+S1130-01082008000400017-1,18,2,There were no postoperative complications and the hospital stay was one day.,the hospital stay
+S1130-01082008000400017-1,18,3,There were no postoperative complications and the hospital stay was one day.,one day
+S1130-01082008000400017-1,19,1,"One month after RF treatment, a spiral CT was performed, revealing a hypodense lesion with absence of uptake, compatible with complete necrosis of the tumor lesion.",RF treatment
+S1130-01082008000400017-1,19,2,"One month after RF treatment, a spiral CT was performed, revealing a hypodense lesion with absence of uptake, compatible with complete necrosis of the tumor lesion.",a spiral CT
+S1130-01082008000400017-1,19,3,"One month after RF treatment, a spiral CT was performed, revealing a hypodense lesion with absence of uptake, compatible with complete necrosis of the tumor lesion.",a hypodense lesion
+S1130-01082008000400017-1,19,4,"One month after RF treatment, a spiral CT was performed, revealing a hypodense lesion with absence of uptake, compatible with complete necrosis of the tumor lesion.",absence
+S1130-01082008000400017-1,19,5,"One month after RF treatment, a spiral CT was performed, revealing a hypodense lesion with absence of uptake, compatible with complete necrosis of the tumor lesion.",uptake
+S1130-01082008000400017-1,19,6,"One month after RF treatment, a spiral CT was performed, revealing a hypodense lesion with absence of uptake, compatible with complete necrosis of the tumor lesion.",complete necrosis
+S1130-01082008000400017-1,19,7,"One month after RF treatment, a spiral CT was performed, revealing a hypodense lesion with absence of uptake, compatible with complete necrosis of the tumor lesion.",the tumor lesion

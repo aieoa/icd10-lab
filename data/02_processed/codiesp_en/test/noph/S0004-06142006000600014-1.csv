@@ -1,0 +1,46 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142006000600014-1,1,1,"Male patient, 40 years old, with health history.",Male patient
+S0004-06142006000600014-1,1,2,"Male patient, 40 years old, with health history.",health history
+S0004-06142006000600014-1,2,1,He went to the Urology consultation due to dysuria and 3 episodes of urethrorrhagia.,He
+S0004-06142006000600014-1,2,2,He went to the Urology consultation due to dysuria and 3 episodes of urethrorrhagia.,the Urology consultation
+S0004-06142006000600014-1,2,3,He went to the Urology consultation due to dysuria and 3 episodes of urethrorrhagia.,dysuria
+S0004-06142006000600014-1,2,4,He went to the Urology consultation due to dysuria and 3 episodes of urethrorrhagia.,3 episodes
+S0004-06142006000600014-1,3,1,"On physical examination, the mucous membranes are moist and normally colored, cardio-respiratory auscultation is normal, the abdomen is negative, lumbar fossae are free, rectal examination, external genitalia and inguinal regions are normal.",physical examination
+S0004-06142006000600014-1,3,2,"On physical examination, the mucous membranes are moist and normally colored, cardio-respiratory auscultation is normal, the abdomen is negative, lumbar fossae are free, rectal examination, external genitalia and inguinal regions are normal.",the mucous membranes
+S0004-06142006000600014-1,3,3,"On physical examination, the mucous membranes are moist and normally colored, cardio-respiratory auscultation is normal, the abdomen is negative, lumbar fossae are free, rectal examination, external genitalia and inguinal regions are normal.",cardio-respiratory auscultation
+S0004-06142006000600014-1,3,4,"On physical examination, the mucous membranes are moist and normally colored, cardio-respiratory auscultation is normal, the abdomen is negative, lumbar fossae are free, rectal examination, external genitalia and inguinal regions are normal.",the abdomen
+S0004-06142006000600014-1,3,5,"On physical examination, the mucous membranes are moist and normally colored, cardio-respiratory auscultation is normal, the abdomen is negative, lumbar fossae are free, rectal examination, external genitalia and inguinal regions are normal.",lumbar fossae
+S0004-06142006000600014-1,3,6,"On physical examination, the mucous membranes are moist and normally colored, cardio-respiratory auscultation is normal, the abdomen is negative, lumbar fossae are free, rectal examination, external genitalia and inguinal regions are normal.","free, rectal examination"
+S0004-06142006000600014-1,3,7,"On physical examination, the mucous membranes are moist and normally colored, cardio-respiratory auscultation is normal, the abdomen is negative, lumbar fossae are free, rectal examination, external genitalia and inguinal regions are normal.",external genitalia
+S0004-06142006000600014-1,3,8,"On physical examination, the mucous membranes are moist and normally colored, cardio-respiratory auscultation is normal, the abdomen is negative, lumbar fossae are free, rectal examination, external genitalia and inguinal regions are normal.",inguinal regions
+S0004-06142006000600014-1,4,1,"A urological ultrasound was performed, which was normal.",A urological ultrasound
+S0004-06142006000600014-1,4,2,"A urological ultrasound was performed, which was normal.",which
+S0004-06142006000600014-1,5,1,"The cystourethroscopy was normal, with only a slight ridge noted when the cystoscope passed through the anterior urethra.",The cystourethroscopy
+S0004-06142006000600014-1,5,2,"The cystourethroscopy was normal, with only a slight ridge noted when the cystoscope passed through the anterior urethra.",only a slight ridge
+S0004-06142006000600014-1,5,3,"The cystourethroscopy was normal, with only a slight ridge noted when the cystoscope passed through the anterior urethra.",the cystoscope
+S0004-06142006000600014-1,5,4,"The cystourethroscopy was normal, with only a slight ridge noted when the cystoscope passed through the anterior urethra.",the anterior urethra
+S0004-06142006000600014-1,6,1,A voiding urethrocystography x-ray was performed where a filling defect was observed at the level of the anterior urethra.,urethrocystography
+S0004-06142006000600014-1,6,2,A voiding urethrocystography x-ray was performed where a filling defect was observed at the level of the anterior urethra.,x
+S0004-06142006000600014-1,6,3,A voiding urethrocystography x-ray was performed where a filling defect was observed at the level of the anterior urethra.,-
+S0004-06142006000600014-1,6,4,A voiding urethrocystography x-ray was performed where a filling defect was observed at the level of the anterior urethra.,ray
+S0004-06142006000600014-1,6,5,A voiding urethrocystography x-ray was performed where a filling defect was observed at the level of the anterior urethra.,a filling defect
+S0004-06142006000600014-1,6,6,A voiding urethrocystography x-ray was performed where a filling defect was observed at the level of the anterior urethra.,the level
+S0004-06142006000600014-1,6,7,A voiding urethrocystography x-ray was performed where a filling defect was observed at the level of the anterior urethra.,the anterior urethra
+S0004-06142006000600014-1,7,1,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",all
+S0004-06142006000600014-1,7,2,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",we
+S0004-06142006000600014-1,7,3,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",an endoscopic study
+S0004-06142006000600014-1,7,4,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",anesthesia
+S0004-06142006000600014-1,7,5,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",a polypoid tumor
+S0004-06142006000600014-1,7,6,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",reddish
+S0004-06142006000600014-1,7,7,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",color
+S0004-06142006000600014-1,7,8,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",it
+S0004-06142006000600014-1,7,9,"For all of the above, we decided to perform an endoscopic study under anesthesia, detecting a polypoid tumor, reddish in color, well delimited, so it was decided to endoscopic resection.",endoscopic resection
+S0004-06142006000600014-1,8,1,The pathological result of the surgical specimen was an inverted papilloma of the anterior urethra.,The pathological result
+S0004-06142006000600014-1,8,2,The pathological result of the surgical specimen was an inverted papilloma of the anterior urethra.,the surgical specimen
+S0004-06142006000600014-1,8,3,The pathological result of the surgical specimen was an inverted papilloma of the anterior urethra.,an inverted papilloma
+S0004-06142006000600014-1,8,4,The pathological result of the surgical specimen was an inverted papilloma of the anterior urethra.,the anterior urethra
+S0004-06142006000600014-1,9,1,"He was discharged due to improvement, progressing satisfactorily with disappearance of dysuria and urethrorrhagia.",He
+S0004-06142006000600014-1,9,2,"He was discharged due to improvement, progressing satisfactorily with disappearance of dysuria and urethrorrhagia.",improvement
+S0004-06142006000600014-1,9,3,"He was discharged due to improvement, progressing satisfactorily with disappearance of dysuria and urethrorrhagia.",disappearance
+S0004-06142006000600014-1,9,4,"He was discharged due to improvement, progressing satisfactorily with disappearance of dysuria and urethrorrhagia.",dysuria
+S0004-06142006000600014-1,9,5,"He was discharged due to improvement, progressing satisfactorily with disappearance of dysuria and urethrorrhagia.",urethrorrhagia

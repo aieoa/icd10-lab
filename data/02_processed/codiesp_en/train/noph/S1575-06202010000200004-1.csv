@@ -1,0 +1,83 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1575-06202010000200004-1,1,1,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",The case
+S1575-06202010000200004-1,1,2,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",a 40-year-old patient
+S1575-06202010000200004-1,1,3,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",polydrug addict
+S1575-06202010000200004-1,1,4,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",adolescence
+S1575-06202010000200004-1,1,5,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",UDVP
+S1575-06202010000200004-1,1,6,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",a first admission
+S1575-06202010000200004-1,1,7,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",prison
+S1575-06202010000200004-1,1,8,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",the age
+S1575-06202010000200004-1,1,9,"The case of a 40-year-old patient, polydrug addict since adolescence, UDVP, with a first admission to prison at the age of 20, and with repeated subsequent admissions, is presented.",repeated subsequent admissions
+S1575-06202010000200004-1,2,1,"In 1993, coinfection with HIV and HCV was detected.",coinfection
+S1575-06202010000200004-1,2,2,"In 1993, coinfection with HIV and HCV was detected.",HIV
+S1575-06202010000200004-1,2,3,"In 1993, coinfection with HIV and HCV was detected.",HCV
+S1575-06202010000200004-1,3,1,"His medical history records the prescription of the first ART in 1998, punctuated by constant abandonment, especially during the periods spent in freedom.",His medical history
+S1575-06202010000200004-1,3,2,"His medical history records the prescription of the first ART in 1998, punctuated by constant abandonment, especially during the periods spent in freedom.",the prescription
+S1575-06202010000200004-1,3,3,"His medical history records the prescription of the first ART in 1998, punctuated by constant abandonment, especially during the periods spent in freedom.",the first ART
+S1575-06202010000200004-1,3,4,"His medical history records the prescription of the first ART in 1998, punctuated by constant abandonment, especially during the periods spent in freedom.",constant abandonment
+S1575-06202010000200004-1,3,5,"His medical history records the prescription of the first ART in 1998, punctuated by constant abandonment, especially during the periods spent in freedom.",the periods
+S1575-06202010000200004-1,3,6,"His medical history records the prescription of the first ART in 1998, punctuated by constant abandonment, especially during the periods spent in freedom.",freedom
+S1575-06202010000200004-1,4,1,Other pathologies of interest:,Other pathologies
+S1575-06202010000200004-1,4,2,Other pathologies of interest:,interest
+S1575-06202010000200004-1,5,1,- pneumonia due to pneumocystis jirovecii (formerly called carinii) in 1998,pneumocystis jirovecii
+S1575-06202010000200004-1,6,1,- recurrent community-acquired pneumonia,- recurrent community-acquired pneumonia
+S1575-06202010000200004-1,7,1,"- oropharyngeal and probably esophageal candidiasis, of a repetitive nature",- oropharyngeal and probably esophageal candidiasis
+S1575-06202010000200004-1,7,2,"- oropharyngeal and probably esophageal candidiasis, of a repetitive nature",a repetitive nature
+S1575-06202010000200004-1,8,1,- Pulmonary TB and brain lesions due to toxoplasmosis and/or TB,- Pulmonary TB and brain lesions
+S1575-06202010000200004-1,8,2,- Pulmonary TB and brain lesions due to toxoplasmosis and/or TB,toxoplasmosis
+S1575-06202010000200004-1,8,3,- Pulmonary TB and brain lesions due to toxoplasmosis and/or TB,TB
+S1575-06202010000200004-1,9,1,- practically constant seborrheic dermatitis,- practically constant seborrheic dermatitis
+S1575-06202010000200004-1,10,1,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",August
+S1575-06202010000200004-1,10,2,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",he
+S1575-06202010000200004-1,10,3,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",crusty
+S1575-06202010000200004-1,10,4,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",scaly
+S1575-06202010000200004-1,10,5,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",non-pruritic lesions
+S1575-06202010000200004-1,10,6,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",that
+S1575-06202010000200004-1,10,7,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",the scalp
+S1575-06202010000200004-1,10,8,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",ears
+S1575-06202010000200004-1,10,9,"In August 2009, he presented crusty, scaly, non-pruritic lesions that initially appeared on the scalp, ears, and armpits.",armpits
+S1575-06202010000200004-1,11,1,"These lesions subsequently extended to the trunk and extremities, including the soles and palms of the feet and hands.",These lesions
+S1575-06202010000200004-1,11,2,"These lesions subsequently extended to the trunk and extremities, including the soles and palms of the feet and hands.",the trunk
+S1575-06202010000200004-1,11,3,"These lesions subsequently extended to the trunk and extremities, including the soles and palms of the feet and hands.",extremities
+S1575-06202010000200004-1,11,4,"These lesions subsequently extended to the trunk and extremities, including the soles and palms of the feet and hands.",the soles
+S1575-06202010000200004-1,11,5,"These lesions subsequently extended to the trunk and extremities, including the soles and palms of the feet and hands.",palms
+S1575-06202010000200004-1,11,6,"These lesions subsequently extended to the trunk and extremities, including the soles and palms of the feet and hands.",the feet
+S1575-06202010000200004-1,11,7,"These lesions subsequently extended to the trunk and extremities, including the soles and palms of the feet and hands.",hands
+S1575-06202010000200004-1,12,1,Similar lesions also appeared in the intergluteal fold and genitals.,Similar lesions
+S1575-06202010000200004-1,12,2,Similar lesions also appeared in the intergluteal fold and genitals.,the intergluteal fold
+S1575-06202010000200004-1,12,3,Similar lesions also appeared in the intergluteal fold and genitals.,genitals
+S1575-06202010000200004-1,13,1,"The dermatologist diagnosed the condition as psoriasis, prescribing treatment with calcipotriol plus betamethasone, salicylic petrolatum and tracolimus 0.1%.",The dermatologist
+S1575-06202010000200004-1,13,2,"The dermatologist diagnosed the condition as psoriasis, prescribing treatment with calcipotriol plus betamethasone, salicylic petrolatum and tracolimus 0.1%.",the condition
+S1575-06202010000200004-1,13,3,"The dermatologist diagnosed the condition as psoriasis, prescribing treatment with calcipotriol plus betamethasone, salicylic petrolatum and tracolimus 0.1%.",psoriasis
+S1575-06202010000200004-1,13,4,"The dermatologist diagnosed the condition as psoriasis, prescribing treatment with calcipotriol plus betamethasone, salicylic petrolatum and tracolimus 0.1%.",treatment
+S1575-06202010000200004-1,13,5,"The dermatologist diagnosed the condition as psoriasis, prescribing treatment with calcipotriol plus betamethasone, salicylic petrolatum and tracolimus 0.1%.",calcipotriol
+S1575-06202010000200004-1,13,6,"The dermatologist diagnosed the condition as psoriasis, prescribing treatment with calcipotriol plus betamethasone, salicylic petrolatum and tracolimus 0.1%.",betamethasone
+S1575-06202010000200004-1,13,7,"The dermatologist diagnosed the condition as psoriasis, prescribing treatment with calcipotriol plus betamethasone, salicylic petrolatum and tracolimus 0.1%.",salicylic petrolatum
+S1575-06202010000200004-1,13,8,"The dermatologist diagnosed the condition as psoriasis, prescribing treatment with calcipotriol plus betamethasone, salicylic petrolatum and tracolimus 0.1%.",0.1%
+S1575-06202010000200004-1,14,1,"This treatment was not started until a new admission to prison, at the beginning of 2010.",This treatment
+S1575-06202010000200004-1,14,2,"This treatment was not started until a new admission to prison, at the beginning of 2010.",a new admission
+S1575-06202010000200004-1,14,3,"This treatment was not started until a new admission to prison, at the beginning of 2010.",prison
+S1575-06202010000200004-1,14,4,"This treatment was not started until a new admission to prison, at the beginning of 2010.",the beginning
+S1575-06202010000200004-1,15,1,"In recent weeks, a slight improvement has been observed.",recent weeks
+S1575-06202010000200004-1,15,2,"In recent weeks, a slight improvement has been observed.",a slight improvement
+S1575-06202010000200004-1,16,1,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",the beginning
+S1575-06202010000200004-1,16,2,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",the condition
+S1575-06202010000200004-1,16,3,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",the number
+S1575-06202010000200004-1,16,4,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",CD4
+S1575-06202010000200004-1,16,5,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",cells
+S1575-06202010000200004-1,16,6,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",ml
+S1575-06202010000200004-1,16,7,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",an HIV VL
+S1575-06202010000200004-1,16,8,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).","1,090,000 copies"
+S1575-06202010000200004-1,16,9,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",ml
+S1575-06202010000200004-1,16,10,"At the beginning of the condition, the number of CD4+ lymphocytes cells/ml was 64 with an HIV VL of 1,090,000 copies/ml (6.04 log).",6.04 log
+S1575-06202010000200004-1,17,1,He also had significant cachexia (BMI < 16) and anemia (Hbne 10 g/dl; Hct.,He
+S1575-06202010000200004-1,17,2,He also had significant cachexia (BMI < 16) and anemia (Hbne 10 g/dl; Hct.,significant cachexia
+S1575-06202010000200004-1,17,3,He also had significant cachexia (BMI < 16) and anemia (Hbne 10 g/dl; Hct.,BMI
+S1575-06202010000200004-1,17,4,He also had significant cachexia (BMI < 16) and anemia (Hbne 10 g/dl; Hct.,anemia
+S1575-06202010000200004-1,18,1,30%).,30%
+S1575-06202010000200004-1,19,1,The patient has refused ART.,The patient
+S1575-06202010000200004-1,19,2,The patient has refused ART.,ART
+S1575-06202010000200004-1,20,1,"Currently, he is admitted to hospital to study the possible etymology of brain injuries.",he
+S1575-06202010000200004-1,20,2,"Currently, he is admitted to hospital to study the possible etymology of brain injuries.",hospital
+S1575-06202010000200004-1,20,3,"Currently, he is admitted to hospital to study the possible etymology of brain injuries.",the possible etymology
+S1575-06202010000200004-1,20,4,"Currently, he is admitted to hospital to study the possible etymology of brain injuries.",brain injuries

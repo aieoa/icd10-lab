@@ -1,0 +1,106 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1137-66272013000200019-1,1,1,A 12-year-old girl with a history of prominent ears treated by otoplasty at age 8.,A 12-year-old girl
+S1137-66272013000200019-1,1,2,A 12-year-old girl with a history of prominent ears treated by otoplasty at age 8.,a history
+S1137-66272013000200019-1,1,3,A 12-year-old girl with a history of prominent ears treated by otoplasty at age 8.,prominent ears
+S1137-66272013000200019-1,1,4,A 12-year-old girl with a history of prominent ears treated by otoplasty at age 8.,otoplasty
+S1137-66272013000200019-1,1,5,A 12-year-old girl with a history of prominent ears treated by otoplasty at age 8.,age
+S1137-66272013000200019-1,2,1,A keloid progressively developed in both ears one year after the intervention.,A keloid
+S1137-66272013000200019-1,2,2,A keloid progressively developed in both ears one year after the intervention.,both ears
+S1137-66272013000200019-1,2,3,A keloid progressively developed in both ears one year after the intervention.,the intervention
+S1137-66272013000200019-1,3,1,The keloids invaded the upper edge and posterior surface of the upper poles.,The keloids
+S1137-66272013000200019-1,3,2,The keloids invaded the upper edge and posterior surface of the upper poles.,the upper edge
+S1137-66272013000200019-1,3,3,The keloids invaded the upper edge and posterior surface of the upper poles.,posterior surface
+S1137-66272013000200019-1,3,4,The keloids invaded the upper edge and posterior surface of the upper poles.,the upper poles
+S1137-66272013000200019-1,4,1,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",The right one
+S1137-66272013000200019-1,4,2,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",a horizontal size
+S1137-66272013000200019-1,4,3,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",3.2 cm
+S1137-66272013000200019-1,4,4,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",a vertical size
+S1137-66272013000200019-1,4,5,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",2 cm
+S1137-66272013000200019-1,4,6,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",the left one
+S1137-66272013000200019-1,4,7,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",a size
+S1137-66272013000200019-1,4,8,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",2.7 cm
+S1137-66272013000200019-1,4,9,"The right one had a horizontal size of 3.2 cm and a vertical size of 2 cm, and the left one had a size of 2.7 cm x 1.5 cm respectively.",1.5 cm
+S1137-66272013000200019-1,5,1,The patient did not report pain or pruritus.,The patient
+S1137-66272013000200019-1,5,2,The patient did not report pain or pruritus.,pain
+S1137-66272013000200019-1,5,3,The patient did not report pain or pruritus.,pruritus
+S1137-66272013000200019-1,6,1,"Excision was indicated given the large size of the lesions, with aesthetic and psychological repercussions.",Excision
+S1137-66272013000200019-1,6,2,"Excision was indicated given the large size of the lesions, with aesthetic and psychological repercussions.",the large size
+S1137-66272013000200019-1,6,3,"Excision was indicated given the large size of the lesions, with aesthetic and psychological repercussions.",the lesions
+S1137-66272013000200019-1,6,4,"Excision was indicated given the large size of the lesions, with aesthetic and psychological repercussions.",aesthetic and psychological repercussions
+S1137-66272013000200019-1,7,1,The intervention was performed under general anesthesia.,The intervention
+S1137-66272013000200019-1,7,2,The intervention was performed under general anesthesia.,general anesthesia
+S1137-66272013000200019-1,8,1,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",The surgical treatment
+S1137-66272013000200019-1,8,2,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",the following technique
+S1137-66272013000200019-1,8,3,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",an incision
+S1137-66272013000200019-1,8,4,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",the posterosuperior surface
+S1137-66272013000200019-1,8,5,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",the keloid
+S1137-66272013000200019-1,8,6,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",which
+S1137-66272013000200019-1,8,7,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",the keloid skin covering
+S1137-66272013000200019-1,8,8,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",a pedicle
+S1137-66272013000200019-1,8,9,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",the normal skin
+S1137-66272013000200019-1,8,10,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",the anterior surface
+S1137-66272013000200019-1,8,11,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",the keloid
+S1137-66272013000200019-1,8,12,"The surgical treatment consisted of the following technique: an incision was made on the posterosuperior surface of the keloid, from which a thin flap of the keloid skin covering was dissected, maintaining a pedicle attached to the normal skin on the anterior surface of the keloid. ear.",ear
+S1137-66272013000200019-1,9,1,"After raising the flap of an adequate size, the rest of the keloid was removed.",the flap
+S1137-66272013000200019-1,9,2,"After raising the flap of an adequate size, the rest of the keloid was removed.",an adequate size
+S1137-66272013000200019-1,9,3,"After raising the flap of an adequate size, the rest of the keloid was removed.",the rest
+S1137-66272013000200019-1,9,4,"After raising the flap of an adequate size, the rest of the keloid was removed.",the keloid
+S1137-66272013000200019-1,10,1,The flap was sutured to the defect without tension.,The flap
+S1137-66272013000200019-1,10,2,The flap was sutured to the defect without tension.,the defect
+S1137-66272013000200019-1,10,3,The flap was sutured to the defect without tension.,tension
+S1137-66272013000200019-1,11,1,"The size of the flaps was 2.5 cm x 1.5 cm in the right ear, and 2 cm x 1 cm in the left ear.",The size
+S1137-66272013000200019-1,11,2,"The size of the flaps was 2.5 cm x 1.5 cm in the right ear, and 2 cm x 1 cm in the left ear.",the flaps
+S1137-66272013000200019-1,11,3,"The size of the flaps was 2.5 cm x 1.5 cm in the right ear, and 2 cm x 1 cm in the left ear.",2.5 cm
+S1137-66272013000200019-1,11,4,"The size of the flaps was 2.5 cm x 1.5 cm in the right ear, and 2 cm x 1 cm in the left ear.",1.5 cm
+S1137-66272013000200019-1,11,5,"The size of the flaps was 2.5 cm x 1.5 cm in the right ear, and 2 cm x 1 cm in the left ear.",the right ear
+S1137-66272013000200019-1,11,6,"The size of the flaps was 2.5 cm x 1.5 cm in the right ear, and 2 cm x 1 cm in the left ear.",2 cm
+S1137-66272013000200019-1,11,7,"The size of the flaps was 2.5 cm x 1.5 cm in the right ear, and 2 cm x 1 cm in the left ear.",1 cm
+S1137-66272013000200019-1,11,8,"The size of the flaps was 2.5 cm x 1.5 cm in the right ear, and 2 cm x 1 cm in the left ear.",the left ear
+S1137-66272013000200019-1,12,1,"In the pathological study, it was found that the keloid nodules were covered by epidermis, and atrophy of the skin annexes was observed.",the pathological study
+S1137-66272013000200019-1,12,2,"In the pathological study, it was found that the keloid nodules were covered by epidermis, and atrophy of the skin annexes was observed.",it
+S1137-66272013000200019-1,12,3,"In the pathological study, it was found that the keloid nodules were covered by epidermis, and atrophy of the skin annexes was observed.",the keloid nodules
+S1137-66272013000200019-1,12,4,"In the pathological study, it was found that the keloid nodules were covered by epidermis, and atrophy of the skin annexes was observed.",epidermis
+S1137-66272013000200019-1,12,5,"In the pathological study, it was found that the keloid nodules were covered by epidermis, and atrophy of the skin annexes was observed.",atrophy
+S1137-66272013000200019-1,12,6,"In the pathological study, it was found that the keloid nodules were covered by epidermis, and atrophy of the skin annexes was observed.",the skin annexes
+S1137-66272013000200019-1,13,1,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",The surgery
+S1137-66272013000200019-1,13,2,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",other treatments
+S1137-66272013000200019-1,13,3,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",recurrence
+S1137-66272013000200019-1,13,4,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",intraoperative injection
+S1137-66272013000200019-1,13,5,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",corticosteroid (triamcinolone acetonide
+S1137-66272013000200019-1,13,6,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",the surgical bed
+S1137-66272013000200019-1,13,7,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",application
+S1137-66272013000200019-1,13,8,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",silicone gel
+S1137-66272013000200019-1,13,9,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",the resulting scars
+S1137-66272013000200019-1,13,10,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",pressure therapy
+S1137-66272013000200019-1,13,11,"The surgery was associated with other treatments, commonly used to prevent recurrence: intraoperative injection of corticosteroid (triamcinolone acetonide) into the surgical bed, application of silicone gel to the resulting scars, and pressure therapy with an elastic band.",an elastic band
+S1137-66272013000200019-1,14,1,Silicone gel and pressotherapy were used for one year after the intervention.,Silicone gel
+S1137-66272013000200019-1,14,2,Silicone gel and pressotherapy were used for one year after the intervention.,pressotherapy
+S1137-66272013000200019-1,14,3,Silicone gel and pressotherapy were used for one year after the intervention.,one year
+S1137-66272013000200019-1,14,4,Silicone gel and pressotherapy were used for one year after the intervention.,the intervention
+S1137-66272013000200019-1,15,1,The patient was monitored periodically.,The patient
+S1137-66272013000200019-1,16,1,"The right ear flap presented a small suture dehiscence, which healed by secondary intention a few weeks later using topical treatment.",The right ear flap
+S1137-66272013000200019-1,16,2,"The right ear flap presented a small suture dehiscence, which healed by secondary intention a few weeks later using topical treatment.",a small suture dehiscence
+S1137-66272013000200019-1,16,3,"The right ear flap presented a small suture dehiscence, which healed by secondary intention a few weeks later using topical treatment.",which
+S1137-66272013000200019-1,16,4,"The right ear flap presented a small suture dehiscence, which healed by secondary intention a few weeks later using topical treatment.",secondary intention
+S1137-66272013000200019-1,16,5,"The right ear flap presented a small suture dehiscence, which healed by secondary intention a few weeks later using topical treatment.",topical treatment
+S1137-66272013000200019-1,17,1,No necrosis or other complications developed.,No necrosis
+S1137-66272013000200019-1,17,2,No necrosis or other complications developed.,other complications
+S1137-66272013000200019-1,18,1,"A satisfactory repair of the defects was achieved, with restoration of the normal contour of the ears.",A satisfactory repair
+S1137-66272013000200019-1,18,2,"A satisfactory repair of the defects was achieved, with restoration of the normal contour of the ears.",the defects
+S1137-66272013000200019-1,18,3,"A satisfactory repair of the defects was achieved, with restoration of the normal contour of the ears.",restoration
+S1137-66272013000200019-1,18,4,"A satisfactory repair of the defects was achieved, with restoration of the normal contour of the ears.",the normal contour
+S1137-66272013000200019-1,18,5,"A satisfactory repair of the defects was achieved, with restoration of the normal contour of the ears.",the ears
+S1137-66272013000200019-1,19,1,"A recurrence developed in the right ear 5 years after the intervention, forming a 1.5 cm x 1 cm keloid in the operated area, which was treated with the same surgical procedure.",A recurrence
+S1137-66272013000200019-1,19,2,"A recurrence developed in the right ear 5 years after the intervention, forming a 1.5 cm x 1 cm keloid in the operated area, which was treated with the same surgical procedure.",the right ear
+S1137-66272013000200019-1,19,3,"A recurrence developed in the right ear 5 years after the intervention, forming a 1.5 cm x 1 cm keloid in the operated area, which was treated with the same surgical procedure.",the intervention
+S1137-66272013000200019-1,19,4,"A recurrence developed in the right ear 5 years after the intervention, forming a 1.5 cm x 1 cm keloid in the operated area, which was treated with the same surgical procedure.",a 1.5 cm x 1 cm keloid
+S1137-66272013000200019-1,19,5,"A recurrence developed in the right ear 5 years after the intervention, forming a 1.5 cm x 1 cm keloid in the operated area, which was treated with the same surgical procedure.",the operated area
+S1137-66272013000200019-1,19,6,"A recurrence developed in the right ear 5 years after the intervention, forming a 1.5 cm x 1 cm keloid in the operated area, which was treated with the same surgical procedure.",which
+S1137-66272013000200019-1,19,7,"A recurrence developed in the right ear 5 years after the intervention, forming a 1.5 cm x 1 cm keloid in the operated area, which was treated with the same surgical procedure.",the same surgical procedure
+S1137-66272013000200019-1,20,1,There has been no recurrence in the left ear.,no recurrence
+S1137-66272013000200019-1,20,2,There has been no recurrence in the left ear.,the left ear
+S1137-66272013000200019-1,21,1,"At 18 years of age, both ears look good and the patient undergoes periodic check-ups.",18 years
+S1137-66272013000200019-1,21,2,"At 18 years of age, both ears look good and the patient undergoes periodic check-ups.",age
+S1137-66272013000200019-1,21,3,"At 18 years of age, both ears look good and the patient undergoes periodic check-ups.",both ears
+S1137-66272013000200019-1,21,4,"At 18 years of age, both ears look good and the patient undergoes periodic check-ups.",the patient
+S1137-66272013000200019-1,21,5,"At 18 years of age, both ears look good and the patient undergoes periodic check-ups.",periodic check-ups

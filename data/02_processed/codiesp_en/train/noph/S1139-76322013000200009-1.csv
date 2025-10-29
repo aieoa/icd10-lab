@@ -1,0 +1,45 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1139-76322013000200009-1,1,1,"A common case of dizziness, with an unusual diagnosis",A common case
+S1139-76322013000200009-1,1,2,"A common case of dizziness, with an unusual diagnosis",dizziness
+S1139-76322013000200009-1,1,3,"A common case of dizziness, with an unusual diagnosis",an unusual diagnosis
+S1139-76322013000200009-1,2,1,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",An 11-year-old girl
+S1139-76322013000200009-1,2,2,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",no family
+S1139-76322013000200009-1,2,3,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",personal history
+S1139-76322013000200009-1,2,4,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",interest
+S1139-76322013000200009-1,2,5,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",who
+S1139-76322013000200009-1,2,6,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",the health center reporting
+S1139-76322013000200009-1,2,7,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",the previous night
+S1139-76322013000200009-1,2,8,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",a sensation
+S1139-76322013000200009-1,2,9,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",movement
+S1139-76322013000200009-1,2,10,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",objects
+S1139-76322013000200009-1,2,11,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",her
+S1139-76322013000200009-1,2,12,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",fear
+S1139-76322013000200009-1,2,13,"An 11-year-old girl with no family or personal history of interest, who went urgently to the health center reporting, since the previous night, a sensation of movement of objects around her, with fear and anxiety.",anxiety
+S1139-76322013000200009-1,3,1,Physical examination is normal; otoscopy without alterations.,Physical examination
+S1139-76322013000200009-1,3,2,Physical examination is normal; otoscopy without alterations.,otoscopy
+S1139-76322013000200009-1,3,3,Physical examination is normal; otoscopy without alterations.,alterations
+S1139-76322013000200009-1,4,1,Normal blood pressure and blood glucose.,Normal blood pressure
+S1139-76322013000200009-1,4,2,Normal blood pressure and blood glucose.,blood glucose
+S1139-76322013000200009-1,5,1,"The absence of a vegetative component, instability, paleness or other symptoms such as tinnitus or tinnitus is striking.",The absence
+S1139-76322013000200009-1,5,2,"The absence of a vegetative component, instability, paleness or other symptoms such as tinnitus or tinnitus is striking.",a vegetative component
+S1139-76322013000200009-1,5,3,"The absence of a vegetative component, instability, paleness or other symptoms such as tinnitus or tinnitus is striking.",instability
+S1139-76322013000200009-1,5,4,"The absence of a vegetative component, instability, paleness or other symptoms such as tinnitus or tinnitus is striking.",paleness or other symptoms
+S1139-76322013000200009-1,5,5,"The absence of a vegetative component, instability, paleness or other symptoms such as tinnitus or tinnitus is striking.",tinnitus
+S1139-76322013000200009-1,5,6,"The absence of a vegetative component, instability, paleness or other symptoms such as tinnitus or tinnitus is striking.",tinnitus
+S1139-76322013000200009-1,6,1,"No neurological focality, balance or gait alterations, ataxia or other cerebellar signs were found.",No neurological focality
+S1139-76322013000200009-1,6,2,"No neurological focality, balance or gait alterations, ataxia or other cerebellar signs were found.",balance
+S1139-76322013000200009-1,6,3,"No neurological focality, balance or gait alterations, ataxia or other cerebellar signs were found.",gait alterations
+S1139-76322013000200009-1,6,4,"No neurological focality, balance or gait alterations, ataxia or other cerebellar signs were found.",ataxia
+S1139-76322013000200009-1,6,5,"No neurological focality, balance or gait alterations, ataxia or other cerebellar signs were found.",other cerebellar signs
+S1139-76322013000200009-1,7,1,The patient had a history of taking Romilar® (dextromethorphan) the night before and a positive family history.,The patient
+S1139-76322013000200009-1,7,2,The patient had a history of taking Romilar® (dextromethorphan) the night before and a positive family history.,a history
+S1139-76322013000200009-1,7,3,The patient had a history of taking Romilar® (dextromethorphan) the night before and a positive family history.,Romilar®
+S1139-76322013000200009-1,7,4,The patient had a history of taking Romilar® (dextromethorphan) the night before and a positive family history.,dextromethorphan
+S1139-76322013000200009-1,7,5,The patient had a history of taking Romilar® (dextromethorphan) the night before and a positive family history.,a positive family history
+S1139-76322013000200009-1,8,1,"With these data and a normal physical examination, she was sent to her home for observation, with an appointment for the consultation the next morning.",these data
+S1139-76322013000200009-1,8,2,"With these data and a normal physical examination, she was sent to her home for observation, with an appointment for the consultation the next morning.",a normal physical examination
+S1139-76322013000200009-1,8,3,"With these data and a normal physical examination, she was sent to her home for observation, with an appointment for the consultation the next morning.",she
+S1139-76322013000200009-1,8,4,"With these data and a normal physical examination, she was sent to her home for observation, with an appointment for the consultation the next morning.",her home
+S1139-76322013000200009-1,8,5,"With these data and a normal physical examination, she was sent to her home for observation, with an appointment for the consultation the next morning.",observation
+S1139-76322013000200009-1,8,6,"With these data and a normal physical examination, she was sent to her home for observation, with an appointment for the consultation the next morning.",an appointment
+S1139-76322013000200009-1,8,7,"With these data and a normal physical examination, she was sent to her home for observation, with an appointment for the consultation the next morning.",the consultation

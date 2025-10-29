@@ -1,0 +1,96 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1134-80462008000800003-1,1,1,"A 39-year-old woman diagnosed with complex regional pain syndrome type I of the right upper extremity, with a previous history of two arthroscopic surgeries in that shoulder.",A 39-year-old woman
+S1134-80462008000800003-1,1,2,"A 39-year-old woman diagnosed with complex regional pain syndrome type I of the right upper extremity, with a previous history of two arthroscopic surgeries in that shoulder.",complex regional pain syndrome type I
+S1134-80462008000800003-1,1,3,"A 39-year-old woman diagnosed with complex regional pain syndrome type I of the right upper extremity, with a previous history of two arthroscopic surgeries in that shoulder.",the right upper extremity
+S1134-80462008000800003-1,1,4,"A 39-year-old woman diagnosed with complex regional pain syndrome type I of the right upper extremity, with a previous history of two arthroscopic surgeries in that shoulder.",a previous history
+S1134-80462008000800003-1,1,5,"A 39-year-old woman diagnosed with complex regional pain syndrome type I of the right upper extremity, with a previous history of two arthroscopic surgeries in that shoulder.",two arthroscopic surgeries
+S1134-80462008000800003-1,1,6,"A 39-year-old woman diagnosed with complex regional pain syndrome type I of the right upper extremity, with a previous history of two arthroscopic surgeries in that shoulder.",that shoulder
+S1134-80462008000800003-1,2,1,The last surgery presented as a complication an infection caused by pseudomonas which was successfully treated.,The last surgery
+S1134-80462008000800003-1,2,2,The last surgery presented as a complication an infection caused by pseudomonas which was successfully treated.,a complication
+S1134-80462008000800003-1,2,3,The last surgery presented as a complication an infection caused by pseudomonas which was successfully treated.,an infection
+S1134-80462008000800003-1,2,4,The last surgery presented as a complication an infection caused by pseudomonas which was successfully treated.,pseudomonas
+S1134-80462008000800003-1,2,5,The last surgery presented as a complication an infection caused by pseudomonas which was successfully treated.,which
+S1134-80462008000800003-1,3,1,"The patient complained of burning pain, of moderate to severe intensity, every day in her right upper extremity, which did not respond to conventional analgesic treatments.",The patient
+S1134-80462008000800003-1,3,2,"The patient complained of burning pain, of moderate to severe intensity, every day in her right upper extremity, which did not respond to conventional analgesic treatments.",burning pain
+S1134-80462008000800003-1,3,3,"The patient complained of burning pain, of moderate to severe intensity, every day in her right upper extremity, which did not respond to conventional analgesic treatments.",to severe intensity
+S1134-80462008000800003-1,3,4,"The patient complained of burning pain, of moderate to severe intensity, every day in her right upper extremity, which did not respond to conventional analgesic treatments.",her right upper extremity
+S1134-80462008000800003-1,3,5,"The patient complained of burning pain, of moderate to severe intensity, every day in her right upper extremity, which did not respond to conventional analgesic treatments.",which
+S1134-80462008000800003-1,3,6,"The patient complained of burning pain, of moderate to severe intensity, every day in her right upper extremity, which did not respond to conventional analgesic treatments.",conventional analgesic treatments
+S1134-80462008000800003-1,4,1,"Associated with this, she presented edema, color changes and trophic changes in said limb.",this
+S1134-80462008000800003-1,4,2,"Associated with this, she presented edema, color changes and trophic changes in said limb.",she
+S1134-80462008000800003-1,4,3,"Associated with this, she presented edema, color changes and trophic changes in said limb.",edema
+S1134-80462008000800003-1,4,4,"Associated with this, she presented edema, color changes and trophic changes in said limb.",color changes
+S1134-80462008000800003-1,4,5,"Associated with this, she presented edema, color changes and trophic changes in said limb.",trophic changes
+S1134-80462008000800003-1,4,6,"Associated with this, she presented edema, color changes and trophic changes in said limb.",said limb
+S1134-80462008000800003-1,5,1,"Aside from CRPS, the patient was in good general health, neurologically normal, without hypertension or diabetes.",CRPS
+S1134-80462008000800003-1,5,2,"Aside from CRPS, the patient was in good general health, neurologically normal, without hypertension or diabetes.",the patient
+S1134-80462008000800003-1,5,3,"Aside from CRPS, the patient was in good general health, neurologically normal, without hypertension or diabetes.",good general health
+S1134-80462008000800003-1,5,4,"Aside from CRPS, the patient was in good general health, neurologically normal, without hypertension or diabetes.",hypertension
+S1134-80462008000800003-1,5,5,"Aside from CRPS, the patient was in good general health, neurologically normal, without hypertension or diabetes.",diabetes
+S1134-80462008000800003-1,6,1,"It was decided to perform a Stellate Ganglion Block for which intravenous access was established and the patient was monitored with electrocardiogram, blood pressure and O2 saturation.",It
+S1134-80462008000800003-1,6,2,"It was decided to perform a Stellate Ganglion Block for which intravenous access was established and the patient was monitored with electrocardiogram, blood pressure and O2 saturation.",a Stellate Ganglion Block
+S1134-80462008000800003-1,6,3,"It was decided to perform a Stellate Ganglion Block for which intravenous access was established and the patient was monitored with electrocardiogram, blood pressure and O2 saturation.",which
+S1134-80462008000800003-1,6,4,"It was decided to perform a Stellate Ganglion Block for which intravenous access was established and the patient was monitored with electrocardiogram, blood pressure and O2 saturation.",intravenous access
+S1134-80462008000800003-1,6,5,"It was decided to perform a Stellate Ganglion Block for which intravenous access was established and the patient was monitored with electrocardiogram, blood pressure and O2 saturation.",the patient
+S1134-80462008000800003-1,6,6,"It was decided to perform a Stellate Ganglion Block for which intravenous access was established and the patient was monitored with electrocardiogram, blood pressure and O2 saturation.",electrocardiogram
+S1134-80462008000800003-1,6,7,"It was decided to perform a Stellate Ganglion Block for which intravenous access was established and the patient was monitored with electrocardiogram, blood pressure and O2 saturation.",blood pressure
+S1134-80462008000800003-1,6,8,"It was decided to perform a Stellate Ganglion Block for which intravenous access was established and the patient was monitored with electrocardiogram, blood pressure and O2 saturation.",O2 saturation
+S1134-80462008000800003-1,7,1,The block was performed through a paratracheal approach using a 3.5 cm long needle with 10 ml of 1% procaine without epinephrine; The cricoid cartilage was palpated to discern the C6 level.,The block
+S1134-80462008000800003-1,7,2,The block was performed through a paratracheal approach using a 3.5 cm long needle with 10 ml of 1% procaine without epinephrine; The cricoid cartilage was palpated to discern the C6 level.,a paratracheal approach
+S1134-80462008000800003-1,7,3,The block was performed through a paratracheal approach using a 3.5 cm long needle with 10 ml of 1% procaine without epinephrine; The cricoid cartilage was palpated to discern the C6 level.,a 3.5 cm long needle
+S1134-80462008000800003-1,7,4,The block was performed through a paratracheal approach using a 3.5 cm long needle with 10 ml of 1% procaine without epinephrine; The cricoid cartilage was palpated to discern the C6 level.,10 ml of 1% procaine
+S1134-80462008000800003-1,7,5,The block was performed through a paratracheal approach using a 3.5 cm long needle with 10 ml of 1% procaine without epinephrine; The cricoid cartilage was palpated to discern the C6 level.,epinephrine
+S1134-80462008000800003-1,7,6,The block was performed through a paratracheal approach using a 3.5 cm long needle with 10 ml of 1% procaine without epinephrine; The cricoid cartilage was palpated to discern the C6 level.,The cricoid cartilage
+S1134-80462008000800003-1,7,7,The block was performed through a paratracheal approach using a 3.5 cm long needle with 10 ml of 1% procaine without epinephrine; The cricoid cartilage was palpated to discern the C6 level.,the C6 level
+S1134-80462008000800003-1,8,1,The transverse process of the sixth vertebra was palpated between the trachea and the carotid sheath.,The transverse process
+S1134-80462008000800003-1,8,2,The transverse process of the sixth vertebra was palpated between the trachea and the carotid sheath.,the sixth vertebra
+S1134-80462008000800003-1,8,3,The transverse process of the sixth vertebra was palpated between the trachea and the carotid sheath.,the trachea
+S1134-80462008000800003-1,8,4,The transverse process of the sixth vertebra was palpated between the trachea and the carotid sheath.,the carotid sheath
+S1134-80462008000800003-1,9,1,"Prior to the injection, aspiration was performed in order to rule out puncture of any vascular structure; aspiration was negative.",the injection
+S1134-80462008000800003-1,9,2,"Prior to the injection, aspiration was performed in order to rule out puncture of any vascular structure; aspiration was negative.",aspiration
+S1134-80462008000800003-1,9,3,"Prior to the injection, aspiration was performed in order to rule out puncture of any vascular structure; aspiration was negative.",order
+S1134-80462008000800003-1,9,4,"Prior to the injection, aspiration was performed in order to rule out puncture of any vascular structure; aspiration was negative.",puncture
+S1134-80462008000800003-1,9,5,"Prior to the injection, aspiration was performed in order to rule out puncture of any vascular structure; aspiration was negative.",any vascular structure
+S1134-80462008000800003-1,9,6,"Prior to the injection, aspiration was performed in order to rule out puncture of any vascular structure; aspiration was negative.",aspiration
+S1134-80462008000800003-1,10,1,After the blockade she presented Horner's Syndrome.,the blockade
+S1134-80462008000800003-1,10,2,After the blockade she presented Horner's Syndrome.,she
+S1134-80462008000800003-1,10,3,After the blockade she presented Horner's Syndrome.,Horner's Syndrome
+S1134-80462008000800003-1,11,1,"Five minutes after the block, the patient manifested discomfort, dizziness and intense headache.",the block
+S1134-80462008000800003-1,11,2,"Five minutes after the block, the patient manifested discomfort, dizziness and intense headache.",dizziness
+S1134-80462008000800003-1,11,3,"Five minutes after the block, the patient manifested discomfort, dizziness and intense headache.",intense headache
+S1134-80462008000800003-1,12,1,"The patient's blood pressure increased from 135/80 to 235/135 mmHg, with sinus tachycardia.",The patient's blood pressure
+S1134-80462008000800003-1,12,2,"The patient's blood pressure increased from 135/80 to 235/135 mmHg, with sinus tachycardia.",235/135 mmHg
+S1134-80462008000800003-1,12,3,"The patient's blood pressure increased from 135/80 to 235/135 mmHg, with sinus tachycardia.",sinus tachycardia
+S1134-80462008000800003-1,13,1,"The hypertension was relieved with the administration of intravenous metoprolol in divided doses, thereby lowering the blood pressure to 140/90 mmHg.",The hypertension
+S1134-80462008000800003-1,13,2,"The hypertension was relieved with the administration of intravenous metoprolol in divided doses, thereby lowering the blood pressure to 140/90 mmHg.",the administration
+S1134-80462008000800003-1,13,3,"The hypertension was relieved with the administration of intravenous metoprolol in divided doses, thereby lowering the blood pressure to 140/90 mmHg.",intravenous metoprolol
+S1134-80462008000800003-1,13,4,"The hypertension was relieved with the administration of intravenous metoprolol in divided doses, thereby lowering the blood pressure to 140/90 mmHg.",divided doses
+S1134-80462008000800003-1,13,5,"The hypertension was relieved with the administration of intravenous metoprolol in divided doses, thereby lowering the blood pressure to 140/90 mmHg.",the blood pressure
+S1134-80462008000800003-1,13,6,"The hypertension was relieved with the administration of intravenous metoprolol in divided doses, thereby lowering the blood pressure to 140/90 mmHg.",140/90 mmHg
+S1134-80462008000800003-1,14,1,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",her vital signs
+S1134-80462008000800003-1,14,2,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",normal levels
+S1134-80462008000800003-1,14,3,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",the patient
+S1134-80462008000800003-1,14,4,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",dizziness
+S1134-80462008000800003-1,14,5,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",fatigue
+S1134-80462008000800003-1,14,6,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",headache
+S1134-80462008000800003-1,14,7,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",hiccups
+S1134-80462008000800003-1,14,8,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",which
+S1134-80462008000800003-1,14,9,"After her vital signs were restored to normal levels, the patient complained of dizziness and fatigue accompanied by headache and hiccups, for which she was hospitalized.",she
+S1134-80462008000800003-1,15,1,"An ECG, neurological examination and a cranial CT scan were performed; these examinations did not reveal any abnormalities.",An ECG
+S1134-80462008000800003-1,15,2,"An ECG, neurological examination and a cranial CT scan were performed; these examinations did not reveal any abnormalities.",neurological examination
+S1134-80462008000800003-1,15,3,"An ECG, neurological examination and a cranial CT scan were performed; these examinations did not reveal any abnormalities.",a cranial CT scan
+S1134-80462008000800003-1,15,4,"An ECG, neurological examination and a cranial CT scan were performed; these examinations did not reveal any abnormalities.",these examinations
+S1134-80462008000800003-1,15,5,"An ECG, neurological examination and a cranial CT scan were performed; these examinations did not reveal any abnormalities.",any abnormalities
+S1134-80462008000800003-1,16,1,"Thyroid tests were also performed to exclude thyrotoxicosis, which were normal.",Thyroid tests
+S1134-80462008000800003-1,16,2,"Thyroid tests were also performed to exclude thyrotoxicosis, which were normal.",thyrotoxicosis
+S1134-80462008000800003-1,16,3,"Thyroid tests were also performed to exclude thyrotoxicosis, which were normal.",which
+S1134-80462008000800003-1,17,1,Days later the patient returned to the clinic and reported weakness and a 'swaying movement of the head' which had no medical explanation.,the patient
+S1134-80462008000800003-1,17,2,Days later the patient returned to the clinic and reported weakness and a 'swaying movement of the head' which had no medical explanation.,the clinic
+S1134-80462008000800003-1,17,3,Days later the patient returned to the clinic and reported weakness and a 'swaying movement of the head' which had no medical explanation.,weakness
+S1134-80462008000800003-1,17,4,Days later the patient returned to the clinic and reported weakness and a 'swaying movement of the head' which had no medical explanation.,a 'swaying movement
+S1134-80462008000800003-1,17,5,Days later the patient returned to the clinic and reported weakness and a 'swaying movement of the head' which had no medical explanation.,the head
+S1134-80462008000800003-1,17,6,Days later the patient returned to the clinic and reported weakness and a 'swaying movement of the head' which had no medical explanation.,which
+S1134-80462008000800003-1,17,7,Days later the patient returned to the clinic and reported weakness and a 'swaying movement of the head' which had no medical explanation.,no medical explanation
+S1134-80462008000800003-1,18,1,The 'movement' disappeared two months later without the need for medication.,The 'movement
+S1134-80462008000800003-1,18,2,The 'movement' disappeared two months later without the need for medication.,the need
+S1134-80462008000800003-1,18,3,The 'movement' disappeared two months later without the need for medication.,medication

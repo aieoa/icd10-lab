@@ -1,0 +1,75 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912006000100009-1,1,1,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",A 65-year-old Ecuadorian woman
+S0365-66912006000100009-1,1,2,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",no personal or family history
+S0365-66912006000100009-1,1,3,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",interest
+S0365-66912006000100009-1,1,4,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",who
+S0365-66912006000100009-1,1,5,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",the outpatient ophthalmology clinic
+S0365-66912006000100009-1,1,6,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",a painless decrease
+S0365-66912006000100009-1,1,7,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",vision
+S0365-66912006000100009-1,1,8,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",the right eye
+S0365-66912006000100009-1,1,9,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",RE
+S0365-66912006000100009-1,1,10,"A 65-year-old Ecuadorian woman, with no personal or family history of interest, who attended the outpatient ophthalmology clinic due to a painless decrease in vision in the right eye (RE) of 3 to 4 months' duration.",3 to 4 months' duration
+S0365-66912006000100009-1,2,1,The maximum visual acuity (VA) in the RE was 0.5 and in the left eye (LE) was 1.,The maximum visual acuity
+S0365-66912006000100009-1,2,2,The maximum visual acuity (VA) in the RE was 0.5 and in the left eye (LE) was 1.,VA
+S0365-66912006000100009-1,2,3,The maximum visual acuity (VA) in the RE was 0.5 and in the left eye (LE) was 1.,the RE
+S0365-66912006000100009-1,2,4,The maximum visual acuity (VA) in the RE was 0.5 and in the left eye (LE) was 1.,the left eye
+S0365-66912006000100009-1,2,5,The maximum visual acuity (VA) in the RE was 0.5 and in the left eye (LE) was 1.,LE
+S0365-66912006000100009-1,3,1,Extrinsic and intrinsic motility was normal.,Extrinsic and intrinsic motility
+S0365-66912006000100009-1,4,1,"In the RE, papilledema with some subretinal exudate was observed.",the RE
+S0365-66912006000100009-1,4,2,"In the RE, papilledema with some subretinal exudate was observed.",papilledema
+S0365-66912006000100009-1,4,3,"In the RE, papilledema with some subretinal exudate was observed.",some subretinal exudate
+S0365-66912006000100009-1,5,1,"CT and orbital-cerebral MRI, luetic serology, angiotensin-converting enzyme, Lyme serology, and chest x-ray were negative.",CT
+S0365-66912006000100009-1,5,2,"CT and orbital-cerebral MRI, luetic serology, angiotensin-converting enzyme, Lyme serology, and chest x-ray were negative.",orbital-cerebral MRI
+S0365-66912006000100009-1,5,3,"CT and orbital-cerebral MRI, luetic serology, angiotensin-converting enzyme, Lyme serology, and chest x-ray were negative.",luetic serology
+S0365-66912006000100009-1,5,4,"CT and orbital-cerebral MRI, luetic serology, angiotensin-converting enzyme, Lyme serology, and chest x-ray were negative.",angiotensin-converting enzyme
+S0365-66912006000100009-1,5,5,"CT and orbital-cerebral MRI, luetic serology, angiotensin-converting enzyme, Lyme serology, and chest x-ray were negative.",Lyme serology
+S0365-66912006000100009-1,5,6,"CT and orbital-cerebral MRI, luetic serology, angiotensin-converting enzyme, Lyme serology, and chest x-ray were negative.",chest x
+S0365-66912006000100009-1,5,7,"CT and orbital-cerebral MRI, luetic serology, angiotensin-converting enzyme, Lyme serology, and chest x-ray were negative.",-
+S0365-66912006000100009-1,5,8,"CT and orbital-cerebral MRI, luetic serology, angiotensin-converting enzyme, Lyme serology, and chest x-ray were negative.",ray
+S0365-66912006000100009-1,6,1,The systemic study by devices was not significant.,The systemic study
+S0365-66912006000100009-1,6,2,The systemic study by devices was not significant.,devices
+S0365-66912006000100009-1,7,1,"The mantoux (PPD), already in the first 24 hours, had an induration of 25 mm with areas of dermal necrosis.",The mantoux
+S0365-66912006000100009-1,7,2,"The mantoux (PPD), already in the first 24 hours, had an induration of 25 mm with areas of dermal necrosis.",PPD
+S0365-66912006000100009-1,7,3,"The mantoux (PPD), already in the first 24 hours, had an induration of 25 mm with areas of dermal necrosis.",the first 24 hours
+S0365-66912006000100009-1,7,4,"The mantoux (PPD), already in the first 24 hours, had an induration of 25 mm with areas of dermal necrosis.",an induration
+S0365-66912006000100009-1,7,5,"The mantoux (PPD), already in the first 24 hours, had an induration of 25 mm with areas of dermal necrosis.",25 mm
+S0365-66912006000100009-1,7,6,"The mantoux (PPD), already in the first 24 hours, had an induration of 25 mm with areas of dermal necrosis.",areas
+S0365-66912006000100009-1,7,7,"The mantoux (PPD), already in the first 24 hours, had an induration of 25 mm with areas of dermal necrosis.",dermal necrosis
+S0365-66912006000100009-1,8,1,The chest x-ray was repeated and was also negative.,The chest x
+S0365-66912006000100009-1,8,2,The chest x-ray was repeated and was also negative.,-
+S0365-66912006000100009-1,8,3,The chest x-ray was repeated and was also negative.,ray
+S0365-66912006000100009-1,9,1,In the CSF puncture the outlet pressure was 16 cm H2O with normal biochemistry and negative culture.,the CSF
+S0365-66912006000100009-1,9,2,In the CSF puncture the outlet pressure was 16 cm H2O with normal biochemistry and negative culture.,the outlet pressure
+S0365-66912006000100009-1,9,3,In the CSF puncture the outlet pressure was 16 cm H2O with normal biochemistry and negative culture.,16 cm
+S0365-66912006000100009-1,9,4,In the CSF puncture the outlet pressure was 16 cm H2O with normal biochemistry and negative culture.,H2O
+S0365-66912006000100009-1,9,5,In the CSF puncture the outlet pressure was 16 cm H2O with normal biochemistry and negative culture.,normal biochemistry
+S0365-66912006000100009-1,9,6,In the CSF puncture the outlet pressure was 16 cm H2O with normal biochemistry and negative culture.,negative culture
+S0365-66912006000100009-1,10,1,"CSF electrophoresis was performed, and no oligoclonal bands were detected.",CSF electrophoresis
+S0365-66912006000100009-1,10,2,"CSF electrophoresis was performed, and no oligoclonal bands were detected.",no oligoclonal bands
+S0365-66912006000100009-1,11,1,Urine culture and sputum culture were also negative for the growth of mycobacterium tuberculosis.,Urine culture
+S0365-66912006000100009-1,11,2,Urine culture and sputum culture were also negative for the growth of mycobacterium tuberculosis.,sputum culture
+S0365-66912006000100009-1,11,3,Urine culture and sputum culture were also negative for the growth of mycobacterium tuberculosis.,the growth
+S0365-66912006000100009-1,11,4,Urine culture and sputum culture were also negative for the growth of mycobacterium tuberculosis.,mycobacterium tuberculosis
+S0365-66912006000100009-1,12,1,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",the suspicion
+S0365-66912006000100009-1,12,2,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",ocular tuberculosis
+S0365-66912006000100009-1,12,3,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",a test
+S0365-66912006000100009-1,12,4,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",300 mg
+S0365-66912006000100009-1,12,5,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",isoniazid
+S0365-66912006000100009-1,12,6,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",3 weeks
+S0365-66912006000100009-1,12,7,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",subjective improvement
+S0365-66912006000100009-1,12,8,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",RE vision
+S0365-66912006000100009-1,12,9,"Given the suspicion of ocular tuberculosis, a test was performed with 300 mg/day of isoniazid for 3 weeks with subjective improvement in RE vision although maximum vision was still 0.5.",maximum vision
+S0365-66912006000100009-1,13,1,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",He
+S0365-66912006000100009-1,13,2,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",isoniazid
+S0365-66912006000100009-1,13,3,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",9 months
+S0365-66912006000100009-1,13,4,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",rifampicin
+S0365-66912006000100009-1,13,5,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",600 mg
+S0365-66912006000100009-1,13,6,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",9 months
+S0365-66912006000100009-1,13,7,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",kg
+S0365-66912006000100009-1,13,8,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",2 months
+S0365-66912006000100009-1,13,9,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",ethambutol
+S0365-66912006000100009-1,13,10,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",15 mg/kg
+S0365-66912006000100009-1,13,11,"He was treated with isoniazid 300 mg (9 months) along with rifampicin 600 mg (9 months), pyrazinamide 15 mg/kg (2 months) and ethambutol 15 mg/kg (2 months).",2 months
+S0365-66912006000100009-1,14,1,"One year after the first consultation, the RE's visual acuity was 0.9 and its examination was normal.",the first consultation
+S0365-66912006000100009-1,14,2,"One year after the first consultation, the RE's visual acuity was 0.9 and its examination was normal.",the RE's visual acuity
+S0365-66912006000100009-1,14,3,"One year after the first consultation, the RE's visual acuity was 0.9 and its examination was normal.",its examination

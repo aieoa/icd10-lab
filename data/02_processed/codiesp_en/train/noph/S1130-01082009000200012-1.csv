@@ -1,0 +1,39 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082009000200012-1,1,1,"We present the case of a 75-year-old patient with moderate Alzheimer's who presented with abdominal pain of three days' duration, with fever.",We
+S1130-01082009000200012-1,1,2,"We present the case of a 75-year-old patient with moderate Alzheimer's who presented with abdominal pain of three days' duration, with fever.",the case
+S1130-01082009000200012-1,1,3,"We present the case of a 75-year-old patient with moderate Alzheimer's who presented with abdominal pain of three days' duration, with fever.",a 75-year-old patient
+S1130-01082009000200012-1,1,4,"We present the case of a 75-year-old patient with moderate Alzheimer's who presented with abdominal pain of three days' duration, with fever.",moderate Alzheimer
+S1130-01082009000200012-1,1,5,"We present the case of a 75-year-old patient with moderate Alzheimer's who presented with abdominal pain of three days' duration, with fever.",who
+S1130-01082009000200012-1,1,6,"We present the case of a 75-year-old patient with moderate Alzheimer's who presented with abdominal pain of three days' duration, with fever.",abdominal pain
+S1130-01082009000200012-1,1,7,"We present the case of a 75-year-old patient with moderate Alzheimer's who presented with abdominal pain of three days' duration, with fever.",three days' duration
+S1130-01082009000200012-1,1,8,"We present the case of a 75-year-old patient with moderate Alzheimer's who presented with abdominal pain of three days' duration, with fever.",fever
+S1130-01082009000200012-1,2,1,On examination she presented diffuse abdominal pain and peritonism.,examination
+S1130-01082009000200012-1,2,2,On examination she presented diffuse abdominal pain and peritonism.,she
+S1130-01082009000200012-1,2,3,On examination she presented diffuse abdominal pain and peritonism.,diffuse abdominal pain
+S1130-01082009000200012-1,2,4,On examination she presented diffuse abdominal pain and peritonism.,peritonism
+S1130-01082009000200012-1,3,1,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",A computed tomography
+S1130-01082009000200012-1,3,2,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",CT
+S1130-01082009000200012-1,3,3,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",scan
+S1130-01082009000200012-1,3,4,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",which
+S1130-01082009000200012-1,3,5,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",the presence
+S1130-01082009000200012-1,3,6,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",free fluid
+S1130-01082009000200012-1,3,7,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",pneumoperitoneum
+S1130-01082009000200012-1,3,8,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",infiltration
+S1130-01082009000200012-1,3,9,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",thickening
+S1130-01082009000200012-1,3,10,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",the entire colon wall
+S1130-01082009000200012-1,3,11,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",the presence
+S1130-01082009000200012-1,3,12,"A computed tomography (CT) scan was requested, which reported the presence of free fluid, pneumoperitoneum, with infiltration and thickening of the entire colon wall with the presence of calcified feces inside.",calcified feces
+S1130-01082009000200012-1,4,1,The location of the perforation was not visualized (image).,The location
+S1130-01082009000200012-1,4,2,The location of the perforation was not visualized (image).,the perforation
+S1130-01082009000200012-1,5,1,"It was decided to urgently intervene on the patient, finding diffuse fecal peritonitis with stony fecalomas coming out due to perforation at the sigmoid level.",It
+S1130-01082009000200012-1,5,2,"It was decided to urgently intervene on the patient, finding diffuse fecal peritonitis with stony fecalomas coming out due to perforation at the sigmoid level.",the patient
+S1130-01082009000200012-1,5,3,"It was decided to urgently intervene on the patient, finding diffuse fecal peritonitis with stony fecalomas coming out due to perforation at the sigmoid level.",diffuse fecal peritonitis
+S1130-01082009000200012-1,5,4,"It was decided to urgently intervene on the patient, finding diffuse fecal peritonitis with stony fecalomas coming out due to perforation at the sigmoid level.",stony fecalomas
+S1130-01082009000200012-1,5,5,"It was decided to urgently intervene on the patient, finding diffuse fecal peritonitis with stony fecalomas coming out due to perforation at the sigmoid level.",perforation
+S1130-01082009000200012-1,5,6,"It was decided to urgently intervene on the patient, finding diffuse fecal peritonitis with stony fecalomas coming out due to perforation at the sigmoid level.",the sigmoid level
+S1130-01082009000200012-1,6,1,"A Hartmann intervention was performed, with a left hemicolectomy due to finding a new perforation at the level of the splenic flexure of the colon.",A Hartmann intervention
+S1130-01082009000200012-1,6,2,"A Hartmann intervention was performed, with a left hemicolectomy due to finding a new perforation at the level of the splenic flexure of the colon.",a left hemicolectomy
+S1130-01082009000200012-1,6,3,"A Hartmann intervention was performed, with a left hemicolectomy due to finding a new perforation at the level of the splenic flexure of the colon.",a new perforation
+S1130-01082009000200012-1,6,4,"A Hartmann intervention was performed, with a left hemicolectomy due to finding a new perforation at the level of the splenic flexure of the colon.",the level
+S1130-01082009000200012-1,6,5,"A Hartmann intervention was performed, with a left hemicolectomy due to finding a new perforation at the level of the splenic flexure of the colon.",the splenic flexure
+S1130-01082009000200012-1,6,6,"A Hartmann intervention was performed, with a left hemicolectomy due to finding a new perforation at the level of the splenic flexure of the colon.",the colon

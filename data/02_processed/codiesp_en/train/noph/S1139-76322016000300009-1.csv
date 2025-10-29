@@ -1,0 +1,66 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1139-76322016000300009-1,1,1,Ten-year-old boy who went to the Emergency Department with testicular pain that had been going on for four hours.,Ten-year-old boy
+S1139-76322016000300009-1,1,2,Ten-year-old boy who went to the Emergency Department with testicular pain that had been going on for four hours.,who
+S1139-76322016000300009-1,1,3,Ten-year-old boy who went to the Emergency Department with testicular pain that had been going on for four hours.,the Emergency Department
+S1139-76322016000300009-1,1,4,Ten-year-old boy who went to the Emergency Department with testicular pain that had been going on for four hours.,testicular pain
+S1139-76322016000300009-1,1,5,Ten-year-old boy who went to the Emergency Department with testicular pain that had been going on for four hours.,that
+S1139-76322016000300009-1,1,6,Ten-year-old boy who went to the Emergency Department with testicular pain that had been going on for four hours.,four hours
+S1139-76322016000300009-1,2,1,"He reported that, having previously been well, he progressively began to have discomfort in his left testicle.",He
+S1139-76322016000300009-1,2,2,"He reported that, having previously been well, he progressively began to have discomfort in his left testicle.",he
+S1139-76322016000300009-1,2,3,"He reported that, having previously been well, he progressively began to have discomfort in his left testicle.",discomfort
+S1139-76322016000300009-1,2,4,"He reported that, having previously been well, he progressively began to have discomfort in his left testicle.",his left testicle
+S1139-76322016000300009-1,3,1,"He did not report fever, previous trauma or voiding syndrome.",He
+S1139-76322016000300009-1,3,2,"He did not report fever, previous trauma or voiding syndrome.",fever
+S1139-76322016000300009-1,3,3,"He did not report fever, previous trauma or voiding syndrome.",previous trauma
+S1139-76322016000300009-1,3,4,"He did not report fever, previous trauma or voiding syndrome.",voiding syndrome
+S1139-76322016000300009-1,4,1,He had no relevant family or personal history.,He
+S1139-76322016000300009-1,4,2,He had no relevant family or personal history.,no relevant family
+S1139-76322016000300009-1,4,3,He had no relevant family or personal history.,personal history
+S1139-76322016000300009-1,5,1,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",The clinical examination
+S1139-76322016000300009-1,5,2,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",the left testicle
+S1139-76322016000300009-1,5,3,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",which
+S1139-76322016000300009-1,5,4,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",a slight increase
+S1139-76322016000300009-1,5,5,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",size
+S1139-76322016000300009-1,5,6,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",palpation
+S1139-76322016000300009-1,5,7,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",relief
+S1139-76322016000300009-1,5,8,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",pain
+S1139-76322016000300009-1,5,9,"The clinical examination was normal, except for the left testicle, which showed a slight increase in size, erythematous and uncomfortable on palpation, but with relief of pain with testicular rise.",testicular rise
+S1139-76322016000300009-1,6,1,Cremasteric reflex present.,Cremasteric reflex present
+S1139-76322016000300009-1,7,1,"Both testes were palpated in a normal position, with no skin lesions observed.",Both testes
+S1139-76322016000300009-1,7,2,"Both testes were palpated in a normal position, with no skin lesions observed.",a normal position
+S1139-76322016000300009-1,7,3,"Both testes were palpated in a normal position, with no skin lesions observed.",no skin lesions
+S1139-76322016000300009-1,8,1,"Given the acute scrotal pain, a testicular Doppler ultrasound was requested to complete the study, observing images compatible with left epididymitis and ruling out testicular torsion.",the acute scrotal pain
+S1139-76322016000300009-1,8,2,"Given the acute scrotal pain, a testicular Doppler ultrasound was requested to complete the study, observing images compatible with left epididymitis and ruling out testicular torsion.",a testicular Doppler ultrasound
+S1139-76322016000300009-1,8,3,"Given the acute scrotal pain, a testicular Doppler ultrasound was requested to complete the study, observing images compatible with left epididymitis and ruling out testicular torsion.",the study
+S1139-76322016000300009-1,8,4,"Given the acute scrotal pain, a testicular Doppler ultrasound was requested to complete the study, observing images compatible with left epididymitis and ruling out testicular torsion.",images
+S1139-76322016000300009-1,8,5,"Given the acute scrotal pain, a testicular Doppler ultrasound was requested to complete the study, observing images compatible with left epididymitis and ruling out testicular torsion.",left epididymitis
+S1139-76322016000300009-1,8,6,"Given the acute scrotal pain, a testicular Doppler ultrasound was requested to complete the study, observing images compatible with left epididymitis and ruling out testicular torsion.",testicular torsion
+S1139-76322016000300009-1,9,1,"As a chance finding, an image of 1.5 mm right intratesticular calcification was observed.",a chance finding
+S1139-76322016000300009-1,9,2,"As a chance finding, an image of 1.5 mm right intratesticular calcification was observed.",an image
+S1139-76322016000300009-1,9,3,"As a chance finding, an image of 1.5 mm right intratesticular calcification was observed.",1.5 mm
+S1139-76322016000300009-1,9,4,"As a chance finding, an image of 1.5 mm right intratesticular calcification was observed.",intratesticular calcification
+S1139-76322016000300009-1,10,1,"Analgesia measures and recommendations were prescribed to minimize discomfort (scrotal elevation and rest), explaining the warning signs in which to consult again.",Analgesia measures
+S1139-76322016000300009-1,10,2,"Analgesia measures and recommendations were prescribed to minimize discomfort (scrotal elevation and rest), explaining the warning signs in which to consult again.",recommendations
+S1139-76322016000300009-1,10,3,"Analgesia measures and recommendations were prescribed to minimize discomfort (scrotal elevation and rest), explaining the warning signs in which to consult again.",discomfort
+S1139-76322016000300009-1,10,4,"Analgesia measures and recommendations were prescribed to minimize discomfort (scrotal elevation and rest), explaining the warning signs in which to consult again.",scrotal elevation
+S1139-76322016000300009-1,10,5,"Analgesia measures and recommendations were prescribed to minimize discomfort (scrotal elevation and rest), explaining the warning signs in which to consult again.",rest
+S1139-76322016000300009-1,10,6,"Analgesia measures and recommendations were prescribed to minimize discomfort (scrotal elevation and rest), explaining the warning signs in which to consult again.",the warning signs
+S1139-76322016000300009-1,10,7,"Analgesia measures and recommendations were prescribed to minimize discomfort (scrotal elevation and rest), explaining the warning signs in which to consult again.",which
+S1139-76322016000300009-1,11,1,He evolved favorably.,He
+S1139-76322016000300009-1,12,1,"Given the image of intratesticular calcification, a Pediatric consultation was scheduled for evolutionary follow-up.",the image
+S1139-76322016000300009-1,12,2,"Given the image of intratesticular calcification, a Pediatric consultation was scheduled for evolutionary follow-up.",intratesticular calcification
+S1139-76322016000300009-1,12,3,"Given the image of intratesticular calcification, a Pediatric consultation was scheduled for evolutionary follow-up.",a Pediatric consultation
+S1139-76322016000300009-1,12,4,"Given the image of intratesticular calcification, a Pediatric consultation was scheduled for evolutionary follow-up.",evolutionary follow-up
+S1139-76322016000300009-1,13,1,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",the first two years
+S1139-76322016000300009-1,13,2,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",follow-up
+S1139-76322016000300009-1,13,3,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",the patient
+S1139-76322016000300009-1,13,4,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",no changes
+S1139-76322016000300009-1,13,5,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",the number
+S1139-76322016000300009-1,13,6,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",distribution
+S1139-76322016000300009-1,13,7,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",testicular microcalcifications
+S1139-76322016000300009-1,13,8,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",any changes
+S1139-76322016000300009-1,13,9,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",the echogenicity
+S1139-76322016000300009-1,13,10,"In the first two years of follow-up, the patient has remained asymptomatic and no changes have been observed regarding the number or distribution of testicular microcalcifications, nor have any changes been reported in the echogenicity of the testicular parenchyma.",the testicular parenchyma
+S1139-76322016000300009-1,14,1,We will continue to perform periodic clinical and ultrasound checks to assess his progress.,We
+S1139-76322016000300009-1,14,2,We will continue to perform periodic clinical and ultrasound checks to assess his progress.,periodic clinical and ultrasound checks
+S1139-76322016000300009-1,14,3,We will continue to perform periodic clinical and ultrasound checks to assess his progress.,his progress

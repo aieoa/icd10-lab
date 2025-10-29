@@ -1,0 +1,22 @@
+We present the case of a 32-year-old man, with no known drug allergies, with the only personal history of polyarticular rheumatism in childhood. He was admitted from the emergency room due to intense pain in the left hemithorax, which was not modified by respiratory movements or postural changes, without productive cough or dyspnea, and without other accompanying symptoms.
+The physical examination revealed a small, non-specific right laterocervical adenopathy, with hepatomegaly of about 3 cm from the costal margin, with no other findings of interest.
+Presenting the following complementary evidence:
+BASIC COMPLEMENTARY TESTS
+Hemogram and peripheral blood smear: Hemoglobin 13.3 g/dl, Platelets 281,000/ul, Leukocytes 8,800/ul with 23% segmented, 1% arched, 1% metamyelocytes, 2% monocytes, 33% lymphocytes (most of them plasmacytoid appearance), and 40% plasma cells, some of which are large binucleate.
+Biochemistry: Creatinine 1.2 mg/dl, Urea 52 mg/dl, (creatinine clearance 59 ml/min), total proteins 10.8 g/dl, total calcium 9.8 mg/dl, rest normal.
+Proteinogram: monoclonal peak in gamma band.
+Coagulation: APTT 33.6 seconds, INR 1.35.
+Basic urine test: Positive proteins, with presence of mucin in the sediment.
+Chest x-ray: Small calcified nodular image in the left lower lobe, probable calcified granuloma.
+SPECIFIC COMPLEMENTARY TESTS
+Immunophenotype in peripheral blood: 45% of the total leukocyte count has an abnormal immunophenotype: CD45+, CD38+, CD138+, CD56+, CD19-, CD20-, CD5, CD10-, CD23-, Cd79b-, sIg-.
+Bone marrow aspirate: Presence of plasma cells in a proportion of 50% of the total cellularity, of heterogeneous size, predominating elements of intermediate size. Frequent binucleate and trinucleate cells.
+Bone marrow biopsy: Multifocal interstitial infiltration of the marrow parenchyma by IG-Kappa plasmablastic plasma cells. Medullary plasmacytosis of 40-50%. amyloid negative material.
+Beta2-microglobulin: 7.3 mg/dl.
+Bone series: No evidence of osteolytic lesions.
+Immunoelectrophoresis in serum: IgG 4,390 mg/dl, IgA 14.5 mg/dl, IgM 4.17 mg/dl. Immunofixation in serum: IgG-Kappa paraprotein.
+Immunoelectrophoresis in urine: Light chain proteinuria (Bence-Jones) of 1,310 mg in 24 hours, for IgG-Kappa paraprotein and free Kappa light chains.
+HBV, HCV, HIV serology: negative.
+Abdominal ultrasound: Hepatomegaly, without focal hepatosplenic lesions. There is no evidence of intra-abdominal lymphadenopathy, nor intraperitoneal free fluid, the rest without alterations.
+Diagnosis: The patient presents a condition compatible with multiple myeloma in its primary plasma cell leukemia variant.
+Treatment: Given the patient's age, it is decided to transplant autologous peripheral blood progenitor cells. For which induction chemotherapy was started with the C-VAD scheme.

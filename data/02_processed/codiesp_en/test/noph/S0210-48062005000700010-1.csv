@@ -1,0 +1,24 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062005000700010-1,1,1,"A 25-year-old man underwent surgery for a left varicocele six months ago, who consulted for a problem of repeated urinary infections without sexual pathology.",A 25-year-old man
+S0210-48062005000700010-1,1,2,"A 25-year-old man underwent surgery for a left varicocele six months ago, who consulted for a problem of repeated urinary infections without sexual pathology.",surgery
+S0210-48062005000700010-1,1,3,"A 25-year-old man underwent surgery for a left varicocele six months ago, who consulted for a problem of repeated urinary infections without sexual pathology.",a left varicocele
+S0210-48062005000700010-1,1,4,"A 25-year-old man underwent surgery for a left varicocele six months ago, who consulted for a problem of repeated urinary infections without sexual pathology.",who
+S0210-48062005000700010-1,1,5,"A 25-year-old man underwent surgery for a left varicocele six months ago, who consulted for a problem of repeated urinary infections without sexual pathology.",a problem
+S0210-48062005000700010-1,1,6,"A 25-year-old man underwent surgery for a left varicocele six months ago, who consulted for a problem of repeated urinary infections without sexual pathology.",repeated urinary infections
+S0210-48062005000700010-1,1,7,"A 25-year-old man underwent surgery for a left varicocele six months ago, who consulted for a problem of repeated urinary infections without sexual pathology.",sexual pathology
+S0210-48062005000700010-1,2,1,"A retrograde urethrography and a voiding cystourethrography were performed, which indicated the presence of an incomplete urethral duplication that originated in the bulbar urethra and ran along the ventral side.",A retrograde urethrography
+S0210-48062005000700010-1,2,2,"A retrograde urethrography and a voiding cystourethrography were performed, which indicated the presence of an incomplete urethral duplication that originated in the bulbar urethra and ran along the ventral side.",a voiding cystourethrography
+S0210-48062005000700010-1,2,3,"A retrograde urethrography and a voiding cystourethrography were performed, which indicated the presence of an incomplete urethral duplication that originated in the bulbar urethra and ran along the ventral side.",which
+S0210-48062005000700010-1,2,4,"A retrograde urethrography and a voiding cystourethrography were performed, which indicated the presence of an incomplete urethral duplication that originated in the bulbar urethra and ran along the ventral side.",the presence
+S0210-48062005000700010-1,2,5,"A retrograde urethrography and a voiding cystourethrography were performed, which indicated the presence of an incomplete urethral duplication that originated in the bulbar urethra and ran along the ventral side.",an incomplete urethral duplication
+S0210-48062005000700010-1,2,6,"A retrograde urethrography and a voiding cystourethrography were performed, which indicated the presence of an incomplete urethral duplication that originated in the bulbar urethra and ran along the ventral side.",that
+S0210-48062005000700010-1,2,7,"A retrograde urethrography and a voiding cystourethrography were performed, which indicated the presence of an incomplete urethral duplication that originated in the bulbar urethra and ran along the ventral side.",the bulbar urethra
+S0210-48062005000700010-1,2,8,"A retrograde urethrography and a voiding cystourethrography were performed, which indicated the presence of an incomplete urethral duplication that originated in the bulbar urethra and ran along the ventral side.",the ventral side
+S0210-48062005000700010-1,3,1,The accessory tract was surgically resected via the perineal route.,The accessory tract
+S0210-48062005000700010-1,3,2,The accessory tract was surgically resected via the perineal route.,the perineal route
+S0210-48062005000700010-1,4,1,Subsequent imaging controls showed the existence of a normal bulbar urethra.,Subsequent imaging controls
+S0210-48062005000700010-1,4,2,Subsequent imaging controls showed the existence of a normal bulbar urethra.,the existence
+S0210-48062005000700010-1,4,3,Subsequent imaging controls showed the existence of a normal bulbar urethra.,a normal bulbar urethra
+S0210-48062005000700010-1,5,1,Urination symptoms have not recurred in the two years since the intervention.,Urination symptoms
+S0210-48062005000700010-1,5,2,Urination symptoms have not recurred in the two years since the intervention.,the two years
+S0210-48062005000700010-1,5,3,Urination symptoms have not recurred in the two years since the intervention.,the intervention

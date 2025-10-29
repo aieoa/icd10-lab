@@ -1,0 +1,131 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142007000900014-1,1,1,"A 58-year-old woman is being studied by the Digestive Service for pain in the right hypochondrium of 6 months' duration, accompanied by altered bowel habits.",A 58-year-old woman
+S0004-06142007000900014-1,1,2,"A 58-year-old woman is being studied by the Digestive Service for pain in the right hypochondrium of 6 months' duration, accompanied by altered bowel habits.",the Digestive Service
+S0004-06142007000900014-1,1,3,"A 58-year-old woman is being studied by the Digestive Service for pain in the right hypochondrium of 6 months' duration, accompanied by altered bowel habits.",pain
+S0004-06142007000900014-1,1,4,"A 58-year-old woman is being studied by the Digestive Service for pain in the right hypochondrium of 6 months' duration, accompanied by altered bowel habits.",the right hypochondrium
+S0004-06142007000900014-1,1,5,"A 58-year-old woman is being studied by the Digestive Service for pain in the right hypochondrium of 6 months' duration, accompanied by altered bowel habits.",6 months' duration
+S0004-06142007000900014-1,1,6,"A 58-year-old woman is being studied by the Digestive Service for pain in the right hypochondrium of 6 months' duration, accompanied by altered bowel habits.",altered bowel habits
+S0004-06142007000900014-1,2,1,She does not present general syndrome or urological symptoms.,She
+S0004-06142007000900014-1,2,2,She does not present general syndrome or urological symptoms.,general syndrome
+S0004-06142007000900014-1,2,3,She does not present general syndrome or urological symptoms.,urological symptoms
+S0004-06142007000900014-1,3,1,"On physical examination, she appears to be in good general condition, normally hydrated and normally colored, and moderately obese.",physical examination
+S0004-06142007000900014-1,3,2,"On physical examination, she appears to be in good general condition, normally hydrated and normally colored, and moderately obese.",she
+S0004-06142007000900014-1,3,3,"On physical examination, she appears to be in good general condition, normally hydrated and normally colored, and moderately obese.",good general condition
+S0004-06142007000900014-1,4,1,There is no cushingoid habit or virilization stigmata.,no cushingoid habit
+S0004-06142007000900014-1,4,2,There is no cushingoid habit or virilization stigmata.,virilization stigmata
+S0004-06142007000900014-1,5,1,The blood pressure figures are normal.,The blood pressure figures
+S0004-06142007000900014-1,6,1,Cardiopulmonary auscultation is normal.,Cardiopulmonary auscultation
+S0004-06142007000900014-1,7,1,"The abdomen is globular, soft and depressible, making palpation of possible masses or organomegaly difficult, showing slight pain on deep pressure in the right hypochondrium, without presenting Murphy's sign.",The abdomen
+S0004-06142007000900014-1,7,2,"The abdomen is globular, soft and depressible, making palpation of possible masses or organomegaly difficult, showing slight pain on deep pressure in the right hypochondrium, without presenting Murphy's sign.",palpation
+S0004-06142007000900014-1,7,3,"The abdomen is globular, soft and depressible, making palpation of possible masses or organomegaly difficult, showing slight pain on deep pressure in the right hypochondrium, without presenting Murphy's sign.",possible masses
+S0004-06142007000900014-1,7,4,"The abdomen is globular, soft and depressible, making palpation of possible masses or organomegaly difficult, showing slight pain on deep pressure in the right hypochondrium, without presenting Murphy's sign.",slight pain
+S0004-06142007000900014-1,7,5,"The abdomen is globular, soft and depressible, making palpation of possible masses or organomegaly difficult, showing slight pain on deep pressure in the right hypochondrium, without presenting Murphy's sign.",deep pressure
+S0004-06142007000900014-1,7,6,"The abdomen is globular, soft and depressible, making palpation of possible masses or organomegaly difficult, showing slight pain on deep pressure in the right hypochondrium, without presenting Murphy's sign.",the right hypochondrium
+S0004-06142007000900014-1,7,7,"The abdomen is globular, soft and depressible, making palpation of possible masses or organomegaly difficult, showing slight pain on deep pressure in the right hypochondrium, without presenting Murphy's sign.",Murphy's sign
+S0004-06142007000900014-1,8,1,"Regarding complementary examinations, routine biochemical and hematological analysis, as well as adrenal function tests, are within normal ranges.",complementary examinations
+S0004-06142007000900014-1,8,2,"Regarding complementary examinations, routine biochemical and hematological analysis, as well as adrenal function tests, are within normal ranges.",routine biochemical and hematological analysis
+S0004-06142007000900014-1,8,3,"Regarding complementary examinations, routine biochemical and hematological analysis, as well as adrenal function tests, are within normal ranges.",adrenal function tests
+S0004-06142007000900014-1,8,4,"Regarding complementary examinations, routine biochemical and hematological analysis, as well as adrenal function tests, are within normal ranges.",normal ranges
+S0004-06142007000900014-1,9,1,The ultrasound demonstrates the presence of a tumor in the right adrenal area of ​​approximately 6x6 cm.,The ultrasound
+S0004-06142007000900014-1,9,2,The ultrasound demonstrates the presence of a tumor in the right adrenal area of ​​approximately 6x6 cm.,the presence
+S0004-06142007000900014-1,9,3,The ultrasound demonstrates the presence of a tumor in the right adrenal area of ​​approximately 6x6 cm.,a tumor
+S0004-06142007000900014-1,9,4,The ultrasound demonstrates the presence of a tumor in the right adrenal area of ​​approximately 6x6 cm.,the right adrenal area
+S0004-06142007000900014-1,9,5,The ultrasound demonstrates the presence of a tumor in the right adrenal area of ​​approximately 6x6 cm.,​​approximately 6x6 cm
+S0004-06142007000900014-1,10,1,No liver metastases are observed.,No liver metastases
+S0004-06142007000900014-1,11,1,"The CT scan confirms the referred mass, in intimate contact with the wall of the inferior vena cava, which it apparently displaces, without being able to rule out its infiltration.",The CT scan
+S0004-06142007000900014-1,11,2,"The CT scan confirms the referred mass, in intimate contact with the wall of the inferior vena cava, which it apparently displaces, without being able to rule out its infiltration.",the referred mass
+S0004-06142007000900014-1,11,3,"The CT scan confirms the referred mass, in intimate contact with the wall of the inferior vena cava, which it apparently displaces, without being able to rule out its infiltration.",intimate contact
+S0004-06142007000900014-1,11,4,"The CT scan confirms the referred mass, in intimate contact with the wall of the inferior vena cava, which it apparently displaces, without being able to rule out its infiltration.",the wall
+S0004-06142007000900014-1,11,5,"The CT scan confirms the referred mass, in intimate contact with the wall of the inferior vena cava, which it apparently displaces, without being able to rule out its infiltration.",the inferior vena cava
+S0004-06142007000900014-1,11,6,"The CT scan confirms the referred mass, in intimate contact with the wall of the inferior vena cava, which it apparently displaces, without being able to rule out its infiltration.",which
+S0004-06142007000900014-1,11,7,"The CT scan confirms the referred mass, in intimate contact with the wall of the inferior vena cava, which it apparently displaces, without being able to rule out its infiltration.",it
+S0004-06142007000900014-1,11,8,"The CT scan confirms the referred mass, in intimate contact with the wall of the inferior vena cava, which it apparently displaces, without being able to rule out its infiltration.",its infiltration
+S0004-06142007000900014-1,12,1,There is no evidence of retroperitoneal lymph node involvement or metastasis at another level.,no evidence
+S0004-06142007000900014-1,12,2,There is no evidence of retroperitoneal lymph node involvement or metastasis at another level.,retroperitoneal lymph node involvement
+S0004-06142007000900014-1,12,3,There is no evidence of retroperitoneal lymph node involvement or metastasis at another level.,metastasis
+S0004-06142007000900014-1,12,4,There is no evidence of retroperitoneal lymph node involvement or metastasis at another level.,another level
+S0004-06142007000900014-1,13,1,The presence of tumor thrombosis is also not demonstrated.,The presence
+S0004-06142007000900014-1,13,2,The presence of tumor thrombosis is also not demonstrated.,tumor thrombosis
+S0004-06142007000900014-1,14,1,"Given these findings, it was decided to perform MRI for a correct definition of the involvement of neighboring tissues, reporting identical CT findings and without being able to definitively predict parietal infiltration.",these findings
+S0004-06142007000900014-1,14,2,"Given these findings, it was decided to perform MRI for a correct definition of the involvement of neighboring tissues, reporting identical CT findings and without being able to definitively predict parietal infiltration.",it
+S0004-06142007000900014-1,14,3,"Given these findings, it was decided to perform MRI for a correct definition of the involvement of neighboring tissues, reporting identical CT findings and without being able to definitively predict parietal infiltration.",MRI
+S0004-06142007000900014-1,14,4,"Given these findings, it was decided to perform MRI for a correct definition of the involvement of neighboring tissues, reporting identical CT findings and without being able to definitively predict parietal infiltration.",a correct definition
+S0004-06142007000900014-1,14,5,"Given these findings, it was decided to perform MRI for a correct definition of the involvement of neighboring tissues, reporting identical CT findings and without being able to definitively predict parietal infiltration.",the involvement
+S0004-06142007000900014-1,14,6,"Given these findings, it was decided to perform MRI for a correct definition of the involvement of neighboring tissues, reporting identical CT findings and without being able to definitively predict parietal infiltration.",neighboring tissues
+S0004-06142007000900014-1,14,7,"Given these findings, it was decided to perform MRI for a correct definition of the involvement of neighboring tissues, reporting identical CT findings and without being able to definitively predict parietal infiltration.",identical CT findings
+S0004-06142007000900014-1,14,8,"Given these findings, it was decided to perform MRI for a correct definition of the involvement of neighboring tissues, reporting identical CT findings and without being able to definitively predict parietal infiltration.",parietal infiltration
+S0004-06142007000900014-1,15,1,"With the diagnosis of adrenal mass, intervention was decided, which was carried out through a transperitoneal right subcostal incision.",the diagnosis
+S0004-06142007000900014-1,15,2,"With the diagnosis of adrenal mass, intervention was decided, which was carried out through a transperitoneal right subcostal incision.",adrenal mass
+S0004-06142007000900014-1,15,3,"With the diagnosis of adrenal mass, intervention was decided, which was carried out through a transperitoneal right subcostal incision.",intervention
+S0004-06142007000900014-1,15,4,"With the diagnosis of adrenal mass, intervention was decided, which was carried out through a transperitoneal right subcostal incision.",which
+S0004-06142007000900014-1,15,5,"With the diagnosis of adrenal mass, intervention was decided, which was carried out through a transperitoneal right subcostal incision.",a transperitoneal right subcostal incision
+S0004-06142007000900014-1,16,1,"The right adrenal region was approached, revealing a voluminous tumor at that level.",The right adrenal region
+S0004-06142007000900014-1,16,2,"The right adrenal region was approached, revealing a voluminous tumor at that level.",a voluminous tumor
+S0004-06142007000900014-1,16,3,"The right adrenal region was approached, revealing a voluminous tumor at that level.",that level
+S0004-06142007000900014-1,17,1,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",The dissection
+S0004-06142007000900014-1,17,2,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",the same begins
+S0004-06142007000900014-1,17,3,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",no separation plane
+S0004-06142007000900014-1,17,4,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",the area
+S0004-06142007000900014-1,17,5,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",​​contact
+S0004-06142007000900014-1,17,6,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",the lateral and posterior wall
+S0004-06142007000900014-1,17,7,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",the vena cava
+S0004-06142007000900014-1,17,8,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",it
+S0004-06142007000900014-1,17,9,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",it
+S0004-06142007000900014-1,17,10,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",proximal and distal venous control
+S0004-06142007000900014-1,17,11,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",the mass
+S0004-06142007000900014-1,17,12,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",suture
+S0004-06142007000900014-1,17,13,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",polypropylene
+S0004-06142007000900014-1,17,14,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",the wall
+S0004-06142007000900014-1,17,15,"The dissection of the same begins, and no separation plane is found in the area of ​​contact with the lateral and posterior wall of the vena cava, so it is decided to excise it after proximal and distal venous control of the mass and with suture with polypropylene from the wall of the inferior vena cava.",the inferior vena cava
+S0004-06142007000900014-1,18,1,"The patient followed a favorable postoperative course, without developing complications.",The patient
+S0004-06142007000900014-1,18,2,"The patient followed a favorable postoperative course, without developing complications.",a favorable postoperative course
+S0004-06142007000900014-1,18,3,"The patient followed a favorable postoperative course, without developing complications.",complications
+S0004-06142007000900014-1,19,1,He was discharged on the seventh day post-intervention.,He
+S0004-06142007000900014-1,19,2,He was discharged on the seventh day post-intervention.,the seventh day
+S0004-06142007000900014-1,19,3,He was discharged on the seventh day post-intervention.,post
+S0004-06142007000900014-1,19,4,He was discharged on the seventh day post-intervention.,-
+S0004-06142007000900014-1,19,5,He was discharged on the seventh day post-intervention.,intervention
+S0004-06142007000900014-1,20,1,"The macroscopic histological study shows a 6 x 8 cm piece. of elastic consistency and easy to cut, with a fleshy appearance and grayish-brown color.",The macroscopic histological study
+S0004-06142007000900014-1,20,2,"The macroscopic histological study shows a 6 x 8 cm piece. of elastic consistency and easy to cut, with a fleshy appearance and grayish-brown color.",a 6 x 8 cm piece
+S0004-06142007000900014-1,20,3,"The macroscopic histological study shows a 6 x 8 cm piece. of elastic consistency and easy to cut, with a fleshy appearance and grayish-brown color.",elastic consistency
+S0004-06142007000900014-1,20,4,"The macroscopic histological study shows a 6 x 8 cm piece. of elastic consistency and easy to cut, with a fleshy appearance and grayish-brown color.",a fleshy appearance
+S0004-06142007000900014-1,20,5,"The macroscopic histological study shows a 6 x 8 cm piece. of elastic consistency and easy to cut, with a fleshy appearance and grayish-brown color.",grayish-brown color
+S0004-06142007000900014-1,21,1,"Remnants of adrenal tissue are recognized in the periphery, apparently normal in appearance.",Remnants
+S0004-06142007000900014-1,21,2,"Remnants of adrenal tissue are recognized in the periphery, apparently normal in appearance.",adrenal tissue
+S0004-06142007000900014-1,21,3,"Remnants of adrenal tissue are recognized in the periphery, apparently normal in appearance.",the periphery
+S0004-06142007000900014-1,21,4,"Remnants of adrenal tissue are recognized in the periphery, apparently normal in appearance.",appearance
+S0004-06142007000900014-1,22,1,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",Microscopy
+S0004-06142007000900014-1,22,2,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",us
+S0004-06142007000900014-1,22,3,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",a proliferation
+S0004-06142007000900014-1,22,4,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",cellular elements
+S0004-06142007000900014-1,22,5,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",stromal origin
+S0004-06142007000900014-1,22,6,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",large pleomorphic nuclei
+S0004-06142007000900014-1,22,7,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",multinucleated cells
+S0004-06142007000900014-1,22,8,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",that
+S0004-06142007000900014-1,22,9,"Microscopy informs us of a proliferation of cellular elements of stromal origin, with large pleomorphic nuclei, with multinucleated cells that adopt a fascicular pattern.",a fascicular pattern
+S0004-06142007000900014-1,23,1,The mitotic index is high (7 m/10 high power fields).,The mitotic index
+S0004-06142007000900014-1,24,1,There are areas of intratumoral necrosis and invasion of adrenal tissue present in the peripheral area.,areas
+S0004-06142007000900014-1,24,2,There are areas of intratumoral necrosis and invasion of adrenal tissue present in the peripheral area.,intratumoral necrosis
+S0004-06142007000900014-1,24,3,There are areas of intratumoral necrosis and invasion of adrenal tissue present in the peripheral area.,invasion
+S0004-06142007000900014-1,24,4,There are areas of intratumoral necrosis and invasion of adrenal tissue present in the peripheral area.,adrenal tissue
+S0004-06142007000900014-1,24,5,There are areas of intratumoral necrosis and invasion of adrenal tissue present in the peripheral area.,the peripheral area
+S0004-06142007000900014-1,25,1,The definitive diagnosis is LEIOMYOSARCOMA OF CAVA.,The definitive diagnosis
+S0004-06142007000900014-1,25,2,The definitive diagnosis is LEIOMYOSARCOMA OF CAVA.,LEIOMYOSARCOMA
+S0004-06142007000900014-1,25,3,The definitive diagnosis is LEIOMYOSARCOMA OF CAVA.,CAVA
+S0004-06142007000900014-1,26,1,"Regarding the evolution, the controls, both analytical and imaging, carried out in the early post-surgical period show normality.",the evolution
+S0004-06142007000900014-1,26,2,"Regarding the evolution, the controls, both analytical and imaging, carried out in the early post-surgical period show normality.",the controls
+S0004-06142007000900014-1,26,3,"Regarding the evolution, the controls, both analytical and imaging, carried out in the early post-surgical period show normality.",the early post-surgical period
+S0004-06142007000900014-1,26,4,"Regarding the evolution, the controls, both analytical and imaging, carried out in the early post-surgical period show normality.",normality
+S0004-06142007000900014-1,27,1,"The case is referred to the Oncology Service, which decides on consolidation radiotherapy treatment on the surgical bed, starting 40 days after the intervention.",The case
+S0004-06142007000900014-1,27,2,"The case is referred to the Oncology Service, which decides on consolidation radiotherapy treatment on the surgical bed, starting 40 days after the intervention.",the Oncology Service
+S0004-06142007000900014-1,27,3,"The case is referred to the Oncology Service, which decides on consolidation radiotherapy treatment on the surgical bed, starting 40 days after the intervention.",which
+S0004-06142007000900014-1,27,4,"The case is referred to the Oncology Service, which decides on consolidation radiotherapy treatment on the surgical bed, starting 40 days after the intervention.",consolidation radiotherapy treatment
+S0004-06142007000900014-1,27,5,"The case is referred to the Oncology Service, which decides on consolidation radiotherapy treatment on the surgical bed, starting 40 days after the intervention.",the surgical bed
+S0004-06142007000900014-1,27,6,"The case is referred to the Oncology Service, which decides on consolidation radiotherapy treatment on the surgical bed, starting 40 days after the intervention.",the intervention
+S0004-06142007000900014-1,28,1,"New controls were carried out at six, nine, twelve and twenty-four months, all of which were normal.",New controls
+S0004-06142007000900014-1,28,2,"New controls were carried out at six, nine, twelve and twenty-four months, all of which were normal.","six, nine, twelve and twenty-four months"
+S0004-06142007000900014-1,28,3,"New controls were carried out at six, nine, twelve and twenty-four months, all of which were normal.",all
+S0004-06142007000900014-1,28,4,"New controls were carried out at six, nine, twelve and twenty-four months, all of which were normal.",which
+S0004-06142007000900014-1,29,1,"Currently the patient is alive and disease-free, after 28 months of follow-up.",the patient
+S0004-06142007000900014-1,29,2,"Currently the patient is alive and disease-free, after 28 months of follow-up.",28 months
+S0004-06142007000900014-1,29,3,"Currently the patient is alive and disease-free, after 28 months of follow-up.",follow-up

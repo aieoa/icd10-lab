@@ -1,0 +1,83 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912007000200010-1,1,1,A 45-year-old woman was referred from the neurosurgery service for sudden bilateral vision loss after ventriculoperitoneal shunt surgery for a temporal subdural hygroma and cranial occipital abscess.,A 45-year-old woman
+S0365-66912007000200010-1,1,2,A 45-year-old woman was referred from the neurosurgery service for sudden bilateral vision loss after ventriculoperitoneal shunt surgery for a temporal subdural hygroma and cranial occipital abscess.,the neurosurgery service
+S0365-66912007000200010-1,1,3,A 45-year-old woman was referred from the neurosurgery service for sudden bilateral vision loss after ventriculoperitoneal shunt surgery for a temporal subdural hygroma and cranial occipital abscess.,sudden bilateral vision loss
+S0365-66912007000200010-1,1,4,A 45-year-old woman was referred from the neurosurgery service for sudden bilateral vision loss after ventriculoperitoneal shunt surgery for a temporal subdural hygroma and cranial occipital abscess.,surgery
+S0365-66912007000200010-1,1,5,A 45-year-old woman was referred from the neurosurgery service for sudden bilateral vision loss after ventriculoperitoneal shunt surgery for a temporal subdural hygroma and cranial occipital abscess.,a temporal subdural hygroma and cranial occipital abscess
+S0365-66912007000200010-1,2,1,All of this is the result of a subacute postsurgical complication.,All
+S0365-66912007000200010-1,2,2,All of this is the result of a subacute postsurgical complication.,this
+S0365-66912007000200010-1,2,3,All of this is the result of a subacute postsurgical complication.,the result
+S0365-66912007000200010-1,2,4,All of this is the result of a subacute postsurgical complication.,a subacute postsurgical complication
+S0365-66912007000200010-1,3,1,Fifteen days earlier she had undergone preventive spinal decompression for Arnold-Chiari I Malformation.,she
+S0365-66912007000200010-1,3,2,Fifteen days earlier she had undergone preventive spinal decompression for Arnold-Chiari I Malformation.,preventive spinal decompression
+S0365-66912007000200010-1,3,3,Fifteen days earlier she had undergone preventive spinal decompression for Arnold-Chiari I Malformation.,Arnold-Chiari I Malformation
+S0365-66912007000200010-1,4,1,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",The patient
+S0365-66912007000200010-1,4,2,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",a history
+S0365-66912007000200010-1,4,3,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",16 years
+S0365-66912007000200010-1,4,4,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",evolution
+S0365-66912007000200010-1,4,5,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",mild headaches
+S0365-66912007000200010-1,4,6,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",instability
+S0365-66912007000200010-1,4,7,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",rotational dizziness
+S0365-66912007000200010-1,4,8,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",self-limited vomiting
+S0365-66912007000200010-1,4,9,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",variable duration
+S0365-66912007000200010-1,4,10,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",mild vertical nystagmus
+S0365-66912007000200010-1,4,11,"The patient had a history of 16 years of evolution, with mild headaches, instability, rotational dizziness, self-limited vomiting of variable duration and mild vertical nystagmus for a year.",a year
+S0365-66912007000200010-1,5,1,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",the suspicion
+S0365-66912007000200010-1,5,2,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",diagnosis
+S0365-66912007000200010-1,5,3,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",the congenital malformation
+S0365-66912007000200010-1,5,4,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",the rest
+S0365-66912007000200010-1,5,5,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",her symptoms
+S0365-66912007000200010-1,5,6,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",the ulcerative colitis
+S0365-66912007000200010-1,5,7,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",that
+S0365-66912007000200010-1,5,8,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",she
+S0365-66912007000200010-1,5,9,"The latter helped in the suspicion and diagnosis of the congenital malformation, since the rest of her symptoms were related to the ulcerative colitis that she had suffered for years.",years
+S0365-66912007000200010-1,6,1,Visual acuity (VA) in the first examination was hand movement in both eyes.,Visual acuity
+S0365-66912007000200010-1,6,2,Visual acuity (VA) in the first examination was hand movement in both eyes.,VA
+S0365-66912007000200010-1,6,3,Visual acuity (VA) in the first examination was hand movement in both eyes.,the first examination
+S0365-66912007000200010-1,6,4,Visual acuity (VA) in the first examination was hand movement in both eyes.,hand movement
+S0365-66912007000200010-1,6,5,Visual acuity (VA) in the first examination was hand movement in both eyes.,both eyes
+S0365-66912007000200010-1,7,1,Pupillary reactions were 2+ with no relative afferent pupillary defect.,Pupillary reactions
+S0365-66912007000200010-1,7,2,Pupillary reactions were 2+ with no relative afferent pupillary defect.,no relative afferent pupillary defect
+S0365-66912007000200010-1,8,1,"She had high-frequency, medium-amplitude downward jerk nystagmus.",She
+S0365-66912007000200010-1,8,2,"She had high-frequency, medium-amplitude downward jerk nystagmus.","high-frequency, medium-amplitude downward jerk nystagmus"
+S0365-66912007000200010-1,9,1,"Fundus examination showed bilateral premacular and vitreous retrohyaloid hemorrhage, confirmed with optical coherence tomography (OCT) and ocular ultrasound.",Fundus examination
+S0365-66912007000200010-1,9,2,"Fundus examination showed bilateral premacular and vitreous retrohyaloid hemorrhage, confirmed with optical coherence tomography (OCT) and ocular ultrasound.",bilateral premacular
+S0365-66912007000200010-1,9,3,"Fundus examination showed bilateral premacular and vitreous retrohyaloid hemorrhage, confirmed with optical coherence tomography (OCT) and ocular ultrasound.",vitreous retrohyaloid hemorrhage
+S0365-66912007000200010-1,9,4,"Fundus examination showed bilateral premacular and vitreous retrohyaloid hemorrhage, confirmed with optical coherence tomography (OCT) and ocular ultrasound.",optical coherence tomography
+S0365-66912007000200010-1,9,5,"Fundus examination showed bilateral premacular and vitreous retrohyaloid hemorrhage, confirmed with optical coherence tomography (OCT) and ocular ultrasound.",OCT
+S0365-66912007000200010-1,9,6,"Fundus examination showed bilateral premacular and vitreous retrohyaloid hemorrhage, confirmed with optical coherence tomography (OCT) and ocular ultrasound.",ocular ultrasound
+S0365-66912007000200010-1,10,1,All these facts were compatible with ST.,All these facts
+S0365-66912007000200010-1,10,2,All these facts were compatible with ST.,ST
+S0365-66912007000200010-1,11,1,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,She
+S0365-66912007000200010-1,11,2,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,a posterior hyaloidectomy
+S0365-66912007000200010-1,11,3,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,her right eye
+S0365-66912007000200010-1,11,4,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,OD
+S0365-66912007000200010-1,11,5,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,instillation
+S0365-66912007000200010-1,11,6,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,anesthetic eye drops
+S0365-66912007000200010-1,11,7,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,use
+S0365-66912007000200010-1,11,8,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,15-pulse Nd
+S0365-66912007000200010-1,11,9,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,YAG laser
+S0365-66912007000200010-1,11,10,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,4-7 mJ/pulse
+S0365-66912007000200010-1,11,11,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,the lower part
+S0365-66912007000200010-1,11,12,She underwent a posterior hyaloidectomy in her right eye (OD) after instillation of anesthetic eye drops and use of 15-pulse Nd:YAG laser (range 4-7 mJ/pulse) in the lower part of the hematoma.,the hematoma
+S0365-66912007000200010-1,12,1,The posterior hyaloid ruptured and immediately drained blood into the vitreous cavity.,blood
+S0365-66912007000200010-1,12,2,The posterior hyaloid ruptured and immediately drained blood into the vitreous cavity.,the vitreous cavity
+S0365-66912007000200010-1,13,1,She opts for a wait-and-see attitude in her left eye (LE).,She
+S0365-66912007000200010-1,13,2,She opts for a wait-and-see attitude in her left eye (LE).,a wait-and-see attitude
+S0365-66912007000200010-1,13,3,She opts for a wait-and-see attitude in her left eye (LE).,her left eye
+S0365-66912007000200010-1,13,4,She opts for a wait-and-see attitude in her left eye (LE).,LE
+S0365-66912007000200010-1,14,1,"The VA at one year, after several check-ups with notable improvement, was 0.6 in the RE and 0.1 in the LE.",The VA
+S0365-66912007000200010-1,14,2,"The VA at one year, after several check-ups with notable improvement, was 0.6 in the RE and 0.1 in the LE.",one year
+S0365-66912007000200010-1,14,3,"The VA at one year, after several check-ups with notable improvement, was 0.6 in the RE and 0.1 in the LE.",several check-ups
+S0365-66912007000200010-1,14,4,"The VA at one year, after several check-ups with notable improvement, was 0.6 in the RE and 0.1 in the LE.",notable improvement
+S0365-66912007000200010-1,14,5,"The VA at one year, after several check-ups with notable improvement, was 0.6 in the RE and 0.1 in the LE.",the RE
+S0365-66912007000200010-1,14,6,"The VA at one year, after several check-ups with notable improvement, was 0.6 in the RE and 0.1 in the LE.",the LE
+S0365-66912007000200010-1,15,1,OCT revealed a newly appearing premacular epiretinal membrane in her LE.,a newly appearing premacular epiretinal membrane
+S0365-66912007000200010-1,15,2,OCT revealed a newly appearing premacular epiretinal membrane in her LE.,her LE
+S0365-66912007000200010-1,16,1,The frequency of the nystagmus decreased and the amplitude became mild.,The frequency
+S0365-66912007000200010-1,16,2,The frequency of the nystagmus decreased and the amplitude became mild.,the nystagmus
+S0365-66912007000200010-1,16,3,The frequency of the nystagmus decreased and the amplitude became mild.,the amplitude
+S0365-66912007000200010-1,17,1,The bilateral hemovitreal continued to reabsorb slowly and progressively.,The bilateral hemovitreal
+S0365-66912007000200010-1,18,1,"The patient refused any eye surgery, being satisfied with the visual result achieved.",The patient
+S0365-66912007000200010-1,18,2,"The patient refused any eye surgery, being satisfied with the visual result achieved.",any eye surgery
+S0365-66912007000200010-1,18,3,"The patient refused any eye surgery, being satisfied with the visual result achieved.",the visual result

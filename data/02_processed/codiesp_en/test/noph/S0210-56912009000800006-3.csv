@@ -1,0 +1,60 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-56912009000800006-3,1,1,"36-year-old patient admitted for cerebral hemorrhage, open to the ventricles.",36-year-old patient
+S0210-56912009000800006-3,1,2,"36-year-old patient admitted for cerebral hemorrhage, open to the ventricles.",cerebral hemorrhage
+S0210-56912009000800006-3,1,3,"36-year-old patient admitted for cerebral hemorrhage, open to the ventricles.",the ventricles
+S0210-56912009000800006-3,2,1,Neurosurgical evacuation is ruled out.,Neurosurgical evacuation
+S0210-56912009000800006-3,3,1,"She initially presents ICP greater than 20mmHg; Sedoanalgesia, relaxation and osmotics begin.",She
+S0210-56912009000800006-3,3,2,"She initially presents ICP greater than 20mmHg; Sedoanalgesia, relaxation and osmotics begin.",ICP
+S0210-56912009000800006-3,3,3,"She initially presents ICP greater than 20mmHg; Sedoanalgesia, relaxation and osmotics begin.",20mmHg
+S0210-56912009000800006-3,3,4,"She initially presents ICP greater than 20mmHg; Sedoanalgesia, relaxation and osmotics begin.",Sedoanalgesia
+S0210-56912009000800006-3,3,5,"She initially presents ICP greater than 20mmHg; Sedoanalgesia, relaxation and osmotics begin.",relaxation
+S0210-56912009000800006-3,3,6,"She initially presents ICP greater than 20mmHg; Sedoanalgesia, relaxation and osmotics begin.",osmotics
+S0210-56912009000800006-3,4,1,"At 72 hours she began progressive respiratory deterioration, attributed to neurogenic pulmonary edema.",72 hours
+S0210-56912009000800006-3,4,2,"At 72 hours she began progressive respiratory deterioration, attributed to neurogenic pulmonary edema.",she
+S0210-56912009000800006-3,4,3,"At 72 hours she began progressive respiratory deterioration, attributed to neurogenic pulmonary edema.",progressive respiratory deterioration
+S0210-56912009000800006-3,4,4,"At 72 hours she began progressive respiratory deterioration, attributed to neurogenic pulmonary edema.",neurogenic pulmonary edema
+S0210-56912009000800006-3,5,1,"After 48 hours with FiO2 of 1, PD was tested on the eighth day of admission.",48 hours
+S0210-56912009000800006-3,5,2,"After 48 hours with FiO2 of 1, PD was tested on the eighth day of admission.",FiO2
+S0210-56912009000800006-3,5,3,"After 48 hours with FiO2 of 1, PD was tested on the eighth day of admission.",PD
+S0210-56912009000800006-3,5,4,"After 48 hours with FiO2 of 1, PD was tested on the eighth day of admission.",the eighth day
+S0210-56912009000800006-3,5,5,"After 48 hours with FiO2 of 1, PD was tested on the eighth day of admission.",admission
+S0210-56912009000800006-3,6,1,There is no relevant respiratory improvement and ICP rises to 20mmHg.,no relevant respiratory improvement
+S0210-56912009000800006-3,6,2,There is no relevant respiratory improvement and ICP rises to 20mmHg.,ICP
+S0210-56912009000800006-3,7,1,After 12 hours she switches back to DS.,12 hours
+S0210-56912009000800006-3,7,2,After 12 hours she switches back to DS.,she
+S0210-56912009000800006-3,7,3,After 12 hours she switches back to DS.,DS
+S0210-56912009000800006-3,8,1,"After another 12 hours, respiratory improvement begins, allowing a decrease in FiO2 to begin.",another 12 hours
+S0210-56912009000800006-3,8,2,"After another 12 hours, respiratory improvement begins, allowing a decrease in FiO2 to begin.",respiratory improvement
+S0210-56912009000800006-3,8,3,"After another 12 hours, respiratory improvement begins, allowing a decrease in FiO2 to begin.",a decrease
+S0210-56912009000800006-3,8,4,"After another 12 hours, respiratory improvement begins, allowing a decrease in FiO2 to begin.",FiO2
+S0210-56912009000800006-3,9,1,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",the twelfth day
+S0210-56912009000800006-3,9,2,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",a transfer
+S0210-56912009000800006-3,9,3,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",the CT room
+S0210-56912009000800006-3,9,4,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",ICP monitoring
+S0210-56912009000800006-3,9,5,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",a new sensor
+S0210-56912009000800006-3,9,6,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",which
+S0210-56912009000800006-3,9,7,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",values
+S0210-56912009000800006-3,9,8,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",20mmHg
+S0210-56912009000800006-3,9,9,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",a CPP
+S0210-56912009000800006-3,9,10,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",65mmHg
+S0210-56912009000800006-3,9,11,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",which
+S0210-56912009000800006-3,9,12,"On the twelfth day, coinciding with a transfer to the CT room, ICP monitoring is lost and a new sensor is placed, which offers values ​​less than 20mmHg with a CPP greater than 65mmHg, which remain similar on successive days.",successive days
+S0210-56912009000800006-3,10,1,Two days later she deteriorates again respiratoryly.,she
+S0210-56912009000800006-3,11,1,"She is placed on PD early, which allows a decrease in FiO2 in 3 hours.",She
+S0210-56912009000800006-3,11,2,"She is placed on PD early, which allows a decrease in FiO2 in 3 hours.",PD
+S0210-56912009000800006-3,11,3,"She is placed on PD early, which allows a decrease in FiO2 in 3 hours.",which
+S0210-56912009000800006-3,11,4,"She is placed on PD early, which allows a decrease in FiO2 in 3 hours.",a decrease
+S0210-56912009000800006-3,11,5,"She is placed on PD early, which allows a decrease in FiO2 in 3 hours.",FiO2
+S0210-56912009000800006-3,11,6,"She is placed on PD early, which allows a decrease in FiO2 in 3 hours.",3 hours
+S0210-56912009000800006-3,12,1,"After 12 hours on PD, she was placed on DS and the improvement was maintained.",12 hours
+S0210-56912009000800006-3,12,2,"After 12 hours on PD, she was placed on DS and the improvement was maintained.",PD
+S0210-56912009000800006-3,12,3,"After 12 hours on PD, she was placed on DS and the improvement was maintained.",she
+S0210-56912009000800006-3,12,4,"After 12 hours on PD, she was placed on DS and the improvement was maintained.",DS
+S0210-56912009000800006-3,12,5,"After 12 hours on PD, she was placed on DS and the improvement was maintained.",the improvement
+S0210-56912009000800006-3,13,1,No deterioration of ICP or CPP is observed.,No deterioration
+S0210-56912009000800006-3,13,2,No deterioration of ICP or CPP is observed.,ICP
+S0210-56912009000800006-3,13,3,No deterioration of ICP or CPP is observed.,CPP
+S0210-56912009000800006-3,14,1,"The subsequent evolution is favorable until a normal level of consciousness is recovered, with left hemiparesis.",The subsequent evolution
+S0210-56912009000800006-3,14,2,"The subsequent evolution is favorable until a normal level of consciousness is recovered, with left hemiparesis.",a normal level
+S0210-56912009000800006-3,14,3,"The subsequent evolution is favorable until a normal level of consciousness is recovered, with left hemiparesis.",consciousness
+S0210-56912009000800006-3,14,4,"The subsequent evolution is favorable until a normal level of consciousness is recovered, with left hemiparesis.",left hemiparesis

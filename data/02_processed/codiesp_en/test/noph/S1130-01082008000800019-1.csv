@@ -1,0 +1,80 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082008000800019-1,1,1,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",we
+S1130-01082008000800019-1,1,2,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",a 46-year-old man
+S1130-01082008000800019-1,1,3,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",our hospital
+S1130-01082008000800019-1,1,4,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",a history
+S1130-01082008000800019-1,1,5,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",Down syndrome
+S1130-01082008000800019-1,1,6,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",severe mental retardation
+S1130-01082008000800019-1,1,7,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",who
+S1130-01082008000800019-1,1,8,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",the emergency room
+S1130-01082008000800019-1,1,9,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",our hospital
+S1130-01082008000800019-1,1,10,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",diffuse abdominal pain
+S1130-01082008000800019-1,1,11,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",progressive abdominal distension
+S1130-01082008000800019-1,1,12,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",that
+S1130-01082008000800019-1,1,13,"Recently, we treated a 46-year-old man in our hospital with a history of Down syndrome and severe mental retardation, who came to the emergency room of our hospital with diffuse abdominal pain and progressive abdominal distension that had been going on for 24 hours.",24 hours
+S1130-01082008000800019-1,2,1,He had a history of constipation and no bowel movements for the past 2 days.,He
+S1130-01082008000800019-1,2,2,He had a history of constipation and no bowel movements for the past 2 days.,a history
+S1130-01082008000800019-1,2,3,He had a history of constipation and no bowel movements for the past 2 days.,constipation
+S1130-01082008000800019-1,2,4,He had a history of constipation and no bowel movements for the past 2 days.,no bowel movements
+S1130-01082008000800019-1,2,5,He had a history of constipation and no bowel movements for the past 2 days.,the past 2 days
+S1130-01082008000800019-1,3,1,"As a history of interest, the patient had presented, 13 years previously, a gastric volvulus that was operated on urgently, performing a surgical gastropexy.",a history
+S1130-01082008000800019-1,3,2,"As a history of interest, the patient had presented, 13 years previously, a gastric volvulus that was operated on urgently, performing a surgical gastropexy.",interest
+S1130-01082008000800019-1,3,3,"As a history of interest, the patient had presented, 13 years previously, a gastric volvulus that was operated on urgently, performing a surgical gastropexy.",the patient
+S1130-01082008000800019-1,3,4,"As a history of interest, the patient had presented, 13 years previously, a gastric volvulus that was operated on urgently, performing a surgical gastropexy.",a gastric volvulus
+S1130-01082008000800019-1,3,5,"As a history of interest, the patient had presented, 13 years previously, a gastric volvulus that was operated on urgently, performing a surgical gastropexy.",that
+S1130-01082008000800019-1,3,6,"As a history of interest, the patient had presented, 13 years previously, a gastric volvulus that was operated on urgently, performing a surgical gastropexy.",a surgical gastropexy
+S1130-01082008000800019-1,4,1,"During the operation, a dolichocolon was evident, with the absence of fixation ligaments, but no procedure was performed on it.",the operation
+S1130-01082008000800019-1,4,2,"During the operation, a dolichocolon was evident, with the absence of fixation ligaments, but no procedure was performed on it.",a dolichocolon
+S1130-01082008000800019-1,4,3,"During the operation, a dolichocolon was evident, with the absence of fixation ligaments, but no procedure was performed on it.",the absence
+S1130-01082008000800019-1,4,4,"During the operation, a dolichocolon was evident, with the absence of fixation ligaments, but no procedure was performed on it.",fixation ligaments
+S1130-01082008000800019-1,4,5,"During the operation, a dolichocolon was evident, with the absence of fixation ligaments, but no procedure was performed on it.",no procedure
+S1130-01082008000800019-1,4,6,"During the operation, a dolichocolon was evident, with the absence of fixation ligaments, but no procedure was performed on it.",it
+S1130-01082008000800019-1,5,1,"The current physical examination revealed only abdominal distension and bloating, accompanied by diffuse abdominal pain.",The current physical examination
+S1130-01082008000800019-1,5,2,"The current physical examination revealed only abdominal distension and bloating, accompanied by diffuse abdominal pain.",only abdominal distension
+S1130-01082008000800019-1,5,3,"The current physical examination revealed only abdominal distension and bloating, accompanied by diffuse abdominal pain.",bloating
+S1130-01082008000800019-1,5,4,"The current physical examination revealed only abdominal distension and bloating, accompanied by diffuse abdominal pain.",diffuse abdominal pain
+S1130-01082008000800019-1,6,1,Rectal examination failed to demonstrate feces in a rectal blister.,Rectal examination
+S1130-01082008000800019-1,6,2,Rectal examination failed to demonstrate feces in a rectal blister.,feces
+S1130-01082008000800019-1,6,3,Rectal examination failed to demonstrate feces in a rectal blister.,a rectal blister
+S1130-01082008000800019-1,7,1,The blood count and biochemistry were normal.,The blood count
+S1130-01082008000800019-1,7,2,The blood count and biochemistry were normal.,biochemistry
+S1130-01082008000800019-1,8,1,Plain abdominal radiography demonstrated massive dilation of the proximal colon.,Plain abdominal radiography
+S1130-01082008000800019-1,8,2,Plain abdominal radiography demonstrated massive dilation of the proximal colon.,massive dilation
+S1130-01082008000800019-1,8,3,Plain abdominal radiography demonstrated massive dilation of the proximal colon.,the proximal colon
+S1130-01082008000800019-1,9,1,This distension could also be seen in the computed tomography (CT).,This distension
+S1130-01082008000800019-1,9,2,This distension could also be seen in the computed tomography (CT).,the computed tomography
+S1130-01082008000800019-1,9,3,This distension could also be seen in the computed tomography (CT).,CT
+S1130-01082008000800019-1,10,1,"The subsequent barium enema demonstrated the typical ""bird's beak"" image.",The subsequent barium enema
+S1130-01082008000800019-1,10,2,"The subsequent barium enema demonstrated the typical ""bird's beak"" image.","the typical ""bird's beak"" image"
+S1130-01082008000800019-1,11,1,"Although with difficulty, the barium passed into the dilated segment of the splenic flexure.",difficulty
+S1130-01082008000800019-1,11,2,"Although with difficulty, the barium passed into the dilated segment of the splenic flexure.",the barium
+S1130-01082008000800019-1,11,3,"Although with difficulty, the barium passed into the dilated segment of the splenic flexure.",the dilated segment
+S1130-01082008000800019-1,11,4,"Although with difficulty, the barium passed into the dilated segment of the splenic flexure.",the splenic flexure
+S1130-01082008000800019-1,12,1,"A therapeutic colonoscopy was performed, with which the colonic segment was unwound.",A therapeutic colonoscopy
+S1130-01082008000800019-1,12,2,"A therapeutic colonoscopy was performed, with which the colonic segment was unwound.",which
+S1130-01082008000800019-1,12,3,"A therapeutic colonoscopy was performed, with which the colonic segment was unwound.",the colonic segment
+S1130-01082008000800019-1,13,1,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",The patient
+S1130-01082008000800019-1,13,2,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",a large amount
+S1130-01082008000800019-1,13,3,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",feces
+S1130-01082008000800019-1,13,4,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",gas
+S1130-01082008000800019-1,13,5,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",remaining asymptomatic
+S1130-01082008000800019-1,13,6,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",24-48 hours
+S1130-01082008000800019-1,13,7,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",which
+S1130-01082008000800019-1,13,8,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",he
+S1130-01082008000800019-1,13,9,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",the hospital
+S1130-01082008000800019-1,13,10,"The patient eliminated a large amount of feces and gas, remaining asymptomatic after 24-48 hours, for which he was discharged from the hospital and referred to the surgery service.",the surgery service
+S1130-01082008000800019-1,14,1,"Two days later, symptoms reappeared and he was diagnosed with a recurrence of volvulus of the splenic flexure of the colon.",symptoms
+S1130-01082008000800019-1,14,2,"Two days later, symptoms reappeared and he was diagnosed with a recurrence of volvulus of the splenic flexure of the colon.",he
+S1130-01082008000800019-1,14,3,"Two days later, symptoms reappeared and he was diagnosed with a recurrence of volvulus of the splenic flexure of the colon.",a recurrence
+S1130-01082008000800019-1,14,4,"Two days later, symptoms reappeared and he was diagnosed with a recurrence of volvulus of the splenic flexure of the colon.",volvulus
+S1130-01082008000800019-1,14,5,"Two days later, symptoms reappeared and he was diagnosed with a recurrence of volvulus of the splenic flexure of the colon.",the splenic flexure
+S1130-01082008000800019-1,14,6,"Two days later, symptoms reappeared and he was diagnosed with a recurrence of volvulus of the splenic flexure of the colon.",the colon
+S1130-01082008000800019-1,15,1,"The colonoscopy was repeated, once again resolving the urgent process.",The colonoscopy
+S1130-01082008000800019-1,15,2,"The colonoscopy was repeated, once again resolving the urgent process.",the urgent process
+S1130-01082008000800019-1,16,1,"The patient underwent scheduled surgery, with resection of the redundant segment of the colon.",The patient
+S1130-01082008000800019-1,16,2,"The patient underwent scheduled surgery, with resection of the redundant segment of the colon.",scheduled surgery
+S1130-01082008000800019-1,16,3,"The patient underwent scheduled surgery, with resection of the redundant segment of the colon.",resection
+S1130-01082008000800019-1,16,4,"The patient underwent scheduled surgery, with resection of the redundant segment of the colon.",the redundant segment
+S1130-01082008000800019-1,16,5,"The patient underwent scheduled surgery, with resection of the redundant segment of the colon.",the colon
+S1130-01082008000800019-1,17,1,The postoperative period passed without incident.,The postoperative period
+S1130-01082008000800019-1,17,2,The postoperative period passed without incident.,incident

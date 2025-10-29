@@ -1,0 +1,54 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-56912012000900010-1,1,1,A 45-year-old man was resuscitated from a CPA after an acute coronary syndrome in public and transferred to the hospital with absence of reflexes except for cough and spontaneous breathing.,A 45-year-old man
+S0210-56912012000900010-1,1,2,A 45-year-old man was resuscitated from a CPA after an acute coronary syndrome in public and transferred to the hospital with absence of reflexes except for cough and spontaneous breathing.,a CPA
+S0210-56912012000900010-1,1,3,A 45-year-old man was resuscitated from a CPA after an acute coronary syndrome in public and transferred to the hospital with absence of reflexes except for cough and spontaneous breathing.,an acute coronary syndrome
+S0210-56912012000900010-1,1,4,A 45-year-old man was resuscitated from a CPA after an acute coronary syndrome in public and transferred to the hospital with absence of reflexes except for cough and spontaneous breathing.,public
+S0210-56912012000900010-1,1,5,A 45-year-old man was resuscitated from a CPA after an acute coronary syndrome in public and transferred to the hospital with absence of reflexes except for cough and spontaneous breathing.,the hospital
+S0210-56912012000900010-1,1,6,A 45-year-old man was resuscitated from a CPA after an acute coronary syndrome in public and transferred to the hospital with absence of reflexes except for cough and spontaneous breathing.,absence
+S0210-56912012000900010-1,1,7,A 45-year-old man was resuscitated from a CPA after an acute coronary syndrome in public and transferred to the hospital with absence of reflexes except for cough and spontaneous breathing.,reflexes
+S0210-56912012000900010-1,1,8,A 45-year-old man was resuscitated from a CPA after an acute coronary syndrome in public and transferred to the hospital with absence of reflexes except for cough and spontaneous breathing.,cough and spontaneous breathing
+S0210-56912012000900010-1,2,1,"After the hypothermia protocol, the same examination persisted, with generalized cerebral edema observed in the cranial CT.",the hypothermia protocol
+S0210-56912012000900010-1,2,2,"After the hypothermia protocol, the same examination persisted, with generalized cerebral edema observed in the cranial CT.",the same examination
+S0210-56912012000900010-1,2,3,"After the hypothermia protocol, the same examination persisted, with generalized cerebral edema observed in the cranial CT.",generalized cerebral edema
+S0210-56912012000900010-1,2,4,"After the hypothermia protocol, the same examination persisted, with generalized cerebral edema observed in the cranial CT.",the cranial CT
+S0210-56912012000900010-1,3,1,"On the third day of admission, the family members were informed of the poor prognosis and spontaneously suggested donation.",the third day
+S0210-56912012000900010-1,3,2,"On the third day of admission, the family members were informed of the poor prognosis and spontaneously suggested donation.",admission
+S0210-56912012000900010-1,3,3,"On the third day of admission, the family members were informed of the poor prognosis and spontaneously suggested donation.",the family members
+S0210-56912012000900010-1,3,4,"On the third day of admission, the family members were informed of the poor prognosis and spontaneously suggested donation.",the poor prognosis
+S0210-56912012000900010-1,3,5,"On the third day of admission, the family members were informed of the poor prognosis and spontaneously suggested donation.",donation
+S0210-56912012000900010-1,4,1,"They were informed of the need to wait until it progressed to brain death, which they accepted.",They
+S0210-56912012000900010-1,4,2,"They were informed of the need to wait until it progressed to brain death, which they accepted.",the need
+S0210-56912012000900010-1,4,3,"They were informed of the need to wait until it progressed to brain death, which they accepted.",it
+S0210-56912012000900010-1,4,4,"They were informed of the need to wait until it progressed to brain death, which they accepted.",death
+S0210-56912012000900010-1,4,5,"They were informed of the need to wait until it progressed to brain death, which they accepted.",which
+S0210-56912012000900010-1,4,6,"They were informed of the need to wait until it progressed to brain death, which they accepted.",they
+S0210-56912012000900010-1,5,1,"On the fifth day of admission, the same neurological examination continued.",the fifth day
+S0210-56912012000900010-1,5,2,"On the fifth day of admission, the same neurological examination continued.",admission
+S0210-56912012000900010-1,5,3,"On the fifth day of admission, the same neurological examination continued.",the same neurological examination
+S0210-56912012000900010-1,6,1,"The family expressed their desire not to wait for brain death, asking for the withdrawal of life support.",The family
+S0210-56912012000900010-1,6,2,"The family expressed their desire not to wait for brain death, asking for the withdrawal of life support.",their desire
+S0210-56912012000900010-1,6,3,"The family expressed their desire not to wait for brain death, asking for the withdrawal of life support.",brain death
+S0210-56912012000900010-1,6,4,"The family expressed their desire not to wait for brain death, asking for the withdrawal of life support.",the withdrawal
+S0210-56912012000900010-1,6,5,"The family expressed their desire not to wait for brain death, asking for the withdrawal of life support.",life support
+S0210-56912012000900010-1,7,1,"They were approached about donation through the LTSV and controlled asystole protocol, giving their consent.",They
+S0210-56912012000900010-1,7,2,"They were approached about donation through the LTSV and controlled asystole protocol, giving their consent.",donation
+S0210-56912012000900010-1,7,3,"They were approached about donation through the LTSV and controlled asystole protocol, giving their consent.",the LTSV
+S0210-56912012000900010-1,7,4,"They were approached about donation through the LTSV and controlled asystole protocol, giving their consent.",controlled asystole protocol
+S0210-56912012000900010-1,7,5,"They were approached about donation through the LTSV and controlled asystole protocol, giving their consent.",their consent
+S0210-56912012000900010-1,8,1,He was transferred to the operating room for terminal extubation.,He
+S0210-56912012000900010-1,8,2,He was transferred to the operating room for terminal extubation.,the operating room
+S0210-56912012000900010-1,8,3,He was transferred to the operating room for terminal extubation.,terminal extubation
+S0210-56912012000900010-1,9,1,"Asystole occurred 9 minutes after extubation and once death was certified, rapid laparotomy, cannulation and intraoperative cold perfusion were performed.",Asystole
+S0210-56912012000900010-1,9,2,"Asystole occurred 9 minutes after extubation and once death was certified, rapid laparotomy, cannulation and intraoperative cold perfusion were performed.",extubation
+S0210-56912012000900010-1,9,3,"Asystole occurred 9 minutes after extubation and once death was certified, rapid laparotomy, cannulation and intraoperative cold perfusion were performed.",death
+S0210-56912012000900010-1,9,4,"Asystole occurred 9 minutes after extubation and once death was certified, rapid laparotomy, cannulation and intraoperative cold perfusion were performed.",rapid laparotomy
+S0210-56912012000900010-1,9,5,"Asystole occurred 9 minutes after extubation and once death was certified, rapid laparotomy, cannulation and intraoperative cold perfusion were performed.",cannulation
+S0210-56912012000900010-1,9,6,"Asystole occurred 9 minutes after extubation and once death was certified, rapid laparotomy, cannulation and intraoperative cold perfusion were performed.",intraoperative cold perfusion
+S0210-56912012000900010-1,10,1,The TIC was 23 minutes.,The TIC
+S0210-56912012000900010-1,10,2,The TIC was 23 minutes.,23 minutes
+S0210-56912012000900010-1,11,1,"Both kidneys were explanted, with the lungs discarded by bronchoaspiration and the liver by TIC at the limit.",Both kidneys
+S0210-56912012000900010-1,11,2,"Both kidneys were explanted, with the lungs discarded by bronchoaspiration and the liver by TIC at the limit.",the lungs
+S0210-56912012000900010-1,11,3,"Both kidneys were explanted, with the lungs discarded by bronchoaspiration and the liver by TIC at the limit.",bronchoaspiration
+S0210-56912012000900010-1,11,4,"Both kidneys were explanted, with the lungs discarded by bronchoaspiration and the liver by TIC at the limit.",the liver
+S0210-56912012000900010-1,11,5,"Both kidneys were explanted, with the lungs discarded by bronchoaspiration and the liver by TIC at the limit.",TIC
+S0210-56912012000900010-1,11,6,"Both kidneys were explanted, with the lungs discarded by bronchoaspiration and the liver by TIC at the limit.",the limit

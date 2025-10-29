@@ -1,0 +1,126 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912010001200005-1,1,1,A 35-year-old man presented with sudden loss of central vision in his left eye.,A 35-year-old man
+S0365-66912010001200005-1,1,2,A 35-year-old man presented with sudden loss of central vision in his left eye.,sudden loss
+S0365-66912010001200005-1,1,3,A 35-year-old man presented with sudden loss of central vision in his left eye.,central vision
+S0365-66912010001200005-1,1,4,A 35-year-old man presented with sudden loss of central vision in his left eye.,his left eye
+S0365-66912010001200005-1,2,1,His personal history includes having had a common cold in the 10 days prior to the episode.,His personal history
+S0365-66912010001200005-1,2,2,His personal history includes having had a common cold in the 10 days prior to the episode.,a common cold
+S0365-66912010001200005-1,2,3,His personal history includes having had a common cold in the 10 days prior to the episode.,the 10 days
+S0365-66912010001200005-1,2,4,His personal history includes having had a common cold in the 10 days prior to the episode.,the episode
+S0365-66912010001200005-1,3,1,"The clinical examination revealed an uncorrected visual acuity (UCVA) of 0.9 in the right eye, and 0.1 in the left eye, with metamorphopsia in the latter.",The clinical examination
+S0365-66912010001200005-1,3,2,"The clinical examination revealed an uncorrected visual acuity (UCVA) of 0.9 in the right eye, and 0.1 in the left eye, with metamorphopsia in the latter.",an uncorrected visual acuity
+S0365-66912010001200005-1,3,3,"The clinical examination revealed an uncorrected visual acuity (UCVA) of 0.9 in the right eye, and 0.1 in the left eye, with metamorphopsia in the latter.",UCVA
+S0365-66912010001200005-1,3,4,"The clinical examination revealed an uncorrected visual acuity (UCVA) of 0.9 in the right eye, and 0.1 in the left eye, with metamorphopsia in the latter.",the right eye
+S0365-66912010001200005-1,3,5,"The clinical examination revealed an uncorrected visual acuity (UCVA) of 0.9 in the right eye, and 0.1 in the left eye, with metamorphopsia in the latter.",the left eye
+S0365-66912010001200005-1,3,6,"The clinical examination revealed an uncorrected visual acuity (UCVA) of 0.9 in the right eye, and 0.1 in the left eye, with metamorphopsia in the latter.",metamorphopsia
+S0365-66912010001200005-1,3,7,"The clinical examination revealed an uncorrected visual acuity (UCVA) of 0.9 in the right eye, and 0.1 in the left eye, with metamorphopsia in the latter.",the latter
+S0365-66912010001200005-1,4,1,No inflammatory signs or abnormalities are observed in the anterior segment.,No inflammatory signs
+S0365-66912010001200005-1,4,2,No inflammatory signs or abnormalities are observed in the anterior segment.,abnormalities
+S0365-66912010001200005-1,4,3,No inflammatory signs or abnormalities are observed in the anterior segment.,the anterior segment
+S0365-66912010001200005-1,5,1,The left eye fundus presents a macular thickening of approximately 2 papillary diameters (PD) with small intraretinal hemorrhages.,The left eye fundus
+S0365-66912010001200005-1,5,2,The left eye fundus presents a macular thickening of approximately 2 papillary diameters (PD) with small intraretinal hemorrhages.,a macular thickening
+S0365-66912010001200005-1,5,3,The left eye fundus presents a macular thickening of approximately 2 papillary diameters (PD) with small intraretinal hemorrhages.,approximately 2 papillary diameters
+S0365-66912010001200005-1,5,4,The left eye fundus presents a macular thickening of approximately 2 papillary diameters (PD) with small intraretinal hemorrhages.,PD
+S0365-66912010001200005-1,5,5,The left eye fundus presents a macular thickening of approximately 2 papillary diameters (PD) with small intraretinal hemorrhages.,small intraretinal hemorrhages
+S0365-66912010001200005-1,6,1,"In the fundus of the right eye, a yellowish-white lesion with the diameter of a papilla, temporally inferior to the macula, was observed.",the fundus
+S0365-66912010001200005-1,6,2,"In the fundus of the right eye, a yellowish-white lesion with the diameter of a papilla, temporally inferior to the macula, was observed.",the right eye
+S0365-66912010001200005-1,6,3,"In the fundus of the right eye, a yellowish-white lesion with the diameter of a papilla, temporally inferior to the macula, was observed.",a yellowish-white lesion
+S0365-66912010001200005-1,6,4,"In the fundus of the right eye, a yellowish-white lesion with the diameter of a papilla, temporally inferior to the macula, was observed.",the diameter
+S0365-66912010001200005-1,6,5,"In the fundus of the right eye, a yellowish-white lesion with the diameter of a papilla, temporally inferior to the macula, was observed.",a papilla
+S0365-66912010001200005-1,6,6,"In the fundus of the right eye, a yellowish-white lesion with the diameter of a papilla, temporally inferior to the macula, was observed.",the macula
+S0365-66912010001200005-1,7,1,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",complementary examinations
+S0365-66912010001200005-1,7,2,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",fluorescein angiography
+S0365-66912010001200005-1,7,3,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",FGA
+S0365-66912010001200005-1,7,4,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",indocyanine green angiography
+S0365-66912010001200005-1,7,5,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",IVA
+S0365-66912010001200005-1,7,6,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",optical coherence tomography
+S0365-66912010001200005-1,7,7,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",OCT
+S0365-66912010001200005-1,7,8,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",B-mode ultrasound
+S0365-66912010001200005-1,7,9,"As complementary examinations, fluorescein angiography (FGA) and indocyanine green angiography (IVA), optical coherence tomography (OCT), B-mode ultrasound, as well as a complete blood analysis are performed.",a complete blood analysis
+S0365-66912010001200005-1,8,1,"In the AGF of the LE, a pattern of patchy hypofluorescence appears at very early times, followed by diffuse hyperfluorescence of the posterior pole with a better-defined 1 PD hyperfluorescent area located subfoveally.",the AGF
+S0365-66912010001200005-1,8,2,"In the AGF of the LE, a pattern of patchy hypofluorescence appears at very early times, followed by diffuse hyperfluorescence of the posterior pole with a better-defined 1 PD hyperfluorescent area located subfoveally.",the LE
+S0365-66912010001200005-1,8,3,"In the AGF of the LE, a pattern of patchy hypofluorescence appears at very early times, followed by diffuse hyperfluorescence of the posterior pole with a better-defined 1 PD hyperfluorescent area located subfoveally.",a pattern
+S0365-66912010001200005-1,8,4,"In the AGF of the LE, a pattern of patchy hypofluorescence appears at very early times, followed by diffuse hyperfluorescence of the posterior pole with a better-defined 1 PD hyperfluorescent area located subfoveally.",patchy hypofluorescence
+S0365-66912010001200005-1,8,5,"In the AGF of the LE, a pattern of patchy hypofluorescence appears at very early times, followed by diffuse hyperfluorescence of the posterior pole with a better-defined 1 PD hyperfluorescent area located subfoveally.",very early times
+S0365-66912010001200005-1,8,6,"In the AGF of the LE, a pattern of patchy hypofluorescence appears at very early times, followed by diffuse hyperfluorescence of the posterior pole with a better-defined 1 PD hyperfluorescent area located subfoveally.",diffuse hyperfluorescence
+S0365-66912010001200005-1,8,7,"In the AGF of the LE, a pattern of patchy hypofluorescence appears at very early times, followed by diffuse hyperfluorescence of the posterior pole with a better-defined 1 PD hyperfluorescent area located subfoveally.",the posterior pole
+S0365-66912010001200005-1,8,8,"In the AGF of the LE, a pattern of patchy hypofluorescence appears at very early times, followed by diffuse hyperfluorescence of the posterior pole with a better-defined 1 PD hyperfluorescent area located subfoveally.",a better-defined 1 PD hyperfluorescent area
+S0365-66912010001200005-1,9,1,"In the AVI, a hypofluorescent area with poorly defined borders is observed in the posterior pole that persists over angiographic times.",the AVI
+S0365-66912010001200005-1,9,2,"In the AVI, a hypofluorescent area with poorly defined borders is observed in the posterior pole that persists over angiographic times.",a hypofluorescent area
+S0365-66912010001200005-1,9,3,"In the AVI, a hypofluorescent area with poorly defined borders is observed in the posterior pole that persists over angiographic times.",poorly defined borders
+S0365-66912010001200005-1,9,4,"In the AVI, a hypofluorescent area with poorly defined borders is observed in the posterior pole that persists over angiographic times.",the posterior pole
+S0365-66912010001200005-1,9,5,"In the AVI, a hypofluorescent area with poorly defined borders is observed in the posterior pole that persists over angiographic times.",that
+S0365-66912010001200005-1,9,6,"In the AVI, a hypofluorescent area with poorly defined borders is observed in the posterior pole that persists over angiographic times.",angiographic times
+S0365-66912010001200005-1,10,1,OCT shows a loss of foveal thickness due to the existence of a subfoveal intraretinal cyst accompanied by small areas of perifoveal neurosensory retinal detachment (NSRD).,OCT
+S0365-66912010001200005-1,10,2,OCT shows a loss of foveal thickness due to the existence of a subfoveal intraretinal cyst accompanied by small areas of perifoveal neurosensory retinal detachment (NSRD).,a loss
+S0365-66912010001200005-1,10,3,OCT shows a loss of foveal thickness due to the existence of a subfoveal intraretinal cyst accompanied by small areas of perifoveal neurosensory retinal detachment (NSRD).,foveal thickness
+S0365-66912010001200005-1,10,4,OCT shows a loss of foveal thickness due to the existence of a subfoveal intraretinal cyst accompanied by small areas of perifoveal neurosensory retinal detachment (NSRD).,the existence
+S0365-66912010001200005-1,10,5,OCT shows a loss of foveal thickness due to the existence of a subfoveal intraretinal cyst accompanied by small areas of perifoveal neurosensory retinal detachment (NSRD).,a subfoveal intraretinal cyst
+S0365-66912010001200005-1,10,6,OCT shows a loss of foveal thickness due to the existence of a subfoveal intraretinal cyst accompanied by small areas of perifoveal neurosensory retinal detachment (NSRD).,small areas
+S0365-66912010001200005-1,10,7,OCT shows a loss of foveal thickness due to the existence of a subfoveal intraretinal cyst accompanied by small areas of perifoveal neurosensory retinal detachment (NSRD).,perifoveal neurosensory retinal detachment
+S0365-66912010001200005-1,10,8,OCT shows a loss of foveal thickness due to the existence of a subfoveal intraretinal cyst accompanied by small areas of perifoveal neurosensory retinal detachment (NSRD).,NSRD
+S0365-66912010001200005-1,11,1,Both the ultrasound and the analytical study did not provide findings of interest.,Both the ultrasound
+S0365-66912010001200005-1,11,2,Both the ultrasound and the analytical study did not provide findings of interest.,the analytical study
+S0365-66912010001200005-1,11,3,Both the ultrasound and the analytical study did not provide findings of interest.,findings
+S0365-66912010001200005-1,11,4,Both the ultrasound and the analytical study did not provide findings of interest.,interest
+S0365-66912010001200005-1,12,1,"Given this bilateral but asymmetrical yellowish-white lesion, of inflammatory origin and located in the chorioretinal interface, we established as a probable diagnosis an acute posterior placoid epitheliopathy with atypical presentation.",this bilateral but asymmetrical yellowish-white lesion
+S0365-66912010001200005-1,12,2,"Given this bilateral but asymmetrical yellowish-white lesion, of inflammatory origin and located in the chorioretinal interface, we established as a probable diagnosis an acute posterior placoid epitheliopathy with atypical presentation.",inflammatory origin
+S0365-66912010001200005-1,12,3,"Given this bilateral but asymmetrical yellowish-white lesion, of inflammatory origin and located in the chorioretinal interface, we established as a probable diagnosis an acute posterior placoid epitheliopathy with atypical presentation.",the chorioretinal interface
+S0365-66912010001200005-1,12,4,"Given this bilateral but asymmetrical yellowish-white lesion, of inflammatory origin and located in the chorioretinal interface, we established as a probable diagnosis an acute posterior placoid epitheliopathy with atypical presentation.",we
+S0365-66912010001200005-1,12,5,"Given this bilateral but asymmetrical yellowish-white lesion, of inflammatory origin and located in the chorioretinal interface, we established as a probable diagnosis an acute posterior placoid epitheliopathy with atypical presentation.",a probable diagnosis
+S0365-66912010001200005-1,12,6,"Given this bilateral but asymmetrical yellowish-white lesion, of inflammatory origin and located in the chorioretinal interface, we established as a probable diagnosis an acute posterior placoid epitheliopathy with atypical presentation.",an acute posterior placoid
+S0365-66912010001200005-1,12,7,"Given this bilateral but asymmetrical yellowish-white lesion, of inflammatory origin and located in the chorioretinal interface, we established as a probable diagnosis an acute posterior placoid epitheliopathy with atypical presentation.",atypical presentation
+S0365-66912010001200005-1,13,1,"Due to the great loss of VA, treatment with oral systemic corticosteroids was instituted, administering 1 mg/kg of prednisone; One daily omeprazole tablet was also prescribed.",the great loss
+S0365-66912010001200005-1,13,2,"Due to the great loss of VA, treatment with oral systemic corticosteroids was instituted, administering 1 mg/kg of prednisone; One daily omeprazole tablet was also prescribed.",VA
+S0365-66912010001200005-1,13,3,"Due to the great loss of VA, treatment with oral systemic corticosteroids was instituted, administering 1 mg/kg of prednisone; One daily omeprazole tablet was also prescribed.",treatment
+S0365-66912010001200005-1,13,4,"Due to the great loss of VA, treatment with oral systemic corticosteroids was instituted, administering 1 mg/kg of prednisone; One daily omeprazole tablet was also prescribed.",oral systemic corticosteroids
+S0365-66912010001200005-1,13,5,"Due to the great loss of VA, treatment with oral systemic corticosteroids was instituted, administering 1 mg/kg of prednisone; One daily omeprazole tablet was also prescribed.",kg
+S0365-66912010001200005-1,13,6,"Due to the great loss of VA, treatment with oral systemic corticosteroids was instituted, administering 1 mg/kg of prednisone; One daily omeprazole tablet was also prescribed.",prednisone
+S0365-66912010001200005-1,13,7,"Due to the great loss of VA, treatment with oral systemic corticosteroids was instituted, administering 1 mg/kg of prednisone; One daily omeprazole tablet was also prescribed.",One daily omeprazole tablet
+S0365-66912010001200005-1,14,1,"After 2 weeks, the patient came for a follow-up appointment reporting a very slight improvement in his OI.",2 weeks
+S0365-66912010001200005-1,14,2,"After 2 weeks, the patient came for a follow-up appointment reporting a very slight improvement in his OI.",the patient
+S0365-66912010001200005-1,14,3,"After 2 weeks, the patient came for a follow-up appointment reporting a very slight improvement in his OI.",a follow-up appointment
+S0365-66912010001200005-1,14,4,"After 2 weeks, the patient came for a follow-up appointment reporting a very slight improvement in his OI.",a very slight improvement
+S0365-66912010001200005-1,14,5,"After 2 weeks, the patient came for a follow-up appointment reporting a very slight improvement in his OI.",his OI
+S0365-66912010001200005-1,15,1,The AVSC is 0.9 and 0.15 respectively.,The AVSC
+S0365-66912010001200005-1,16,1,"In the fundus of the eye, an increase in the pigmentation of the lesions begins to be seen without any other signs of interest.",the fundus
+S0365-66912010001200005-1,16,2,"In the fundus of the eye, an increase in the pigmentation of the lesions begins to be seen without any other signs of interest.",the eye
+S0365-66912010001200005-1,16,3,"In the fundus of the eye, an increase in the pigmentation of the lesions begins to be seen without any other signs of interest.",an increase
+S0365-66912010001200005-1,16,4,"In the fundus of the eye, an increase in the pigmentation of the lesions begins to be seen without any other signs of interest.",the pigmentation
+S0365-66912010001200005-1,16,5,"In the fundus of the eye, an increase in the pigmentation of the lesions begins to be seen without any other signs of interest.",the lesions
+S0365-66912010001200005-1,16,6,"In the fundus of the eye, an increase in the pigmentation of the lesions begins to be seen without any other signs of interest.",any other signs
+S0365-66912010001200005-1,16,7,"In the fundus of the eye, an increase in the pigmentation of the lesions begins to be seen without any other signs of interest.",interest
+S0365-66912010001200005-1,17,1,"The OCT shows alteration of the subfoveal RPE in the LE, with no evidence of the small perifoveal DRNS previously described.",The OCT
+S0365-66912010001200005-1,17,2,"The OCT shows alteration of the subfoveal RPE in the LE, with no evidence of the small perifoveal DRNS previously described.",alteration
+S0365-66912010001200005-1,17,3,"The OCT shows alteration of the subfoveal RPE in the LE, with no evidence of the small perifoveal DRNS previously described.",the subfoveal RPE
+S0365-66912010001200005-1,17,4,"The OCT shows alteration of the subfoveal RPE in the LE, with no evidence of the small perifoveal DRNS previously described.",the LE
+S0365-66912010001200005-1,17,5,"The OCT shows alteration of the subfoveal RPE in the LE, with no evidence of the small perifoveal DRNS previously described.",no evidence
+S0365-66912010001200005-1,17,6,"The OCT shows alteration of the subfoveal RPE in the LE, with no evidence of the small perifoveal DRNS previously described.",the small perifoveal DRNS
+S0365-66912010001200005-1,18,1,That is when the corticosteroid regimen began to be reduced.,That
+S0365-66912010001200005-1,18,2,That is when the corticosteroid regimen began to be reduced.,the corticosteroid regimen
+S0365-66912010001200005-1,19,1,"After 5 weeks, the patient showed significant improvement with an AVSC of 0.9 in his RE and 0.6 in his LE.",5 weeks
+S0365-66912010001200005-1,19,2,"After 5 weeks, the patient showed significant improvement with an AVSC of 0.9 in his RE and 0.6 in his LE.",the patient
+S0365-66912010001200005-1,19,3,"After 5 weeks, the patient showed significant improvement with an AVSC of 0.9 in his RE and 0.6 in his LE.",significant improvement
+S0365-66912010001200005-1,19,4,"After 5 weeks, the patient showed significant improvement with an AVSC of 0.9 in his RE and 0.6 in his LE.",an AVSC
+S0365-66912010001200005-1,19,5,"After 5 weeks, the patient showed significant improvement with an AVSC of 0.9 in his RE and 0.6 in his LE.",his RE
+S0365-66912010001200005-1,19,6,"After 5 weeks, the patient showed significant improvement with an AVSC of 0.9 in his RE and 0.6 in his LE.",his LE
+S0365-66912010001200005-1,20,1,In Fig. 5A we show the healing of the lesions that we corroborated with a control AGF.,Fig
+S0365-66912010001200005-1,20,2,In Fig. 5A we show the healing of the lesions that we corroborated with a control AGF.,we
+S0365-66912010001200005-1,20,3,In Fig. 5A we show the healing of the lesions that we corroborated with a control AGF.,the healing
+S0365-66912010001200005-1,20,4,In Fig. 5A we show the healing of the lesions that we corroborated with a control AGF.,the lesions
+S0365-66912010001200005-1,20,5,In Fig. 5A we show the healing of the lesions that we corroborated with a control AGF.,that
+S0365-66912010001200005-1,20,6,In Fig. 5A we show the healing of the lesions that we corroborated with a control AGF.,we
+S0365-66912010001200005-1,20,7,In Fig. 5A we show the healing of the lesions that we corroborated with a control AGF.,a control AGF
+S0365-66912010001200005-1,21,1,"In the last control carried out one year after the start of the episode, the patient showed complete recovery of his visual acuity with 0.9 in both eyes without correction.",the last control
+S0365-66912010001200005-1,21,2,"In the last control carried out one year after the start of the episode, the patient showed complete recovery of his visual acuity with 0.9 in both eyes without correction.",the start
+S0365-66912010001200005-1,21,3,"In the last control carried out one year after the start of the episode, the patient showed complete recovery of his visual acuity with 0.9 in both eyes without correction.",the episode
+S0365-66912010001200005-1,21,4,"In the last control carried out one year after the start of the episode, the patient showed complete recovery of his visual acuity with 0.9 in both eyes without correction.",the patient
+S0365-66912010001200005-1,21,5,"In the last control carried out one year after the start of the episode, the patient showed complete recovery of his visual acuity with 0.9 in both eyes without correction.",complete recovery
+S0365-66912010001200005-1,21,6,"In the last control carried out one year after the start of the episode, the patient showed complete recovery of his visual acuity with 0.9 in both eyes without correction.",his visual acuity
+S0365-66912010001200005-1,21,7,"In the last control carried out one year after the start of the episode, the patient showed complete recovery of his visual acuity with 0.9 in both eyes without correction.",both eyes
+S0365-66912010001200005-1,21,8,"In the last control carried out one year after the start of the episode, the patient showed complete recovery of his visual acuity with 0.9 in both eyes without correction.",correction
+S0365-66912010001200005-1,22,1,In the fundus we observed the hyperpigmentation of the lesions corresponding to their healing.,the fundus
+S0365-66912010001200005-1,22,2,In the fundus we observed the hyperpigmentation of the lesions corresponding to their healing.,we
+S0365-66912010001200005-1,22,3,In the fundus we observed the hyperpigmentation of the lesions corresponding to their healing.,the hyperpigmentation
+S0365-66912010001200005-1,22,4,In the fundus we observed the hyperpigmentation of the lesions corresponding to their healing.,the lesions
+S0365-66912010001200005-1,22,5,In the fundus we observed the hyperpigmentation of the lesions corresponding to their healing.,their healing

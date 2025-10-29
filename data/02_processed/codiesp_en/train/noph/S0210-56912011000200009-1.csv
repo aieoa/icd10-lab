@@ -1,0 +1,143 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-56912011000200009-1,1,1,42 year old female.,42 year old female
+S0210-56912011000200009-1,2,1,He has had recurrent herpes in the mouth for 8 months.,He
+S0210-56912011000200009-1,2,2,He has had recurrent herpes in the mouth for 8 months.,recurrent herpes
+S0210-56912011000200009-1,2,3,He has had recurrent herpes in the mouth for 8 months.,the mouth
+S0210-56912011000200009-1,2,4,He has had recurrent herpes in the mouth for 8 months.,8 months
+S0210-56912011000200009-1,3,1,He was admitted for a 2-month illness with dry cough in fits and rapidly progressive dyspnea.,He
+S0210-56912011000200009-1,3,2,He was admitted for a 2-month illness with dry cough in fits and rapidly progressive dyspnea.,a 2-month illness
+S0210-56912011000200009-1,3,3,He was admitted for a 2-month illness with dry cough in fits and rapidly progressive dyspnea.,dry cough
+S0210-56912011000200009-1,3,4,He was admitted for a 2-month illness with dry cough in fits and rapidly progressive dyspnea.,fits
+S0210-56912011000200009-1,3,5,He was admitted for a 2-month illness with dry cough in fits and rapidly progressive dyspnea.,rapidly progressive dyspnea
+S0210-56912011000200009-1,4,1,"In addition, bilateral chest pain, fever up to 39oC and weight loss of 14kg.",addition
+S0210-56912011000200009-1,4,2,"In addition, bilateral chest pain, fever up to 39oC and weight loss of 14kg.",bilateral chest pain
+S0210-56912011000200009-1,4,3,"In addition, bilateral chest pain, fever up to 39oC and weight loss of 14kg.",39oC
+S0210-56912011000200009-1,4,4,"In addition, bilateral chest pain, fever up to 39oC and weight loss of 14kg.",weight loss
+S0210-56912011000200009-1,4,5,"In addition, bilateral chest pain, fever up to 39oC and weight loss of 14kg.",14kg
+S0210-56912011000200009-1,5,1,The recurrence of the herpetic lesion caused dysphagia and odynophagia.,The recurrence
+S0210-56912011000200009-1,5,2,The recurrence of the herpetic lesion caused dysphagia and odynophagia.,the herpetic lesion
+S0210-56912011000200009-1,5,3,The recurrence of the herpetic lesion caused dysphagia and odynophagia.,dysphagia
+S0210-56912011000200009-1,6,1,"On physical examination he had whitish plaques in the oropharynx; examination of the chest, with decreased respiratory sounds and fine crackles.",physical examination
+S0210-56912011000200009-1,6,2,"On physical examination he had whitish plaques in the oropharynx; examination of the chest, with decreased respiratory sounds and fine crackles.",he
+S0210-56912011000200009-1,6,3,"On physical examination he had whitish plaques in the oropharynx; examination of the chest, with decreased respiratory sounds and fine crackles.",whitish plaques
+S0210-56912011000200009-1,6,4,"On physical examination he had whitish plaques in the oropharynx; examination of the chest, with decreased respiratory sounds and fine crackles.",the oropharynx
+S0210-56912011000200009-1,6,5,"On physical examination he had whitish plaques in the oropharynx; examination of the chest, with decreased respiratory sounds and fine crackles.",examination
+S0210-56912011000200009-1,6,6,"On physical examination he had whitish plaques in the oropharynx; examination of the chest, with decreased respiratory sounds and fine crackles.",the chest
+S0210-56912011000200009-1,6,7,"On physical examination he had whitish plaques in the oropharynx; examination of the chest, with decreased respiratory sounds and fine crackles.",decreased respiratory sounds
+S0210-56912011000200009-1,6,8,"On physical examination he had whitish plaques in the oropharynx; examination of the chest, with decreased respiratory sounds and fine crackles.",fine crackles
+S0210-56912011000200009-1,7,1,In room air the oxygen saturation was 86%.,room air
+S0210-56912011000200009-1,7,2,In room air the oxygen saturation was 86%.,the oxygen saturation
+S0210-56912011000200009-1,7,3,In room air the oxygen saturation was 86%.,86%
+S0210-56912011000200009-1,8,1,"The arterial blood gas report with 70% supplemental oxygen was: pH 7.30, pCO2 40.5mmHg, pO2 132mmHg, HCO3 19.5mmol/l, base excess -5.8mmol/l, oxygen saturation 97, 9%.",The arterial blood gas report
+S0210-56912011000200009-1,8,2,"The arterial blood gas report with 70% supplemental oxygen was: pH 7.30, pCO2 40.5mmHg, pO2 132mmHg, HCO3 19.5mmol/l, base excess -5.8mmol/l, oxygen saturation 97, 9%.",70% supplemental oxygen
+S0210-56912011000200009-1,8,3,"The arterial blood gas report with 70% supplemental oxygen was: pH 7.30, pCO2 40.5mmHg, pO2 132mmHg, HCO3 19.5mmol/l, base excess -5.8mmol/l, oxygen saturation 97, 9%.",pH
+S0210-56912011000200009-1,8,4,"The arterial blood gas report with 70% supplemental oxygen was: pH 7.30, pCO2 40.5mmHg, pO2 132mmHg, HCO3 19.5mmol/l, base excess -5.8mmol/l, oxygen saturation 97, 9%.",pO2
+S0210-56912011000200009-1,8,5,"The arterial blood gas report with 70% supplemental oxygen was: pH 7.30, pCO2 40.5mmHg, pO2 132mmHg, HCO3 19.5mmol/l, base excess -5.8mmol/l, oxygen saturation 97, 9%.",HCO3 19.5mmol/l
+S0210-56912011000200009-1,8,6,"The arterial blood gas report with 70% supplemental oxygen was: pH 7.30, pCO2 40.5mmHg, pO2 132mmHg, HCO3 19.5mmol/l, base excess -5.8mmol/l, oxygen saturation 97, 9%.",base excess -5.8mmol/l
+S0210-56912011000200009-1,8,7,"The arterial blood gas report with 70% supplemental oxygen was: pH 7.30, pCO2 40.5mmHg, pO2 132mmHg, HCO3 19.5mmol/l, base excess -5.8mmol/l, oxygen saturation 97, 9%.",oxygen saturation
+S0210-56912011000200009-1,8,8,"The arterial blood gas report with 70% supplemental oxygen was: pH 7.30, pCO2 40.5mmHg, pO2 132mmHg, HCO3 19.5mmol/l, base excess -5.8mmol/l, oxygen saturation 97, 9%.",9%
+S0210-56912011000200009-1,9,1,Oxygenation index (OI) of 188.,Oxygenation index
+S0210-56912011000200009-1,9,2,Oxygenation index (OI) of 188.,OI
+S0210-56912011000200009-1,10,1,"Laboratory tests on admission highlighted: lymphopenia of 600 cells/mm3, Hb 11.8gr/dl, lactic dehydrogenase of 971IU/l and albumin 3.3gr/dl.",admission
+S0210-56912011000200009-1,10,2,"Laboratory tests on admission highlighted: lymphopenia of 600 cells/mm3, Hb 11.8gr/dl, lactic dehydrogenase of 971IU/l and albumin 3.3gr/dl.",lymphopenia
+S0210-56912011000200009-1,10,3,"Laboratory tests on admission highlighted: lymphopenia of 600 cells/mm3, Hb 11.8gr/dl, lactic dehydrogenase of 971IU/l and albumin 3.3gr/dl.",600 cells
+S0210-56912011000200009-1,10,4,"Laboratory tests on admission highlighted: lymphopenia of 600 cells/mm3, Hb 11.8gr/dl, lactic dehydrogenase of 971IU/l and albumin 3.3gr/dl.",/mm3
+S0210-56912011000200009-1,10,5,"Laboratory tests on admission highlighted: lymphopenia of 600 cells/mm3, Hb 11.8gr/dl, lactic dehydrogenase of 971IU/l and albumin 3.3gr/dl.","Hb 11.8gr/dl, lactic dehydrogenase"
+S0210-56912011000200009-1,10,6,"Laboratory tests on admission highlighted: lymphopenia of 600 cells/mm3, Hb 11.8gr/dl, lactic dehydrogenase of 971IU/l and albumin 3.3gr/dl.",971IU/l and albumin 3.3gr/dl
+S0210-56912011000200009-1,11,1,"The chest X-ray showed bilateral patch opacities with ground glass and pneumomediastinum, therefore, the differential diagnosis included immunosuppression associated with HIV and P. jirovecii pneumonia (PJP).",The chest X-ray
+S0210-56912011000200009-1,11,2,"The chest X-ray showed bilateral patch opacities with ground glass and pneumomediastinum, therefore, the differential diagnosis included immunosuppression associated with HIV and P. jirovecii pneumonia (PJP).",bilateral patch opacities
+S0210-56912011000200009-1,11,3,"The chest X-ray showed bilateral patch opacities with ground glass and pneumomediastinum, therefore, the differential diagnosis included immunosuppression associated with HIV and P. jirovecii pneumonia (PJP).",ground glass
+S0210-56912011000200009-1,11,4,"The chest X-ray showed bilateral patch opacities with ground glass and pneumomediastinum, therefore, the differential diagnosis included immunosuppression associated with HIV and P. jirovecii pneumonia (PJP).",pneumomediastinum
+S0210-56912011000200009-1,11,5,"The chest X-ray showed bilateral patch opacities with ground glass and pneumomediastinum, therefore, the differential diagnosis included immunosuppression associated with HIV and P. jirovecii pneumonia (PJP).",the differential diagnosis
+S0210-56912011000200009-1,11,6,"The chest X-ray showed bilateral patch opacities with ground glass and pneumomediastinum, therefore, the differential diagnosis included immunosuppression associated with HIV and P. jirovecii pneumonia (PJP).",immunosuppression
+S0210-56912011000200009-1,11,7,"The chest X-ray showed bilateral patch opacities with ground glass and pneumomediastinum, therefore, the differential diagnosis included immunosuppression associated with HIV and P. jirovecii pneumonia (PJP).",HIV and P. jirovecii pneumonia
+S0210-56912011000200009-1,11,8,"The chest X-ray showed bilateral patch opacities with ground glass and pneumomediastinum, therefore, the differential diagnosis included immunosuppression associated with HIV and P. jirovecii pneumonia (PJP).",PJP
+S0210-56912011000200009-1,12,1,"The analysis for HIV by ELISA was POSITIVE, confirmed by Western Blot.",The analysis
+S0210-56912011000200009-1,12,2,"The analysis for HIV by ELISA was POSITIVE, confirmed by Western Blot.",HIV
+S0210-56912011000200009-1,12,3,"The analysis for HIV by ELISA was POSITIVE, confirmed by Western Blot.",ELISA
+S0210-56912011000200009-1,12,4,"The analysis for HIV by ELISA was POSITIVE, confirmed by Western Blot.",POSITIVE
+S0210-56912011000200009-1,12,5,"The analysis for HIV by ELISA was POSITIVE, confirmed by Western Blot.",Western Blot
+S0210-56912011000200009-1,13,1,Bronchoscopy with transbronchial biopsy and bronchoalveolar lavage (BAL) was performed.,Bronchoscopy
+S0210-56912011000200009-1,13,2,Bronchoscopy with transbronchial biopsy and bronchoalveolar lavage (BAL) was performed.,transbronchial biopsy
+S0210-56912011000200009-1,13,3,Bronchoscopy with transbronchial biopsy and bronchoalveolar lavage (BAL) was performed.,bronchoalveolar lavage
+S0210-56912011000200009-1,13,4,Bronchoscopy with transbronchial biopsy and bronchoalveolar lavage (BAL) was performed.,(BAL
+S0210-56912011000200009-1,14,1,The histopathological study is reported in figure 1.,The histopathological study
+S0210-56912011000200009-1,14,2,The histopathological study is reported in figure 1.,figure
+S0210-56912011000200009-1,15,1,He received treatment with Trimethoprim / Sulfamethoxasol and Prednisone in reducing doses for 21 days.,He
+S0210-56912011000200009-1,15,2,He received treatment with Trimethoprim / Sulfamethoxasol and Prednisone in reducing doses for 21 days.,treatment
+S0210-56912011000200009-1,15,3,He received treatment with Trimethoprim / Sulfamethoxasol and Prednisone in reducing doses for 21 days.,Trimethoprim / Sulfamethoxasol
+S0210-56912011000200009-1,15,4,He received treatment with Trimethoprim / Sulfamethoxasol and Prednisone in reducing doses for 21 days.,Prednisone
+S0210-56912011000200009-1,15,5,He received treatment with Trimethoprim / Sulfamethoxasol and Prednisone in reducing doses for 21 days.,doses
+S0210-56912011000200009-1,15,6,He received treatment with Trimethoprim / Sulfamethoxasol and Prednisone in reducing doses for 21 days.,21 days
+S0210-56912011000200009-1,16,1,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",the 7th day
+S0210-56912011000200009-1,16,2,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",treatment
+S0210-56912011000200009-1,16,3,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",she
+S0210-56912011000200009-1,16,4,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",respiratory deterioration
+S0210-56912011000200009-1,16,5,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",the IO
+S0210-56912011000200009-1,16,6,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",which
+S0210-56912011000200009-1,16,7,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",she
+S0210-56912011000200009-1,16,8,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",intensive care
+S0210-56912011000200009-1,16,9,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",a state
+S0210-56912011000200009-1,16,10,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",shock
+S0210-56912011000200009-1,16,11,"On the 7th day of treatment, she presented respiratory deterioration and the IO decreased to 110, for which she was admitted to intensive care in a state of shock and supported with invasive mechanical ventilation.",invasive mechanical ventilation
+S0210-56912011000200009-1,17,1,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.",admission
+S0210-56912011000200009-1,17,2,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.",laboratory tests
+S0210-56912011000200009-1,17,3,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.",leukocytes
+S0210-56912011000200009-1,17,4,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.","24,300 cells"
+S0210-56912011000200009-1,17,5,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.",mm3
+S0210-56912011000200009-1,17,6,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.",Hb 10.8gr/dl
+S0210-56912011000200009-1,17,7,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.",", lactic dehydrogenase 2033IU/l"
+S0210-56912011000200009-1,17,8,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.",albumin
+S0210-56912011000200009-1,17,9,"Upon admission, laboratory tests revealed leukocytes of 24,300 cells/mm3, Hb 10.8gr/dl, lactic dehydrogenase 2033IU/l and albumin of 2.26gr/dl.",2.26gr/dl
+S0210-56912011000200009-1,18,1,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",Imipenem
+S0210-56912011000200009-1,18,2,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",suspicion
+S0210-56912011000200009-1,18,3,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",hospital-acquired pneumonia
+S0210-56912011000200009-1,18,4,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",12 days
+S0210-56912011000200009-1,18,5,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",the leukocyte count
+S0210-56912011000200009-1,18,6,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",5800 cells
+S0210-56912011000200009-1,18,7,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",/mm3
+S0210-56912011000200009-1,18,8,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.","Hb 8.7gr/dl, lactic dehydrogenase 879IU/l"
+S0210-56912011000200009-1,18,9,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",albumin 2.41gr
+S0210-56912011000200009-1,18,10,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",dl
+S0210-56912011000200009-1,18,11,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",IO
+S0210-56912011000200009-1,18,12,"Imipenem was added due to suspicion of hospital-acquired pneumonia and after 12 days the leukocyte count improved to 5800 cells/mm3, Hb 8.7gr/dl, lactic dehydrogenase 879IU/l, albumin 2.41gr/dl and IO at 243.5, leading to extubation.",extubation
+S0210-56912011000200009-1,19,1,"In the next 24 hours, he presented massive hemoptysis (volume 250 ml).",the next 24 hours
+S0210-56912011000200009-1,19,2,"In the next 24 hours, he presented massive hemoptysis (volume 250 ml).",he
+S0210-56912011000200009-1,19,3,"In the next 24 hours, he presented massive hemoptysis (volume 250 ml).",massive hemoptysis
+S0210-56912011000200009-1,19,4,"In the next 24 hours, he presented massive hemoptysis (volume 250 ml).",volume
+S0210-56912011000200009-1,19,5,"In the next 24 hours, he presented massive hemoptysis (volume 250 ml).",250 ml
+S0210-56912011000200009-1,20,1,"The Hb level drops to 6g/dl, the IO decreases to 106 and is supported with invasive mechanical ventilation.",The Hb level
+S0210-56912011000200009-1,20,2,"The Hb level drops to 6g/dl, the IO decreases to 106 and is supported with invasive mechanical ventilation.",6g
+S0210-56912011000200009-1,20,3,"The Hb level drops to 6g/dl, the IO decreases to 106 and is supported with invasive mechanical ventilation.",/dl
+S0210-56912011000200009-1,20,4,"The Hb level drops to 6g/dl, the IO decreases to 106 and is supported with invasive mechanical ventilation.",the IO
+S0210-56912011000200009-1,20,5,"The Hb level drops to 6g/dl, the IO decreases to 106 and is supported with invasive mechanical ventilation.",invasive mechanical ventilation
+S0210-56912011000200009-1,21,1,"Using Swan-Ganz, a POAP of 10mmHg is measured.",Swan-Ganz
+S0210-56912011000200009-1,21,2,"Using Swan-Ganz, a POAP of 10mmHg is measured.",a POAP
+S0210-56912011000200009-1,21,3,"Using Swan-Ganz, a POAP of 10mmHg is measured.",10mmHg
+S0210-56912011000200009-1,22,1,The chest x-ray is shown in Figure 2A.,The chest x
+S0210-56912011000200009-1,22,2,The chest x-ray is shown in Figure 2A.,-
+S0210-56912011000200009-1,22,3,The chest x-ray is shown in Figure 2A.,ray
+S0210-56912011000200009-1,22,4,The chest x-ray is shown in Figure 2A.,Figure
+S0210-56912011000200009-1,23,1,"He underwent BAL, whose pathology study confirmed the presence of recent and active alveolar hemorrhage.",He
+S0210-56912011000200009-1,23,2,"He underwent BAL, whose pathology study confirmed the presence of recent and active alveolar hemorrhage.",BAL
+S0210-56912011000200009-1,23,3,"He underwent BAL, whose pathology study confirmed the presence of recent and active alveolar hemorrhage.",whose pathology study
+S0210-56912011000200009-1,23,4,"He underwent BAL, whose pathology study confirmed the presence of recent and active alveolar hemorrhage.",the presence
+S0210-56912011000200009-1,23,5,"He underwent BAL, whose pathology study confirmed the presence of recent and active alveolar hemorrhage.",recent and active alveolar hemorrhage
+S0210-56912011000200009-1,24,1,"Furthermore, CMV infection was documented by rt-PCR and treatment with Ganciclovir 350 mg/d was initiated for 14 days.",CMV infection
+S0210-56912011000200009-1,24,2,"Furthermore, CMV infection was documented by rt-PCR and treatment with Ganciclovir 350 mg/d was initiated for 14 days.",rt-PCR
+S0210-56912011000200009-1,24,3,"Furthermore, CMV infection was documented by rt-PCR and treatment with Ganciclovir 350 mg/d was initiated for 14 days.",treatment
+S0210-56912011000200009-1,24,4,"Furthermore, CMV infection was documented by rt-PCR and treatment with Ganciclovir 350 mg/d was initiated for 14 days.",Ganciclovir
+S0210-56912011000200009-1,24,5,"Furthermore, CMV infection was documented by rt-PCR and treatment with Ganciclovir 350 mg/d was initiated for 14 days.",350 mg/d
+S0210-56912011000200009-1,24,6,"Furthermore, CMV infection was documented by rt-PCR and treatment with Ganciclovir 350 mg/d was initiated for 14 days.",14 days
+S0210-56912011000200009-1,25,1,"He has a good evolution, OI improves to 277, withdrawing from invasive mechanical ventilation 9 days after the event.",He
+S0210-56912011000200009-1,25,2,"He has a good evolution, OI improves to 277, withdrawing from invasive mechanical ventilation 9 days after the event.",a good evolution
+S0210-56912011000200009-1,25,3,"He has a good evolution, OI improves to 277, withdrawing from invasive mechanical ventilation 9 days after the event.",OI
+S0210-56912011000200009-1,25,4,"He has a good evolution, OI improves to 277, withdrawing from invasive mechanical ventilation 9 days after the event.",invasive mechanical ventilation
+S0210-56912011000200009-1,25,5,"He has a good evolution, OI improves to 277, withdrawing from invasive mechanical ventilation 9 days after the event.",the event
+S0210-56912011000200009-1,26,1,After 37 days he returns home.,37 days
+S0210-56912011000200009-1,26,2,After 37 days he returns home.,he
+S0210-56912011000200009-1,27,1,"During follow-up, the CD4 count is 109 cells/µl and the viral load <40 copies/µl.",follow-up
+S0210-56912011000200009-1,27,2,"During follow-up, the CD4 count is 109 cells/µl and the viral load <40 copies/µl.",the CD4 count
+S0210-56912011000200009-1,27,3,"During follow-up, the CD4 count is 109 cells/µl and the viral load <40 copies/µl.",109 cells/µl
+S0210-56912011000200009-1,27,4,"During follow-up, the CD4 count is 109 cells/µl and the viral load <40 copies/µl.",the viral load
+S0210-56912011000200009-1,27,5,"During follow-up, the CD4 count is 109 cells/µl and the viral load <40 copies/µl.",40 copies/µl

@@ -1,0 +1,25 @@
+report_id,sentence_id,sentence
+S0210-56912006000200007-1,1,A 44-year-old man with a previous history of depression and alcoholism was taken to a regional hospital three hours after voluntarily ingesting arsenic.
+S0210-56912006000200007-1,2,"The patient was found agitated, with nausea, vomiting and severe watery diarrhea."
+S0210-56912006000200007-1,3,"His blood pressure was 75/45 mmHg, his heart rate was 130 beats/minute, and his temperature was 37°C."
+S0210-56912006000200007-1,4,"The blood analysis revealed: acute metabolic acidosis (pH 7.21, PO2 91 mmHg, PCO2 21 mmHg and bicarbonate 11.8 mmol/l with FiO2 of 0.21), lactate 6 (normal level: < 2.2) mmol/l and hypokalemia of 3.3 mmol/l."
+S0210-56912006000200007-1,5,The electrocardiogram (ECG) revealed sinus tachycardia at 135 beats/minute and a QTc interval of 0.46 seconds.
+S0210-56912006000200007-1,6,"He was initially treated with sodium bicarbonate (220 mmol intravenously [i.v.]), fluid overload, gastric lavage, and administration of activated charcoal and dimercaprol (300 mg intramuscularly [i.m.])."
+S0210-56912006000200007-1,7,"Due to a progressive deterioration in the level of consciousness, the patient was intubated and transferred to the Intensive Medicine service."
+S0210-56912006000200007-1,8,"On admission, the patient was sedated and mechanically ventilated."
+S0210-56912006000200007-1,9,"Physical examination revealed miosis and a temperature of 35.2°C, a blood pressure of 70/40 mmHg, a heart rate of 95 beats/minute, and a central venous pressure of 8 cmH2O."
+S0210-56912006000200007-1,10,"The most notable analytical data were: glucose 64 mg/dl, sodium 148 mmol/l, potassium 1.8 mmol/l, calcium 7.8 mg/dl, magnesium 2.7 mg/dl, phosphorus 0.4 mg/dl , creatinine 2.3 mg/dl, urea 52 mmol/l, creatine kinase 273 U/l, troponin I 0.74 (normal level: 0.06) µg/l, leukocytes 17.6 x 109/l with 80% neutrophils and hemoglobin 12.5 g/dl."
+S0210-56912006000200007-1,11,"Arterial gases were (FiO2, 0.5): pH 7.27, PO2 105 mmHg, PCO2 38 mmHg and bicarbonate 18 mmol/l."
+S0210-56912006000200007-1,12,The chest x-ray was within normal limits.
+S0210-56912006000200007-1,13,"The ECG showed sinus rhythm at 95 beats/minute, prolonged QTc interval (0.70 seconds), and ST segment depression in leads I, II, aVL, and V2 to V6."
+S0210-56912006000200007-1,14,"Several minutes later, the ECG recording revealed several episodes of polymorphic and self-limited ventricular tachycardias compatible with PDD, which were suppressed with magnesium and potassium intake."
+S0210-56912006000200007-1,15,"Due to the appearance of acute kidney failure, a hemodialysis session was performed."
+S0210-56912006000200007-1,16,"Eight hours after admission, a pulmonary arterial catheter revealed the following hemodynamic parameters: pulmonary arterial pressure, 28/20 mmHg; pulmonary wedge pressure, 12 mmHg; cardiac index, 4.7 beats/minute/m2 and systemic vascular resistance, 435 dynes.sec.cm-5."
+S0210-56912006000200007-1,17,"He was treated with aggressive volume expansion, administration of dimercaprol (3.2 mg/kg/4 hours), phosphorus repletion, and high doses of norepinephrine."
+S0210-56912006000200007-1,18,"Subsequently, blood pressure rose to 120/65 mmHg and systemic vascular resistance reached 1019 dynes.sec.cm-5."
+S0210-56912006000200007-1,19,Serum arsenic levels obtained on admission were 319 (normal level: < 20) µg/l and urinary arsenic levels were 946 (normal level: < 35) µg/l.
+S0210-56912006000200007-1,20,An ECG performed 24 hours after admission revealed a normal QTc interval (0.40 sec) and an absence of Q waves and ST segment shifts.
+S0210-56912006000200007-1,21,"At this time, serum troponin I levels were 25.6 µg/l and creatine kinase levels were 1,523 (MB fraction 98.1) U/l."
+S0210-56912006000200007-1,22,"After 48 hours after admission, the patient developed a fever of 40ºC and severe arterial hypotension due to pneumonia caused by Staphylococcus aureus, Klebsiella oxytoca and Serratia marcescens."
+S0210-56912006000200007-1,23,The patient died 60 hours after admission.
+S0210-56912006000200007-1,24,"A partial autopsy revealed histological signs of massive renal necrosis, hepatic centrilobular necrosis and, at the cardiac level, absence of acute myocardial infarction, coronary thrombosis or typical signs of myocarditis (myocytolysis and lymphocyte infiltration)."

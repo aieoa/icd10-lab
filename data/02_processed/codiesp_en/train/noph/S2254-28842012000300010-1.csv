@@ -1,0 +1,190 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S2254-28842012000300010-1,1,1,"A 72-year-old man in an HD program since December 2002, due to renal failure secondary to bilateral nephrectomy for renal neoplasia (1999 and 2002).",A 72-year-old man
+S2254-28842012000300010-1,1,2,"A 72-year-old man in an HD program since December 2002, due to renal failure secondary to bilateral nephrectomy for renal neoplasia (1999 and 2002).",an HD program
+S2254-28842012000300010-1,1,3,"A 72-year-old man in an HD program since December 2002, due to renal failure secondary to bilateral nephrectomy for renal neoplasia (1999 and 2002).",December
+S2254-28842012000300010-1,1,4,"A 72-year-old man in an HD program since December 2002, due to renal failure secondary to bilateral nephrectomy for renal neoplasia (1999 and 2002).",renal failure
+S2254-28842012000300010-1,1,5,"A 72-year-old man in an HD program since December 2002, due to renal failure secondary to bilateral nephrectomy for renal neoplasia (1999 and 2002).",bilateral nephrectomy
+S2254-28842012000300010-1,1,6,"A 72-year-old man in an HD program since December 2002, due to renal failure secondary to bilateral nephrectomy for renal neoplasia (1999 and 2002).",renal neoplasia
+S2254-28842012000300010-1,2,1,"History of high blood pressure, appendectomy, cholecystectomy and right inguinal herniorrhaphy.",History
+S2254-28842012000300010-1,2,2,"History of high blood pressure, appendectomy, cholecystectomy and right inguinal herniorrhaphy.",high blood pressure
+S2254-28842012000300010-1,2,3,"History of high blood pressure, appendectomy, cholecystectomy and right inguinal herniorrhaphy.",appendectomy
+S2254-28842012000300010-1,2,4,"History of high blood pressure, appendectomy, cholecystectomy and right inguinal herniorrhaphy.",cholecystectomy
+S2254-28842012000300010-1,2,5,"History of high blood pressure, appendectomy, cholecystectomy and right inguinal herniorrhaphy.",right inguinal herniorrhaphy
+S2254-28842012000300010-1,3,1,Splenectomy for injury to the spleen during right nephrectomy (2002).,Splenectomy
+S2254-28842012000300010-1,3,2,Splenectomy for injury to the spleen during right nephrectomy (2002).,injury
+S2254-28842012000300010-1,3,3,Splenectomy for injury to the spleen during right nephrectomy (2002).,the spleen
+S2254-28842012000300010-1,3,4,Splenectomy for injury to the spleen during right nephrectomy (2002).,right nephrectomy
+S2254-28842012000300010-1,4,1,Venous thrombosis in the right lower limb caused by femoral cannulation (dialysis catheter).,Venous thrombosis
+S2254-28842012000300010-1,4,2,Venous thrombosis in the right lower limb caused by femoral cannulation (dialysis catheter).,the right lower limb
+S2254-28842012000300010-1,4,3,Venous thrombosis in the right lower limb caused by femoral cannulation (dialysis catheter).,femoral cannulation
+S2254-28842012000300010-1,4,4,Venous thrombosis in the right lower limb caused by femoral cannulation (dialysis catheter).,dialysis catheter
+S2254-28842012000300010-1,5,1,"Ischemic colitis, colon polyposis and lower gastrointestinal bleeding in 2007.",Ischemic colitis
+S2254-28842012000300010-1,5,2,"Ischemic colitis, colon polyposis and lower gastrointestinal bleeding in 2007.",colon polyposis
+S2254-28842012000300010-1,5,3,"Ischemic colitis, colon polyposis and lower gastrointestinal bleeding in 2007.",lower gastrointestinal bleeding
+S2254-28842012000300010-1,6,1,"In December 2008, a new episode of lower gastrointestinal bleeding due to angiodysplasia.",December
+S2254-28842012000300010-1,6,2,"In December 2008, a new episode of lower gastrointestinal bleeding due to angiodysplasia.",lower gastrointestinal bleeding
+S2254-28842012000300010-1,6,3,"In December 2008, a new episode of lower gastrointestinal bleeding due to angiodysplasia.",angiodysplasia
+S2254-28842012000300010-1,7,1,Diagnosed in 2009 with moderate-severe aortic valve stenosis.,moderate-severe aortic valve stenosis
+S2254-28842012000300010-1,8,1,History of vascular access:,History
+S2254-28842012000300010-1,8,2,History of vascular access:,vascular access
+S2254-28842012000300010-1,9,1,• Treatment began in December 2002 using a right femoral catheter.,Treatment
+S2254-28842012000300010-1,9,2,• Treatment began in December 2002 using a right femoral catheter.,December
+S2254-28842012000300010-1,9,3,• Treatment began in December 2002 using a right femoral catheter.,a right femoral catheter
+S2254-28842012000300010-1,10,1,He retired in February-03 (venous thrombosis).,He
+S2254-28842012000300010-1,10,2,He retired in February-03 (venous thrombosis).,February-03
+S2254-28842012000300010-1,10,3,He retired in February-03 (venous thrombosis).,venous thrombosis
+S2254-28842012000300010-1,11,1,"• In January 2003, a left humerocephalic AVF was performed.",January
+S2254-28842012000300010-1,11,2,"• In January 2003, a left humerocephalic AVF was performed.",a left humerocephalic AVF
+S2254-28842012000300010-1,12,1,It began to be used after 4 weeks.,It
+S2254-28842012000300010-1,12,2,It began to be used after 4 weeks.,4 weeks
+S2254-28842012000300010-1,13,1,"He developed aneurysmal dilation, presenting a partial thrombosis (December-03), which allowed its use in single puncture.",He
+S2254-28842012000300010-1,13,2,"He developed aneurysmal dilation, presenting a partial thrombosis (December-03), which allowed its use in single puncture.",aneurysmal dilation
+S2254-28842012000300010-1,13,3,"He developed aneurysmal dilation, presenting a partial thrombosis (December-03), which allowed its use in single puncture.",a partial thrombosis
+S2254-28842012000300010-1,13,4,"He developed aneurysmal dilation, presenting a partial thrombosis (December-03), which allowed its use in single puncture.",December-03
+S2254-28842012000300010-1,13,5,"He developed aneurysmal dilation, presenting a partial thrombosis (December-03), which allowed its use in single puncture.",which
+S2254-28842012000300010-1,13,6,"He developed aneurysmal dilation, presenting a partial thrombosis (December-03), which allowed its use in single puncture.",its use
+S2254-28842012000300010-1,13,7,"He developed aneurysmal dilation, presenting a partial thrombosis (December-03), which allowed its use in single puncture.",single puncture
+S2254-28842012000300010-1,14,1,"• In December 2003, a right humero-basilica AVF was performed that did not work.",December
+S2254-28842012000300010-1,14,2,"• In December 2003, a right humero-basilica AVF was performed that did not work.",a right humero-basilica AVF
+S2254-28842012000300010-1,14,3,"• In December 2003, a right humero-basilica AVF was performed that did not work.",that
+S2254-28842012000300010-1,15,1,"• The same month, a right humero-axillary PTFE graft was implanted, with thrombosis 24 hours later.",a right humero-axillary PTFE graft
+S2254-28842012000300010-1,15,2,"• The same month, a right humero-axillary PTFE graft was implanted, with thrombosis 24 hours later.",thrombosis
+S2254-28842012000300010-1,16,1,He had to have it removed due to infection in January-04.,He
+S2254-28842012000300010-1,16,2,He had to have it removed due to infection in January-04.,it
+S2254-28842012000300010-1,16,3,He had to have it removed due to infection in January-04.,infection
+S2254-28842012000300010-1,16,4,He had to have it removed due to infection in January-04.,January-04
+S2254-28842012000300010-1,17,1,"• Due to dysfunction of the left fistula, in January-04 a tunneled catheter was implanted in the left internal jugular.",dysfunction
+S2254-28842012000300010-1,17,2,"• Due to dysfunction of the left fistula, in January-04 a tunneled catheter was implanted in the left internal jugular.",the left fistula
+S2254-28842012000300010-1,17,3,"• Due to dysfunction of the left fistula, in January-04 a tunneled catheter was implanted in the left internal jugular.",January-04
+S2254-28842012000300010-1,17,4,"• Due to dysfunction of the left fistula, in January-04 a tunneled catheter was implanted in the left internal jugular.",a tunneled catheter
+S2254-28842012000300010-1,17,5,"• Due to dysfunction of the left fistula, in January-04 a tunneled catheter was implanted in the left internal jugular.",the left internal jugular
+S2254-28842012000300010-1,18,1,"He was used as VA until July-04, leaving due to infection refractory to antibiotic therapy.",He
+S2254-28842012000300010-1,18,2,"He was used as VA until July-04, leaving due to infection refractory to antibiotic therapy.",VA
+S2254-28842012000300010-1,18,3,"He was used as VA until July-04, leaving due to infection refractory to antibiotic therapy.",July-04
+S2254-28842012000300010-1,18,4,"He was used as VA until July-04, leaving due to infection refractory to antibiotic therapy.",infection refractory
+S2254-28842012000300010-1,18,5,"He was used as VA until July-04, leaving due to infection refractory to antibiotic therapy.",antibiotic therapy
+S2254-28842012000300010-1,19,1,"• On 7-22-04 there was a failed attempt to canalize the right internal jugular, placing a catheter in the right femoral vein: he retired in September 04, having a functioning AVF.",a failed attempt
+S2254-28842012000300010-1,19,2,"• On 7-22-04 there was a failed attempt to canalize the right internal jugular, placing a catheter in the right femoral vein: he retired in September 04, having a functioning AVF.",a catheter
+S2254-28842012000300010-1,19,3,"• On 7-22-04 there was a failed attempt to canalize the right internal jugular, placing a catheter in the right femoral vein: he retired in September 04, having a functioning AVF.",the right femoral vein
+S2254-28842012000300010-1,19,4,"• On 7-22-04 there was a failed attempt to canalize the right internal jugular, placing a catheter in the right femoral vein: he retired in September 04, having a functioning AVF.",he
+S2254-28842012000300010-1,19,5,"• On 7-22-04 there was a failed attempt to canalize the right internal jugular, placing a catheter in the right femoral vein: he retired in September 04, having a functioning AVF.",September
+S2254-28842012000300010-1,19,6,"• On 7-22-04 there was a failed attempt to canalize the right internal jugular, placing a catheter in the right femoral vein: he retired in September 04, having a functioning AVF.",a functioning AVF
+S2254-28842012000300010-1,20,1,"• Again, on 7-23-04 an attempt was made to canalize both the right and left internal jugular veins without success.",an attempt
+S2254-28842012000300010-1,20,2,"• Again, on 7-23-04 an attempt was made to canalize both the right and left internal jugular veins without success.",both the right
+S2254-28842012000300010-1,20,3,"• Again, on 7-23-04 an attempt was made to canalize both the right and left internal jugular veins without success.",internal jugular veins
+S2254-28842012000300010-1,20,4,"• Again, on 7-23-04 an attempt was made to canalize both the right and left internal jugular veins without success.",success
+S2254-28842012000300010-1,21,1,• On 4-8-04 a PTFE prosthesis was implanted between the left femoral artery and vein.,4-8-04 a PTFE prosthesis
+S2254-28842012000300010-1,21,2,• On 4-8-04 a PTFE prosthesis was implanted between the left femoral artery and vein.,the left femoral artery
+S2254-28842012000300010-1,21,3,• On 4-8-04 a PTFE prosthesis was implanted between the left femoral artery and vein.,vein
+S2254-28842012000300010-1,22,1,It was used from September until 10-22-04 (non-recoverable thrombosis).,It
+S2254-28842012000300010-1,22,2,It was used from September until 10-22-04 (non-recoverable thrombosis).,September
+S2254-28842012000300010-1,22,3,It was used from September until 10-22-04 (non-recoverable thrombosis).,10-22-04 (non-recoverable thrombosis
+S2254-28842012000300010-1,23,1,"• On the same day, 10-22-04, a tunneled catheter was implanted in the right internal jugular:",the same day
+S2254-28842012000300010-1,23,2,"• On the same day, 10-22-04, a tunneled catheter was implanted in the right internal jugular:",a tunneled catheter
+S2254-28842012000300010-1,23,3,"• On the same day, 10-22-04, a tunneled catheter was implanted in the right internal jugular:",the right internal jugular
+S2254-28842012000300010-1,24,1,"- In October 2005, he presented an episode of bacteremia due to E. Coli, which was resolved with antibiotic therapy.",October
+S2254-28842012000300010-1,24,2,"- In October 2005, he presented an episode of bacteremia due to E. Coli, which was resolved with antibiotic therapy.",he
+S2254-28842012000300010-1,24,3,"- In October 2005, he presented an episode of bacteremia due to E. Coli, which was resolved with antibiotic therapy.",an episode
+S2254-28842012000300010-1,24,4,"- In October 2005, he presented an episode of bacteremia due to E. Coli, which was resolved with antibiotic therapy.",bacteremia
+S2254-28842012000300010-1,24,5,"- In October 2005, he presented an episode of bacteremia due to E. Coli, which was resolved with antibiotic therapy.",E. Coli
+S2254-28842012000300010-1,24,6,"- In October 2005, he presented an episode of bacteremia due to E. Coli, which was resolved with antibiotic therapy.",which
+S2254-28842012000300010-1,24,7,"- In October 2005, he presented an episode of bacteremia due to E. Coli, which was resolved with antibiotic therapy.",antibiotic therapy
+S2254-28842012000300010-1,25,1,"- Subsequently, the catheter caused insufficient flow problems, frequently requiring both local and systemic fibrinolytic treatment.",the catheter
+S2254-28842012000300010-1,25,2,"- Subsequently, the catheter caused insufficient flow problems, frequently requiring both local and systemic fibrinolytic treatment.",insufficient flow problems
+S2254-28842012000300010-1,25,3,"- Subsequently, the catheter caused insufficient flow problems, frequently requiring both local and systemic fibrinolytic treatment.",both local and systemic fibrinolytic treatment
+S2254-28842012000300010-1,26,1,"- For this reason, in November 2006, anticoagulation with acenocoumarol (Sintrom®) was indicated, with slight functional improvement.",this reason
+S2254-28842012000300010-1,26,2,"- For this reason, in November 2006, anticoagulation with acenocoumarol (Sintrom®) was indicated, with slight functional improvement.",November
+S2254-28842012000300010-1,26,3,"- For this reason, in November 2006, anticoagulation with acenocoumarol (Sintrom®) was indicated, with slight functional improvement.",anticoagulation
+S2254-28842012000300010-1,26,4,"- For this reason, in November 2006, anticoagulation with acenocoumarol (Sintrom®) was indicated, with slight functional improvement.",acenocoumarol
+S2254-28842012000300010-1,26,5,"- For this reason, in November 2006, anticoagulation with acenocoumarol (Sintrom®) was indicated, with slight functional improvement.",Sintrom®
+S2254-28842012000300010-1,26,6,"- For this reason, in November 2006, anticoagulation with acenocoumarol (Sintrom®) was indicated, with slight functional improvement.",slight functional improvement
+S2254-28842012000300010-1,27,1,"-In February 2007 she suffered an episode of lower gastrointestinal bleeding, due to ischemic colitis and polyps in the colon and caused by anticoagulant treatment.",-In February
+S2254-28842012000300010-1,27,2,"-In February 2007 she suffered an episode of lower gastrointestinal bleeding, due to ischemic colitis and polyps in the colon and caused by anticoagulant treatment.",she
+S2254-28842012000300010-1,27,3,"-In February 2007 she suffered an episode of lower gastrointestinal bleeding, due to ischemic colitis and polyps in the colon and caused by anticoagulant treatment.",an episode
+S2254-28842012000300010-1,27,4,"-In February 2007 she suffered an episode of lower gastrointestinal bleeding, due to ischemic colitis and polyps in the colon and caused by anticoagulant treatment.",lower gastrointestinal bleeding
+S2254-28842012000300010-1,27,5,"-In February 2007 she suffered an episode of lower gastrointestinal bleeding, due to ischemic colitis and polyps in the colon and caused by anticoagulant treatment.",ischemic colitis
+S2254-28842012000300010-1,27,6,"-In February 2007 she suffered an episode of lower gastrointestinal bleeding, due to ischemic colitis and polyps in the colon and caused by anticoagulant treatment.",polyps
+S2254-28842012000300010-1,27,7,"-In February 2007 she suffered an episode of lower gastrointestinal bleeding, due to ischemic colitis and polyps in the colon and caused by anticoagulant treatment.",the colon
+S2254-28842012000300010-1,27,8,"-In February 2007 she suffered an episode of lower gastrointestinal bleeding, due to ischemic colitis and polyps in the colon and caused by anticoagulant treatment.",anticoagulant treatment
+S2254-28842012000300010-1,28,1,"- After removing the acenocoumarol, the catheter stopped providing flow.",the acenocoumarol
+S2254-28842012000300010-1,28,2,"- After removing the acenocoumarol, the catheter stopped providing flow.",the catheter
+S2254-28842012000300010-1,28,3,"- After removing the acenocoumarol, the catheter stopped providing flow.",flow
+S2254-28842012000300010-1,29,1,"- On 2/22/07 an attempt was made to replace the catheter through the same venous tract, making it impossible to introduce the new catheter due to complete thrombosis of the superior cava.",an attempt
+S2254-28842012000300010-1,29,2,"- On 2/22/07 an attempt was made to replace the catheter through the same venous tract, making it impossible to introduce the new catheter due to complete thrombosis of the superior cava.",the catheter
+S2254-28842012000300010-1,29,3,"- On 2/22/07 an attempt was made to replace the catheter through the same venous tract, making it impossible to introduce the new catheter due to complete thrombosis of the superior cava.",the same venous tract
+S2254-28842012000300010-1,29,4,"- On 2/22/07 an attempt was made to replace the catheter through the same venous tract, making it impossible to introduce the new catheter due to complete thrombosis of the superior cava.",it
+S2254-28842012000300010-1,29,5,"- On 2/22/07 an attempt was made to replace the catheter through the same venous tract, making it impossible to introduce the new catheter due to complete thrombosis of the superior cava.",the new catheter
+S2254-28842012000300010-1,29,6,"- On 2/22/07 an attempt was made to replace the catheter through the same venous tract, making it impossible to introduce the new catheter due to complete thrombosis of the superior cava.",complete thrombosis
+S2254-28842012000300010-1,29,7,"- On 2/22/07 an attempt was made to replace the catheter through the same venous tract, making it impossible to introduce the new catheter due to complete thrombosis of the superior cava.",the superior cava
+S2254-28842012000300010-1,30,1,"• On the same day, 2-22-07, a temporary catheter was placed in the left femoral vein.",the same day
+S2254-28842012000300010-1,30,2,"• On the same day, 2-22-07, a temporary catheter was placed in the left femoral vein.",a temporary catheter
+S2254-28842012000300010-1,30,3,"• On the same day, 2-22-07, a temporary catheter was placed in the left femoral vein.",the left femoral vein
+S2254-28842012000300010-1,31,1,He was removed on 2-3-07 as he had a functioning central catheter.,He
+S2254-28842012000300010-1,31,2,He was removed on 2-3-07 as he had a functioning central catheter.,he
+S2254-28842012000300010-1,31,3,He was removed on 2-3-07 as he had a functioning central catheter.,a functioning central catheter
+S2254-28842012000300010-1,32,1,"• On 2-28-07, a tunneled Split-Cath catheter was placed directly in the right atrium, through a right anterior mini-thoracotomy.",a tunneled Split-Cath catheter
+S2254-28842012000300010-1,32,2,"• On 2-28-07, a tunneled Split-Cath catheter was placed directly in the right atrium, through a right anterior mini-thoracotomy.",the right atrium
+S2254-28842012000300010-1,32,3,"• On 2-28-07, a tunneled Split-Cath catheter was placed directly in the right atrium, through a right anterior mini-thoracotomy.",a right anterior mini
+S2254-28842012000300010-1,32,4,"• On 2-28-07, a tunneled Split-Cath catheter was placed directly in the right atrium, through a right anterior mini-thoracotomy.",-
+S2254-28842012000300010-1,32,5,"• On 2-28-07, a tunneled Split-Cath catheter was placed directly in the right atrium, through a right anterior mini-thoracotomy.",thoracotomy
+S2254-28842012000300010-1,33,1,"- From the first dialysis session there was minimal blood leakage, through the union of the catheter with the connection extensions.",the first dialysis session
+S2254-28842012000300010-1,33,2,"- From the first dialysis session there was minimal blood leakage, through the union of the catheter with the connection extensions.",minimal blood leakage
+S2254-28842012000300010-1,33,3,"- From the first dialysis session there was minimal blood leakage, through the union of the catheter with the connection extensions.",the union
+S2254-28842012000300010-1,33,4,"- From the first dialysis session there was minimal blood leakage, through the union of the catheter with the connection extensions.",the catheter
+S2254-28842012000300010-1,33,5,"- From the first dialysis session there was minimal blood leakage, through the union of the catheter with the connection extensions.",the connection extensions
+S2254-28842012000300010-1,34,1,It was not an impediment to continue using it.,It
+S2254-28842012000300010-1,34,2,It was not an impediment to continue using it.,an impediment
+S2254-28842012000300010-1,34,3,It was not an impediment to continue using it.,it
+S2254-28842012000300010-1,35,1,"- Hospitalization in October-07 due to catheter infection, resolved with antibiotic therapy.",- Hospitalization
+S2254-28842012000300010-1,35,2,"- Hospitalization in October-07 due to catheter infection, resolved with antibiotic therapy.",October-07
+S2254-28842012000300010-1,35,3,"- Hospitalization in October-07 due to catheter infection, resolved with antibiotic therapy.",catheter infection
+S2254-28842012000300010-1,35,4,"- Hospitalization in October-07 due to catheter infection, resolved with antibiotic therapy.",antibiotic therapy
+S2254-28842012000300010-1,36,1,"- In November 07, the blood leak increased significantly, which was solved with a sterile silicone seal and placing a PTFE sleeve around the leak point.",November
+S2254-28842012000300010-1,36,2,"- In November 07, the blood leak increased significantly, which was solved with a sterile silicone seal and placing a PTFE sleeve around the leak point.",the blood leak
+S2254-28842012000300010-1,36,3,"- In November 07, the blood leak increased significantly, which was solved with a sterile silicone seal and placing a PTFE sleeve around the leak point.",which
+S2254-28842012000300010-1,36,4,"- In November 07, the blood leak increased significantly, which was solved with a sterile silicone seal and placing a PTFE sleeve around the leak point.",a sterile silicone seal
+S2254-28842012000300010-1,36,5,"- In November 07, the blood leak increased significantly, which was solved with a sterile silicone seal and placing a PTFE sleeve around the leak point.",a PTFE sleeve
+S2254-28842012000300010-1,36,6,"- In November 07, the blood leak increased significantly, which was solved with a sterile silicone seal and placing a PTFE sleeve around the leak point.",the leak point
+S2254-28842012000300010-1,37,1,"- In March 2009 the blood leak occurred again, resolved with the same sealing procedure and PTFE sheath.",March
+S2254-28842012000300010-1,37,2,"- In March 2009 the blood leak occurred again, resolved with the same sealing procedure and PTFE sheath.",the blood leak
+S2254-28842012000300010-1,37,3,"- In March 2009 the blood leak occurred again, resolved with the same sealing procedure and PTFE sheath.",the same sealing procedure
+S2254-28842012000300010-1,37,4,"- In March 2009 the blood leak occurred again, resolved with the same sealing procedure and PTFE sheath.",PTFE sheath
+S2254-28842012000300010-1,38,1,"- On 11-30-09 he escaped again, a new sealing attempt failing.",he
+S2254-28842012000300010-1,38,2,"- On 11-30-09 he escaped again, a new sealing attempt failing.",a new sealing attempt
+S2254-28842012000300010-1,39,1,• On 3-22-09 he required the insertion of a temporary catheter in the right femoral artery for a few days.,he
+S2254-28842012000300010-1,39,2,• On 3-22-09 he required the insertion of a temporary catheter in the right femoral artery for a few days.,the insertion
+S2254-28842012000300010-1,39,3,• On 3-22-09 he required the insertion of a temporary catheter in the right femoral artery for a few days.,a temporary catheter
+S2254-28842012000300010-1,39,4,• On 3-22-09 he required the insertion of a temporary catheter in the right femoral artery for a few days.,the right femoral artery
+S2254-28842012000300010-1,39,5,• On 3-22-09 he required the insertion of a temporary catheter in the right femoral artery for a few days.,a few days
+S2254-28842012000300010-1,40,1,"• On 12-17-09 a new transthoracic replacement was performed by thoracotomy, placing another Split-Cath catheter.",12-17-09 a new transthoracic replacement
+S2254-28842012000300010-1,40,2,"• On 12-17-09 a new transthoracic replacement was performed by thoracotomy, placing another Split-Cath catheter.",thoracotomy
+S2254-28842012000300010-1,40,3,"• On 12-17-09 a new transthoracic replacement was performed by thoracotomy, placing another Split-Cath catheter.",another Split-Cath catheter
+S2254-28842012000300010-1,41,1,"-As a complication, he presented post-surgery cardiogenic shock, and was then diagnosed with moderate-severe aortic valve stenosis.",he
+S2254-28842012000300010-1,41,2,"-As a complication, he presented post-surgery cardiogenic shock, and was then diagnosed with moderate-severe aortic valve stenosis.",post-surgery cardiogenic shock
+S2254-28842012000300010-1,41,3,"-As a complication, he presented post-surgery cardiogenic shock, and was then diagnosed with moderate-severe aortic valve stenosis.",moderate-severe aortic valve stenosis
+S2254-28842012000300010-1,42,1,"- The catheter gave an inadequate flow, demonstrating that the distal ends were located in the suprahepatic vein.",The catheter
+S2254-28842012000300010-1,42,2,"- The catheter gave an inadequate flow, demonstrating that the distal ends were located in the suprahepatic vein.",an inadequate flow
+S2254-28842012000300010-1,42,3,"- The catheter gave an inadequate flow, demonstrating that the distal ends were located in the suprahepatic vein.",the distal ends
+S2254-28842012000300010-1,42,4,"- The catheter gave an inadequate flow, demonstrating that the distal ends were located in the suprahepatic vein.",the suprahepatic vein
+S2254-28842012000300010-1,43,1,"- On 3-25-10 it was repositioned in hemodynamics, leaving the distal ends of the catheter in the inferior cava.",it
+S2254-28842012000300010-1,43,2,"- On 3-25-10 it was repositioned in hemodynamics, leaving the distal ends of the catheter in the inferior cava.",hemodynamics
+S2254-28842012000300010-1,43,3,"- On 3-25-10 it was repositioned in hemodynamics, leaving the distal ends of the catheter in the inferior cava.",the distal ends
+S2254-28842012000300010-1,43,4,"- On 3-25-10 it was repositioned in hemodynamics, leaving the distal ends of the catheter in the inferior cava.",the catheter
+S2254-28842012000300010-1,43,5,"- On 3-25-10 it was repositioned in hemodynamics, leaving the distal ends of the catheter in the inferior cava.",the inferior cava
+S2254-28842012000300010-1,44,1,"- On 9/24/10, again due to catheter dysfunction, it was repositioned in hemodynamics, leaving the distal ends lodged in the right atrium.",dysfunction
+S2254-28842012000300010-1,44,2,"- On 9/24/10, again due to catheter dysfunction, it was repositioned in hemodynamics, leaving the distal ends lodged in the right atrium.",it
+S2254-28842012000300010-1,44,3,"- On 9/24/10, again due to catheter dysfunction, it was repositioned in hemodynamics, leaving the distal ends lodged in the right atrium.",hemodynamics
+S2254-28842012000300010-1,44,4,"- On 9/24/10, again due to catheter dysfunction, it was repositioned in hemodynamics, leaving the distal ends lodged in the right atrium.",the distal ends
+S2254-28842012000300010-1,44,5,"- On 9/24/10, again due to catheter dysfunction, it was repositioned in hemodynamics, leaving the distal ends lodged in the right atrium.",the right atrium
+S2254-28842012000300010-1,45,1,• On 3-22-10 he required the insertion of a temporary catheter in the right femoral artery for a few days.,he
+S2254-28842012000300010-1,45,2,• On 3-22-10 he required the insertion of a temporary catheter in the right femoral artery for a few days.,the insertion
+S2254-28842012000300010-1,45,3,• On 3-22-10 he required the insertion of a temporary catheter in the right femoral artery for a few days.,a temporary catheter
+S2254-28842012000300010-1,45,4,• On 3-22-10 he required the insertion of a temporary catheter in the right femoral artery for a few days.,the right femoral artery
+S2254-28842012000300010-1,45,5,• On 3-22-10 he required the insertion of a temporary catheter in the right femoral artery for a few days.,a few days
+S2254-28842012000300010-1,46,1,"Since the last episode on 9-24-10 and until today (02-10-2012), the patient is dialyzed at his dialysis center through the transthoracic catheter, without incident and with adequate catheter function.",the last episode
+S2254-28842012000300010-1,46,2,"Since the last episode on 9-24-10 and until today (02-10-2012), the patient is dialyzed at his dialysis center through the transthoracic catheter, without incident and with adequate catheter function.",today
+S2254-28842012000300010-1,46,3,"Since the last episode on 9-24-10 and until today (02-10-2012), the patient is dialyzed at his dialysis center through the transthoracic catheter, without incident and with adequate catheter function.",the patient
+S2254-28842012000300010-1,46,4,"Since the last episode on 9-24-10 and until today (02-10-2012), the patient is dialyzed at his dialysis center through the transthoracic catheter, without incident and with adequate catheter function.",his dialysis center
+S2254-28842012000300010-1,46,5,"Since the last episode on 9-24-10 and until today (02-10-2012), the patient is dialyzed at his dialysis center through the transthoracic catheter, without incident and with adequate catheter function.",the transthoracic catheter
+S2254-28842012000300010-1,46,6,"Since the last episode on 9-24-10 and until today (02-10-2012), the patient is dialyzed at his dialysis center through the transthoracic catheter, without incident and with adequate catheter function.",incident
+S2254-28842012000300010-1,46,7,"Since the last episode on 9-24-10 and until today (02-10-2012), the patient is dialyzed at his dialysis center through the transthoracic catheter, without incident and with adequate catheter function.",adequate catheter function

@@ -1,0 +1,71 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082010000400015-1,1,1,We present an 85-year-old patient with angiosarcoma of the cecum.,We
+S1130-01082010000400015-1,1,2,We present an 85-year-old patient with angiosarcoma of the cecum.,an 85-year-old patient
+S1130-01082010000400015-1,1,3,We present an 85-year-old patient with angiosarcoma of the cecum.,angiosarcoma
+S1130-01082010000400015-1,1,4,We present an 85-year-old patient with angiosarcoma of the cecum.,the cecum
+S1130-01082010000400015-1,2,1,The patient was admitted to our hospital with rectal bleeding.,The patient
+S1130-01082010000400015-1,2,2,The patient was admitted to our hospital with rectal bleeding.,our hospital
+S1130-01082010000400015-1,2,3,The patient was admitted to our hospital with rectal bleeding.,rectal bleeding
+S1130-01082010000400015-1,3,1,On admission she had hypotension and tachycardia and her physical examination showed mucocutaneous pallor and abdominal distension.,admission
+S1130-01082010000400015-1,3,2,On admission she had hypotension and tachycardia and her physical examination showed mucocutaneous pallor and abdominal distension.,she
+S1130-01082010000400015-1,3,3,On admission she had hypotension and tachycardia and her physical examination showed mucocutaneous pallor and abdominal distension.,hypotension
+S1130-01082010000400015-1,3,4,On admission she had hypotension and tachycardia and her physical examination showed mucocutaneous pallor and abdominal distension.,tachycardia
+S1130-01082010000400015-1,3,5,On admission she had hypotension and tachycardia and her physical examination showed mucocutaneous pallor and abdominal distension.,her physical examination
+S1130-01082010000400015-1,3,6,On admission she had hypotension and tachycardia and her physical examination showed mucocutaneous pallor and abdominal distension.,mucocutaneous pallor
+S1130-01082010000400015-1,3,7,On admission she had hypotension and tachycardia and her physical examination showed mucocutaneous pallor and abdominal distension.,abdominal distension
+S1130-01082010000400015-1,4,1,Her digital rectal examination showed bright red blood with no tumor identified.,Her digital rectal examination
+S1130-01082010000400015-1,4,2,Her digital rectal examination showed bright red blood with no tumor identified.,bright red blood
+S1130-01082010000400015-1,4,3,Her digital rectal examination showed bright red blood with no tumor identified.,no tumor
+S1130-01082010000400015-1,5,1,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",The analysis
+S1130-01082010000400015-1,5,2,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",a hemoglobin
+S1130-01082010000400015-1,5,3,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",4.3 g
+S1130-01082010000400015-1,5,4,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",dl
+S1130-01082010000400015-1,5,5,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",a lower digestive endoscopy
+S1130-01082010000400015-1,5,6,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",which
+S1130-01082010000400015-1,5,7,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",a 1 cm reddish mass
+S1130-01082010000400015-1,5,8,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",the cecum
+S1130-01082010000400015-1,5,9,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",active bleeding
+S1130-01082010000400015-1,5,10,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",which
+S1130-01082010000400015-1,5,11,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",hemostatic clips
+S1130-01082010000400015-1,5,12,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",surgery
+S1130-01082010000400015-1,5,13,"The analysis revealed a hemoglobin of 4.3 g/dl, so a lower digestive endoscopy was performed in which a 1 cm reddish mass was identified in the cecum with active bleeding and which was initially controlled with hemostatic clips after surgery. obtaining biopsies.",biopsies
+S1130-01082010000400015-1,6,1,"Twelve hours later, the patient presented a new episode of digestive bleeding with hypotension, so an urgent laparoscopic right hemicolectomy was performed.",the patient
+S1130-01082010000400015-1,6,2,"Twelve hours later, the patient presented a new episode of digestive bleeding with hypotension, so an urgent laparoscopic right hemicolectomy was performed.",a new episode
+S1130-01082010000400015-1,6,3,"Twelve hours later, the patient presented a new episode of digestive bleeding with hypotension, so an urgent laparoscopic right hemicolectomy was performed.",digestive bleeding
+S1130-01082010000400015-1,6,4,"Twelve hours later, the patient presented a new episode of digestive bleeding with hypotension, so an urgent laparoscopic right hemicolectomy was performed.",hypotension
+S1130-01082010000400015-1,6,5,"Twelve hours later, the patient presented a new episode of digestive bleeding with hypotension, so an urgent laparoscopic right hemicolectomy was performed.",an urgent laparoscopic right hemicolectomy
+S1130-01082010000400015-1,7,1,The patient was discharged on the fifth postoperative day.,The patient
+S1130-01082010000400015-1,7,2,The patient was discharged on the fifth postoperative day.,the fifth postoperative day
+S1130-01082010000400015-1,8,1,The extension study performed after surgery was negative.,The extension study
+S1130-01082010000400015-1,8,2,The extension study performed after surgery was negative.,surgery
+S1130-01082010000400015-1,9,1,"On macroscopic analysis, the cecum contained a 2 cm exophytic ulcer.",macroscopic analysis
+S1130-01082010000400015-1,9,2,"On macroscopic analysis, the cecum contained a 2 cm exophytic ulcer.",the cecum
+S1130-01082010000400015-1,9,3,"On macroscopic analysis, the cecum contained a 2 cm exophytic ulcer.",a 2 cm exophytic ulcer
+S1130-01082010000400015-1,10,1,Microscopic analysis showed multiple anastomotic vascular channels dissecting the collagen and smooth muscle sheets to the lamina propria and muscularis propria.,Microscopic analysis
+S1130-01082010000400015-1,10,2,Microscopic analysis showed multiple anastomotic vascular channels dissecting the collagen and smooth muscle sheets to the lamina propria and muscularis propria.,multiple anastomotic vascular channels
+S1130-01082010000400015-1,10,3,Microscopic analysis showed multiple anastomotic vascular channels dissecting the collagen and smooth muscle sheets to the lamina propria and muscularis propria.,the collagen
+S1130-01082010000400015-1,10,4,Microscopic analysis showed multiple anastomotic vascular channels dissecting the collagen and smooth muscle sheets to the lamina propria and muscularis propria.,smooth muscle sheets
+S1130-01082010000400015-1,10,5,Microscopic analysis showed multiple anastomotic vascular channels dissecting the collagen and smooth muscle sheets to the lamina propria and muscularis propria.,the lamina propria
+S1130-01082010000400015-1,10,6,Microscopic analysis showed multiple anastomotic vascular channels dissecting the collagen and smooth muscle sheets to the lamina propria and muscularis propria.,muscularis propria
+S1130-01082010000400015-1,11,1,Immunohistochemistry demonstrated great reactivity of the tumor cells against CD31 and vimentin.,Immunohistochemistry
+S1130-01082010000400015-1,11,2,Immunohistochemistry demonstrated great reactivity of the tumor cells against CD31 and vimentin.,great reactivity
+S1130-01082010000400015-1,11,3,Immunohistochemistry demonstrated great reactivity of the tumor cells against CD31 and vimentin.,the tumor cells
+S1130-01082010000400015-1,11,4,Immunohistochemistry demonstrated great reactivity of the tumor cells against CD31 and vimentin.,CD31
+S1130-01082010000400015-1,11,5,Immunohistochemistry demonstrated great reactivity of the tumor cells against CD31 and vimentin.,vimentin
+S1130-01082010000400015-1,12,1,"Stains for CD34, cytokeratin 20, and cytokeratin AE1-3 were negative.",Stains
+S1130-01082010000400015-1,12,2,"Stains for CD34, cytokeratin 20, and cytokeratin AE1-3 were negative.",CD34
+S1130-01082010000400015-1,12,3,"Stains for CD34, cytokeratin 20, and cytokeratin AE1-3 were negative.",cytokeratin AE1-3
+S1130-01082010000400015-1,13,1,"Based on these results, the diagnosis of epithelioid angiosarcoma of the colon was made.",these results
+S1130-01082010000400015-1,13,2,"Based on these results, the diagnosis of epithelioid angiosarcoma of the colon was made.",the diagnosis
+S1130-01082010000400015-1,13,3,"Based on these results, the diagnosis of epithelioid angiosarcoma of the colon was made.",epithelioid angiosarcoma
+S1130-01082010000400015-1,13,4,"Based on these results, the diagnosis of epithelioid angiosarcoma of the colon was made.",the colon
+S1130-01082010000400015-1,14,1,The margins were free of tumor as well as the 12 lymph nodes analyzed.,The margins
+S1130-01082010000400015-1,14,2,The margins were free of tumor as well as the 12 lymph nodes analyzed.,tumor
+S1130-01082010000400015-1,14,3,The margins were free of tumor as well as the 12 lymph nodes analyzed.,the 12 lymph nodes
+S1130-01082010000400015-1,15,1,The patient did not receive adjuvant treatment and in subsequent follow-up she is still alive and without evidence of disease two years after surgery.,The patient
+S1130-01082010000400015-1,15,2,The patient did not receive adjuvant treatment and in subsequent follow-up she is still alive and without evidence of disease two years after surgery.,adjuvant treatment
+S1130-01082010000400015-1,15,3,The patient did not receive adjuvant treatment and in subsequent follow-up she is still alive and without evidence of disease two years after surgery.,subsequent follow-up
+S1130-01082010000400015-1,15,4,The patient did not receive adjuvant treatment and in subsequent follow-up she is still alive and without evidence of disease two years after surgery.,she
+S1130-01082010000400015-1,15,5,The patient did not receive adjuvant treatment and in subsequent follow-up she is still alive and without evidence of disease two years after surgery.,evidence
+S1130-01082010000400015-1,15,6,The patient did not receive adjuvant treatment and in subsequent follow-up she is still alive and without evidence of disease two years after surgery.,disease
+S1130-01082010000400015-1,15,7,The patient did not receive adjuvant treatment and in subsequent follow-up she is still alive and without evidence of disease two years after surgery.,surgery

@@ -1,0 +1,57 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1139-13752009000200010-2,1,1,"A 42-year-old patient diagnosed with ulcerative pancolitis in 2003, corticosteroid dependent, with a first corticosteroid-refractory episode in August 2003 and with cytomegalovirus superinfection, which was treated with IV ganciclovir.",A 42-year-old patient
+S1139-13752009000200010-2,1,2,"A 42-year-old patient diagnosed with ulcerative pancolitis in 2003, corticosteroid dependent, with a first corticosteroid-refractory episode in August 2003 and with cytomegalovirus superinfection, which was treated with IV ganciclovir.",ulcerative pancolitis
+S1139-13752009000200010-2,1,3,"A 42-year-old patient diagnosed with ulcerative pancolitis in 2003, corticosteroid dependent, with a first corticosteroid-refractory episode in August 2003 and with cytomegalovirus superinfection, which was treated with IV ganciclovir.",corticosteroid dependent
+S1139-13752009000200010-2,1,4,"A 42-year-old patient diagnosed with ulcerative pancolitis in 2003, corticosteroid dependent, with a first corticosteroid-refractory episode in August 2003 and with cytomegalovirus superinfection, which was treated with IV ganciclovir.",a first corticosteroid-refractory episode
+S1139-13752009000200010-2,1,5,"A 42-year-old patient diagnosed with ulcerative pancolitis in 2003, corticosteroid dependent, with a first corticosteroid-refractory episode in August 2003 and with cytomegalovirus superinfection, which was treated with IV ganciclovir.",August
+S1139-13752009000200010-2,1,6,"A 42-year-old patient diagnosed with ulcerative pancolitis in 2003, corticosteroid dependent, with a first corticosteroid-refractory episode in August 2003 and with cytomegalovirus superinfection, which was treated with IV ganciclovir.",cytomegalovirus superinfection
+S1139-13752009000200010-2,1,7,"A 42-year-old patient diagnosed with ulcerative pancolitis in 2003, corticosteroid dependent, with a first corticosteroid-refractory episode in August 2003 and with cytomegalovirus superinfection, which was treated with IV ganciclovir.",which
+S1139-13752009000200010-2,1,8,"A 42-year-old patient diagnosed with ulcerative pancolitis in 2003, corticosteroid dependent, with a first corticosteroid-refractory episode in August 2003 and with cytomegalovirus superinfection, which was treated with IV ganciclovir.",IV ganciclovir
+S1139-13752009000200010-2,2,1,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",May
+S1139-13752009000200010-2,2,2,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",he
+S1139-13752009000200010-2,2,3,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",a moderate outbreak
+S1139-13752009000200010-2,2,4,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",diarrhea
+S1139-13752009000200010-2,2,5,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",red blood
+S1139-13752009000200010-2,2,6,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",2 stools
+S1139-13752009000200010-2,2,7,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",chronic iron deficiency anemia
+S1139-13752009000200010-2,2,8,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",which
+S1139-13752009000200010-2,2,9,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",he
+S1139-13752009000200010-2,2,10,"In May 2004, he had a moderate outbreak of diarrhea with red blood (2 stools a day) and since then chronic iron deficiency anemia, which he treated with iron therapy.",iron therapy
+S1139-13752009000200010-2,3,1,The endoscopic study revealed ulcerative pancolitis with severe involvement.,The endoscopic study
+S1139-13752009000200010-2,3,2,The endoscopic study revealed ulcerative pancolitis with severe involvement.,ulcerative pancolitis
+S1139-13752009000200010-2,3,3,The endoscopic study revealed ulcerative pancolitis with severe involvement.,severe involvement
+S1139-13752009000200010-2,4,1,He receives treatment with corticosteroids and immunosuppressants.,He
+S1139-13752009000200010-2,4,2,He receives treatment with corticosteroids and immunosuppressants.,treatment
+S1139-13752009000200010-2,4,3,He receives treatment with corticosteroids and immunosuppressants.,corticosteroids
+S1139-13752009000200010-2,4,4,He receives treatment with corticosteroids and immunosuppressants.,immunosuppressants
+S1139-13752009000200010-2,5,1,"In June 2007 he had a new bout of disease activity with 10-12 liquid stools daily, abdominal pain and fever.",June
+S1139-13752009000200010-2,5,2,"In June 2007 he had a new bout of disease activity with 10-12 liquid stools daily, abdominal pain and fever.",he
+S1139-13752009000200010-2,5,3,"In June 2007 he had a new bout of disease activity with 10-12 liquid stools daily, abdominal pain and fever.",a new bout
+S1139-13752009000200010-2,5,4,"In June 2007 he had a new bout of disease activity with 10-12 liquid stools daily, abdominal pain and fever.",disease activity
+S1139-13752009000200010-2,5,5,"In June 2007 he had a new bout of disease activity with 10-12 liquid stools daily, abdominal pain and fever.",10-12 liquid stools
+S1139-13752009000200010-2,5,6,"In June 2007 he had a new bout of disease activity with 10-12 liquid stools daily, abdominal pain and fever.",abdominal pain
+S1139-13752009000200010-2,5,7,"In June 2007 he had a new bout of disease activity with 10-12 liquid stools daily, abdominal pain and fever.",fever
+S1139-13752009000200010-2,6,1,"Due to the progressive clinical and analytical worsening presented by the patient and the poor response to conventional treatment, it was decided to begin treatment with granulocytapheresis associated with IV cyclosporine.",the progressive clinical and analytical worsening
+S1139-13752009000200010-2,6,2,"Due to the progressive clinical and analytical worsening presented by the patient and the poor response to conventional treatment, it was decided to begin treatment with granulocytapheresis associated with IV cyclosporine.",the patient
+S1139-13752009000200010-2,6,3,"Due to the progressive clinical and analytical worsening presented by the patient and the poor response to conventional treatment, it was decided to begin treatment with granulocytapheresis associated with IV cyclosporine.",the poor response
+S1139-13752009000200010-2,6,4,"Due to the progressive clinical and analytical worsening presented by the patient and the poor response to conventional treatment, it was decided to begin treatment with granulocytapheresis associated with IV cyclosporine.",conventional treatment
+S1139-13752009000200010-2,6,5,"Due to the progressive clinical and analytical worsening presented by the patient and the poor response to conventional treatment, it was decided to begin treatment with granulocytapheresis associated with IV cyclosporine.",it
+S1139-13752009000200010-2,6,6,"Due to the progressive clinical and analytical worsening presented by the patient and the poor response to conventional treatment, it was decided to begin treatment with granulocytapheresis associated with IV cyclosporine.",treatment
+S1139-13752009000200010-2,6,7,"Due to the progressive clinical and analytical worsening presented by the patient and the poor response to conventional treatment, it was decided to begin treatment with granulocytapheresis associated with IV cyclosporine.",granulocytapheresis
+S1139-13752009000200010-2,6,8,"Due to the progressive clinical and analytical worsening presented by the patient and the poor response to conventional treatment, it was decided to begin treatment with granulocytapheresis associated with IV cyclosporine.",IV cyclosporine
+S1139-13752009000200010-2,7,1,"While the patient was admitted, 4 sessions were performed, requiring the placement of a double-lumen catheter in the right jugular.",the patient
+S1139-13752009000200010-2,7,2,"While the patient was admitted, 4 sessions were performed, requiring the placement of a double-lumen catheter in the right jugular.",4 sessions
+S1139-13752009000200010-2,7,3,"While the patient was admitted, 4 sessions were performed, requiring the placement of a double-lumen catheter in the right jugular.",the placement
+S1139-13752009000200010-2,7,4,"While the patient was admitted, 4 sessions were performed, requiring the placement of a double-lumen catheter in the right jugular.",a double-lumen catheter
+S1139-13752009000200010-2,7,5,"While the patient was admitted, 4 sessions were performed, requiring the placement of a double-lumen catheter in the right jugular.",the right jugular
+S1139-13752009000200010-2,8,1,The central catheter had to be changed due to MARSA infection and contact isolation was performed.,The central catheter
+S1139-13752009000200010-2,8,2,The central catheter had to be changed due to MARSA infection and contact isolation was performed.,MARSA infection and contact isolation
+S1139-13752009000200010-2,9,1,The remaining 3 sessions were received on an outpatient basis.,The remaining 3 sessions
+S1139-13752009000200010-2,9,2,The remaining 3 sessions were received on an outpatient basis.,an outpatient basis
+S1139-13752009000200010-2,10,1,"During these months, the patient has shown rapid clinical and endoscopic improvement.",these months
+S1139-13752009000200010-2,10,2,"During these months, the patient has shown rapid clinical and endoscopic improvement.",the patient
+S1139-13752009000200010-2,10,3,"During these months, the patient has shown rapid clinical and endoscopic improvement.",rapid clinical and endoscopic improvement
+S1139-13752009000200010-2,11,1,He is currently receiving treatment with azathioprine (Imurel®).,He
+S1139-13752009000200010-2,11,2,He is currently receiving treatment with azathioprine (Imurel®).,treatment
+S1139-13752009000200010-2,11,3,He is currently receiving treatment with azathioprine (Imurel®).,azathioprine
+S1139-13752009000200010-2,11,4,He is currently receiving treatment with azathioprine (Imurel®).,Imurel®

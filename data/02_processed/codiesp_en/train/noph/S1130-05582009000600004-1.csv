@@ -1,0 +1,83 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-05582009000600004-1,1,1,"A 15-year-old female patient presents to the Maxillofacial Surgery Service of the San Borja Arriarán Hospital Complex, presenting with painless right facial asymmetry, which has evolved progressively over time without any other symptoms.",A 15-year-old female patient
+S1130-05582009000600004-1,1,2,"A 15-year-old female patient presents to the Maxillofacial Surgery Service of the San Borja Arriarán Hospital Complex, presenting with painless right facial asymmetry, which has evolved progressively over time without any other symptoms.",the Maxillofacial Surgery Service
+S1130-05582009000600004-1,1,3,"A 15-year-old female patient presents to the Maxillofacial Surgery Service of the San Borja Arriarán Hospital Complex, presenting with painless right facial asymmetry, which has evolved progressively over time without any other symptoms.",the San Borja Arriarán Hospital Complex
+S1130-05582009000600004-1,1,4,"A 15-year-old female patient presents to the Maxillofacial Surgery Service of the San Borja Arriarán Hospital Complex, presenting with painless right facial asymmetry, which has evolved progressively over time without any other symptoms.",painless right facial asymmetry
+S1130-05582009000600004-1,1,5,"A 15-year-old female patient presents to the Maxillofacial Surgery Service of the San Borja Arriarán Hospital Complex, presenting with painless right facial asymmetry, which has evolved progressively over time without any other symptoms.",which
+S1130-05582009000600004-1,1,6,"A 15-year-old female patient presents to the Maxillofacial Surgery Service of the San Borja Arriarán Hospital Complex, presenting with painless right facial asymmetry, which has evolved progressively over time without any other symptoms.",time
+S1130-05582009000600004-1,1,7,"A 15-year-old female patient presents to the Maxillofacial Surgery Service of the San Borja Arriarán Hospital Complex, presenting with painless right facial asymmetry, which has evolved progressively over time without any other symptoms.",any other symptoms
+S1130-05582009000600004-1,2,1,"In the interview, the patient did not report any morbid or surgical history.",the interview
+S1130-05582009000600004-1,2,2,"In the interview, the patient did not report any morbid or surgical history.",the patient
+S1130-05582009000600004-1,2,3,"In the interview, the patient did not report any morbid or surgical history.",any morbid or surgical history
+S1130-05582009000600004-1,3,1,She also does not report the use of any drugs on a regular basis or allergies.,She
+S1130-05582009000600004-1,3,2,She also does not report the use of any drugs on a regular basis or allergies.,the use
+S1130-05582009000600004-1,3,3,She also does not report the use of any drugs on a regular basis or allergies.,any drugs
+S1130-05582009000600004-1,3,4,She also does not report the use of any drugs on a regular basis or allergies.,a regular basis
+S1130-05582009000600004-1,3,5,She also does not report the use of any drugs on a regular basis or allergies.,allergies
+S1130-05582009000600004-1,4,1,No type of parafunction is investigated.,No type
+S1130-05582009000600004-1,4,2,No type of parafunction is investigated.,parafunction
+S1130-05582009000600004-1,5,1,Extraoral examination revealed an increase in volume in the region of the right mandibular angle with poorly defined limits.,Extraoral examination
+S1130-05582009000600004-1,5,2,Extraoral examination revealed an increase in volume in the region of the right mandibular angle with poorly defined limits.,an increase
+S1130-05582009000600004-1,5,3,Extraoral examination revealed an increase in volume in the region of the right mandibular angle with poorly defined limits.,volume
+S1130-05582009000600004-1,5,4,Extraoral examination revealed an increase in volume in the region of the right mandibular angle with poorly defined limits.,the region
+S1130-05582009000600004-1,5,5,Extraoral examination revealed an increase in volume in the region of the right mandibular angle with poorly defined limits.,the right mandibular angle
+S1130-05582009000600004-1,5,6,Extraoral examination revealed an increase in volume in the region of the right mandibular angle with poorly defined limits.,poorly defined limits
+S1130-05582009000600004-1,6,1,"On palpation it is firm in consistency, painless and does not present inflammatory signs or submandibular or cervical lymph node involvement.",palpation
+S1130-05582009000600004-1,6,2,"On palpation it is firm in consistency, painless and does not present inflammatory signs or submandibular or cervical lymph node involvement.",it
+S1130-05582009000600004-1,6,3,"On palpation it is firm in consistency, painless and does not present inflammatory signs or submandibular or cervical lymph node involvement.",consistency
+S1130-05582009000600004-1,6,4,"On palpation it is firm in consistency, painless and does not present inflammatory signs or submandibular or cervical lymph node involvement.",inflammatory signs
+S1130-05582009000600004-1,6,5,"On palpation it is firm in consistency, painless and does not present inflammatory signs or submandibular or cervical lymph node involvement.",submandibular or cervical lymph node involvement
+S1130-05582009000600004-1,7,1,No pathological signs or symptoms are detected in the TMJ examination.,No pathological signs
+S1130-05582009000600004-1,7,2,No pathological signs or symptoms are detected in the TMJ examination.,symptoms
+S1130-05582009000600004-1,7,3,No pathological signs or symptoms are detected in the TMJ examination.,the TMJ examination
+S1130-05582009000600004-1,8,1,"During the intraoral examination, nothing relevant was observed in relation to soft tissues, teeth and occlusion.",the intraoral examination
+S1130-05582009000600004-1,8,2,"During the intraoral examination, nothing relevant was observed in relation to soft tissues, teeth and occlusion.",nothing
+S1130-05582009000600004-1,8,3,"During the intraoral examination, nothing relevant was observed in relation to soft tissues, teeth and occlusion.",relation
+S1130-05582009000600004-1,8,4,"During the intraoral examination, nothing relevant was observed in relation to soft tissues, teeth and occlusion.",soft tissues
+S1130-05582009000600004-1,8,5,"During the intraoral examination, nothing relevant was observed in relation to soft tissues, teeth and occlusion.",teeth
+S1130-05582009000600004-1,8,6,"During the intraoral examination, nothing relevant was observed in relation to soft tissues, teeth and occlusion.",occlusion
+S1130-05582009000600004-1,9,1,"Salivary secretion was normal, especially in relation to the Stenon's ducts.",Salivary secretion
+S1130-05582009000600004-1,9,2,"Salivary secretion was normal, especially in relation to the Stenon's ducts.",relation
+S1130-05582009000600004-1,9,3,"Salivary secretion was normal, especially in relation to the Stenon's ducts.",the Stenon's ducts
+S1130-05582009000600004-1,10,1,"A panoramic radiograph was requested, revealing a much more marked right mandibular angle.",A panoramic radiograph
+S1130-05582009000600004-1,10,2,"A panoramic radiograph was requested, revealing a much more marked right mandibular angle.",a much more marked right mandibular angle
+S1130-05582009000600004-1,11,1,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",the lateral skull
+S1130-05582009000600004-1,11,2,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",x
+S1130-05582009000600004-1,11,3,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",-
+S1130-05582009000600004-1,11,4,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",ray
+S1130-05582009000600004-1,11,5,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",a double mandibular
+S1130-05582009000600004-1,11,6,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",contour
+S1130-05582009000600004-1,11,7,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",the frontal teleradiography
+S1130-05582009000600004-1,11,8,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",it
+S1130-05582009000600004-1,11,9,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",the right mandibular sector
+S1130-05582009000600004-1,11,10,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",greater development
+S1130-05582009000600004-1,11,11,"In the lateral skull x-ray, a double mandibular contour was observed and in the frontal teleradiography it was observed that the right mandibular sector presents greater development, without affecting the occlusal plane.",the occlusal plane
+S1130-05582009000600004-1,12,1,"In addition, bone scintigraphy was performed to rule out condylar hyperplasia and electromyography.",addition
+S1130-05582009000600004-1,12,2,"In addition, bone scintigraphy was performed to rule out condylar hyperplasia and electromyography.",bone scintigraphy
+S1130-05582009000600004-1,12,3,"In addition, bone scintigraphy was performed to rule out condylar hyperplasia and electromyography.",condylar hyperplasia
+S1130-05582009000600004-1,12,4,"In addition, bone scintigraphy was performed to rule out condylar hyperplasia and electromyography.",electromyography
+S1130-05582009000600004-1,13,1,"The diagnosis was unilateral right masseteric hypertrophy, so it was decided to resection the right mandibular angle extraorally.",The diagnosis
+S1130-05582009000600004-1,13,2,"The diagnosis was unilateral right masseteric hypertrophy, so it was decided to resection the right mandibular angle extraorally.",unilateral right masseteric hypertrophy
+S1130-05582009000600004-1,13,3,"The diagnosis was unilateral right masseteric hypertrophy, so it was decided to resection the right mandibular angle extraorally.",it
+S1130-05582009000600004-1,13,4,"The diagnosis was unilateral right masseteric hypertrophy, so it was decided to resection the right mandibular angle extraorally.",the right mandibular angle
+S1130-05582009000600004-1,14,1,"Under general anesthesia, a right subangular-mandibular access is performed until the ipsilateral angle is exposed.",general anesthesia
+S1130-05582009000600004-1,14,2,"Under general anesthesia, a right subangular-mandibular access is performed until the ipsilateral angle is exposed.",a right subangular-mandibular access
+S1130-05582009000600004-1,14,3,"Under general anesthesia, a right subangular-mandibular access is performed until the ipsilateral angle is exposed.",the ipsilateral angle
+S1130-05582009000600004-1,15,1,The resection of said angle and a portion of the masseter muscle is performed.,The resection
+S1130-05582009000600004-1,15,2,The resection of said angle and a portion of the masseter muscle is performed.,said angle
+S1130-05582009000600004-1,15,3,The resection of said angle and a portion of the masseter muscle is performed.,a portion
+S1130-05582009000600004-1,15,4,The resection of said angle and a portion of the masseter muscle is performed.,the masseter muscle
+S1130-05582009000600004-1,16,1,"A biopsy of the extracted muscle was performed, the report of which did not reveal any pathological condition of the tissues.",A biopsy
+S1130-05582009000600004-1,16,2,"A biopsy of the extracted muscle was performed, the report of which did not reveal any pathological condition of the tissues.",the extracted muscle
+S1130-05582009000600004-1,16,3,"A biopsy of the extracted muscle was performed, the report of which did not reveal any pathological condition of the tissues.",the report
+S1130-05582009000600004-1,16,4,"A biopsy of the extracted muscle was performed, the report of which did not reveal any pathological condition of the tissues.",which
+S1130-05582009000600004-1,16,5,"A biopsy of the extracted muscle was performed, the report of which did not reveal any pathological condition of the tissues.",any pathological condition
+S1130-05582009000600004-1,16,6,"A biopsy of the extracted muscle was performed, the report of which did not reveal any pathological condition of the tissues.",the tissues
+S1130-05582009000600004-1,17,1,The patient was monitored immediately after the intervention and had no complications.,The patient
+S1130-05582009000600004-1,17,2,The patient was monitored immediately after the intervention and had no complications.,the intervention
+S1130-05582009000600004-1,17,3,The patient was monitored immediately after the intervention and had no complications.,no complications
+S1130-05582009000600004-1,18,1,"In the control carried out after 6 years, the patient is in good condition with no recurrences.",the control
+S1130-05582009000600004-1,18,2,"In the control carried out after 6 years, the patient is in good condition with no recurrences.",6 years
+S1130-05582009000600004-1,18,3,"In the control carried out after 6 years, the patient is in good condition with no recurrences.",the patient
+S1130-05582009000600004-1,18,4,"In the control carried out after 6 years, the patient is in good condition with no recurrences.",good condition
+S1130-05582009000600004-1,18,5,"In the control carried out after 6 years, the patient is in good condition with no recurrences.",no recurrences

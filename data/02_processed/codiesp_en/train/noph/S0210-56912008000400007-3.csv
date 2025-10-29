@@ -1,0 +1,44 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-56912008000400007-3,1,1,This is a 40-year-old man who suffered a car accident.,This
+S0210-56912008000400007-3,1,2,This is a 40-year-old man who suffered a car accident.,a 40-year-old man
+S0210-56912008000400007-3,1,3,This is a 40-year-old man who suffered a car accident.,who
+S0210-56912008000400007-3,1,4,This is a 40-year-old man who suffered a car accident.,a car accident
+S0210-56912008000400007-3,2,1,TACHT on admission showed a pseudoaneurysm of the thoracic aorta at the exit of the left subclavian artery with a periaortic hematoma extending to the posterior mediastinum.,admission
+S0210-56912008000400007-3,2,2,TACHT on admission showed a pseudoaneurysm of the thoracic aorta at the exit of the left subclavian artery with a periaortic hematoma extending to the posterior mediastinum.,a pseudoaneurysm
+S0210-56912008000400007-3,2,3,TACHT on admission showed a pseudoaneurysm of the thoracic aorta at the exit of the left subclavian artery with a periaortic hematoma extending to the posterior mediastinum.,the thoracic aorta
+S0210-56912008000400007-3,2,4,TACHT on admission showed a pseudoaneurysm of the thoracic aorta at the exit of the left subclavian artery with a periaortic hematoma extending to the posterior mediastinum.,the exit
+S0210-56912008000400007-3,2,5,TACHT on admission showed a pseudoaneurysm of the thoracic aorta at the exit of the left subclavian artery with a periaortic hematoma extending to the posterior mediastinum.,the left subclavian artery
+S0210-56912008000400007-3,2,6,TACHT on admission showed a pseudoaneurysm of the thoracic aorta at the exit of the left subclavian artery with a periaortic hematoma extending to the posterior mediastinum.,a periaortic hematoma
+S0210-56912008000400007-3,2,7,TACHT on admission showed a pseudoaneurysm of the thoracic aorta at the exit of the left subclavian artery with a periaortic hematoma extending to the posterior mediastinum.,the posterior mediastinum
+S0210-56912008000400007-3,3,1,The patient was admitted to the ICU while breathing spontaneously with systolic blood pressure (SBP) less than 120 mmHg.,The patient
+S0210-56912008000400007-3,3,2,The patient was admitted to the ICU while breathing spontaneously with systolic blood pressure (SBP) less than 120 mmHg.,the ICU
+S0210-56912008000400007-3,3,3,The patient was admitted to the ICU while breathing spontaneously with systolic blood pressure (SBP) less than 120 mmHg.,systolic blood pressure
+S0210-56912008000400007-3,3,4,The patient was admitted to the ICU while breathing spontaneously with systolic blood pressure (SBP) less than 120 mmHg.,SBP
+S0210-56912008000400007-3,3,5,The patient was admitted to the ICU while breathing spontaneously with systolic blood pressure (SBP) less than 120 mmHg.,less than 120 mmHg
+S0210-56912008000400007-3,4,1,Conservative treatment of the associated injuries was carried out.,Conservative treatment
+S0210-56912008000400007-3,4,2,Conservative treatment of the associated injuries was carried out.,the associated injuries
+S0210-56912008000400007-3,5,1,"Ten hours after admission to the ICU, a stent was placed in the descending thoracic aorta via the left femoral route, with partial occlusion of the left subclavian artery.",admission
+S0210-56912008000400007-3,5,2,"Ten hours after admission to the ICU, a stent was placed in the descending thoracic aorta via the left femoral route, with partial occlusion of the left subclavian artery.",the ICU
+S0210-56912008000400007-3,5,3,"Ten hours after admission to the ICU, a stent was placed in the descending thoracic aorta via the left femoral route, with partial occlusion of the left subclavian artery.",a stent
+S0210-56912008000400007-3,5,4,"Ten hours after admission to the ICU, a stent was placed in the descending thoracic aorta via the left femoral route, with partial occlusion of the left subclavian artery.",the descending thoracic aorta
+S0210-56912008000400007-3,5,5,"Ten hours after admission to the ICU, a stent was placed in the descending thoracic aorta via the left femoral route, with partial occlusion of the left subclavian artery.",the left femoral route
+S0210-56912008000400007-3,5,6,"Ten hours after admission to the ICU, a stent was placed in the descending thoracic aorta via the left femoral route, with partial occlusion of the left subclavian artery.",partial occlusion
+S0210-56912008000400007-3,5,7,"Ten hours after admission to the ICU, a stent was placed in the descending thoracic aorta via the left femoral route, with partial occlusion of the left subclavian artery.",the left subclavian artery
+S0210-56912008000400007-3,6,1,He was discharged to the ward after 48 hours.,He
+S0210-56912008000400007-3,6,2,He was discharged to the ward after 48 hours.,the ward
+S0210-56912008000400007-3,6,3,He was discharged to the ward after 48 hours.,48 hours
+S0210-56912008000400007-3,7,1,"He followed controls with TACHT at 7 days, at one month and at 45 days.",He
+S0210-56912008000400007-3,7,2,"He followed controls with TACHT at 7 days, at one month and at 45 days.",controls
+S0210-56912008000400007-3,7,3,"He followed controls with TACHT at 7 days, at one month and at 45 days.",TACHT
+S0210-56912008000400007-3,7,4,"He followed controls with TACHT at 7 days, at one month and at 45 days.",7 days
+S0210-56912008000400007-3,7,5,"He followed controls with TACHT at 7 days, at one month and at 45 days.",one month
+S0210-56912008000400007-3,7,6,"He followed controls with TACHT at 7 days, at one month and at 45 days.",45 days
+S0210-56912008000400007-3,8,1,Two months after the accident he presented acute pericarditis and absence of left radial pulse without clinical repercussion.,the accident
+S0210-56912008000400007-3,8,2,Two months after the accident he presented acute pericarditis and absence of left radial pulse without clinical repercussion.,he
+S0210-56912008000400007-3,8,3,Two months after the accident he presented acute pericarditis and absence of left radial pulse without clinical repercussion.,acute pericarditis
+S0210-56912008000400007-3,8,4,Two months after the accident he presented acute pericarditis and absence of left radial pulse without clinical repercussion.,absence
+S0210-56912008000400007-3,8,5,Two months after the accident he presented acute pericarditis and absence of left radial pulse without clinical repercussion.,left radial pulse
+S0210-56912008000400007-3,8,6,Two months after the accident he presented acute pericarditis and absence of left radial pulse without clinical repercussion.,clinical repercussion
+S0210-56912008000400007-3,9,1,The TACHT showed correct location of the endoprosthesis.,The TACHT
+S0210-56912008000400007-3,9,2,The TACHT showed correct location of the endoprosthesis.,correct location
+S0210-56912008000400007-3,9,3,The TACHT showed correct location of the endoprosthesis.,the endoprosthesis

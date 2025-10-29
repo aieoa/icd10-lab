@@ -1,0 +1,94 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1139-76322016000300015-1,1,1,Eight-day-old infant whose parents consulted for a poorly healed navel.,Eight-day-old infant
+S1139-76322016000300015-1,1,2,Eight-day-old infant whose parents consulted for a poorly healed navel.,whose parents
+S1139-76322016000300015-1,1,3,Eight-day-old infant whose parents consulted for a poorly healed navel.,a poorly healed navel
+S1139-76322016000300015-1,2,1,"As a personal background, she is the first daughter of healthy parents.",a personal background
+S1139-76322016000300015-1,2,2,"As a personal background, she is the first daughter of healthy parents.",she
+S1139-76322016000300015-1,2,3,"As a personal background, she is the first daughter of healthy parents.",the first daughter
+S1139-76322016000300015-1,2,4,"As a personal background, she is the first daughter of healthy parents.",healthy parents
+S1139-76322016000300015-1,3,1,"She was born at 39 weeks of gestation by eutocic delivery; Her Apgar 9/10, weight 2830 grams.",She
+S1139-76322016000300015-1,3,2,"She was born at 39 weeks of gestation by eutocic delivery; Her Apgar 9/10, weight 2830 grams.",39 weeks
+S1139-76322016000300015-1,3,3,"She was born at 39 weeks of gestation by eutocic delivery; Her Apgar 9/10, weight 2830 grams.",gestation
+S1139-76322016000300015-1,3,4,"She was born at 39 weeks of gestation by eutocic delivery; Her Apgar 9/10, weight 2830 grams.",eutocic delivery
+S1139-76322016000300015-1,3,5,"She was born at 39 weeks of gestation by eutocic delivery; Her Apgar 9/10, weight 2830 grams.",weight 2830 grams
+S1139-76322016000300015-1,4,1,"They do not report any history of interest, nor do they provide the hospital report.",They
+S1139-76322016000300015-1,4,2,"They do not report any history of interest, nor do they provide the hospital report.",any history
+S1139-76322016000300015-1,4,3,"They do not report any history of interest, nor do they provide the hospital report.",interest
+S1139-76322016000300015-1,4,4,"They do not report any history of interest, nor do they provide the hospital report.",they
+S1139-76322016000300015-1,4,5,"They do not report any history of interest, nor do they provide the hospital report.",the hospital report
+S1139-76322016000300015-1,5,1,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",The examination
+S1139-76322016000300015-1,5,2,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",a wide implantation
+S1139-76322016000300015-1,5,3,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",the umbilical cord
+S1139-76322016000300015-1,5,4,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",which
+S1139-76322016000300015-1,5,5,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",a mucous appearance
+S1139-76322016000300015-1,5,6,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",a small tear
+S1139-76322016000300015-1,5,7,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",its base
+S1139-76322016000300015-1,5,8,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",no signs
+S1139-76322016000300015-1,5,9,"The examination revealed a wide implantation of the umbilical cord, which had a mucous appearance, and a small tear at its base, with no signs of local infection.",local infection
+S1139-76322016000300015-1,6,1,The rest of the physical examination is normal.,The rest
+S1139-76322016000300015-1,6,2,The rest of the physical examination is normal.,the physical examination
+S1139-76322016000300015-1,7,1,She did not report any accompanying clinical manifestations.,She
+S1139-76322016000300015-1,7,2,She did not report any accompanying clinical manifestations.,any accompanying clinical manifestations
+S1139-76322016000300015-1,8,1,Silver nitrate is applied and an appointment is made for control in 48 hours.,Silver
+S1139-76322016000300015-1,8,2,Silver nitrate is applied and an appointment is made for control in 48 hours.,an appointment
+S1139-76322016000300015-1,8,3,Silver nitrate is applied and an appointment is made for control in 48 hours.,control
+S1139-76322016000300015-1,8,4,Silver nitrate is applied and an appointment is made for control in 48 hours.,48 hours
+S1139-76322016000300015-1,9,1,"During the control visit, they provide the discharge report after the birth.",the control visit
+S1139-76322016000300015-1,9,2,"During the control visit, they provide the discharge report after the birth.",they
+S1139-76322016000300015-1,9,3,"During the control visit, they provide the discharge report after the birth.",the discharge report
+S1139-76322016000300015-1,9,4,"During the control visit, they provide the discharge report after the birth.",the birth
+S1139-76322016000300015-1,10,1,"It reflects that the umbilical cord had a cyst, diagnosed in the prenatal ultrasound of the second trimester and described as a Wharton jelly cyst measuring 49 x 39 mm.",It
+S1139-76322016000300015-1,10,2,"It reflects that the umbilical cord had a cyst, diagnosed in the prenatal ultrasound of the second trimester and described as a Wharton jelly cyst measuring 49 x 39 mm.",the umbilical cord
+S1139-76322016000300015-1,10,3,"It reflects that the umbilical cord had a cyst, diagnosed in the prenatal ultrasound of the second trimester and described as a Wharton jelly cyst measuring 49 x 39 mm.",a cyst
+S1139-76322016000300015-1,10,4,"It reflects that the umbilical cord had a cyst, diagnosed in the prenatal ultrasound of the second trimester and described as a Wharton jelly cyst measuring 49 x 39 mm.",the prenatal ultrasound
+S1139-76322016000300015-1,10,5,"It reflects that the umbilical cord had a cyst, diagnosed in the prenatal ultrasound of the second trimester and described as a Wharton jelly cyst measuring 49 x 39 mm.",the second trimester
+S1139-76322016000300015-1,10,6,"It reflects that the umbilical cord had a cyst, diagnosed in the prenatal ultrasound of the second trimester and described as a Wharton jelly cyst measuring 49 x 39 mm.",a Wharton jelly cyst
+S1139-76322016000300015-1,10,7,"It reflects that the umbilical cord had a cyst, diagnosed in the prenatal ultrasound of the second trimester and described as a Wharton jelly cyst measuring 49 x 39 mm.",49 x 39 mm
+S1139-76322016000300015-1,11,1,"At birth she was evaluated by a surgeon, who placed a clamp proximal to the cyst, which was resected.",birth
+S1139-76322016000300015-1,11,2,"At birth she was evaluated by a surgeon, who placed a clamp proximal to the cyst, which was resected.",she
+S1139-76322016000300015-1,11,3,"At birth she was evaluated by a surgeon, who placed a clamp proximal to the cyst, which was resected.",a surgeon
+S1139-76322016000300015-1,11,4,"At birth she was evaluated by a surgeon, who placed a clamp proximal to the cyst, which was resected.",who
+S1139-76322016000300015-1,11,5,"At birth she was evaluated by a surgeon, who placed a clamp proximal to the cyst, which was resected.",a clamp proximal
+S1139-76322016000300015-1,11,6,"At birth she was evaluated by a surgeon, who placed a clamp proximal to the cyst, which was resected.",the cyst
+S1139-76322016000300015-1,11,7,"At birth she was evaluated by a surgeon, who placed a clamp proximal to the cyst, which was resected.",which
+S1139-76322016000300015-1,12,1,"Two days after birth, an abdominal ultrasound was performed, which was normal.",birth
+S1139-76322016000300015-1,12,2,"Two days after birth, an abdominal ultrasound was performed, which was normal.",an abdominal ultrasound
+S1139-76322016000300015-1,12,3,"Two days after birth, an abdominal ultrasound was performed, which was normal.",which
+S1139-76322016000300015-1,13,1,"During admission she remained asymptomatic and was discharged with clinical normality, except for a small tear at the base of the cord, which presented no complications.",admission
+S1139-76322016000300015-1,13,2,"During admission she remained asymptomatic and was discharged with clinical normality, except for a small tear at the base of the cord, which presented no complications.",she
+S1139-76322016000300015-1,13,3,"During admission she remained asymptomatic and was discharged with clinical normality, except for a small tear at the base of the cord, which presented no complications.",clinical normality
+S1139-76322016000300015-1,13,4,"During admission she remained asymptomatic and was discharged with clinical normality, except for a small tear at the base of the cord, which presented no complications.",a small tear
+S1139-76322016000300015-1,13,5,"During admission she remained asymptomatic and was discharged with clinical normality, except for a small tear at the base of the cord, which presented no complications.",the base
+S1139-76322016000300015-1,13,6,"During admission she remained asymptomatic and was discharged with clinical normality, except for a small tear at the base of the cord, which presented no complications.",the cord
+S1139-76322016000300015-1,13,7,"During admission she remained asymptomatic and was discharged with clinical normality, except for a small tear at the base of the cord, which presented no complications.",which
+S1139-76322016000300015-1,13,8,"During admission she remained asymptomatic and was discharged with clinical normality, except for a small tear at the base of the cord, which presented no complications.",no complications
+S1139-76322016000300015-1,14,1,"During the outpatient follow-up visit, an abundant flow of clear fluid from the center of the navel is observed, without signs of infection.",the outpatient follow-up visit
+S1139-76322016000300015-1,14,2,"During the outpatient follow-up visit, an abundant flow of clear fluid from the center of the navel is observed, without signs of infection.",an abundant flow
+S1139-76322016000300015-1,14,3,"During the outpatient follow-up visit, an abundant flow of clear fluid from the center of the navel is observed, without signs of infection.",clear fluid
+S1139-76322016000300015-1,14,4,"During the outpatient follow-up visit, an abundant flow of clear fluid from the center of the navel is observed, without signs of infection.",the center
+S1139-76322016000300015-1,14,5,"During the outpatient follow-up visit, an abundant flow of clear fluid from the center of the navel is observed, without signs of infection.",the navel
+S1139-76322016000300015-1,14,6,"During the outpatient follow-up visit, an abundant flow of clear fluid from the center of the navel is observed, without signs of infection.",signs
+S1139-76322016000300015-1,14,7,"During the outpatient follow-up visit, an abundant flow of clear fluid from the center of the navel is observed, without signs of infection.",infection
+S1139-76322016000300015-1,15,1,He was referred for evaluation by pediatric surgery.,He
+S1139-76322016000300015-1,15,2,He was referred for evaluation by pediatric surgery.,evaluation
+S1139-76322016000300015-1,15,3,He was referred for evaluation by pediatric surgery.,pediatric surgery
+S1139-76322016000300015-1,16,1,"The surgeon ligates the umbilical cord, which is almost detached and looks wet.",The surgeon
+S1139-76322016000300015-1,16,2,"The surgeon ligates the umbilical cord, which is almost detached and looks wet.",the umbilical cord
+S1139-76322016000300015-1,16,3,"The surgeon ligates the umbilical cord, which is almost detached and looks wet.",which
+S1139-76322016000300015-1,17,1,The existence of a fistulous tract is confirmed.,The existence
+S1139-76322016000300015-1,17,2,The existence of a fistulous tract is confirmed.,a fistulous tract
+S1139-76322016000300015-1,18,1,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,A new abdominal ultrasound
+S1139-76322016000300015-1,18,2,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,a tortuous tubular structure
+S1139-76322016000300015-1,18,3,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,that
+S1139-76322016000300015-1,18,4,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,the upper bladder wall
+S1139-76322016000300015-1,18,5,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,a diagnosis
+S1139-76322016000300015-1,18,6,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,persistence
+S1139-76322016000300015-1,18,7,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,the urachus (patent urachus type
+S1139-76322016000300015-1,18,8,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,observation
+S1139-76322016000300015-1,18,9,A new abdominal ultrasound reveals a tortuous tubular structure that communicates with the upper bladder wall and a diagnosis of persistence of the urachus (patent urachus type) is made and observation and subsequent reassessment are decided.,subsequent reassessment
+S1139-76322016000300015-1,19,1,"At eight months of age, spontaneous closure occurred, and in subsequent controls the absence of urachus permeability was evident.",eight months
+S1139-76322016000300015-1,19,2,"At eight months of age, spontaneous closure occurred, and in subsequent controls the absence of urachus permeability was evident.",age
+S1139-76322016000300015-1,19,3,"At eight months of age, spontaneous closure occurred, and in subsequent controls the absence of urachus permeability was evident.",spontaneous closure
+S1139-76322016000300015-1,19,4,"At eight months of age, spontaneous closure occurred, and in subsequent controls the absence of urachus permeability was evident.",subsequent controls
+S1139-76322016000300015-1,19,5,"At eight months of age, spontaneous closure occurred, and in subsequent controls the absence of urachus permeability was evident.",the absence
+S1139-76322016000300015-1,19,6,"At eight months of age, spontaneous closure occurred, and in subsequent controls the absence of urachus permeability was evident.",urachus permeability

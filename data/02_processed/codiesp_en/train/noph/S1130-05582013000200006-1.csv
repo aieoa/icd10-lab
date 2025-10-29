@@ -1,0 +1,88 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-05582013000200006-1,1,1,The patient is a 61-year-old man.,The patient
+S1130-05582013000200006-1,1,2,The patient is a 61-year-old man.,a 61-year-old man
+S1130-05582013000200006-1,2,1,"His medical history included being allergic to clarithromycin, suffering from Barret's esophagus, essential tremor and chronic iron deficiency anemia.",His medical history
+S1130-05582013000200006-1,2,2,"His medical history included being allergic to clarithromycin, suffering from Barret's esophagus, essential tremor and chronic iron deficiency anemia.",clarithromycin
+S1130-05582013000200006-1,2,3,"His medical history included being allergic to clarithromycin, suffering from Barret's esophagus, essential tremor and chronic iron deficiency anemia.",Barret's esophagus
+S1130-05582013000200006-1,2,4,"His medical history included being allergic to clarithromycin, suffering from Barret's esophagus, essential tremor and chronic iron deficiency anemia.",essential tremor
+S1130-05582013000200006-1,2,5,"His medical history included being allergic to clarithromycin, suffering from Barret's esophagus, essential tremor and chronic iron deficiency anemia.",chronic iron deficiency anemia
+S1130-05582013000200006-1,3,1,His mother died after renal carcinoma.,His mother
+S1130-05582013000200006-1,3,2,His mother died after renal carcinoma.,renal carcinoma
+S1130-05582013000200006-1,4,1,He underwent surgery in 2005 for renal carcinoma (p T3b Nx M1).,He
+S1130-05582013000200006-1,4,2,He underwent surgery in 2005 for renal carcinoma (p T3b Nx M1).,surgery
+S1130-05582013000200006-1,4,3,He underwent surgery in 2005 for renal carcinoma (p T3b Nx M1).,renal carcinoma
+S1130-05582013000200006-1,4,4,He underwent surgery in 2005 for renal carcinoma (p T3b Nx M1).,p T3b Nx M1
+S1130-05582013000200006-1,5,1,"At the time of diagnosis, he had bilateral adrenal metastases, a metastatic lesion at the lung level, and doubtful liver metastases.",the time
+S1130-05582013000200006-1,5,2,"At the time of diagnosis, he had bilateral adrenal metastases, a metastatic lesion at the lung level, and doubtful liver metastases.",diagnosis
+S1130-05582013000200006-1,5,3,"At the time of diagnosis, he had bilateral adrenal metastases, a metastatic lesion at the lung level, and doubtful liver metastases.",he
+S1130-05582013000200006-1,5,4,"At the time of diagnosis, he had bilateral adrenal metastases, a metastatic lesion at the lung level, and doubtful liver metastases.",bilateral adrenal metastases
+S1130-05582013000200006-1,5,5,"At the time of diagnosis, he had bilateral adrenal metastases, a metastatic lesion at the lung level, and doubtful liver metastases.",a metastatic lesion
+S1130-05582013000200006-1,5,6,"At the time of diagnosis, he had bilateral adrenal metastases, a metastatic lesion at the lung level, and doubtful liver metastases.",the lung level
+S1130-05582013000200006-1,5,7,"At the time of diagnosis, he had bilateral adrenal metastases, a metastatic lesion at the lung level, and doubtful liver metastases.",doubtful liver metastases
+S1130-05582013000200006-1,6,1,He underwent right nephrectomy and left adrenalectomy.,He
+S1130-05582013000200006-1,6,2,He underwent right nephrectomy and left adrenalectomy.,right nephrectomy
+S1130-05582013000200006-1,6,3,He underwent right nephrectomy and left adrenalectomy.,adrenalectomy
+S1130-05582013000200006-1,7,1,"Subsequently, he began a clinical trial with interferon and bevacizumab with partial response of the metastatic lesions.",he
+S1130-05582013000200006-1,7,2,"Subsequently, he began a clinical trial with interferon and bevacizumab with partial response of the metastatic lesions.",a clinical trial
+S1130-05582013000200006-1,7,3,"Subsequently, he began a clinical trial with interferon and bevacizumab with partial response of the metastatic lesions.",interferon
+S1130-05582013000200006-1,7,4,"Subsequently, he began a clinical trial with interferon and bevacizumab with partial response of the metastatic lesions.",bevacizumab
+S1130-05582013000200006-1,7,5,"Subsequently, he began a clinical trial with interferon and bevacizumab with partial response of the metastatic lesions.",partial response
+S1130-05582013000200006-1,7,6,"Subsequently, he began a clinical trial with interferon and bevacizumab with partial response of the metastatic lesions.",the metastatic lesions
+S1130-05582013000200006-1,8,1,"In 2010, after the appearance of a parotid tumor, an ultrasound-guided fine needle aspiration aspiration (FNA) was performed, compatible with metastasis of renal carcinoma.",the appearance
+S1130-05582013000200006-1,8,2,"In 2010, after the appearance of a parotid tumor, an ultrasound-guided fine needle aspiration aspiration (FNA) was performed, compatible with metastasis of renal carcinoma.",a parotid tumor
+S1130-05582013000200006-1,8,3,"In 2010, after the appearance of a parotid tumor, an ultrasound-guided fine needle aspiration aspiration (FNA) was performed, compatible with metastasis of renal carcinoma.",an ultrasound-guided fine needle aspiration aspiration
+S1130-05582013000200006-1,8,4,"In 2010, after the appearance of a parotid tumor, an ultrasound-guided fine needle aspiration aspiration (FNA) was performed, compatible with metastasis of renal carcinoma.",FNA
+S1130-05582013000200006-1,8,5,"In 2010, after the appearance of a parotid tumor, an ultrasound-guided fine needle aspiration aspiration (FNA) was performed, compatible with metastasis of renal carcinoma.",metastasis
+S1130-05582013000200006-1,8,6,"In 2010, after the appearance of a parotid tumor, an ultrasound-guided fine needle aspiration aspiration (FNA) was performed, compatible with metastasis of renal carcinoma.",renal carcinoma
+S1130-05582013000200006-1,9,1,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",the extent
+S1130-05582013000200006-1,9,2,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",the lesion
+S1130-05582013000200006-1,9,3,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",a cervical magnetic resonance imaging
+S1130-05582013000200006-1,9,4,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",MRI
+S1130-05582013000200006-1,9,5,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",which
+S1130-05582013000200006-1,9,6,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",a tumor
+S1130-05582013000200006-1,9,7,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",the right parotid level
+S1130-05582013000200006-1,9,8,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",that
+S1130-05582013000200006-1,9,9,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",both the superficial and deep lobes
+S1130-05582013000200006-1,9,10,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",a size
+S1130-05582013000200006-1,9,11,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",*3.4cm
+S1130-05582013000200006-1,9,12,"To study the extent of the lesion, a cervical magnetic resonance imaging (MRI) was performed in which a tumor was visualized at the right parotid level that involved both the superficial and deep lobes and had a size of 2.6*3.4. *3.4cm and is compatible with a metastatic tumor.",a metastatic tumor
+S1130-05582013000200006-1,10,1,The positron emission tomography (PET) performed reported a hypermetabolic lesion at the right parotid level compatible with a metastatic process.,The positron emission tomography
+S1130-05582013000200006-1,10,2,The positron emission tomography (PET) performed reported a hypermetabolic lesion at the right parotid level compatible with a metastatic process.,PET
+S1130-05582013000200006-1,10,3,The positron emission tomography (PET) performed reported a hypermetabolic lesion at the right parotid level compatible with a metastatic process.,a hypermetabolic lesion
+S1130-05582013000200006-1,10,4,The positron emission tomography (PET) performed reported a hypermetabolic lesion at the right parotid level compatible with a metastatic process.,the right parotid level
+S1130-05582013000200006-1,10,5,The positron emission tomography (PET) performed reported a hypermetabolic lesion at the right parotid level compatible with a metastatic process.,a metastatic process
+S1130-05582013000200006-1,11,1,"After the study by our tumor committee, a radical parotidectomy was decided as the treatment of choice due to the involvement of both parotid lobes.",the study
+S1130-05582013000200006-1,11,2,"After the study by our tumor committee, a radical parotidectomy was decided as the treatment of choice due to the involvement of both parotid lobes.",our tumor committee
+S1130-05582013000200006-1,11,3,"After the study by our tumor committee, a radical parotidectomy was decided as the treatment of choice due to the involvement of both parotid lobes.",a radical parotidectomy
+S1130-05582013000200006-1,11,4,"After the study by our tumor committee, a radical parotidectomy was decided as the treatment of choice due to the involvement of both parotid lobes.",the treatment
+S1130-05582013000200006-1,11,5,"After the study by our tumor committee, a radical parotidectomy was decided as the treatment of choice due to the involvement of both parotid lobes.",choice
+S1130-05582013000200006-1,11,6,"After the study by our tumor committee, a radical parotidectomy was decided as the treatment of choice due to the involvement of both parotid lobes.",the involvement
+S1130-05582013000200006-1,11,7,"After the study by our tumor committee, a radical parotidectomy was decided as the treatment of choice due to the involvement of both parotid lobes.",both parotid lobes
+S1130-05582013000200006-1,12,1,The pathological anatomy revealed a mass with a morphological and immunohistochemical pattern compatible with metastasis of renal clear cell carcinoma.,The pathological anatomy
+S1130-05582013000200006-1,12,2,The pathological anatomy revealed a mass with a morphological and immunohistochemical pattern compatible with metastasis of renal clear cell carcinoma.,a mass
+S1130-05582013000200006-1,12,3,The pathological anatomy revealed a mass with a morphological and immunohistochemical pattern compatible with metastasis of renal clear cell carcinoma.,a morphological and immunohistochemical pattern
+S1130-05582013000200006-1,12,4,The pathological anatomy revealed a mass with a morphological and immunohistochemical pattern compatible with metastasis of renal clear cell carcinoma.,metastasis
+S1130-05582013000200006-1,12,5,The pathological anatomy revealed a mass with a morphological and immunohistochemical pattern compatible with metastasis of renal clear cell carcinoma.,renal clear cell carcinoma
+S1130-05582013000200006-1,13,1,"For this characterization it was necessary to use cytokeratins, epithelial membrane antigen (EMA), vimentin and cd10.",this characterization
+S1130-05582013000200006-1,13,2,"For this characterization it was necessary to use cytokeratins, epithelial membrane antigen (EMA), vimentin and cd10.",it
+S1130-05582013000200006-1,13,3,"For this characterization it was necessary to use cytokeratins, epithelial membrane antigen (EMA), vimentin and cd10.",cytokeratins
+S1130-05582013000200006-1,13,4,"For this characterization it was necessary to use cytokeratins, epithelial membrane antigen (EMA), vimentin and cd10.",epithelial membrane antigen
+S1130-05582013000200006-1,13,5,"For this characterization it was necessary to use cytokeratins, epithelial membrane antigen (EMA), vimentin and cd10.",EMA
+S1130-05582013000200006-1,13,6,"For this characterization it was necessary to use cytokeratins, epithelial membrane antigen (EMA), vimentin and cd10.",vimentin
+S1130-05582013000200006-1,13,7,"For this characterization it was necessary to use cytokeratins, epithelial membrane antigen (EMA), vimentin and cd10.",cd10
+S1130-05582013000200006-1,14,1,"Likewise, the involvement of deep vascular and nervous structures was revealed, so it was decided to perform postoperative radiotherapy.",the involvement
+S1130-05582013000200006-1,14,2,"Likewise, the involvement of deep vascular and nervous structures was revealed, so it was decided to perform postoperative radiotherapy.",deep vascular and nervous structures
+S1130-05582013000200006-1,14,3,"Likewise, the involvement of deep vascular and nervous structures was revealed, so it was decided to perform postoperative radiotherapy.",it
+S1130-05582013000200006-1,14,4,"Likewise, the involvement of deep vascular and nervous structures was revealed, so it was decided to perform postoperative radiotherapy.",postoperative radiotherapy
+S1130-05582013000200006-1,15,1,"In the postoperative period, the patient had an episode of seroma at the level of the surgical wound that resolved without complications.",the postoperative period
+S1130-05582013000200006-1,15,2,"In the postoperative period, the patient had an episode of seroma at the level of the surgical wound that resolved without complications.",the patient
+S1130-05582013000200006-1,15,3,"In the postoperative period, the patient had an episode of seroma at the level of the surgical wound that resolved without complications.",an episode
+S1130-05582013000200006-1,15,4,"In the postoperative period, the patient had an episode of seroma at the level of the surgical wound that resolved without complications.",seroma
+S1130-05582013000200006-1,15,5,"In the postoperative period, the patient had an episode of seroma at the level of the surgical wound that resolved without complications.",the level
+S1130-05582013000200006-1,15,6,"In the postoperative period, the patient had an episode of seroma at the level of the surgical wound that resolved without complications.",the surgical wound
+S1130-05582013000200006-1,15,7,"In the postoperative period, the patient had an episode of seroma at the level of the surgical wound that resolved without complications.",that
+S1130-05582013000200006-1,15,8,"In the postoperative period, the patient had an episode of seroma at the level of the surgical wound that resolved without complications.",complications
+S1130-05582013000200006-1,16,1,"The postoperative evolution was favorable and he was discharged, with wounds monitored in outpatient clinics.",The postoperative evolution
+S1130-05582013000200006-1,16,2,"The postoperative evolution was favorable and he was discharged, with wounds monitored in outpatient clinics.",he
+S1130-05582013000200006-1,16,3,"The postoperative evolution was favorable and he was discharged, with wounds monitored in outpatient clinics.",wounds
+S1130-05582013000200006-1,16,4,"The postoperative evolution was favorable and he was discharged, with wounds monitored in outpatient clinics.",outpatient clinics

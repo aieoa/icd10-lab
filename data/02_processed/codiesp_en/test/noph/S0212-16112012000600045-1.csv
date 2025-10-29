@@ -1,0 +1,121 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0212-16112012000600045-1,1,1,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",A 78-year-old woman
+S0212-16112012000600045-1,1,2,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",40 kilograms
+S0212-16112012000600045-1,1,3,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",a history
+S0212-16112012000600045-1,1,4,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",gastrectomy
+S0212-16112012000600045-1,1,5,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",gastric ulcer
+S0212-16112012000600045-1,1,6,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",Billroth II type reconstruction
+S0212-16112012000600045-1,1,7,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",which
+S0212-16112012000600045-1,1,8,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",Roux Y
+S0212-16112012000600045-1,1,9,"A 78-year-old woman, weighing 40 kilograms and 1.65 m tall, with a history of gastrectomy for gastric ulcer with Billroth II type reconstruction more than 30 years ago, which subsequently converted to Roux Y due to alkaline reflux.",alkaline reflux
+S0212-16112012000600045-1,2,1,"A year later she began to have subocclusive symptoms, requiring surgery for intestinal obstruction.",she
+S0212-16112012000600045-1,2,2,"A year later she began to have subocclusive symptoms, requiring surgery for intestinal obstruction.",subocclusive symptoms
+S0212-16112012000600045-1,2,3,"A year later she began to have subocclusive symptoms, requiring surgery for intestinal obstruction.",surgery
+S0212-16112012000600045-1,2,4,"A year later she began to have subocclusive symptoms, requiring surgery for intestinal obstruction.",intestinal obstruction
+S0212-16112012000600045-1,3,1,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",She
+S0212-16112012000600045-1,3,2,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",malnutrition
+S0212-16112012000600045-1,3,3,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",severe hypoalbuminemia
+S0212-16112012000600045-1,3,4,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",severe chronic anemia
+S0212-16112012000600045-1,3,5,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",pressure ulcers
+S0212-16112012000600045-1,3,6,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",the sacral region
+S0212-16112012000600045-1,3,7,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",heels
+S0212-16112012000600045-1,3,8,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",urinary incontinence
+S0212-16112012000600045-1,3,9,"She secondarily presents malnutrition with severe hypoalbuminemia, severe chronic anemia, pressure ulcers in the sacral region and heels, urinary incontinence and immobility syndrome.",immobility syndrome
+S0212-16112012000600045-1,4,1,"She also highlights renal TB more than 20 years ago, with recurrent pyelonephritis, which required surgery for ureteral stenosis.",She
+S0212-16112012000600045-1,4,2,"She also highlights renal TB more than 20 years ago, with recurrent pyelonephritis, which required surgery for ureteral stenosis.",renal TB
+S0212-16112012000600045-1,4,3,"She also highlights renal TB more than 20 years ago, with recurrent pyelonephritis, which required surgery for ureteral stenosis.",recurrent pyelonephritis
+S0212-16112012000600045-1,4,4,"She also highlights renal TB more than 20 years ago, with recurrent pyelonephritis, which required surgery for ureteral stenosis.",which
+S0212-16112012000600045-1,4,5,"She also highlights renal TB more than 20 years ago, with recurrent pyelonephritis, which required surgery for ureteral stenosis.",surgery
+S0212-16112012000600045-1,4,6,"She also highlights renal TB more than 20 years ago, with recurrent pyelonephritis, which required surgery for ureteral stenosis.",ureteral stenosis
+S0212-16112012000600045-1,5,1,She was admitted due to anemization with a hemoglobin of 4.8 g/dl (VN: 12-18 gr/dl) secondary to digestive bleeding.,She
+S0212-16112012000600045-1,5,2,She was admitted due to anemization with a hemoglobin of 4.8 g/dl (VN: 12-18 gr/dl) secondary to digestive bleeding.,anemization
+S0212-16112012000600045-1,5,3,She was admitted due to anemization with a hemoglobin of 4.8 g/dl (VN: 12-18 gr/dl) secondary to digestive bleeding.,a hemoglobin
+S0212-16112012000600045-1,5,4,She was admitted due to anemization with a hemoglobin of 4.8 g/dl (VN: 12-18 gr/dl) secondary to digestive bleeding.,4.8 g
+S0212-16112012000600045-1,5,5,She was admitted due to anemization with a hemoglobin of 4.8 g/dl (VN: 12-18 gr/dl) secondary to digestive bleeding.,(VN
+S0212-16112012000600045-1,5,6,She was admitted due to anemization with a hemoglobin of 4.8 g/dl (VN: 12-18 gr/dl) secondary to digestive bleeding.,12-18 gr/dl
+S0212-16112012000600045-1,5,7,She was admitted due to anemization with a hemoglobin of 4.8 g/dl (VN: 12-18 gr/dl) secondary to digestive bleeding.,digestive bleeding
+S0212-16112012000600045-1,6,1,"She presents severe protein-calorie malnutrition (BMI: 14.7 kg/m2), with albumin of 2.48 g/dl (VN: 3.30-5.20 g/dl).",She
+S0212-16112012000600045-1,6,2,"She presents severe protein-calorie malnutrition (BMI: 14.7 kg/m2), with albumin of 2.48 g/dl (VN: 3.30-5.20 g/dl).",severe protein-calorie malnutrition
+S0212-16112012000600045-1,6,3,"She presents severe protein-calorie malnutrition (BMI: 14.7 kg/m2), with albumin of 2.48 g/dl (VN: 3.30-5.20 g/dl).",BMI
+S0212-16112012000600045-1,6,4,"She presents severe protein-calorie malnutrition (BMI: 14.7 kg/m2), with albumin of 2.48 g/dl (VN: 3.30-5.20 g/dl).",14.7 kg/m2
+S0212-16112012000600045-1,6,5,"She presents severe protein-calorie malnutrition (BMI: 14.7 kg/m2), with albumin of 2.48 g/dl (VN: 3.30-5.20 g/dl).",albumin
+S0212-16112012000600045-1,6,6,"She presents severe protein-calorie malnutrition (BMI: 14.7 kg/m2), with albumin of 2.48 g/dl (VN: 3.30-5.20 g/dl).",2.48 g
+S0212-16112012000600045-1,6,7,"She presents severe protein-calorie malnutrition (BMI: 14.7 kg/m2), with albumin of 2.48 g/dl (VN: 3.30-5.20 g/dl).",(VN
+S0212-16112012000600045-1,6,8,"She presents severe protein-calorie malnutrition (BMI: 14.7 kg/m2), with albumin of 2.48 g/dl (VN: 3.30-5.20 g/dl).",5.20 g
+S0212-16112012000600045-1,7,1,"Upon admission, she had a bladder catheter with urine in a purple collection bag.",admission
+S0212-16112012000600045-1,7,2,"Upon admission, she had a bladder catheter with urine in a purple collection bag.",she
+S0212-16112012000600045-1,7,3,"Upon admission, she had a bladder catheter with urine in a purple collection bag.",a bladder catheter
+S0212-16112012000600045-1,7,4,"Upon admission, she had a bladder catheter with urine in a purple collection bag.",urine
+S0212-16112012000600045-1,7,5,"Upon admission, she had a bladder catheter with urine in a purple collection bag.",a purple collection bag
+S0212-16112012000600045-1,8,1,"Three months earlier, she had been admitted with anasarca in relation to malnutrition due to malabsorption syndrome, and at that time the administration of high-calorie/high-protein nutritional supplements (Fortimel® 1 every 8 hours) was started.",she
+S0212-16112012000600045-1,8,2,"Three months earlier, she had been admitted with anasarca in relation to malnutrition due to malabsorption syndrome, and at that time the administration of high-calorie/high-protein nutritional supplements (Fortimel® 1 every 8 hours) was started.",anasarca
+S0212-16112012000600045-1,8,3,"Three months earlier, she had been admitted with anasarca in relation to malnutrition due to malabsorption syndrome, and at that time the administration of high-calorie/high-protein nutritional supplements (Fortimel® 1 every 8 hours) was started.",relation
+S0212-16112012000600045-1,8,4,"Three months earlier, she had been admitted with anasarca in relation to malnutrition due to malabsorption syndrome, and at that time the administration of high-calorie/high-protein nutritional supplements (Fortimel® 1 every 8 hours) was started.",malnutrition
+S0212-16112012000600045-1,8,5,"Three months earlier, she had been admitted with anasarca in relation to malnutrition due to malabsorption syndrome, and at that time the administration of high-calorie/high-protein nutritional supplements (Fortimel® 1 every 8 hours) was started.",malabsorption syndrome
+S0212-16112012000600045-1,8,6,"Three months earlier, she had been admitted with anasarca in relation to malnutrition due to malabsorption syndrome, and at that time the administration of high-calorie/high-protein nutritional supplements (Fortimel® 1 every 8 hours) was started.",that time
+S0212-16112012000600045-1,8,7,"Three months earlier, she had been admitted with anasarca in relation to malnutrition due to malabsorption syndrome, and at that time the administration of high-calorie/high-protein nutritional supplements (Fortimel® 1 every 8 hours) was started.",high-calorie/high-protein nutritional supplements
+S0212-16112012000600045-1,9,1,Table I reflects the improvement in biochemical nutritional markers from this first admission and the start of nutritional supplements until discharge from the hospital.,I
+S0212-16112012000600045-1,9,2,Table I reflects the improvement in biochemical nutritional markers from this first admission and the start of nutritional supplements until discharge from the hospital.,the improvement
+S0212-16112012000600045-1,9,3,Table I reflects the improvement in biochemical nutritional markers from this first admission and the start of nutritional supplements until discharge from the hospital.,biochemical nutritional markers
+S0212-16112012000600045-1,9,4,Table I reflects the improvement in biochemical nutritional markers from this first admission and the start of nutritional supplements until discharge from the hospital.,this first admission
+S0212-16112012000600045-1,9,5,Table I reflects the improvement in biochemical nutritional markers from this first admission and the start of nutritional supplements until discharge from the hospital.,the start
+S0212-16112012000600045-1,9,6,Table I reflects the improvement in biochemical nutritional markers from this first admission and the start of nutritional supplements until discharge from the hospital.,nutritional supplements
+S0212-16112012000600045-1,9,7,Table I reflects the improvement in biochemical nutritional markers from this first admission and the start of nutritional supplements until discharge from the hospital.,discharge
+S0212-16112012000600045-1,9,8,Table I reflects the improvement in biochemical nutritional markers from this first admission and the start of nutritional supplements until discharge from the hospital.,the hospital
+S0212-16112012000600045-1,10,1,"During the first admission, she required bladder catheterization to control diuresis, which was subsequently continued to promote healing of the ulcers in the sacral region.",the first admission
+S0212-16112012000600045-1,10,2,"During the first admission, she required bladder catheterization to control diuresis, which was subsequently continued to promote healing of the ulcers in the sacral region.",she
+S0212-16112012000600045-1,10,3,"During the first admission, she required bladder catheterization to control diuresis, which was subsequently continued to promote healing of the ulcers in the sacral region.",bladder catheterization
+S0212-16112012000600045-1,10,4,"During the first admission, she required bladder catheterization to control diuresis, which was subsequently continued to promote healing of the ulcers in the sacral region.",diuresis
+S0212-16112012000600045-1,10,5,"During the first admission, she required bladder catheterization to control diuresis, which was subsequently continued to promote healing of the ulcers in the sacral region.",which
+S0212-16112012000600045-1,10,6,"During the first admission, she required bladder catheterization to control diuresis, which was subsequently continued to promote healing of the ulcers in the sacral region.",healing
+S0212-16112012000600045-1,10,7,"During the first admission, she required bladder catheterization to control diuresis, which was subsequently continued to promote healing of the ulcers in the sacral region.",the ulcers
+S0212-16112012000600045-1,10,8,"During the first admission, she required bladder catheterization to control diuresis, which was subsequently continued to promote healing of the ulcers in the sacral region.",the sacral region
+S0212-16112012000600045-1,11,1,"Shortly before discharge, the purple color of the urine was observed in the bladder catheterization bag, so fosfomycin was empirically administered in a long regimen due to suspicion of urinary tract infection.",discharge
+S0212-16112012000600045-1,11,2,"Shortly before discharge, the purple color of the urine was observed in the bladder catheterization bag, so fosfomycin was empirically administered in a long regimen due to suspicion of urinary tract infection.",the purple color
+S0212-16112012000600045-1,11,3,"Shortly before discharge, the purple color of the urine was observed in the bladder catheterization bag, so fosfomycin was empirically administered in a long regimen due to suspicion of urinary tract infection.",the urine
+S0212-16112012000600045-1,11,4,"Shortly before discharge, the purple color of the urine was observed in the bladder catheterization bag, so fosfomycin was empirically administered in a long regimen due to suspicion of urinary tract infection.",the bladder catheterization bag
+S0212-16112012000600045-1,11,5,"Shortly before discharge, the purple color of the urine was observed in the bladder catheterization bag, so fosfomycin was empirically administered in a long regimen due to suspicion of urinary tract infection.",fosfomycin
+S0212-16112012000600045-1,11,6,"Shortly before discharge, the purple color of the urine was observed in the bladder catheterization bag, so fosfomycin was empirically administered in a long regimen due to suspicion of urinary tract infection.",a long regimen
+S0212-16112012000600045-1,11,7,"Shortly before discharge, the purple color of the urine was observed in the bladder catheterization bag, so fosfomycin was empirically administered in a long regimen due to suspicion of urinary tract infection.",suspicion
+S0212-16112012000600045-1,11,8,"Shortly before discharge, the purple color of the urine was observed in the bladder catheterization bag, so fosfomycin was empirically administered in a long regimen due to suspicion of urinary tract infection.",urinary tract infection
+S0212-16112012000600045-1,12,1,"In the present admission, the persistence of the purple color of the urine in the urinary catheter bag was evident despite antibiotic treatment.",the present admission
+S0212-16112012000600045-1,12,2,"In the present admission, the persistence of the purple color of the urine in the urinary catheter bag was evident despite antibiotic treatment.",the persistence
+S0212-16112012000600045-1,12,3,"In the present admission, the persistence of the purple color of the urine in the urinary catheter bag was evident despite antibiotic treatment.",the purple color
+S0212-16112012000600045-1,12,4,"In the present admission, the persistence of the purple color of the urine in the urinary catheter bag was evident despite antibiotic treatment.",the urine
+S0212-16112012000600045-1,12,5,"In the present admission, the persistence of the purple color of the urine in the urinary catheter bag was evident despite antibiotic treatment.",the urinary catheter bag
+S0212-16112012000600045-1,12,6,"In the present admission, the persistence of the purple color of the urine in the urinary catheter bag was evident despite antibiotic treatment.",antibiotic treatment
+S0212-16112012000600045-1,13,1,"The patient describes having noticed this change in color since the previous discharge and that it persists when the color changes, reappearing three or four days after each change.",The patient
+S0212-16112012000600045-1,13,2,"The patient describes having noticed this change in color since the previous discharge and that it persists when the color changes, reappearing three or four days after each change.",this change
+S0212-16112012000600045-1,13,3,"The patient describes having noticed this change in color since the previous discharge and that it persists when the color changes, reappearing three or four days after each change.",color
+S0212-16112012000600045-1,13,4,"The patient describes having noticed this change in color since the previous discharge and that it persists when the color changes, reappearing three or four days after each change.",the previous discharge
+S0212-16112012000600045-1,13,5,"The patient describes having noticed this change in color since the previous discharge and that it persists when the color changes, reappearing three or four days after each change.",it
+S0212-16112012000600045-1,13,6,"The patient describes having noticed this change in color since the previous discharge and that it persists when the color changes, reappearing three or four days after each change.",three or four days
+S0212-16112012000600045-1,13,7,"The patient describes having noticed this change in color since the previous discharge and that it persists when the color changes, reappearing three or four days after each change.",each change
+S0212-16112012000600045-1,14,1,She did not present fever or leukocytosis at any time.,She
+S0212-16112012000600045-1,14,2,She did not present fever or leukocytosis at any time.,fever
+S0212-16112012000600045-1,14,3,She did not present fever or leukocytosis at any time.,leukocytosis
+S0212-16112012000600045-1,14,4,She did not present fever or leukocytosis at any time.,any time
+S0212-16112012000600045-1,15,1,"The biochemical analysis of the urine shows an alkaline pH (8.5), which can also be observed in analyzes from previous months.",The biochemical analysis
+S0212-16112012000600045-1,15,2,"The biochemical analysis of the urine shows an alkaline pH (8.5), which can also be observed in analyzes from previous months.",the urine
+S0212-16112012000600045-1,15,3,"The biochemical analysis of the urine shows an alkaline pH (8.5), which can also be observed in analyzes from previous months.",an alkaline pH
+S0212-16112012000600045-1,15,4,"The biochemical analysis of the urine shows an alkaline pH (8.5), which can also be observed in analyzes from previous months.",which
+S0212-16112012000600045-1,15,5,"The biochemical analysis of the urine shows an alkaline pH (8.5), which can also be observed in analyzes from previous months.",analyzes
+S0212-16112012000600045-1,15,6,"The biochemical analysis of the urine shows an alkaline pH (8.5), which can also be observed in analyzes from previous months.",previous months
+S0212-16112012000600045-1,16,1,"Additionally, in the sediment there are ammonium magnesium phosphate crystals, 10-25 red blood cells per field, 10-25 leukocytes per field and abundant bacteriuria.",the sediment
+S0212-16112012000600045-1,16,2,"Additionally, in the sediment there are ammonium magnesium phosphate crystals, 10-25 red blood cells per field, 10-25 leukocytes per field and abundant bacteriuria.",ammonium magnesium phosphate crystals
+S0212-16112012000600045-1,16,3,"Additionally, in the sediment there are ammonium magnesium phosphate crystals, 10-25 red blood cells per field, 10-25 leukocytes per field and abundant bacteriuria.",10-25 red blood cells
+S0212-16112012000600045-1,16,4,"Additionally, in the sediment there are ammonium magnesium phosphate crystals, 10-25 red blood cells per field, 10-25 leukocytes per field and abundant bacteriuria.",field
+S0212-16112012000600045-1,16,5,"Additionally, in the sediment there are ammonium magnesium phosphate crystals, 10-25 red blood cells per field, 10-25 leukocytes per field and abundant bacteriuria.",10-25 leukocytes
+S0212-16112012000600045-1,16,6,"Additionally, in the sediment there are ammonium magnesium phosphate crystals, 10-25 red blood cells per field, 10-25 leukocytes per field and abundant bacteriuria.",field
+S0212-16112012000600045-1,16,7,"Additionally, in the sediment there are ammonium magnesium phosphate crystals, 10-25 red blood cells per field, 10-25 leukocytes per field and abundant bacteriuria.",abundant bacteriuria
+S0212-16112012000600045-1,17,1,The nitrite reaction is negative.,The nitrite reaction
+S0212-16112012000600045-1,18,1,"Proteus vulgaris, resistant to fosfomycin, was isolated in the urine culture.",Proteus vulgaris
+S0212-16112012000600045-1,18,2,"Proteus vulgaris, resistant to fosfomycin, was isolated in the urine culture.",fosfomycin
+S0212-16112012000600045-1,18,3,"Proteus vulgaris, resistant to fosfomycin, was isolated in the urine culture.",the urine culture
+S0212-16112012000600045-1,19,1,Treatment was started with ciprofloxacin (sensitive according to antibiogram) and the urinary catheter changed.,Treatment
+S0212-16112012000600045-1,19,2,Treatment was started with ciprofloxacin (sensitive according to antibiogram) and the urinary catheter changed.,ciprofloxacin
+S0212-16112012000600045-1,19,3,Treatment was started with ciprofloxacin (sensitive according to antibiogram) and the urinary catheter changed.,antibiogram
+S0212-16112012000600045-1,19,4,Treatment was started with ciprofloxacin (sensitive according to antibiogram) and the urinary catheter changed.,the urinary catheter
+S0212-16112012000600045-1,20,1,"After 48 hours, the urine acquires a normal color.",48 hours
+S0212-16112012000600045-1,20,2,"After 48 hours, the urine acquires a normal color.",the urine
+S0212-16112012000600045-1,20,3,"After 48 hours, the urine acquires a normal color.",a normal color

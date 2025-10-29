@@ -1,0 +1,30 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1131-57682001000100007-2,1,1,Thirteen-year-old woman presents with a 12-day history of fever accompanied by left axillary lymphadenopathy.,Thirteen-year-old woman
+S1131-57682001000100007-2,1,2,Thirteen-year-old woman presents with a 12-day history of fever accompanied by left axillary lymphadenopathy.,a 12-day history
+S1131-57682001000100007-2,1,3,Thirteen-year-old woman presents with a 12-day history of fever accompanied by left axillary lymphadenopathy.,fever
+S1131-57682001000100007-2,1,4,Thirteen-year-old woman presents with a 12-day history of fever accompanied by left axillary lymphadenopathy.,left axillary lymphadenopathy
+S1131-57682001000100007-2,2,1,The initial examination was negative except for scratches on the left hand.,The initial examination
+S1131-57682001000100007-2,2,2,The initial examination was negative except for scratches on the left hand.,scratches
+S1131-57682001000100007-2,2,3,The initial examination was negative except for scratches on the left hand.,the left hand
+S1131-57682001000100007-2,3,1,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",Initial laboratory data
+S1131-57682001000100007-2,3,2,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",leukocytes
+S1131-57682001000100007-2,3,3,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",32%
+S1131-57682001000100007-2,3,4,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",9%
+S1131-57682001000100007-2,3,5,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",51% granulocytes
+S1131-57682001000100007-2,3,6,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",14 mm
+S1131-57682001000100007-2,3,7,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",/h
+S1131-57682001000100007-2,3,8,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",CRP
+S1131-57682001000100007-2,3,9,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",mg
+S1131-57682001000100007-2,3,10,"Initial laboratory data included: leukocytes 4,700 (32% lymphocytes; 9% monocytes and 51% granulocytes); ESR 14 mm/h; CRP 2.4 mg/dl; negative blood culture.",dl
+S1131-57682001000100007-2,4,1,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",the persistence
+S1131-57682001000100007-2,4,2,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",fever
+S1131-57682001000100007-2,4,3,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",the presence
+S1131-57682001000100007-2,4,4,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",Cat Scratch Disease
+S1131-57682001000100007-2,4,5,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",Bartonella henselae serology
+S1131-57682001000100007-2,4,6,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",treatment
+S1131-57682001000100007-2,4,7,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",rifampicin
+S1131-57682001000100007-2,4,8,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",the fever
+S1131-57682001000100007-2,4,9,"Given the persistence of fever and the presence of lymphadenopathy, Cat Scratch Disease was suspected, Bartonella henselae serology was performed and treatment with rifampicin was started, with the fever disappearing 3 days after starting treatment.",treatment
+S1131-57682001000100007-2,5,1,The diagnosis was later confirmed when serology for Bartonella henselae was positive.,The diagnosis
+S1131-57682001000100007-2,5,2,The diagnosis was later confirmed when serology for Bartonella henselae was positive.,serology
+S1131-57682001000100007-2,5,3,The diagnosis was later confirmed when serology for Bartonella henselae was positive.,Bartonella henselae

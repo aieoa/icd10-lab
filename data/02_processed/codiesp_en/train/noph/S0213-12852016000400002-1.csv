@@ -1,0 +1,57 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0213-12852016000400002-1,1,1,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,This
+S0213-12852016000400002-1,1,2,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,a 14-month-old boy
+S0213-12852016000400002-1,1,3,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,who
+S0213-12852016000400002-1,1,4,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,the HUCA
+S0213-12852016000400002-1,1,5,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,scaly skin lesions
+S0213-12852016000400002-1,1,6,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,the scalp
+S0213-12852016000400002-1,1,7,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,exudative skin lesions
+S0213-12852016000400002-1,1,8,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,the folds
+S0213-12852016000400002-1,1,9,This is a 14-month-old boy who came to the HUCA presenting with scaly skin lesions on the scalp and exudative skin lesions in the folds and perianal region.,perianal region
+S0213-12852016000400002-1,2,1,"A skin biopsy was performed, which gave the diagnosis of LCH.",A skin biopsy
+S0213-12852016000400002-1,2,2,"A skin biopsy was performed, which gave the diagnosis of LCH.",which
+S0213-12852016000400002-1,2,3,"A skin biopsy was performed, which gave the diagnosis of LCH.",the diagnosis
+S0213-12852016000400002-1,2,4,"A skin biopsy was performed, which gave the diagnosis of LCH.",LCH
+S0213-12852016000400002-1,3,1,The condition is limited to the skin exclusively and topical treatment is performed locally.,The condition
+S0213-12852016000400002-1,3,2,The condition is limited to the skin exclusively and topical treatment is performed locally.,the skin
+S0213-12852016000400002-1,3,3,The condition is limited to the skin exclusively and topical treatment is performed locally.,topical treatment
+S0213-12852016000400002-1,4,1,"In subsequent check-ups, localized gingivitis was diagnosed at the level of 83,84.",subsequent check-ups
+S0213-12852016000400002-1,4,2,"In subsequent check-ups, localized gingivitis was diagnosed at the level of 83,84.",localized gingivitis
+S0213-12852016000400002-1,4,3,"In subsequent check-ups, localized gingivitis was diagnosed at the level of 83,84.",the level
+S0213-12852016000400002-1,5,1,"In order to determine if there is a relationship with the previous skin process, the corresponding 84 marginal gum biopsy was performed with the sample processed with hematoxylin-eosin, according to standard technique, for histopathological study.",order
+S0213-12852016000400002-1,5,2,"In order to determine if there is a relationship with the previous skin process, the corresponding 84 marginal gum biopsy was performed with the sample processed with hematoxylin-eosin, according to standard technique, for histopathological study.",a relationship
+S0213-12852016000400002-1,5,3,"In order to determine if there is a relationship with the previous skin process, the corresponding 84 marginal gum biopsy was performed with the sample processed with hematoxylin-eosin, according to standard technique, for histopathological study.",the previous skin process
+S0213-12852016000400002-1,5,4,"In order to determine if there is a relationship with the previous skin process, the corresponding 84 marginal gum biopsy was performed with the sample processed with hematoxylin-eosin, according to standard technique, for histopathological study.",the corresponding 84 marginal gum biopsy
+S0213-12852016000400002-1,5,5,"In order to determine if there is a relationship with the previous skin process, the corresponding 84 marginal gum biopsy was performed with the sample processed with hematoxylin-eosin, according to standard technique, for histopathological study.",the sample
+S0213-12852016000400002-1,5,6,"In order to determine if there is a relationship with the previous skin process, the corresponding 84 marginal gum biopsy was performed with the sample processed with hematoxylin-eosin, according to standard technique, for histopathological study.",hematoxylin-eosin
+S0213-12852016000400002-1,5,7,"In order to determine if there is a relationship with the previous skin process, the corresponding 84 marginal gum biopsy was performed with the sample processed with hematoxylin-eosin, according to standard technique, for histopathological study.",standard technique
+S0213-12852016000400002-1,5,8,"In order to determine if there is a relationship with the previous skin process, the corresponding 84 marginal gum biopsy was performed with the sample processed with hematoxylin-eosin, according to standard technique, for histopathological study.",histopathological study
+S0213-12852016000400002-1,6,1,"At the same time, an immunohistochemical study is performed using the markers CD1a (surface antigen) and the S-100 protein specific to Langerhans cells.",the same time
+S0213-12852016000400002-1,6,2,"At the same time, an immunohistochemical study is performed using the markers CD1a (surface antigen) and the S-100 protein specific to Langerhans cells.",an immunohistochemical study
+S0213-12852016000400002-1,6,3,"At the same time, an immunohistochemical study is performed using the markers CD1a (surface antigen) and the S-100 protein specific to Langerhans cells.",the markers CD1a
+S0213-12852016000400002-1,6,4,"At the same time, an immunohistochemical study is performed using the markers CD1a (surface antigen) and the S-100 protein specific to Langerhans cells.",surface antigen
+S0213-12852016000400002-1,6,5,"At the same time, an immunohistochemical study is performed using the markers CD1a (surface antigen) and the S-100 protein specific to Langerhans cells.",the S-100 protein
+S0213-12852016000400002-1,6,6,"At the same time, an immunohistochemical study is performed using the markers CD1a (surface antigen) and the S-100 protein specific to Langerhans cells.",Langerhans cells
+S0213-12852016000400002-1,7,1,The result of the pathological study determined the presence of a squamous epithelium with an infiltrate of polynuclear cells and eosinophils.,The result
+S0213-12852016000400002-1,7,2,The result of the pathological study determined the presence of a squamous epithelium with an infiltrate of polynuclear cells and eosinophils.,the pathological study
+S0213-12852016000400002-1,7,3,The result of the pathological study determined the presence of a squamous epithelium with an infiltrate of polynuclear cells and eosinophils.,the presence
+S0213-12852016000400002-1,7,4,The result of the pathological study determined the presence of a squamous epithelium with an infiltrate of polynuclear cells and eosinophils.,a squamous epithelium
+S0213-12852016000400002-1,7,5,The result of the pathological study determined the presence of a squamous epithelium with an infiltrate of polynuclear cells and eosinophils.,an infiltrate
+S0213-12852016000400002-1,7,6,The result of the pathological study determined the presence of a squamous epithelium with an infiltrate of polynuclear cells and eosinophils.,polynuclear cells
+S0213-12852016000400002-1,7,7,The result of the pathological study determined the presence of a squamous epithelium with an infiltrate of polynuclear cells and eosinophils.,eosinophils
+S0213-12852016000400002-1,8,1,"At the level of the chorion, nodules composed of cells of a histiocytic structure with vesicular, clear, embossed nuclei were evident, some with an irregular ""coffee bean"" shape.",the level
+S0213-12852016000400002-1,8,2,"At the level of the chorion, nodules composed of cells of a histiocytic structure with vesicular, clear, embossed nuclei were evident, some with an irregular ""coffee bean"" shape.",the chorion
+S0213-12852016000400002-1,8,3,"At the level of the chorion, nodules composed of cells of a histiocytic structure with vesicular, clear, embossed nuclei were evident, some with an irregular ""coffee bean"" shape.",nodules
+S0213-12852016000400002-1,8,4,"At the level of the chorion, nodules composed of cells of a histiocytic structure with vesicular, clear, embossed nuclei were evident, some with an irregular ""coffee bean"" shape.",cells
+S0213-12852016000400002-1,8,5,"At the level of the chorion, nodules composed of cells of a histiocytic structure with vesicular, clear, embossed nuclei were evident, some with an irregular ""coffee bean"" shape.",a histiocytic structure
+S0213-12852016000400002-1,8,6,"At the level of the chorion, nodules composed of cells of a histiocytic structure with vesicular, clear, embossed nuclei were evident, some with an irregular ""coffee bean"" shape.","vesicular, clear, embossed nuclei"
+S0213-12852016000400002-1,8,7,"At the level of the chorion, nodules composed of cells of a histiocytic structure with vesicular, clear, embossed nuclei were evident, some with an irregular ""coffee bean"" shape.","an irregular ""coffee bean"" shape"
+S0213-12852016000400002-1,9,1,"The immunohistochemical study left evidence of positivity for the CD1a surface antigen and for the S-100 protein, effectively determining the oral impact of the disease.",The immunohistochemical study
+S0213-12852016000400002-1,9,2,"The immunohistochemical study left evidence of positivity for the CD1a surface antigen and for the S-100 protein, effectively determining the oral impact of the disease.",evidence
+S0213-12852016000400002-1,9,3,"The immunohistochemical study left evidence of positivity for the CD1a surface antigen and for the S-100 protein, effectively determining the oral impact of the disease.",positivity
+S0213-12852016000400002-1,9,4,"The immunohistochemical study left evidence of positivity for the CD1a surface antigen and for the S-100 protein, effectively determining the oral impact of the disease.",the CD1a surface antigen
+S0213-12852016000400002-1,9,5,"The immunohistochemical study left evidence of positivity for the CD1a surface antigen and for the S-100 protein, effectively determining the oral impact of the disease.",the S-100 protein
+S0213-12852016000400002-1,9,6,"The immunohistochemical study left evidence of positivity for the CD1a surface antigen and for the S-100 protein, effectively determining the oral impact of the disease.",the oral impact
+S0213-12852016000400002-1,9,7,"The immunohistochemical study left evidence of positivity for the CD1a surface antigen and for the S-100 protein, effectively determining the oral impact of the disease.",the disease
+S0213-12852016000400002-1,10,1,The patient was classified as having multifocal Langerhans cell histiocytosis.,The patient
+S0213-12852016000400002-1,10,2,The patient was classified as having multifocal Langerhans cell histiocytosis.,multifocal Langerhans cell histiocytosis

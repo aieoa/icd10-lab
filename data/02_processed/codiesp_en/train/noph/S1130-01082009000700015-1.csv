@@ -1,0 +1,63 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082009000700015-1,1,1,A 33-year-old woman presented with abdominal pain of two months' duration located in the right iliac fossa without other accompanying symptoms.,A 33-year-old woman
+S1130-01082009000700015-1,1,2,A 33-year-old woman presented with abdominal pain of two months' duration located in the right iliac fossa without other accompanying symptoms.,abdominal pain
+S1130-01082009000700015-1,1,3,A 33-year-old woman presented with abdominal pain of two months' duration located in the right iliac fossa without other accompanying symptoms.,two months' duration
+S1130-01082009000700015-1,1,4,A 33-year-old woman presented with abdominal pain of two months' duration located in the right iliac fossa without other accompanying symptoms.,the right iliac fossa
+S1130-01082009000700015-1,1,5,A 33-year-old woman presented with abdominal pain of two months' duration located in the right iliac fossa without other accompanying symptoms.,other accompanying symptoms
+S1130-01082009000700015-1,2,1,"The patient attended several hospital centers, where she was discharged with normal basic complementary tests.",The patient
+S1130-01082009000700015-1,2,2,"The patient attended several hospital centers, where she was discharged with normal basic complementary tests.",several hospital centers
+S1130-01082009000700015-1,2,3,"The patient attended several hospital centers, where she was discharged with normal basic complementary tests.",she
+S1130-01082009000700015-1,2,4,"The patient attended several hospital centers, where she was discharged with normal basic complementary tests.",normal basic complementary tests
+S1130-01082009000700015-1,3,1,She went to the emergency room of our hospital due to the persistence of her symptoms.,She
+S1130-01082009000700015-1,3,2,She went to the emergency room of our hospital due to the persistence of her symptoms.,the emergency room
+S1130-01082009000700015-1,3,3,She went to the emergency room of our hospital due to the persistence of her symptoms.,our hospital
+S1130-01082009000700015-1,3,4,She went to the emergency room of our hospital due to the persistence of her symptoms.,the persistence
+S1130-01082009000700015-1,3,5,She went to the emergency room of our hospital due to the persistence of her symptoms.,her symptoms
+S1130-01082009000700015-1,4,1,"An abdominal Doppler ultrasound was performed, in which a hypervascularized nodule measuring one centimeter in diameter was observed in the right iliac fossa.",An abdominal Doppler ultrasound
+S1130-01082009000700015-1,4,2,"An abdominal Doppler ultrasound was performed, in which a hypervascularized nodule measuring one centimeter in diameter was observed in the right iliac fossa.",which
+S1130-01082009000700015-1,4,3,"An abdominal Doppler ultrasound was performed, in which a hypervascularized nodule measuring one centimeter in diameter was observed in the right iliac fossa.",a hypervascularized nodule
+S1130-01082009000700015-1,4,4,"An abdominal Doppler ultrasound was performed, in which a hypervascularized nodule measuring one centimeter in diameter was observed in the right iliac fossa.",one centimeter
+S1130-01082009000700015-1,4,5,"An abdominal Doppler ultrasound was performed, in which a hypervascularized nodule measuring one centimeter in diameter was observed in the right iliac fossa.",diameter
+S1130-01082009000700015-1,4,6,"An abdominal Doppler ultrasound was performed, in which a hypervascularized nodule measuring one centimeter in diameter was observed in the right iliac fossa.",the right iliac fossa
+S1130-01082009000700015-1,5,1,The patient was admitted to our service with a presumptive diagnosis of endometrioma to complete studies.,The patient
+S1130-01082009000700015-1,5,2,The patient was admitted to our service with a presumptive diagnosis of endometrioma to complete studies.,our service
+S1130-01082009000700015-1,5,3,The patient was admitted to our service with a presumptive diagnosis of endometrioma to complete studies.,a presumptive diagnosis
+S1130-01082009000700015-1,5,4,The patient was admitted to our service with a presumptive diagnosis of endometrioma to complete studies.,endometrioma
+S1130-01082009000700015-1,5,5,The patient was admitted to our service with a presumptive diagnosis of endometrioma to complete studies.,studies
+S1130-01082009000700015-1,6,1,The computed tomography performed during admission revealed a single 1 x 1.5 cm nodule located in the appendix.,The computed tomography
+S1130-01082009000700015-1,6,2,The computed tomography performed during admission revealed a single 1 x 1.5 cm nodule located in the appendix.,admission
+S1130-01082009000700015-1,6,3,The computed tomography performed during admission revealed a single 1 x 1.5 cm nodule located in the appendix.,a single 1 x 1.5 cm nodule
+S1130-01082009000700015-1,6,4,The computed tomography performed during admission revealed a single 1 x 1.5 cm nodule located in the appendix.,the appendix
+S1130-01082009000700015-1,7,1,"The patient underwent surgery, performing exploratory laparoscopy, which identified the appendix without inflammatory signs, with the nodule described above.",The patient
+S1130-01082009000700015-1,7,2,"The patient underwent surgery, performing exploratory laparoscopy, which identified the appendix without inflammatory signs, with the nodule described above.",surgery
+S1130-01082009000700015-1,7,3,"The patient underwent surgery, performing exploratory laparoscopy, which identified the appendix without inflammatory signs, with the nodule described above.",exploratory laparoscopy
+S1130-01082009000700015-1,7,4,"The patient underwent surgery, performing exploratory laparoscopy, which identified the appendix without inflammatory signs, with the nodule described above.",which
+S1130-01082009000700015-1,7,5,"The patient underwent surgery, performing exploratory laparoscopy, which identified the appendix without inflammatory signs, with the nodule described above.",the appendix
+S1130-01082009000700015-1,7,6,"The patient underwent surgery, performing exploratory laparoscopy, which identified the appendix without inflammatory signs, with the nodule described above.",inflammatory signs
+S1130-01082009000700015-1,7,7,"The patient underwent surgery, performing exploratory laparoscopy, which identified the appendix without inflammatory signs, with the nodule described above.",the nodule
+S1130-01082009000700015-1,8,1,The pathological examination of the extracted piece macroscopically presents a nodule of hard consistency at the tip of the appendix that is reported as a granular cell tumor.,The pathological examination
+S1130-01082009000700015-1,8,2,The pathological examination of the extracted piece macroscopically presents a nodule of hard consistency at the tip of the appendix that is reported as a granular cell tumor.,the extracted piece
+S1130-01082009000700015-1,8,3,The pathological examination of the extracted piece macroscopically presents a nodule of hard consistency at the tip of the appendix that is reported as a granular cell tumor.,a nodule
+S1130-01082009000700015-1,8,4,The pathological examination of the extracted piece macroscopically presents a nodule of hard consistency at the tip of the appendix that is reported as a granular cell tumor.,hard consistency
+S1130-01082009000700015-1,8,5,The pathological examination of the extracted piece macroscopically presents a nodule of hard consistency at the tip of the appendix that is reported as a granular cell tumor.,the tip
+S1130-01082009000700015-1,8,6,The pathological examination of the extracted piece macroscopically presents a nodule of hard consistency at the tip of the appendix that is reported as a granular cell tumor.,the appendix
+S1130-01082009000700015-1,8,7,The pathological examination of the extracted piece macroscopically presents a nodule of hard consistency at the tip of the appendix that is reported as a granular cell tumor.,that
+S1130-01082009000700015-1,8,8,The pathological examination of the extracted piece macroscopically presents a nodule of hard consistency at the tip of the appendix that is reported as a granular cell tumor.,a granular cell tumor
+S1130-01082009000700015-1,9,1,The lesion extends through the subserous adipose tissue of the appendix.,The lesion
+S1130-01082009000700015-1,9,2,The lesion extends through the subserous adipose tissue of the appendix.,the subserous adipose tissue
+S1130-01082009000700015-1,9,3,The lesion extends through the subserous adipose tissue of the appendix.,the appendix
+S1130-01082009000700015-1,10,1,"Histologically, the proliferating cell is medium to large in size with a large cytoplasm and small nuclei with a patent nucleolus, highlighting the presence of eosinophilic granules in the cytoplasm.",the proliferating cell
+S1130-01082009000700015-1,10,2,"Histologically, the proliferating cell is medium to large in size with a large cytoplasm and small nuclei with a patent nucleolus, highlighting the presence of eosinophilic granules in the cytoplasm.",size
+S1130-01082009000700015-1,10,3,"Histologically, the proliferating cell is medium to large in size with a large cytoplasm and small nuclei with a patent nucleolus, highlighting the presence of eosinophilic granules in the cytoplasm.",a large cytoplasm
+S1130-01082009000700015-1,10,4,"Histologically, the proliferating cell is medium to large in size with a large cytoplasm and small nuclei with a patent nucleolus, highlighting the presence of eosinophilic granules in the cytoplasm.",small nuclei
+S1130-01082009000700015-1,10,5,"Histologically, the proliferating cell is medium to large in size with a large cytoplasm and small nuclei with a patent nucleolus, highlighting the presence of eosinophilic granules in the cytoplasm.",a patent nucleolus
+S1130-01082009000700015-1,10,6,"Histologically, the proliferating cell is medium to large in size with a large cytoplasm and small nuclei with a patent nucleolus, highlighting the presence of eosinophilic granules in the cytoplasm.",the presence
+S1130-01082009000700015-1,10,7,"Histologically, the proliferating cell is medium to large in size with a large cytoplasm and small nuclei with a patent nucleolus, highlighting the presence of eosinophilic granules in the cytoplasm.",eosinophilic granules
+S1130-01082009000700015-1,10,8,"Histologically, the proliferating cell is medium to large in size with a large cytoplasm and small nuclei with a patent nucleolus, highlighting the presence of eosinophilic granules in the cytoplasm.",the cytoplasm
+S1130-01082009000700015-1,11,1,Immunohistochemical techniques show positivity for the S100 protein.,Immunohistochemical techniques
+S1130-01082009000700015-1,11,2,Immunohistochemical techniques show positivity for the S100 protein.,positivity
+S1130-01082009000700015-1,11,3,Immunohistochemical techniques show positivity for the S100 protein.,the S100 protein
+S1130-01082009000700015-1,12,1,"Once the histological diagnosis is known, upper and lower digestive endoscopies are performed, which do not detect other lesions.",the histological diagnosis
+S1130-01082009000700015-1,12,2,"Once the histological diagnosis is known, upper and lower digestive endoscopies are performed, which do not detect other lesions.",upper and lower digestive endoscopies
+S1130-01082009000700015-1,12,3,"Once the histological diagnosis is known, upper and lower digestive endoscopies are performed, which do not detect other lesions.",which
+S1130-01082009000700015-1,12,4,"Once the histological diagnosis is known, upper and lower digestive endoscopies are performed, which do not detect other lesions.",other lesions

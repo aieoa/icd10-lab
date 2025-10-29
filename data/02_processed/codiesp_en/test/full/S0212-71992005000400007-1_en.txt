@@ -1,0 +1,21 @@
+Anamnesis: We present the case of a 75-year-old woman, with a personal history of insulin-dependent type 2 diabetes mellitus, arterial hypertension, dyslipidemia, ischemic heart disease, appendectomy and cholecystectomy, who presented with fever for 1 month, accompanied in the last 6 months by constitutional syndrome (anorexia, asthenia and weight loss of about 21 kilograms) and the appearance of multiple skin hematomas due to minimal trauma.
+Physical examination: The physical examination revealed intense mucocutaneous pallor, multiple skin hematomas, generalized decreased breath sounds with crackles at the right lung base on lung auscultation, and splenomegaly on palpation, without hepatomegaly or peripheral lymphadenopathy.
+Complementary tests: The complementary tests provided the following results:
+-Hemogram: a) red series: hemoglobin 7.2 g/dl, hematocrit 22%, red blood cells 2,710,000/µl, MCV 81.1 fl, HCM 26.6 pg, MCHC 32.8 g/dl, distribution width erythrocytes 19.8%, reticulocytes 3.45% (107,000/µl); b) platelet series: platelets 11,000/µl; and c) white series: leukocytes 1,500/µl.
+-Peripheral blood smear: a) red series: anisocytosis, 14% normoblasts, dacryocytes and some macroovalocytes; b) platelet series: giant platelets; c) white series: 52% segmented, 30% lymphocytes, 4% monocytes.
+-ESG: 32 mm/hour.
+-Biochemistry: glucose 67 mg/dl, urea 33 mg/dl, creatinine 0.4 mg/dl, urate 5.6 mg/dl, bilirubin 1.1 mg/dl, AST 141 IU/l, ALT 38 IU/l , Alkaline phosphatase 245 IU/l, LDH 1650 IU/L, GGT 75 IU/l, total proteins 4.9 mg/dl, cholesterol 149 mg/dl, triglycerides 266 mg/dl, calcium 9.1 mg/dl, iron 62 mg/dl, transferrin saturation index 34%, transferrin 143 mg/dl, ferritin 7597 µg/dl, vitamin B12 609 pg/ml, folate 1.81 ng/ml, alpha-fetoprotein < 1.
+-Proteinogram: albumin 54.6%, alpha 1 globulin 3%, alpha 2 globulin 11.8%, beta globulin 15.4%, gamma globulin 15.2%.
+-Chest x-ray: right basal pulmonary infiltrate.
+-Abdominal ultrasound: multiple focal liver lesions with diffuse involvement of the liver parenchyma with normal liver size, marked splenomegaly, without intra-abdominal lymphadenopathy being visualized.
+Diagnosis: Thus, in the presence of a picture of constitutional syndrome, fever, pancytopenia with evidence of bone marrow infiltration, myeloptysis (leukoerythroblastic reaction and dacryocytes in peripheral blood smears), and the presence of hepatic space-occupying lesions, it was decided. perform a bone marrow aspirate and biopsy.
+However, before obtaining the definitive result of the bone marrow examination, the patient, despite her hemotherapy support, progressed unfavorably and died 9 days after her admission. The autopsy was not performed due to the express wishes of the family.
+The bone marrow examination showed the following data:
+-Bone marrow aspirate: dry aspirate (suggestive of myelofibrosis).
+-Bone marrow biopsy: hypercellular medullary parenchyma (5/5), at the expense of a massive and diffuse infiltration of neoplastic cells with a hematopoietic appearance, with phenomena of myelofibrosis and necrosis. The tumor cells are large in size, have abundant eosinophilic cytoplasm and voluminous and polymorphic nuclei, with a prominent central nucleolus and abundant mitosis figures. No hemophagocytosis phenomena are observed.
+Immunohistochemistry:
+•CD45/ EMA/ LISOZYME (Golgi pattern)/ CD68: positive.
+•CD79a/ CD10/ CD23/ CD43/ IgS/ CD15/ CD30/ CD45RO/ CD1a/ CD2 / CD3/ CD4/ CD8/ CD57/ CD 34/ MPX/ FACTOR VIII/ LMP1 (EBV)/ BCL2/ P53: negative.
+•Cell proliferation rate (Ki 67) >80%.
+The tumor cells are accompanied by reactive T lymphoid cells (CD45RO/CD2/CD3/CD8/CD57 positive) and histiocytes (CD68 positive).
+The definitive diagnosis from the bone marrow examination was compatible with a histiocytic sarcoma according to the World Health Organization classification.

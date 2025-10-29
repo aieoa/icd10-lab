@@ -1,0 +1,236 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0212-16112007000800012-1,1,1,We present the case of a 35-year-old patient.,We
+S0212-16112007000800012-1,1,2,We present the case of a 35-year-old patient.,the case
+S0212-16112007000800012-1,1,3,We present the case of a 35-year-old patient.,a 35-year-old patient
+S0212-16112007000800012-1,2,1,She was referred to our Unit after her third hospital admission in the previous 18 months for recurrent chylous ascites.,She
+S0212-16112007000800012-1,2,2,She was referred to our Unit after her third hospital admission in the previous 18 months for recurrent chylous ascites.,our Unit
+S0212-16112007000800012-1,2,3,She was referred to our Unit after her third hospital admission in the previous 18 months for recurrent chylous ascites.,her third hospital admission
+S0212-16112007000800012-1,2,4,She was referred to our Unit after her third hospital admission in the previous 18 months for recurrent chylous ascites.,the previous 18 months
+S0212-16112007000800012-1,2,5,She was referred to our Unit after her third hospital admission in the previous 18 months for recurrent chylous ascites.,recurrent chylous ascites
+S0212-16112007000800012-1,3,1,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",no history
+S0212-16112007000800012-1,3,2,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",interest
+S0212-16112007000800012-1,3,3,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",she
+S0212-16112007000800012-1,3,4,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",the first time
+S0212-16112007000800012-1,3,5,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",symptoms
+S0212-16112007000800012-1,3,6,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",ascites
+S0212-16112007000800012-1,3,7,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",mild edema
+S0212-16112007000800012-1,3,8,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",the lower limbs
+S0212-16112007000800012-1,3,9,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",a month
+S0212-16112007000800012-1,3,10,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",a half
+S0212-16112007000800012-1,3,11,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",an exploratory laparotomy
+S0212-16112007000800012-1,3,12,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",suspicion
+S0212-16112007000800012-1,3,13,"With no history of interest, she was admitted for the first time with symptoms of ascites and mild edema in the lower limbs for a month and a half, and an exploratory laparotomy was performed due to suspicion of ovarian neoplasia.",ovarian neoplasia
+S0212-16112007000800012-1,4,1,"12 liters of ascitic fluid with chylous characteristics were evacuated, with no ovarian anomalies or peritoneal carcinomatosis observed.",12 liters
+S0212-16112007000800012-1,4,2,"12 liters of ascitic fluid with chylous characteristics were evacuated, with no ovarian anomalies or peritoneal carcinomatosis observed.",ascitic fluid
+S0212-16112007000800012-1,4,3,"12 liters of ascitic fluid with chylous characteristics were evacuated, with no ovarian anomalies or peritoneal carcinomatosis observed.",chylous characteristics
+S0212-16112007000800012-1,4,4,"12 liters of ascitic fluid with chylous characteristics were evacuated, with no ovarian anomalies or peritoneal carcinomatosis observed.",no ovarian anomalies
+S0212-16112007000800012-1,4,5,"12 liters of ascitic fluid with chylous characteristics were evacuated, with no ovarian anomalies or peritoneal carcinomatosis observed.",peritoneal carcinomatosis
+S0212-16112007000800012-1,5,1,She was discharged with diuretic treatment with spironolactone 100 mg and prednisone 40 mg in a descending regimen.,She
+S0212-16112007000800012-1,5,2,She was discharged with diuretic treatment with spironolactone 100 mg and prednisone 40 mg in a descending regimen.,diuretic treatment
+S0212-16112007000800012-1,5,3,She was discharged with diuretic treatment with spironolactone 100 mg and prednisone 40 mg in a descending regimen.,spironolactone
+S0212-16112007000800012-1,5,4,She was discharged with diuretic treatment with spironolactone 100 mg and prednisone 40 mg in a descending regimen.,100 mg
+S0212-16112007000800012-1,5,5,She was discharged with diuretic treatment with spironolactone 100 mg and prednisone 40 mg in a descending regimen.,prednisone
+S0212-16112007000800012-1,5,6,She was discharged with diuretic treatment with spironolactone 100 mg and prednisone 40 mg in a descending regimen.,40 mg
+S0212-16112007000800012-1,5,7,She was discharged with diuretic treatment with spironolactone 100 mg and prednisone 40 mg in a descending regimen.,a descending regimen
+S0212-16112007000800012-1,6,1,"After 5 months she was readmitted, extracting 9 liters of chylous fluid by evacuating paracentesis.",5 months
+S0212-16112007000800012-1,6,2,"After 5 months she was readmitted, extracting 9 liters of chylous fluid by evacuating paracentesis.",she
+S0212-16112007000800012-1,6,3,"After 5 months she was readmitted, extracting 9 liters of chylous fluid by evacuating paracentesis.",9 liters
+S0212-16112007000800012-1,6,4,"After 5 months she was readmitted, extracting 9 liters of chylous fluid by evacuating paracentesis.",chylous fluid
+S0212-16112007000800012-1,6,5,"After 5 months she was readmitted, extracting 9 liters of chylous fluid by evacuating paracentesis.",paracentesis
+S0212-16112007000800012-1,7,1,"In a new admission, 6 months later, during which the symptoms had been progressively reappearing, 14 more liters of peritoneal fluid were evacuated.",a new admission
+S0212-16112007000800012-1,7,2,"In a new admission, 6 months later, during which the symptoms had been progressively reappearing, 14 more liters of peritoneal fluid were evacuated.",which
+S0212-16112007000800012-1,7,3,"In a new admission, 6 months later, during which the symptoms had been progressively reappearing, 14 more liters of peritoneal fluid were evacuated.",the symptoms
+S0212-16112007000800012-1,7,4,"In a new admission, 6 months later, during which the symptoms had been progressively reappearing, 14 more liters of peritoneal fluid were evacuated.",14 more liters
+S0212-16112007000800012-1,7,5,"In a new admission, 6 months later, during which the symptoms had been progressively reappearing, 14 more liters of peritoneal fluid were evacuated.",peritoneal fluid
+S0212-16112007000800012-1,8,1,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",her stay
+S0212-16112007000800012-1,8,2,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",hospital
+S0212-16112007000800012-1,8,3,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",she
+S0212-16112007000800012-1,8,4,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",the following complementary tests
+S0212-16112007000800012-1,8,5,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",blood count
+S0212-16112007000800012-1,8,6,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",slight leukocytosis
+S0212-16112007000800012-1,8,7,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",normal formula
+S0212-16112007000800012-1,8,8,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",iron study
+S0212-16112007000800012-1,8,9,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",alterations
+S0212-16112007000800012-1,8,10,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",biochemical profile
+S0212-16112007000800012-1,8,11,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",hypoproteinemia
+S0212-16112007000800012-1,8,12,"Throughout her stay in hospital, she underwent the following complementary tests: blood count, with slight leukocytosis and normal formula, iron study without alterations; biochemical profile, with hypoproteinemia and hypoalbuminemia, hypocalcemia.",hypoalbuminemia
+S0212-16112007000800012-1,9,1,"Determinations of celiac profile, HBsAg, HCVAc, tumor markers, and Mantoux were negative.",Determinations
+S0212-16112007000800012-1,9,2,"Determinations of celiac profile, HBsAg, HCVAc, tumor markers, and Mantoux were negative.",celiac profile
+S0212-16112007000800012-1,9,3,"Determinations of celiac profile, HBsAg, HCVAc, tumor markers, and Mantoux were negative.",HBsAg
+S0212-16112007000800012-1,9,4,"Determinations of celiac profile, HBsAg, HCVAc, tumor markers, and Mantoux were negative.",HCVAc
+S0212-16112007000800012-1,9,5,"Determinations of celiac profile, HBsAg, HCVAc, tumor markers, and Mantoux were negative.",tumor markers
+S0212-16112007000800012-1,9,6,"Determinations of celiac profile, HBsAg, HCVAc, tumor markers, and Mantoux were negative.",Mantoux
+S0212-16112007000800012-1,10,1,"Levels of ASLO, C-reactive protein and serum α-1 antitrypsin were normal.",Levels
+S0212-16112007000800012-1,10,2,"Levels of ASLO, C-reactive protein and serum α-1 antitrypsin were normal.",ASLO
+S0212-16112007000800012-1,10,3,"Levels of ASLO, C-reactive protein and serum α-1 antitrypsin were normal.",C-reactive protein
+S0212-16112007000800012-1,10,4,"Levels of ASLO, C-reactive protein and serum α-1 antitrypsin were normal.",serum α-1 antitrypsin
+S0212-16112007000800012-1,11,1,Study of thyroid function within normality.,Study
+S0212-16112007000800012-1,11,2,Study of thyroid function within normality.,thyroid function
+S0212-16112007000800012-1,11,3,Study of thyroid function within normality.,normality
+S0212-16112007000800012-1,12,1,The serum proteinogram showed decreased albumin and gamma globulin values.,The serum proteinogram
+S0212-16112007000800012-1,12,2,The serum proteinogram showed decreased albumin and gamma globulin values.,decreased albumin and gamma globulin values
+S0212-16112007000800012-1,13,1,The extracted ascitic fluid presented characteristics of exudate and chylous appearance.,The extracted ascitic fluid presented characteristics
+S0212-16112007000800012-1,13,2,The extracted ascitic fluid presented characteristics of exudate and chylous appearance.,exudate and chylous appearance
+S0212-16112007000800012-1,14,1,Her culture was negative.,Her culture
+S0212-16112007000800012-1,15,1,"The thoracoabdominal CT revealed a normal chest, ascites in all peritoneal compartments, and edema in loops of the small intestine.",The thoracoabdominal
+S0212-16112007000800012-1,15,2,"The thoracoabdominal CT revealed a normal chest, ascites in all peritoneal compartments, and edema in loops of the small intestine.",CT
+S0212-16112007000800012-1,15,3,"The thoracoabdominal CT revealed a normal chest, ascites in all peritoneal compartments, and edema in loops of the small intestine.",a normal chest
+S0212-16112007000800012-1,15,4,"The thoracoabdominal CT revealed a normal chest, ascites in all peritoneal compartments, and edema in loops of the small intestine.",ascites
+S0212-16112007000800012-1,15,5,"The thoracoabdominal CT revealed a normal chest, ascites in all peritoneal compartments, and edema in loops of the small intestine.",all peritoneal compartments
+S0212-16112007000800012-1,15,6,"The thoracoabdominal CT revealed a normal chest, ascites in all peritoneal compartments, and edema in loops of the small intestine.",edema
+S0212-16112007000800012-1,15,7,"The thoracoabdominal CT revealed a normal chest, ascites in all peritoneal compartments, and edema in loops of the small intestine.",loops
+S0212-16112007000800012-1,15,8,"The thoracoabdominal CT revealed a normal chest, ascites in all peritoneal compartments, and edema in loops of the small intestine.",the small intestine
+S0212-16112007000800012-1,16,1,"The abdominal ultrasound showed abundant peritoneal ascitic fluid, with normal liver, portal vein, great vessels, gallbladder and spleen.",The abdominal ultrasound
+S0212-16112007000800012-1,16,2,"The abdominal ultrasound showed abundant peritoneal ascitic fluid, with normal liver, portal vein, great vessels, gallbladder and spleen.",abundant peritoneal ascitic fluid
+S0212-16112007000800012-1,16,3,"The abdominal ultrasound showed abundant peritoneal ascitic fluid, with normal liver, portal vein, great vessels, gallbladder and spleen.",normal liver
+S0212-16112007000800012-1,16,4,"The abdominal ultrasound showed abundant peritoneal ascitic fluid, with normal liver, portal vein, great vessels, gallbladder and spleen.",portal vein
+S0212-16112007000800012-1,16,5,"The abdominal ultrasound showed abundant peritoneal ascitic fluid, with normal liver, portal vein, great vessels, gallbladder and spleen.",great vessels
+S0212-16112007000800012-1,16,6,"The abdominal ultrasound showed abundant peritoneal ascitic fluid, with normal liver, portal vein, great vessels, gallbladder and spleen.",gallbladder
+S0212-16112007000800012-1,16,7,"The abdominal ultrasound showed abundant peritoneal ascitic fluid, with normal liver, portal vein, great vessels, gallbladder and spleen.",spleen
+S0212-16112007000800012-1,17,1,"Fibroenteroscopy, reaching the cecum, shows from the bulb to the sections of jejunum explored, irregularity in the villous pattern, fold edema and numerous punctate lymphangiectasias.",Fibroenteroscopy
+S0212-16112007000800012-1,17,2,"Fibroenteroscopy, reaching the cecum, shows from the bulb to the sections of jejunum explored, irregularity in the villous pattern, fold edema and numerous punctate lymphangiectasias.",the cecum
+S0212-16112007000800012-1,17,3,"Fibroenteroscopy, reaching the cecum, shows from the bulb to the sections of jejunum explored, irregularity in the villous pattern, fold edema and numerous punctate lymphangiectasias.",the bulb
+S0212-16112007000800012-1,17,4,"Fibroenteroscopy, reaching the cecum, shows from the bulb to the sections of jejunum explored, irregularity in the villous pattern, fold edema and numerous punctate lymphangiectasias.",the sections
+S0212-16112007000800012-1,17,5,"Fibroenteroscopy, reaching the cecum, shows from the bulb to the sections of jejunum explored, irregularity in the villous pattern, fold edema and numerous punctate lymphangiectasias.",irregularity
+S0212-16112007000800012-1,17,6,"Fibroenteroscopy, reaching the cecum, shows from the bulb to the sections of jejunum explored, irregularity in the villous pattern, fold edema and numerous punctate lymphangiectasias.",the villous pattern
+S0212-16112007000800012-1,17,7,"Fibroenteroscopy, reaching the cecum, shows from the bulb to the sections of jejunum explored, irregularity in the villous pattern, fold edema and numerous punctate lymphangiectasias.",fold edema
+S0212-16112007000800012-1,17,8,"Fibroenteroscopy, reaching the cecum, shows from the bulb to the sections of jejunum explored, irregularity in the villous pattern, fold edema and numerous punctate lymphangiectasias.",numerous punctate lymphangiectasias
+S0212-16112007000800012-1,18,1,"Ileoscopy was performed, and the terminal ileum presented an extremely irregular mucosa, with whitish plaques that were friable when biopsies were taken.",Ileoscopy
+S0212-16112007000800012-1,18,2,"Ileoscopy was performed, and the terminal ileum presented an extremely irregular mucosa, with whitish plaques that were friable when biopsies were taken.",the terminal ileum
+S0212-16112007000800012-1,18,3,"Ileoscopy was performed, and the terminal ileum presented an extremely irregular mucosa, with whitish plaques that were friable when biopsies were taken.",an extremely irregular mucosa
+S0212-16112007000800012-1,18,4,"Ileoscopy was performed, and the terminal ileum presented an extremely irregular mucosa, with whitish plaques that were friable when biopsies were taken.",whitish plaques
+S0212-16112007000800012-1,18,5,"Ileoscopy was performed, and the terminal ileum presented an extremely irregular mucosa, with whitish plaques that were friable when biopsies were taken.",that
+S0212-16112007000800012-1,18,6,"Ileoscopy was performed, and the terminal ileum presented an extremely irregular mucosa, with whitish plaques that were friable when biopsies were taken.",biopsies
+S0212-16112007000800012-1,19,1,"Capsuloendoscopy shows diffuse involvement of the small intestine, with punctate ""millet grain"" formations and edematous and congestive folds.",Capsuloendoscopy
+S0212-16112007000800012-1,19,2,"Capsuloendoscopy shows diffuse involvement of the small intestine, with punctate ""millet grain"" formations and edematous and congestive folds.",diffuse involvement
+S0212-16112007000800012-1,19,3,"Capsuloendoscopy shows diffuse involvement of the small intestine, with punctate ""millet grain"" formations and edematous and congestive folds.",the small intestine
+S0212-16112007000800012-1,19,4,"Capsuloendoscopy shows diffuse involvement of the small intestine, with punctate ""millet grain"" formations and edematous and congestive folds.","punctate ""millet grain"" formations"
+S0212-16112007000800012-1,19,5,"Capsuloendoscopy shows diffuse involvement of the small intestine, with punctate ""millet grain"" formations and edematous and congestive folds.",edematous and congestive folds
+S0212-16112007000800012-1,20,1,"The intestinal mucosa biopsy was reported as lymphoid follicular hyperplasia, focal lymphangiectasia; and the gastric, duodenal and jejunal mucosa did not show significant alterations.",The intestinal mucosa biopsy
+S0212-16112007000800012-1,20,2,"The intestinal mucosa biopsy was reported as lymphoid follicular hyperplasia, focal lymphangiectasia; and the gastric, duodenal and jejunal mucosa did not show significant alterations.",lymphoid follicular hyperplasia
+S0212-16112007000800012-1,20,3,"The intestinal mucosa biopsy was reported as lymphoid follicular hyperplasia, focal lymphangiectasia; and the gastric, duodenal and jejunal mucosa did not show significant alterations.",focal lymphangiectasia
+S0212-16112007000800012-1,20,4,"The intestinal mucosa biopsy was reported as lymphoid follicular hyperplasia, focal lymphangiectasia; and the gastric, duodenal and jejunal mucosa did not show significant alterations.",duodenal and jejunal mucosa
+S0212-16112007000800012-1,20,5,"The intestinal mucosa biopsy was reported as lymphoid follicular hyperplasia, focal lymphangiectasia; and the gastric, duodenal and jejunal mucosa did not show significant alterations.",significant alterations
+S0212-16112007000800012-1,21,1,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",Treatment
+S0212-16112007000800012-1,21,2,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",diuretics
+S0212-16112007000800012-1,21,3,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",intravenous albumin
+S0212-16112007000800012-1,21,4,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",a favorable clinical evolution
+S0212-16112007000800012-1,21,5,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",she
+S0212-16112007000800012-1,21,6,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",the diagnosis
+S0212-16112007000800012-1,21,7,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",primary intestinal lymphangiectasia
+S0212-16112007000800012-1,21,8,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",home treatment
+S0212-16112007000800012-1,21,9,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",Furosemide
+S0212-16112007000800012-1,21,10,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",40 mg
+S0212-16112007000800012-1,21,11,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",Spironolactone
+S0212-16112007000800012-1,21,12,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",100 mg
+S0212-16112007000800012-1,21,13,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",Prednisone
+S0212-16112007000800012-1,21,14,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",30 mg
+S0212-16112007000800012-1,21,15,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",she
+S0212-16112007000800012-1,21,16,"Treatment with diuretics and intravenous albumin was started, presenting a favorable clinical evolution, and she was discharged with the diagnosis of primary intestinal lymphangiectasia, and home treatment was prescribed with Furosemide 40 mg, Spironolactone 100 mg and Prednisone 30 mg, and she was referred to the Nutrition Unit.",the Nutrition Unit
+S0212-16112007000800012-1,22,1,Clinic and Dietetics for assessment and follow-up.,Clinic
+S0212-16112007000800012-1,22,2,Clinic and Dietetics for assessment and follow-up.,Dietetics
+S0212-16112007000800012-1,22,3,Clinic and Dietetics for assessment and follow-up.,assessment
+S0212-16112007000800012-1,22,4,Clinic and Dietetics for assessment and follow-up.,follow-up
+S0212-16112007000800012-1,23,1,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",The examination
+S0212-16112007000800012-1,23,2,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",the Consultations
+S0212-16112007000800012-1,23,3,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",a height
+S0212-16112007000800012-1,23,4,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",1.65 m
+S0212-16112007000800012-1,23,5,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",weight
+S0212-16112007000800012-1,23,6,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",53.5 kg
+S0212-16112007000800012-1,23,7,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",BMI 19.3 kg/m2
+S0212-16112007000800012-1,23,8,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",evacuation
+S0212-16112007000800012-1,23,9,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",14 L
+S0212-16112007000800012-1,23,10,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",ascites fluid
+S0212-16112007000800012-1,23,11,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",admission
+S0212-16112007000800012-1,23,12,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",she
+S0212-16112007000800012-1,23,13,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",the onset
+S0212-16112007000800012-1,23,14,"The examination in the Consultations shows a height of 1.65 m, weight 53.5 kg, with BMI 19.3 kg/m2, after evacuation of 14 L of ascites fluid during admission; Subjectively, she is thinner than before the onset of symptoms.",symptoms
+S0212-16112007000800012-1,24,1,"The patient presents pale skin, long fingers, and discrete symmetrical malleolar edema.",The patient
+S0212-16112007000800012-1,24,2,"The patient presents pale skin, long fingers, and discrete symmetrical malleolar edema.",pale skin
+S0212-16112007000800012-1,24,3,"The patient presents pale skin, long fingers, and discrete symmetrical malleolar edema.",long fingers
+S0212-16112007000800012-1,24,4,"The patient presents pale skin, long fingers, and discrete symmetrical malleolar edema.",discrete symmetrical malleolar edema
+S0212-16112007000800012-1,25,1,The rest of the physical examination is normal.,The rest
+S0212-16112007000800012-1,25,2,The rest of the physical examination is normal.,the physical examination
+S0212-16112007000800012-1,26,1,"He did not report the usual gastrointestinal symptoms, except for 1-2 stools a day that looked somewhat greasy.",He
+S0212-16112007000800012-1,26,2,"He did not report the usual gastrointestinal symptoms, except for 1-2 stools a day that looked somewhat greasy.",the usual gastrointestinal symptoms
+S0212-16112007000800012-1,26,3,"He did not report the usual gastrointestinal symptoms, except for 1-2 stools a day that looked somewhat greasy.",1-2 stools
+S0212-16112007000800012-1,26,4,"He did not report the usual gastrointestinal symptoms, except for 1-2 stools a day that looked somewhat greasy.",that
+S0212-16112007000800012-1,26,5,"He did not report the usual gastrointestinal symptoms, except for 1-2 stools a day that looked somewhat greasy.",somewhat greasy
+S0212-16112007000800012-1,27,1,"Eat a varied diet, always avoiding excessively fatty foods, due to intolerance.",a varied diet
+S0212-16112007000800012-1,27,2,"Eat a varied diet, always avoiding excessively fatty foods, due to intolerance.",excessively fatty foods
+S0212-16112007000800012-1,27,3,"Eat a varied diet, always avoiding excessively fatty foods, due to intolerance.",intolerance
+S0212-16112007000800012-1,28,1,Deny toxic habits.,Deny
+S0212-16112007000800012-1,28,2,Deny toxic habits.,toxic habits
+S0212-16112007000800012-1,29,1,Nuligesta.,Nuligesta
+S0212-16112007000800012-1,30,1,"Analytically, serum values ​​of total proteins were 3.4 g/dL, albumin 2.1 g/dL, and calcium 7.3 mg/dL.",serum
+S0212-16112007000800012-1,30,2,"Analytically, serum values ​​of total proteins were 3.4 g/dL, albumin 2.1 g/dL, and calcium 7.3 mg/dL.",​​of total proteins
+S0212-16112007000800012-1,30,3,"Analytically, serum values ​​of total proteins were 3.4 g/dL, albumin 2.1 g/dL, and calcium 7.3 mg/dL.",3.4 g/dL
+S0212-16112007000800012-1,30,4,"Analytically, serum values ​​of total proteins were 3.4 g/dL, albumin 2.1 g/dL, and calcium 7.3 mg/dL.",2.1 g/dL
+S0212-16112007000800012-1,30,5,"Analytically, serum values ​​of total proteins were 3.4 g/dL, albumin 2.1 g/dL, and calcium 7.3 mg/dL.",calcium
+S0212-16112007000800012-1,31,1,"The rest of the basic biochemistry, lipidogram, and blood count were normal.",The rest
+S0212-16112007000800012-1,31,2,"The rest of the basic biochemistry, lipidogram, and blood count were normal.",the basic biochemistry
+S0212-16112007000800012-1,31,3,"The rest of the basic biochemistry, lipidogram, and blood count were normal.",lipidogram
+S0212-16112007000800012-1,31,4,"The rest of the basic biochemistry, lipidogram, and blood count were normal.",blood count
+S0212-16112007000800012-1,32,1,We decided to institute dietary treatment.,We
+S0212-16112007000800012-1,32,2,We decided to institute dietary treatment.,dietary treatment
+S0212-16112007000800012-1,33,1,"A personalized diet is prepared, with 2,200 kcal in 24 hours and the following distribution of nutrients: 52% carbohydrates, 30% lipids, 18% proteins.",A personalized diet
+S0212-16112007000800012-1,33,2,"A personalized diet is prepared, with 2,200 kcal in 24 hours and the following distribution of nutrients: 52% carbohydrates, 30% lipids, 18% proteins.","2,200 kcal"
+S0212-16112007000800012-1,33,3,"A personalized diet is prepared, with 2,200 kcal in 24 hours and the following distribution of nutrients: 52% carbohydrates, 30% lipids, 18% proteins.",24 hours
+S0212-16112007000800012-1,33,4,"A personalized diet is prepared, with 2,200 kcal in 24 hours and the following distribution of nutrients: 52% carbohydrates, 30% lipids, 18% proteins.",the following distribution
+S0212-16112007000800012-1,33,5,"A personalized diet is prepared, with 2,200 kcal in 24 hours and the following distribution of nutrients: 52% carbohydrates, 30% lipids, 18% proteins.",nutrients
+S0212-16112007000800012-1,33,6,"A personalized diet is prepared, with 2,200 kcal in 24 hours and the following distribution of nutrients: 52% carbohydrates, 30% lipids, 18% proteins.",52% carbohydrates
+S0212-16112007000800012-1,33,7,"A personalized diet is prepared, with 2,200 kcal in 24 hours and the following distribution of nutrients: 52% carbohydrates, 30% lipids, 18% proteins.",30% lipids
+S0212-16112007000800012-1,33,8,"A personalized diet is prepared, with 2,200 kcal in 24 hours and the following distribution of nutrients: 52% carbohydrates, 30% lipids, 18% proteins.",18% proteins
+S0212-16112007000800012-1,34,1,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",The contribution
+S0212-16112007000800012-1,34,2,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",fats
+S0212-16112007000800012-1,34,3,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",food
+S0212-16112007000800012-1,34,4,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",lipids
+S0212-16112007000800012-1,34,5,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",the form
+S0212-16112007000800012-1,34,6,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",MCT oil
+S0212-16112007000800012-1,34,7,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",the amount
+S0212-16112007000800012-1,34,8,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",85 ml
+S0212-16112007000800012-1,34,9,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",day
+S0212-16112007000800012-1,34,10,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",the diet
+S0212-16112007000800012-1,34,11,"The contribution of fats from food is restricted, and lipids are provided in the form of MCT oil, using the amount of 85 ml per day, introduced into the diet progressively to avoid intolerances.",intolerances
+S0212-16112007000800012-1,35,1,The protein contributions of the diet are completed with 400 ml of high protein formula for enteral nutrition and 20 g of powdered protein module.,The protein contributions
+S0212-16112007000800012-1,35,2,The protein contributions of the diet are completed with 400 ml of high protein formula for enteral nutrition and 20 g of powdered protein module.,the diet
+S0212-16112007000800012-1,35,3,The protein contributions of the diet are completed with 400 ml of high protein formula for enteral nutrition and 20 g of powdered protein module.,400 ml
+S0212-16112007000800012-1,35,4,The protein contributions of the diet are completed with 400 ml of high protein formula for enteral nutrition and 20 g of powdered protein module.,high protein formula
+S0212-16112007000800012-1,35,5,The protein contributions of the diet are completed with 400 ml of high protein formula for enteral nutrition and 20 g of powdered protein module.,enteral nutrition
+S0212-16112007000800012-1,35,6,The protein contributions of the diet are completed with 400 ml of high protein formula for enteral nutrition and 20 g of powdered protein module.,20 g
+S0212-16112007000800012-1,35,7,The protein contributions of the diet are completed with 400 ml of high protein formula for enteral nutrition and 20 g of powdered protein module.,powdered protein module
+S0212-16112007000800012-1,36,1,"In addition, a vitamin-mineral supplement is added.",addition
+S0212-16112007000800012-1,36,2,"In addition, a vitamin-mineral supplement is added.",a vitamin-mineral supplement
+S0212-16112007000800012-1,37,1,"The patient is cooperative and shows strict compliance with the recommended guidelines, with good adaptation and excellent tolerance.",The patient
+S0212-16112007000800012-1,37,2,"The patient is cooperative and shows strict compliance with the recommended guidelines, with good adaptation and excellent tolerance.",strict compliance
+S0212-16112007000800012-1,37,3,"The patient is cooperative and shows strict compliance with the recommended guidelines, with good adaptation and excellent tolerance.",the recommended guidelines
+S0212-16112007000800012-1,37,4,"The patient is cooperative and shows strict compliance with the recommended guidelines, with good adaptation and excellent tolerance.",good adaptation
+S0212-16112007000800012-1,37,5,"The patient is cooperative and shows strict compliance with the recommended guidelines, with good adaptation and excellent tolerance.",excellent tolerance
+S0212-16112007000800012-1,38,1,"After 11 months of follow-up, she has achieved weight gain, weighing 59.3 kg and BMI 21.4.",11 months
+S0212-16112007000800012-1,38,2,"After 11 months of follow-up, she has achieved weight gain, weighing 59.3 kg and BMI 21.4.",follow-up
+S0212-16112007000800012-1,38,3,"After 11 months of follow-up, she has achieved weight gain, weighing 59.3 kg and BMI 21.4.",she
+S0212-16112007000800012-1,38,4,"After 11 months of follow-up, she has achieved weight gain, weighing 59.3 kg and BMI 21.4.",weight gain
+S0212-16112007000800012-1,38,5,"After 11 months of follow-up, she has achieved weight gain, weighing 59.3 kg and BMI 21.4.",59.3 kg
+S0212-16112007000800012-1,38,6,"After 11 months of follow-up, she has achieved weight gain, weighing 59.3 kg and BMI 21.4.",BMI
+S0212-16112007000800012-1,39,1,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",The analytical parameters
+S0212-16112007000800012-1,39,2,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",a significant improvement
+S0212-16112007000800012-1,39,3,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",serum values
+S0212-16112007000800012-1,39,4,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",total protein
+S0212-16112007000800012-1,39,5,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",g
+S0212-16112007000800012-1,39,6,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",/L
+S0212-16112007000800012-1,39,7,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",3.7 g/L
+S0212-16112007000800012-1,39,8,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",calcium
+S0212-16112007000800012-1,39,9,"The analytical parameters have experienced a significant improvement, with serum values ​​of total protein 5.2 g/L, albumin 3.7 g/L, calcium 8.5 mg/dL.",/dL.
+S0212-16112007000800012-1,40,1,She has no gastrointestinal symptoms.,She
+S0212-16112007000800012-1,40,2,She has no gastrointestinal symptoms.,no gastrointestinal symptoms
+S0212-16112007000800012-1,41,1,"The waist circumference is 78 cm, and in a control abdominal ultrasound, no free fluid is observed in the abdomen.",The waist circumference
+S0212-16112007000800012-1,41,2,"The waist circumference is 78 cm, and in a control abdominal ultrasound, no free fluid is observed in the abdomen.",78 cm
+S0212-16112007000800012-1,41,3,"The waist circumference is 78 cm, and in a control abdominal ultrasound, no free fluid is observed in the abdomen.",a control abdominal ultrasound
+S0212-16112007000800012-1,41,4,"The waist circumference is 78 cm, and in a control abdominal ultrasound, no free fluid is observed in the abdomen.",no free fluid
+S0212-16112007000800012-1,41,5,"The waist circumference is 78 cm, and in a control abdominal ultrasound, no free fluid is observed in the abdomen.",the abdomen
+S0212-16112007000800012-1,42,1,She has not had new episodes of ascites nor has she required hospitalization during this period.,She
+S0212-16112007000800012-1,42,2,She has not had new episodes of ascites nor has she required hospitalization during this period.,new episodes
+S0212-16112007000800012-1,42,3,She has not had new episodes of ascites nor has she required hospitalization during this period.,ascites
+S0212-16112007000800012-1,42,4,She has not had new episodes of ascites nor has she required hospitalization during this period.,she
+S0212-16112007000800012-1,42,5,She has not had new episodes of ascites nor has she required hospitalization during this period.,hospitalization
+S0212-16112007000800012-1,42,6,She has not had new episodes of ascites nor has she required hospitalization during this period.,this period

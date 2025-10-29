@@ -1,0 +1,100 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912006001000011-1,1,1,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",A 46-year-old woman
+S0365-66912006001000011-1,1,2,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",the hospital
+S0365-66912006001000011-1,1,3,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",March
+S0365-66912006001000011-1,1,4,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",a painful mass
+S0365-66912006001000011-1,1,5,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",the external third
+S0365-66912006001000011-1,1,6,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",the left upper eyelid
+S0365-66912006001000011-1,1,7,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",6 months' duration
+S0365-66912006001000011-1,1,8,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",decreased ipsilateral visual acuity
+S0365-66912006001000011-1,1,9,"A 46-year-old woman was admitted to the hospital in March 2005 due to a painful mass in the external third of the left upper eyelid of 6 months' duration, accompanied by decreased ipsilateral visual acuity (VA).",VA
+S0365-66912006001000011-1,2,1,"The patient reported the development of a similar mass 15 years prior to her admission, which was successfully managed with unspecified medical treatment.",The patient
+S0365-66912006001000011-1,2,2,"The patient reported the development of a similar mass 15 years prior to her admission, which was successfully managed with unspecified medical treatment.",the development
+S0365-66912006001000011-1,2,3,"The patient reported the development of a similar mass 15 years prior to her admission, which was successfully managed with unspecified medical treatment.",a similar mass
+S0365-66912006001000011-1,2,4,"The patient reported the development of a similar mass 15 years prior to her admission, which was successfully managed with unspecified medical treatment.",her admission
+S0365-66912006001000011-1,2,5,"The patient reported the development of a similar mass 15 years prior to her admission, which was successfully managed with unspecified medical treatment.",which
+S0365-66912006001000011-1,2,6,"The patient reported the development of a similar mass 15 years prior to her admission, which was successfully managed with unspecified medical treatment.",unspecified medical treatment
+S0365-66912006001000011-1,3,1,The rest of the history is unimportant for the current condition.,The rest
+S0365-66912006001000011-1,3,2,The rest of the history is unimportant for the current condition.,the history
+S0365-66912006001000011-1,3,3,The rest of the history is unimportant for the current condition.,the current condition
+S0365-66912006001000011-1,4,1,The ophthalmological examination revealed a VA of 0.7 in the right eye (RE) and 0.2 in the left eye (LE).,The ophthalmological examination
+S0365-66912006001000011-1,4,2,The ophthalmological examination revealed a VA of 0.7 in the right eye (RE) and 0.2 in the left eye (LE).,a VA
+S0365-66912006001000011-1,4,3,The ophthalmological examination revealed a VA of 0.7 in the right eye (RE) and 0.2 in the left eye (LE).,the right eye
+S0365-66912006001000011-1,4,4,The ophthalmological examination revealed a VA of 0.7 in the right eye (RE) and 0.2 in the left eye (LE).,RE
+S0365-66912006001000011-1,4,5,The ophthalmological examination revealed a VA of 0.7 in the right eye (RE) and 0.2 in the left eye (LE).,the left eye
+S0365-66912006001000011-1,4,6,The ophthalmological examination revealed a VA of 0.7 in the right eye (RE) and 0.2 in the left eye (LE).,LE
+S0365-66912006001000011-1,5,1,"In the external third of the left upper eyelid there was a 4 ¥ 3.5 cm mass, painful accompanied by ptosis, inferior displacement of the eyeball on the same side.",the external third
+S0365-66912006001000011-1,5,2,"In the external third of the left upper eyelid there was a 4 ¥ 3.5 cm mass, painful accompanied by ptosis, inferior displacement of the eyeball on the same side.",the left upper eyelid
+S0365-66912006001000011-1,5,3,"In the external third of the left upper eyelid there was a 4 ¥ 3.5 cm mass, painful accompanied by ptosis, inferior displacement of the eyeball on the same side.",ptosis
+S0365-66912006001000011-1,5,4,"In the external third of the left upper eyelid there was a 4 ¥ 3.5 cm mass, painful accompanied by ptosis, inferior displacement of the eyeball on the same side.",inferior displacement
+S0365-66912006001000011-1,5,5,"In the external third of the left upper eyelid there was a 4 ¥ 3.5 cm mass, painful accompanied by ptosis, inferior displacement of the eyeball on the same side.",the eyeball
+S0365-66912006001000011-1,5,6,"In the external third of the left upper eyelid there was a 4 ¥ 3.5 cm mass, painful accompanied by ptosis, inferior displacement of the eyeball on the same side.",the same side
+S0365-66912006001000011-1,6,1,He had limitation to levosupraversion of the LE.,He
+S0365-66912006001000011-1,6,2,He had limitation to levosupraversion of the LE.,limitation
+S0365-66912006001000011-1,6,3,He had limitation to levosupraversion of the LE.,levosupraversion
+S0365-66912006001000011-1,6,4,He had limitation to levosupraversion of the LE.,the LE
+S0365-66912006001000011-1,7,1,Base 100 exophthalmometry was 17 mm for both eyes.,Base 100 exophthalmometry
+S0365-66912006001000011-1,7,2,Base 100 exophthalmometry was 17 mm for both eyes.,17 mm
+S0365-66912006001000011-1,7,3,Base 100 exophthalmometry was 17 mm for both eyes.,both eyes
+S0365-66912006001000011-1,8,1,The eyelid opening was 10 mm in the RE and 4 mm in the LE.,The eyelid opening
+S0365-66912006001000011-1,8,2,The eyelid opening was 10 mm in the RE and 4 mm in the LE.,10 mm
+S0365-66912006001000011-1,8,3,The eyelid opening was 10 mm in the RE and 4 mm in the LE.,the RE
+S0365-66912006001000011-1,8,4,The eyelid opening was 10 mm in the RE and 4 mm in the LE.,4 mm
+S0365-66912006001000011-1,8,5,The eyelid opening was 10 mm in the RE and 4 mm in the LE.,the LE
+S0365-66912006001000011-1,9,1,The function of the left levator muscle was limited.,The function
+S0365-66912006001000011-1,9,2,The function of the left levator muscle was limited.,the left levator muscle
+S0365-66912006001000011-1,10,1,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",A computed tomography
+S0365-66912006001000011-1,10,2,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",scan
+S0365-66912006001000011-1,10,3,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",both orbits
+S0365-66912006001000011-1,10,4,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",axial and coronal sections
+S0365-66912006001000011-1,10,5,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",which
+S0365-66912006001000011-1,10,6,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",a cystic-looking temporal mass
+S0365-66912006001000011-1,10,7,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",bone destruction
+S0365-66912006001000011-1,10,8,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",which
+S0365-66912006001000011-1,10,9,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",the orbit
+S0365-66912006001000011-1,10,10,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",the left eyeball downwards
+S0365-66912006001000011-1,10,11,"A computed tomography scan of both orbits was requested with axial and coronal sections, which demonstrated a cystic-looking temporal mass with bone destruction, which invaded the orbit and displaced the left eyeball downwards, apparently dependent on the frontal sinus.",the frontal sinus
+S0365-66912006001000011-1,11,1,"Aspiration of the mass was performed, from which a dense yellowish liquid was obtained.",Aspiration
+S0365-66912006001000011-1,11,2,"Aspiration of the mass was performed, from which a dense yellowish liquid was obtained.",the mass
+S0365-66912006001000011-1,11,3,"Aspiration of the mass was performed, from which a dense yellowish liquid was obtained.",which
+S0365-66912006001000011-1,11,4,"Aspiration of the mass was performed, from which a dense yellowish liquid was obtained.",a dense yellowish liquid
+S0365-66912006001000011-1,12,1,"In a smear of this content, few Gram-positive cocci were found in pairs and chains, accompanied by numerous polymorphonuclear leukocytes and abundant mucus.",a smear
+S0365-66912006001000011-1,12,2,"In a smear of this content, few Gram-positive cocci were found in pairs and chains, accompanied by numerous polymorphonuclear leukocytes and abundant mucus.",this content
+S0365-66912006001000011-1,12,3,"In a smear of this content, few Gram-positive cocci were found in pairs and chains, accompanied by numerous polymorphonuclear leukocytes and abundant mucus.",few Gram-positive cocci
+S0365-66912006001000011-1,12,4,"In a smear of this content, few Gram-positive cocci were found in pairs and chains, accompanied by numerous polymorphonuclear leukocytes and abundant mucus.",pairs
+S0365-66912006001000011-1,12,5,"In a smear of this content, few Gram-positive cocci were found in pairs and chains, accompanied by numerous polymorphonuclear leukocytes and abundant mucus.",chains
+S0365-66912006001000011-1,12,6,"In a smear of this content, few Gram-positive cocci were found in pairs and chains, accompanied by numerous polymorphonuclear leukocytes and abundant mucus.",numerous polymorphonuclear leukocytes
+S0365-66912006001000011-1,12,7,"In a smear of this content, few Gram-positive cocci were found in pairs and chains, accompanied by numerous polymorphonuclear leukocytes and abundant mucus.",abundant mucus
+S0365-66912006001000011-1,13,1,"Treatment was started with oral ampicillin, dicloxacillin and naproxen and topical sulfacetamide.",Treatment
+S0365-66912006001000011-1,13,2,"Treatment was started with oral ampicillin, dicloxacillin and naproxen and topical sulfacetamide.",oral ampicillin
+S0365-66912006001000011-1,13,3,"Treatment was started with oral ampicillin, dicloxacillin and naproxen and topical sulfacetamide.",dicloxacillin
+S0365-66912006001000011-1,13,4,"Treatment was started with oral ampicillin, dicloxacillin and naproxen and topical sulfacetamide.",naproxen
+S0365-66912006001000011-1,13,5,"Treatment was started with oral ampicillin, dicloxacillin and naproxen and topical sulfacetamide.",topical sulfacetamide
+S0365-66912006001000011-1,14,1,The patient underwent drainage of the contents of the paranasal sinus with removal of its wall.,The patient underwent drainage
+S0365-66912006001000011-1,14,2,The patient underwent drainage of the contents of the paranasal sinus with removal of its wall.,the contents
+S0365-66912006001000011-1,14,3,The patient underwent drainage of the contents of the paranasal sinus with removal of its wall.,the paranasal sinus
+S0365-66912006001000011-1,14,4,The patient underwent drainage of the contents of the paranasal sinus with removal of its wall.,removal
+S0365-66912006001000011-1,14,5,The patient underwent drainage of the contents of the paranasal sinus with removal of its wall.,its wall
+S0365-66912006001000011-1,15,1,"Microscopically, hematoxylin and eosin-stained preparations demonstrated fragments lined by respiratory-type epithelium.",hematoxylin and eosin-stained preparations
+S0365-66912006001000011-1,15,2,"Microscopically, hematoxylin and eosin-stained preparations demonstrated fragments lined by respiratory-type epithelium.",fragments
+S0365-66912006001000011-1,15,3,"Microscopically, hematoxylin and eosin-stained preparations demonstrated fragments lined by respiratory-type epithelium.",respiratory-type epithelium
+S0365-66912006001000011-1,16,1,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",the epithelium
+S0365-66912006001000011-1,16,2,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",the wall
+S0365-66912006001000011-1,16,3,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",a stroma
+S0365-66912006001000011-1,16,4,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",dense connective tissue
+S0365-66912006001000011-1,16,5,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",areas
+S0365-66912006001000011-1,16,6,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",hemorrhage
+S0365-66912006001000011-1,16,7,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",variable clusters
+S0365-66912006001000011-1,16,8,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",inflammatory infiltrate
+S0365-66912006001000011-1,16,9,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",mature lymphocytes
+S0365-66912006001000011-1,16,10,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",plasma cells
+S0365-66912006001000011-1,16,11,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",polymorphonuclear leukocytes
+S0365-66912006001000011-1,16,12,"Below the epithelium, the wall was formed by a stroma of dense connective tissue with areas of hemorrhage mixed with variable clusters of inflammatory infiltrate formed by mature lymphocytes, plasma cells, polymorphonuclear leukocytes and numerous eosinophils.",numerous eosinophils
+S0365-66912006001000011-1,17,1,The diagnosis of frontal sinus mucocele was established.,The diagnosis
+S0365-66912006001000011-1,17,2,The diagnosis of frontal sinus mucocele was established.,frontal sinus mucocele
+S0365-66912006001000011-1,18,1,The presence of a large number of eosinophils as part of the inflammatory infiltrate suggested a probable allergic or hypersensitivity etiology.,The presence
+S0365-66912006001000011-1,18,2,The presence of a large number of eosinophils as part of the inflammatory infiltrate suggested a probable allergic or hypersensitivity etiology.,a large number
+S0365-66912006001000011-1,18,3,The presence of a large number of eosinophils as part of the inflammatory infiltrate suggested a probable allergic or hypersensitivity etiology.,eosinophils
+S0365-66912006001000011-1,18,4,The presence of a large number of eosinophils as part of the inflammatory infiltrate suggested a probable allergic or hypersensitivity etiology.,part
+S0365-66912006001000011-1,18,5,The presence of a large number of eosinophils as part of the inflammatory infiltrate suggested a probable allergic or hypersensitivity etiology.,the inflammatory infiltrate
+S0365-66912006001000011-1,18,6,The presence of a large number of eosinophils as part of the inflammatory infiltrate suggested a probable allergic or hypersensitivity etiology.,a probable allergic or hypersensitivity etiology

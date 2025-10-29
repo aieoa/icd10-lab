@@ -1,0 +1,26 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1138-123X2005000200006-2,1,1,Patient with bilateral cleft lip and palate.,bilateral cleft lip
+S1138-123X2005000200006-2,2,1,"The premaxilla was protruded and rotated to the right, and the lateral segments had collapsed.",The premaxilla
+S1138-123X2005000200006-2,2,2,"The premaxilla was protruded and rotated to the right, and the lateral segments had collapsed.",the right
+S1138-123X2005000200006-2,2,3,"The premaxilla was protruded and rotated to the right, and the lateral segments had collapsed.",the lateral segments
+S1138-123X2005000200006-2,3,1,This protrusion made lip surgery difficult because it increased soft tissue tension.,This protrusion
+S1138-123X2005000200006-2,3,2,This protrusion made lip surgery difficult because it increased soft tissue tension.,lip surgery
+S1138-123X2005000200006-2,3,3,This protrusion made lip surgery difficult because it increased soft tissue tension.,it
+S1138-123X2005000200006-2,3,4,This protrusion made lip surgery difficult because it increased soft tissue tension.,soft tissue tension
+S1138-123X2005000200006-2,4,1,"After taking impressions, an ECPR was designed and placed under general anesthesia.",impressions
+S1138-123X2005000200006-2,4,2,"After taking impressions, an ECPR was designed and placed under general anesthesia.",an ECPR
+S1138-123X2005000200006-2,4,3,"After taking impressions, an ECPR was designed and placed under general anesthesia.",general anesthesia
+S1138-123X2005000200006-2,5,1,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,The parents
+S1138-123X2005000200006-2,5,2,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,the device
+S1138-123X2005000200006-2,5,3,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,home
+S1138-123X2005000200006-2,5,4,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,expansion
+S1138-123X2005000200006-2,5,5,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,we
+S1138-123X2005000200006-2,5,6,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,the tension
+S1138-123X2005000200006-2,5,7,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,the chains
+S1138-123X2005000200006-2,5,8,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,retrusion
+S1138-123X2005000200006-2,5,9,The parents activated the device at home to achieve expansion and once a week we modified the tension of the chains to achieve retrusion of the premaxilla.,the premaxilla
+S1138-123X2005000200006-2,6,1,"After six weeks, the premaxilla had retruded and the segments were aligned, so cheiloplasty could be performed with the Mulliken technique.",six weeks
+S1138-123X2005000200006-2,6,2,"After six weeks, the premaxilla had retruded and the segments were aligned, so cheiloplasty could be performed with the Mulliken technique.",the premaxilla
+S1138-123X2005000200006-2,6,3,"After six weeks, the premaxilla had retruded and the segments were aligned, so cheiloplasty could be performed with the Mulliken technique.",the segments
+S1138-123X2005000200006-2,6,4,"After six weeks, the premaxilla had retruded and the segments were aligned, so cheiloplasty could be performed with the Mulliken technique.",cheiloplasty
+S1138-123X2005000200006-2,6,5,"After six weeks, the premaxilla had retruded and the segments were aligned, so cheiloplasty could be performed with the Mulliken technique.",the Mulliken technique

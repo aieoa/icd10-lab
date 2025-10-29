@@ -1,0 +1,166 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-63432014000600009-1,1,1,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",A 71-year-old woman
+S1130-63432014000600009-1,1,2,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",no relevant history
+S1130-63432014000600009-1,1,3,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",who
+S1130-63432014000600009-1,1,4,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",6 months
+S1130-63432014000600009-1,1,5,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",dermatitis
+S1130-63432014000600009-1,1,6,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",the face
+S1130-63432014000600009-1,1,7,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",trunk
+S1130-63432014000600009-1,1,8,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",extremities
+S1130-63432014000600009-1,1,9,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",July
+S1130-63432014000600009-1,1,10,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",skin biopsy
+S1130-63432014000600009-1,1,11,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",DM
+S1130-63432014000600009-1,1,12,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",skin involvement
+S1130-63432014000600009-1,1,13,"A 71-year-old woman with no relevant history who, after 6 months of dermatitis on the face, trunk and extremities, was diagnosed in July 2013 by skin biopsy with DM with skin involvement, without reporting muscle weakness.",muscle weakness
+S1130-63432014000600009-1,2,1,Muscle enzymes CK and aldolase are normal.,Muscle
+S1130-63432014000600009-1,2,2,Muscle enzymes CK and aldolase are normal.,CK
+S1130-63432014000600009-1,2,3,Muscle enzymes CK and aldolase are normal.,aldolase
+S1130-63432014000600009-1,3,1,Positive ANA (1:320) and positive Mi-1:Mi-2 (1:320) antibodies were detected with negative anti-P155/140.,Positive ANA
+S1130-63432014000600009-1,3,2,Positive ANA (1:320) and positive Mi-1:Mi-2 (1:320) antibodies were detected with negative anti-P155/140.,(1:320
+S1130-63432014000600009-1,3,3,Positive ANA (1:320) and positive Mi-1:Mi-2 (1:320) antibodies were detected with negative anti-P155/140.,positive Mi-1
+S1130-63432014000600009-1,3,4,Positive ANA (1:320) and positive Mi-1:Mi-2 (1:320) antibodies were detected with negative anti-P155/140.,Mi-2
+S1130-63432014000600009-1,3,5,Positive ANA (1:320) and positive Mi-1:Mi-2 (1:320) antibodies were detected with negative anti-P155/140.,(1:320
+S1130-63432014000600009-1,3,6,Positive ANA (1:320) and positive Mi-1:Mi-2 (1:320) antibodies were detected with negative anti-P155/140.,antibodies
+S1130-63432014000600009-1,3,7,Positive ANA (1:320) and positive Mi-1:Mi-2 (1:320) antibodies were detected with negative anti-P155/140.,-
+S1130-63432014000600009-1,4,1,Tumor markers and a complete CT scan do not demonstrate the presence of neoplasia.,Tumor markers
+S1130-63432014000600009-1,4,2,Tumor markers and a complete CT scan do not demonstrate the presence of neoplasia.,a complete CT scan
+S1130-63432014000600009-1,4,3,Tumor markers and a complete CT scan do not demonstrate the presence of neoplasia.,the presence
+S1130-63432014000600009-1,4,4,Tumor markers and a complete CT scan do not demonstrate the presence of neoplasia.,neoplasia
+S1130-63432014000600009-1,5,1,"Acute phase reactants are elevated, CRP 44.2 mg/L [0 - 5] and ESR 73 mm/h [0 - 19].",Acute phase reactants
+S1130-63432014000600009-1,5,2,"Acute phase reactants are elevated, CRP 44.2 mg/L [0 - 5] and ESR 73 mm/h [0 - 19].",ESR
+S1130-63432014000600009-1,5,3,"Acute phase reactants are elevated, CRP 44.2 mg/L [0 - 5] and ESR 73 mm/h [0 - 19].",mm
+S1130-63432014000600009-1,5,4,"Acute phase reactants are elevated, CRP 44.2 mg/L [0 - 5] and ESR 73 mm/h [0 - 19].",h
+S1130-63432014000600009-1,6,1,It is treated with prednisone at a dose of 30 mg/24 h in various descending regimens for 4 months.,It
+S1130-63432014000600009-1,6,2,It is treated with prednisone at a dose of 30 mg/24 h in various descending regimens for 4 months.,prednisone
+S1130-63432014000600009-1,6,3,It is treated with prednisone at a dose of 30 mg/24 h in various descending regimens for 4 months.,a dose
+S1130-63432014000600009-1,6,4,It is treated with prednisone at a dose of 30 mg/24 h in various descending regimens for 4 months.,30 mg/24 h
+S1130-63432014000600009-1,6,5,It is treated with prednisone at a dose of 30 mg/24 h in various descending regimens for 4 months.,various descending regimens
+S1130-63432014000600009-1,6,6,It is treated with prednisone at a dose of 30 mg/24 h in various descending regimens for 4 months.,4 months
+S1130-63432014000600009-1,7,1,"During this period, she progressively began to experience myalgia and muscle weakness that forced her to be bedridden, with fever, dysphagia, and a 10 kg weight loss.",this period
+S1130-63432014000600009-1,7,2,"During this period, she progressively began to experience myalgia and muscle weakness that forced her to be bedridden, with fever, dysphagia, and a 10 kg weight loss.",she
+S1130-63432014000600009-1,7,3,"During this period, she progressively began to experience myalgia and muscle weakness that forced her to be bedridden, with fever, dysphagia, and a 10 kg weight loss.",myalgia and muscle weakness
+S1130-63432014000600009-1,7,4,"During this period, she progressively began to experience myalgia and muscle weakness that forced her to be bedridden, with fever, dysphagia, and a 10 kg weight loss.",that
+S1130-63432014000600009-1,7,5,"During this period, she progressively began to experience myalgia and muscle weakness that forced her to be bedridden, with fever, dysphagia, and a 10 kg weight loss.",her
+S1130-63432014000600009-1,7,6,"During this period, she progressively began to experience myalgia and muscle weakness that forced her to be bedridden, with fever, dysphagia, and a 10 kg weight loss.",fever
+S1130-63432014000600009-1,7,7,"During this period, she progressively began to experience myalgia and muscle weakness that forced her to be bedridden, with fever, dysphagia, and a 10 kg weight loss.",dysphagia
+S1130-63432014000600009-1,7,8,"During this period, she progressively began to experience myalgia and muscle weakness that forced her to be bedridden, with fever, dysphagia, and a 10 kg weight loss.",a 10 kg weight loss
+S1130-63432014000600009-1,8,1,In December 2013 she was admitted due to suspicion of DM with the appearance of myopathy.,December
+S1130-63432014000600009-1,8,2,In December 2013 she was admitted due to suspicion of DM with the appearance of myopathy.,she
+S1130-63432014000600009-1,8,3,In December 2013 she was admitted due to suspicion of DM with the appearance of myopathy.,suspicion
+S1130-63432014000600009-1,8,4,In December 2013 she was admitted due to suspicion of DM with the appearance of myopathy.,DM
+S1130-63432014000600009-1,8,5,In December 2013 she was admitted due to suspicion of DM with the appearance of myopathy.,the appearance
+S1130-63432014000600009-1,8,6,In December 2013 she was admitted due to suspicion of DM with the appearance of myopathy.,myopathy
+S1130-63432014000600009-1,9,1,"An electromyogram (EMG), magnetic resonance imaging and muscle biopsy were performed, which confirmed an inflammatory myopathy in the proximal muscles of the extremities.",An electromyogram
+S1130-63432014000600009-1,9,2,"An electromyogram (EMG), magnetic resonance imaging and muscle biopsy were performed, which confirmed an inflammatory myopathy in the proximal muscles of the extremities.",EMG
+S1130-63432014000600009-1,9,3,"An electromyogram (EMG), magnetic resonance imaging and muscle biopsy were performed, which confirmed an inflammatory myopathy in the proximal muscles of the extremities.",magnetic resonance imaging
+S1130-63432014000600009-1,9,4,"An electromyogram (EMG), magnetic resonance imaging and muscle biopsy were performed, which confirmed an inflammatory myopathy in the proximal muscles of the extremities.",muscle biopsy
+S1130-63432014000600009-1,9,5,"An electromyogram (EMG), magnetic resonance imaging and muscle biopsy were performed, which confirmed an inflammatory myopathy in the proximal muscles of the extremities.",which
+S1130-63432014000600009-1,9,6,"An electromyogram (EMG), magnetic resonance imaging and muscle biopsy were performed, which confirmed an inflammatory myopathy in the proximal muscles of the extremities.",an inflammatory myopathy
+S1130-63432014000600009-1,9,7,"An electromyogram (EMG), magnetic resonance imaging and muscle biopsy were performed, which confirmed an inflammatory myopathy in the proximal muscles of the extremities.",the proximal muscles
+S1130-63432014000600009-1,9,8,"An electromyogram (EMG), magnetic resonance imaging and muscle biopsy were performed, which confirmed an inflammatory myopathy in the proximal muscles of the extremities.",the extremities
+S1130-63432014000600009-1,10,1,An esophagram confirms significant esophageal motor alteration and delayed gastric emptying.,An esophagram
+S1130-63432014000600009-1,10,2,An esophagram confirms significant esophageal motor alteration and delayed gastric emptying.,significant esophageal motor alteration
+S1130-63432014000600009-1,10,3,An esophagram confirms significant esophageal motor alteration and delayed gastric emptying.,gastric emptying
+S1130-63432014000600009-1,11,1,"She is diagnosed with DM with muscular and digestive involvement, as well as skin.",She
+S1130-63432014000600009-1,11,2,"She is diagnosed with DM with muscular and digestive involvement, as well as skin.",DM
+S1130-63432014000600009-1,11,3,"She is diagnosed with DM with muscular and digestive involvement, as well as skin.",muscular and digestive involvement
+S1130-63432014000600009-1,11,4,"She is diagnosed with DM with muscular and digestive involvement, as well as skin.",skin
+S1130-63432014000600009-1,12,1,The lung study and echocardiogram are normal.,The lung study
+S1130-63432014000600009-1,12,2,The lung study and echocardiogram are normal.,echocardiogram
+S1130-63432014000600009-1,13,1,The corticosteroid therapy prior to admission is maintained for the first 8 days.,The corticosteroid therapy
+S1130-63432014000600009-1,13,2,The corticosteroid therapy prior to admission is maintained for the first 8 days.,admission
+S1130-63432014000600009-1,13,3,The corticosteroid therapy prior to admission is maintained for the first 8 days.,the first 8 days
+S1130-63432014000600009-1,14,1,Cinitapride is prescribed as a prokinetic.,a prokinetic
+S1130-63432014000600009-1,15,1,"On the ninth day, after confirming the myopathy, azathioprine 50 mg/24h is started.",the ninth day
+S1130-63432014000600009-1,15,2,"On the ninth day, after confirming the myopathy, azathioprine 50 mg/24h is started.",azathioprine 50 mg/24h
+S1130-63432014000600009-1,16,1,"Intravenous (IV) pulses of methylprednisolone are added for 3 days, followed by prednisone 30 mg/24h for 2 weeks (then a descending regimen).",IV
+S1130-63432014000600009-1,16,2,"Intravenous (IV) pulses of methylprednisolone are added for 3 days, followed by prednisone 30 mg/24h for 2 weeks (then a descending regimen).",methylprednisolone
+S1130-63432014000600009-1,16,3,"Intravenous (IV) pulses of methylprednisolone are added for 3 days, followed by prednisone 30 mg/24h for 2 weeks (then a descending regimen).",3 days
+S1130-63432014000600009-1,16,4,"Intravenous (IV) pulses of methylprednisolone are added for 3 days, followed by prednisone 30 mg/24h for 2 weeks (then a descending regimen).",prednisone
+S1130-63432014000600009-1,16,5,"Intravenous (IV) pulses of methylprednisolone are added for 3 days, followed by prednisone 30 mg/24h for 2 weeks (then a descending regimen).",30 mg/24h
+S1130-63432014000600009-1,16,6,"Intravenous (IV) pulses of methylprednisolone are added for 3 days, followed by prednisone 30 mg/24h for 2 weeks (then a descending regimen).",2 weeks
+S1130-63432014000600009-1,17,1,"On the seventh day after starting azathioprine, GOT/AST 160 U/L [2 - 35] and GPT/ALT 313 U/L [2 - 35] were detected, with previous levels being normal.",the seventh day
+S1130-63432014000600009-1,17,2,"On the seventh day after starting azathioprine, GOT/AST 160 U/L [2 - 35] and GPT/ALT 313 U/L [2 - 35] were detected, with previous levels being normal.",[2 - 35] and GPT/ALT 313 U/L
+S1130-63432014000600009-1,17,3,"On the seventh day after starting azathioprine, GOT/AST 160 U/L [2 - 35] and GPT/ALT 313 U/L [2 - 35] were detected, with previous levels being normal.",previous levels
+S1130-63432014000600009-1,18,1,It was decided to suspend azathioprine due to hepatotoxicity and the pharmacist notified the suspected adverse reaction to the Pharmacovigilance Center.,It
+S1130-63432014000600009-1,18,2,It was decided to suspend azathioprine due to hepatotoxicity and the pharmacist notified the suspected adverse reaction to the Pharmacovigilance Center.,hepatotoxicity
+S1130-63432014000600009-1,18,3,It was decided to suspend azathioprine due to hepatotoxicity and the pharmacist notified the suspected adverse reaction to the Pharmacovigilance Center.,the pharmacist
+S1130-63432014000600009-1,18,4,It was decided to suspend azathioprine due to hepatotoxicity and the pharmacist notified the suspected adverse reaction to the Pharmacovigilance Center.,the suspected adverse reaction
+S1130-63432014000600009-1,18,5,It was decided to suspend azathioprine due to hepatotoxicity and the pharmacist notified the suspected adverse reaction to the Pharmacovigilance Center.,the Pharmacovigilance Center
+S1130-63432014000600009-1,19,1,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",Mycophenolate
+S1130-63432014000600009-1,19,2,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",mg/24h
+S1130-63432014000600009-1,19,3,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",which
+S1130-63432014000600009-1,19,4,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",the patient
+S1130-63432014000600009-1,19,5,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",an informed consent
+S1130-63432014000600009-1,19,6,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",the documentation
+S1130-63432014000600009-1,19,7,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",the use
+S1130-63432014000600009-1,19,8,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",medications
+S1130-63432014000600009-1,19,9,"Mycophenolate 500 mg/24h is started, for which the patient signs an informed consent and the documentation for the use of medications in special situations is completed.",special situations
+S1130-63432014000600009-1,20,1,The dose is increased until reaching 1 g/12h.,The dose
+S1130-63432014000600009-1,20,2,The dose is increased until reaching 1 g/12h.,1 g/12h
+S1130-63432014000600009-1,21,1,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",6 weeks
+S1130-63432014000600009-1,21,2,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",treatment
+S1130-63432014000600009-1,21,3,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",she
+S1130-63432014000600009-1,21,4,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",improvement
+S1130-63432014000600009-1,21,5,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",muscle strength
+S1130-63432014000600009-1,21,6,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",increase
+S1130-63432014000600009-1,21,7,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",physical activity
+S1130-63432014000600009-1,21,8,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",significant reduction
+S1130-63432014000600009-1,21,9,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",dysphagia
+S1130-63432014000600009-1,21,10,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",dermatitis
+S1130-63432014000600009-1,21,11,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",normalization
+S1130-63432014000600009-1,21,12,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",acute phase reactants
+S1130-63432014000600009-1,21,13,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",transaminases
+S1130-63432014000600009-1,21,14,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",normal CK
+S1130-63432014000600009-1,21,15,"After 6 weeks of treatment, she reported improvement in muscle strength, increase in physical activity, significant reduction in dysphagia and dermatitis, with normalization of acute phase reactants and transaminases, continuing with normal CK and aldolase.",aldolase
+S1130-63432014000600009-1,22,1,It was decided to suspend cinitapride and continue with a descending prednisone regimen.,It
+S1130-63432014000600009-1,22,2,It was decided to suspend cinitapride and continue with a descending prednisone regimen.,cinitapride
+S1130-63432014000600009-1,22,3,It was decided to suspend cinitapride and continue with a descending prednisone regimen.,a descending prednisone regimen
+S1130-63432014000600009-1,23,1,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",9 weeks
+S1130-63432014000600009-1,23,2,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",therapy
+S1130-63432014000600009-1,23,3,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",he
+S1130-63432014000600009-1,23,4,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",hair loss
+S1130-63432014000600009-1,23,5,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",paresthesia
+S1130-63432014000600009-1,23,6,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",the lower limbs
+S1130-63432014000600009-1,23,7,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",which
+S1130-63432014000600009-1,23,8,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",common adverse reactions
+S1130-63432014000600009-1,23,9,"After 9 weeks of therapy, he reported hair loss and paresthesia in the lower limbs, which are described as common adverse reactions in the mycophenolate technical information sheet.",the mycophenolate technical information sheet
+S1130-63432014000600009-1,24,1,"In week 12, the dose of prednisone is lowered from 10 mg to 7.5 mg/24h.",week
+S1130-63432014000600009-1,24,2,"In week 12, the dose of prednisone is lowered from 10 mg to 7.5 mg/24h.",the dose
+S1130-63432014000600009-1,24,3,"In week 12, the dose of prednisone is lowered from 10 mg to 7.5 mg/24h.",prednisone
+S1130-63432014000600009-1,24,4,"In week 12, the dose of prednisone is lowered from 10 mg to 7.5 mg/24h.",10 mg
+S1130-63432014000600009-1,24,5,"In week 12, the dose of prednisone is lowered from 10 mg to 7.5 mg/24h.",7.5 mg/24h
+S1130-63432014000600009-1,25,1,"At the 14-week follow-up, the patient described a 10-cm pruritic erythematous plaque similar to those presented at the beginning of the disease.",the 14-week follow-up
+S1130-63432014000600009-1,25,2,"At the 14-week follow-up, the patient described a 10-cm pruritic erythematous plaque similar to those presented at the beginning of the disease.",the patient
+S1130-63432014000600009-1,25,3,"At the 14-week follow-up, the patient described a 10-cm pruritic erythematous plaque similar to those presented at the beginning of the disease.",a 10-cm pruritic erythematous plaque
+S1130-63432014000600009-1,25,4,"At the 14-week follow-up, the patient described a 10-cm pruritic erythematous plaque similar to those presented at the beginning of the disease.",those
+S1130-63432014000600009-1,25,5,"At the 14-week follow-up, the patient described a 10-cm pruritic erythematous plaque similar to those presented at the beginning of the disease.",the beginning
+S1130-63432014000600009-1,25,6,"At the 14-week follow-up, the patient described a 10-cm pruritic erythematous plaque similar to those presented at the beginning of the disease.",the disease
+S1130-63432014000600009-1,26,1,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",the analysis
+S1130-63432014000600009-1,26,2,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",the only change
+S1130-63432014000600009-1,26,3,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",the increase
+S1130-63432014000600009-1,26,4,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",CRP
+S1130-63432014000600009-1,26,5,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",29.2 mg
+S1130-63432014000600009-1,26,6,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",The alopecia
+S1130-63432014000600009-1,26,7,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",the paresthesias
+S1130-63432014000600009-1,26,8,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",it
+S1130-63432014000600009-1,26,9,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",10 mg
+S1130-63432014000600009-1,26,10,"In the analysis, the only change observed is the increase in CRP to 29.2 mg/L. The alopecia stabilizes, the paresthesias disappear and it is decided to return to 10 mg of prednisone every 24 hours.",prednisone
+S1130-63432014000600009-1,27,1,"In week 16, the CRP normalized to 4.1 mg/L and the skin condition disappeared, returning to the dose of 7.5 mg/24h of prednisone.",week
+S1130-63432014000600009-1,27,2,"In week 16, the CRP normalized to 4.1 mg/L and the skin condition disappeared, returning to the dose of 7.5 mg/24h of prednisone.",the CRP
+S1130-63432014000600009-1,27,3,"In week 16, the CRP normalized to 4.1 mg/L and the skin condition disappeared, returning to the dose of 7.5 mg/24h of prednisone.",4.1 mg/L
+S1130-63432014000600009-1,27,4,"In week 16, the CRP normalized to 4.1 mg/L and the skin condition disappeared, returning to the dose of 7.5 mg/24h of prednisone.",the skin condition
+S1130-63432014000600009-1,27,5,"In week 16, the CRP normalized to 4.1 mg/L and the skin condition disappeared, returning to the dose of 7.5 mg/24h of prednisone.",the dose
+S1130-63432014000600009-1,27,6,"In week 16, the CRP normalized to 4.1 mg/L and the skin condition disappeared, returning to the dose of 7.5 mg/24h of prednisone.",7.5 mg/24h
+S1130-63432014000600009-1,27,7,"In week 16, the CRP normalized to 4.1 mg/L and the skin condition disappeared, returning to the dose of 7.5 mg/24h of prednisone.",prednisone
+S1130-63432014000600009-1,28,1,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",the 20th week control
+S1130-63432014000600009-1,28,2,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",the CRP
+S1130-63432014000600009-1,28,3,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",range
+S1130-63432014000600009-1,28,4,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",no signs
+S1130-63432014000600009-1,28,5,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",dermatitis
+S1130-63432014000600009-1,28,6,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",prednisone therapy
+S1130-63432014000600009-1,28,7,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",7.5 mg/24h
+S1130-63432014000600009-1,28,8,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",1 g/12h
+S1130-63432014000600009-1,28,9,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",mycophenolate
+S1130-63432014000600009-1,28,10,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",the disease
+S1130-63432014000600009-1,28,11,"At the 20th week control, the CRP remains in range and there are no signs of dermatitis, considering that prednisone therapy 7.5 mg/24h plus 1 g/12h of mycophenolate is safe and effective to control the disease in this patient. .",this patient

@@ -1,0 +1,207 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0212-16112009000600017-1,1,1,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,This
+S0212-16112009000600017-1,1,2,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,a 60-year-old man
+S0212-16112009000600017-1,1,3,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,a personal history
+S0212-16112009000600017-1,1,4,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,ischemic heart disease
+S0212-16112009000600017-1,1,5,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,he
+S0212-16112009000600017-1,1,6,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,an acute myocardial infarction
+S0212-16112009000600017-1,1,7,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,an ex
+S0212-16112009000600017-1,1,8,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,-
+S0212-16112009000600017-1,1,9,This is a 60-year-old man with a personal history of ischemic heart disease (he suffered an acute myocardial infarction in 2004) and is an ex-smoker.,smoker
+S0212-16112009000600017-1,2,1,The patient had no known allergies to medications or foods.,The patient
+S0212-16112009000600017-1,2,2,The patient had no known allergies to medications or foods.,no known allergies
+S0212-16112009000600017-1,2,3,The patient had no known allergies to medications or foods.,medications
+S0212-16112009000600017-1,2,4,The patient had no known allergies to medications or foods.,foods
+S0212-16112009000600017-1,3,1,In July 2008 he was diagnosed with primary amyloidosis and nephrotic syndrome.,July
+S0212-16112009000600017-1,3,2,In July 2008 he was diagnosed with primary amyloidosis and nephrotic syndrome.,he
+S0212-16112009000600017-1,3,3,In July 2008 he was diagnosed with primary amyloidosis and nephrotic syndrome.,primary amyloidosis
+S0212-16112009000600017-1,3,4,In July 2008 he was diagnosed with primary amyloidosis and nephrotic syndrome.,nephrotic syndrome
+S0212-16112009000600017-1,4,1,"Upon discharge from the hospital, he received nutritional recommendations from the Nephrology service to follow a diet low in sodium and fat, as well as to exclude protein foods.",discharge
+S0212-16112009000600017-1,4,2,"Upon discharge from the hospital, he received nutritional recommendations from the Nephrology service to follow a diet low in sodium and fat, as well as to exclude protein foods.",the hospital
+S0212-16112009000600017-1,4,3,"Upon discharge from the hospital, he received nutritional recommendations from the Nephrology service to follow a diet low in sodium and fat, as well as to exclude protein foods.",he
+S0212-16112009000600017-1,4,4,"Upon discharge from the hospital, he received nutritional recommendations from the Nephrology service to follow a diet low in sodium and fat, as well as to exclude protein foods.",nutritional recommendations
+S0212-16112009000600017-1,4,5,"Upon discharge from the hospital, he received nutritional recommendations from the Nephrology service to follow a diet low in sodium and fat, as well as to exclude protein foods.",the Nephrology service
+S0212-16112009000600017-1,4,6,"Upon discharge from the hospital, he received nutritional recommendations from the Nephrology service to follow a diet low in sodium and fat, as well as to exclude protein foods.",a diet low
+S0212-16112009000600017-1,4,7,"Upon discharge from the hospital, he received nutritional recommendations from the Nephrology service to follow a diet low in sodium and fat, as well as to exclude protein foods.",sodium
+S0212-16112009000600017-1,4,8,"Upon discharge from the hospital, he received nutritional recommendations from the Nephrology service to follow a diet low in sodium and fat, as well as to exclude protein foods.",protein foods
+S0212-16112009000600017-1,5,1,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",this
+S0212-16112009000600017-1,5,2,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",the patient
+S0212-16112009000600017-1,5,3,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",all foods
+S0212-16112009000600017-1,5,4,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",table salt
+S0212-16112009000600017-1,5,5,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",any other culinary technique
+S0212-16112009000600017-1,5,6,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",frying
+S0212-16112009000600017-1,5,7,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",grilling
+S0212-16112009000600017-1,5,8,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",roasting
+S0212-16112009000600017-1,5,9,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",microwave
+S0212-16112009000600017-1,5,10,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",main courses
+S0212-16112009000600017-1,5,11,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",meat
+S0212-16112009000600017-1,5,12,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",fish
+S0212-16112009000600017-1,5,13,"To do this, the patient had to cook all foods, not use table salt, and could not use any other culinary technique (frying, grilling, roasting, microwave, etc.), as well as not eating main courses (meat, fish and eggs). ).",eggs
+S0212-16112009000600017-1,6,1,"The pharmacological treatment he currently receives is omeprazole, candesartan, enalapril, atorvastatin, acetylsalicylic acid, ezetimibe, furosemide, barnidipine and spironolactone.",The pharmacological treatment
+S0212-16112009000600017-1,6,2,"The pharmacological treatment he currently receives is omeprazole, candesartan, enalapril, atorvastatin, acetylsalicylic acid, ezetimibe, furosemide, barnidipine and spironolactone.",he
+S0212-16112009000600017-1,7,1,He goes to the diet therapy consultation to prescribe a diet adjusted to his nutritional needs.,He
+S0212-16112009000600017-1,7,2,He goes to the diet therapy consultation to prescribe a diet adjusted to his nutritional needs.,the diet therapy consultation
+S0212-16112009000600017-1,7,3,He goes to the diet therapy consultation to prescribe a diet adjusted to his nutritional needs.,a diet
+S0212-16112009000600017-1,7,4,He goes to the diet therapy consultation to prescribe a diet adjusted to his nutritional needs.,his nutritional needs
+S0212-16112009000600017-1,8,1,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",the initial consultation
+S0212-16112009000600017-1,8,2,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",a nutritional history
+S0212-16112009000600017-1,8,3,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",that
+S0212-16112009000600017-1,8,4,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",a complete anthropometric and biochemical assessment
+S0212-16112009000600017-1,8,5,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",analysis
+S0212-16112009000600017-1,8,6,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",intake
+S0212-16112009000600017-1,8,7,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",a 3-day dietary survey
+S0212-16112009000600017-1,8,8,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",the Dietsource 3.0 ®Nestlé Healthcare Nutrition program
+S0212-16112009000600017-1,8,9,"At the initial consultation, a nutritional history was performed that included a complete anthropometric and biochemical assessment and analysis of intake through a 3-day dietary survey analyzed with the Dietsource 3.0 ®Nestlé Healthcare Nutrition program (2005 Edition).",2005 Edition
+S0212-16112009000600017-1,9,1,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",The characteristics
+S0212-16112009000600017-1,9,2,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",basal intake
+S0212-16112009000600017-1,9,3,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",Table I
+S0212-16112009000600017-1,9,4,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",the nutritional recommendations
+S0212-16112009000600017-1,9,5,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",patients
+S0212-16112009000600017-1,9,6,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",nephrotic syndrome
+S0212-16112009000600017-1,9,7,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",diet
+S0212-16112009000600017-1,9,8,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",protein
+S0212-16112009000600017-1,9,9,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",salt
+S0212-16112009000600017-1,9,10,"The characteristics of basal intake appear in Table I, along with the nutritional recommendations for patients with nephrotic syndrome: diet restrictive in protein, salt and a lipid profile rich in monounsaturated and polyunsaturated fatty acids3.",a lipid profile
+S0212-16112009000600017-1,10,1,"In the initial examination, the following results were obtained:",the initial examination
+S0212-16112009000600017-1,10,2,"In the initial examination, the following results were obtained:",the following results
+S0212-16112009000600017-1,11,1,"• Anthropometry: weight 86.7 kg, height 171 cm, BMI 29.65 kg/m2.",Anthropometry
+S0212-16112009000600017-1,11,2,"• Anthropometry: weight 86.7 kg, height 171 cm, BMI 29.65 kg/m2.",weight
+S0212-16112009000600017-1,11,3,"• Anthropometry: weight 86.7 kg, height 171 cm, BMI 29.65 kg/m2.",86.7 kg
+S0212-16112009000600017-1,11,4,"• Anthropometry: weight 86.7 kg, height 171 cm, BMI 29.65 kg/m2.",height
+S0212-16112009000600017-1,11,5,"• Anthropometry: weight 86.7 kg, height 171 cm, BMI 29.65 kg/m2.",BMI 29.65 kg/m2
+S0212-16112009000600017-1,12,1,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",Body composition
+S0212-16112009000600017-1,12,2,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",bioelectrical impedance
+S0212-16112009000600017-1,12,3,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",TANITA TBF
+S0212-16112009000600017-1,12,4,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",300®
+S0212-16112009000600017-1,12,5,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",56.1 liters
+S0212-16112009000600017-1,12,6,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",water
+S0212-16112009000600017-1,12,7,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",64.7%
+S0212-16112009000600017-1,12,8,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",76.6 kg
+S0212-16112009000600017-1,12,9,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",lean mass
+S0212-16112009000600017-1,12,10,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",88.4%
+S0212-16112009000600017-1,12,11,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",10.1 kg
+S0212-16112009000600017-1,12,12,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",fat mass
+S0212-16112009000600017-1,12,13,"Body composition was measured through bioelectrical impedance (TANITA TBF 300®): 56.1 liters of water (64.7%), 76.6 kg of lean mass (88.4%) and 10.1 kg of fat mass ( 11.6%).",11.6%
+S0212-16112009000600017-1,13,1,The patient had pitting edema up to the knees.,The patient
+S0212-16112009000600017-1,13,2,The patient had pitting edema up to the knees.,edema
+S0212-16112009000600017-1,13,3,The patient had pitting edema up to the knees.,the knees
+S0212-16112009000600017-1,14,1,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",Analytical
+S0212-16112009000600017-1,14,2,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",Creatinine
+S0212-16112009000600017-1,14,3,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",0.95 (normal values
+S0212-16112009000600017-1,14,4,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",mg/dL
+S0212-16112009000600017-1,14,5,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",Glomerular Filtration
+S0212-16112009000600017-1,14,6,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",60 ml/min/1.72 m2
+S0212-16112009000600017-1,14,7,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",P
+S0212-16112009000600017-1,14,8,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",3.31 (normal values
+S0212-16112009000600017-1,14,9,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",mg/dL
+S0212-16112009000600017-1,14,10,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",K
+S0212-16112009000600017-1,14,11,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",4.23 (normal values
+S0212-16112009000600017-1,14,12,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",​​3.6-5) mmol/L
+S0212-16112009000600017-1,14,13,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",Total Proteins
+S0212-16112009000600017-1,14,14,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",3.8 (normal values
+S0212-16112009000600017-1,14,15,"• Analytical: Creatinine: 0.95 (normal values ​​0.5-1.1) mg/dL, Glomerular Filtration: > 60 ml/min/1.72 m2, P: 3.31 (normal values ​​2.5-4 .5) mg/dL, K: 4.23 (normal values ​​3.6-5) mmol/L, Total Proteins: 3.8 (normal values ​​6.2 - 8) gr/dL.",​​6.2 - 8) gr/dL.
+S0212-16112009000600017-1,15,1,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,Albumin
+S0212-16112009000600017-1,15,2,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,1.74 (normal values
+S0212-16112009000600017-1,15,3,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,​​3.5
+S0212-16112009000600017-1,15,4,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,gr/dL
+S0212-16112009000600017-1,15,5,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,prealbumin
+S0212-16112009000600017-1,15,6,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,20 (normal values
+S0212-16112009000600017-1,15,7,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,​​10
+S0212-16112009000600017-1,15,8,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,g
+S0212-16112009000600017-1,15,9,Albumin: 1.74 (normal values ​​3.5-5) gr/dL and prealbumin: 20 (normal values ​​10-40) g/dL.,dL.
+S0212-16112009000600017-1,16,1,Proteinuria: 14.55 g/24 h.,Proteinuria
+S0212-16112009000600017-1,16,2,Proteinuria: 14.55 g/24 h.,14.55 g/24
+S0212-16112009000600017-1,16,3,Proteinuria: 14.55 g/24 h.,h.
+S0212-16112009000600017-1,17,1,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",Total cholesterol
+S0212-16112009000600017-1,17,2,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",180 (normal values
+S0212-16112009000600017-1,17,3,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",​​100
+S0212-16112009000600017-1,17,4,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",mg/dL
+S0212-16112009000600017-1,17,5,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",", Triglycerides"
+S0212-16112009000600017-1,17,6,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",110 (normal values
+S0212-16112009000600017-1,17,7,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",​​50
+S0212-16112009000600017-1,17,8,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",mg/dL
+S0212-16112009000600017-1,17,9,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",44 mg
+S0212-16112009000600017-1,17,10,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",dL
+S0212-16112009000600017-1,17,11,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",(normal values
+S0212-16112009000600017-1,17,12,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",​​40
+S0212-16112009000600017-1,17,13,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",LDL
+S0212-16112009000600017-1,17,14,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",68.8 mg/dL dL
+S0212-16112009000600017-1,17,15,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",Uric acid
+S0212-16112009000600017-1,17,16,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",7.23 mg
+S0212-16112009000600017-1,17,17,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",dL
+S0212-16112009000600017-1,17,18,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",(normal values
+S0212-16112009000600017-1,17,19,"Total cholesterol: 180 (normal values ​​100-200) mg/dL, Triglycerides: 110 (normal values ​​50-150) mg/dL, HDL: 44 mg/dL (normal values ​​40-65), LDL: 68.8 mg/dL dL, Uric acid: 7.23 mg/dL (normal values ​​2.4-7).",​​2.4
+S0212-16112009000600017-1,18,1,"A diet was developed according to the recommendations3, according to the patient's characteristics, tastes, habits and schedules.",A diet
+S0212-16112009000600017-1,18,2,"A diet was developed according to the recommendations3, according to the patient's characteristics, tastes, habits and schedules.",the recommendations3
+S0212-16112009000600017-1,18,3,"A diet was developed according to the recommendations3, according to the patient's characteristics, tastes, habits and schedules.",the patient's characteristics
+S0212-16112009000600017-1,18,4,"A diet was developed according to the recommendations3, according to the patient's characteristics, tastes, habits and schedules.",tastes
+S0212-16112009000600017-1,18,5,"A diet was developed according to the recommendations3, according to the patient's characteristics, tastes, habits and schedules.",habits
+S0212-16112009000600017-1,18,6,"A diet was developed according to the recommendations3, according to the patient's characteristics, tastes, habits and schedules.",schedules
+S0212-16112009000600017-1,19,1,The nutritional characteristics of the diet are shown in Table I and the calibrated diet for the patient in Table II.,The nutritional characteristics
+S0212-16112009000600017-1,19,2,The nutritional characteristics of the diet are shown in Table I and the calibrated diet for the patient in Table II.,the diet
+S0212-16112009000600017-1,19,3,The nutritional characteristics of the diet are shown in Table I and the calibrated diet for the patient in Table II.,Table I
+S0212-16112009000600017-1,19,4,The nutritional characteristics of the diet are shown in Table I and the calibrated diet for the patient in Table II.,the calibrated diet
+S0212-16112009000600017-1,19,5,The nutritional characteristics of the diet are shown in Table I and the calibrated diet for the patient in Table II.,the patient
+S0212-16112009000600017-1,19,6,The nutritional characteristics of the diet are shown in Table I and the calibrated diet for the patient in Table II.,Table II
+S0212-16112009000600017-1,20,1,"After six months of following the diet, the patient presented the following data:",six months
+S0212-16112009000600017-1,20,2,"After six months of following the diet, the patient presented the following data:",the diet
+S0212-16112009000600017-1,20,3,"After six months of following the diet, the patient presented the following data:",the patient
+S0212-16112009000600017-1,20,4,"After six months of following the diet, the patient presented the following data:",the following data
+S0212-16112009000600017-1,21,1,"Anthropometry: weight 79.4 kg, BMI 27.15 kg/m2.",Anthropometry
+S0212-16112009000600017-1,21,2,"Anthropometry: weight 79.4 kg, BMI 27.15 kg/m2.",weight
+S0212-16112009000600017-1,21,3,"Anthropometry: weight 79.4 kg, BMI 27.15 kg/m2.",79.4 kg
+S0212-16112009000600017-1,21,4,"Anthropometry: weight 79.4 kg, BMI 27.15 kg/m2.",BMI
+S0212-16112009000600017-1,21,5,"Anthropometry: weight 79.4 kg, BMI 27.15 kg/m2.",27.15 kg/m2
+S0212-16112009000600017-1,22,1,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",Body composition
+S0212-16112009000600017-1,22,2,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",the same technique
+S0212-16112009000600017-1,22,3,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",the initial visit
+S0212-16112009000600017-1,22,4,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",46.5 liters
+S0212-16112009000600017-1,22,5,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",water
+S0212-16112009000600017-1,22,6,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",58.6%
+S0212-16112009000600017-1,22,7,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",63.5 kg
+S0212-16112009000600017-1,22,8,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",lean mass
+S0212-16112009000600017-1,22,9,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",80.0%
+S0212-16112009000600017-1,22,10,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",15.9 kg
+S0212-16112009000600017-1,22,11,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",fat mass
+S0212-16112009000600017-1,22,12,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",20.0%
+S0212-16112009000600017-1,22,13,"Body composition measured with the same technique as at the initial visit indicated 46.5 liters of water (58.6%), 63.5 kg of lean mass (80.0%), and 15.9 kg of fat mass (20.0%). ,0%).",",0%"
+S0212-16112009000600017-1,23,1,The edema had decreased and was present only in the perimalleolar area.,The edema
+S0212-16112009000600017-1,23,2,The edema had decreased and was present only in the perimalleolar area.,the perimalleolar area
+S0212-16112009000600017-1,24,1,"Analytical: Creatinine: 1.58 mg/100, Glomerular Filtration: 48 ml/min/1.72 m2.",Analytical
+S0212-16112009000600017-1,24,2,"Analytical: Creatinine: 1.58 mg/100, Glomerular Filtration: 48 ml/min/1.72 m2.",Creatinine
+S0212-16112009000600017-1,24,3,"Analytical: Creatinine: 1.58 mg/100, Glomerular Filtration: 48 ml/min/1.72 m2.",1.58 mg/100
+S0212-16112009000600017-1,24,4,"Analytical: Creatinine: 1.58 mg/100, Glomerular Filtration: 48 ml/min/1.72 m2.",Glomerular Filtration
+S0212-16112009000600017-1,24,5,"Analytical: Creatinine: 1.58 mg/100, Glomerular Filtration: 48 ml/min/1.72 m2.",48 ml/min/1.72 m2
+S0212-16112009000600017-1,25,1,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",P
+S0212-16112009000600017-1,25,2,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",4.4 mg
+S0212-16112009000600017-1,25,3,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",dL
+S0212-16112009000600017-1,25,4,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",K
+S0212-16112009000600017-1,25,5,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",5.37 mmol/L. Total proteins
+S0212-16112009000600017-1,25,6,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",4.8 g/L
+S0212-16112009000600017-1,25,7,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",albumin
+S0212-16112009000600017-1,25,8,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",3.15 mg/dL
+S0212-16112009000600017-1,25,9,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",prealbumin
+S0212-16112009000600017-1,25,10,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",36.9 mg
+S0212-16112009000600017-1,25,11,"P: 4.4 mg/dL and K: 5.37 mmol/L. Total proteins: 4.8 g/L, albumin: 3.15 mg/dL and prealbumin: 36.9 mg/dL.",/dL.
+S0212-16112009000600017-1,26,1,Proteinuria: 2.1 g/24 h.,Proteinuria
+S0212-16112009000600017-1,26,2,Proteinuria: 2.1 g/24 h.,2.1 g/24
+S0212-16112009000600017-1,26,3,Proteinuria: 2.1 g/24 h.,h.
+S0212-16112009000600017-1,27,1,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.",Total cholesterol
+S0212-16112009000600017-1,27,2,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.","140 mg/dL, Triglycerides"
+S0212-16112009000600017-1,27,3,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.",88 mg/dL
+S0212-16112009000600017-1,27,4,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.",HDL
+S0212-16112009000600017-1,27,5,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.",64 mg/dL
+S0212-16112009000600017-1,27,6,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.",LDL
+S0212-16112009000600017-1,27,7,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.",58.4 mg/dL
+S0212-16112009000600017-1,27,8,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.",Uric acid
+S0212-16112009000600017-1,27,9,"Total cholesterol: 140 mg/dL, Triglycerides: 88 mg/dL, HDL: 64 mg/dL, LDL: 58.4 mg/dL, Uric acid: 10.75 mg/dL.",10.75 mg/dL.
+S0212-16112009000600017-1,28,1,Diet adherence: Dietary intake was collected in a 24-hour recall and analyzed with the same computer program as at the baseline visit.,Diet adherence
+S0212-16112009000600017-1,28,2,Diet adherence: Dietary intake was collected in a 24-hour recall and analyzed with the same computer program as at the baseline visit.,Dietary intake
+S0212-16112009000600017-1,28,3,Diet adherence: Dietary intake was collected in a 24-hour recall and analyzed with the same computer program as at the baseline visit.,a 24-hour recall
+S0212-16112009000600017-1,28,4,Diet adherence: Dietary intake was collected in a 24-hour recall and analyzed with the same computer program as at the baseline visit.,the same computer program
+S0212-16112009000600017-1,28,5,Diet adherence: Dietary intake was collected in a 24-hour recall and analyzed with the same computer program as at the baseline visit.,the baseline visit
+S0212-16112009000600017-1,29,1,The data appear in table I.,The data
+S0212-16112009000600017-1,29,2,The data appear in table I.,table
+S0212-16112009000600017-1,30,1,"Currently, the patient continues with the prescribed diet and continues to attend the diet therapy consultation bimonthly.",the patient
+S0212-16112009000600017-1,30,2,"Currently, the patient continues with the prescribed diet and continues to attend the diet therapy consultation bimonthly.",the prescribed diet
+S0212-16112009000600017-1,30,3,"Currently, the patient continues with the prescribed diet and continues to attend the diet therapy consultation bimonthly.",the diet therapy consultation

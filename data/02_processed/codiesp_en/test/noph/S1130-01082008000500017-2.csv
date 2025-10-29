@@ -1,0 +1,60 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082008000500017-2,1,1,"This is a 27-year-old male patient, also a native of Senegal and with no previous history of interest, who presented with vomiting and abdominal pain.",This
+S1130-01082008000500017-2,1,2,"This is a 27-year-old male patient, also a native of Senegal and with no previous history of interest, who presented with vomiting and abdominal pain.",a 27-year-old male patient
+S1130-01082008000500017-2,1,3,"This is a 27-year-old male patient, also a native of Senegal and with no previous history of interest, who presented with vomiting and abdominal pain.",also a native
+S1130-01082008000500017-2,1,4,"This is a 27-year-old male patient, also a native of Senegal and with no previous history of interest, who presented with vomiting and abdominal pain.",Senegal
+S1130-01082008000500017-2,1,5,"This is a 27-year-old male patient, also a native of Senegal and with no previous history of interest, who presented with vomiting and abdominal pain.",no previous history
+S1130-01082008000500017-2,1,6,"This is a 27-year-old male patient, also a native of Senegal and with no previous history of interest, who presented with vomiting and abdominal pain.",interest
+S1130-01082008000500017-2,1,7,"This is a 27-year-old male patient, also a native of Senegal and with no previous history of interest, who presented with vomiting and abdominal pain.",who
+S1130-01082008000500017-2,1,8,"This is a 27-year-old male patient, also a native of Senegal and with no previous history of interest, who presented with vomiting and abdominal pain.",vomiting and abdominal pain
+S1130-01082008000500017-2,2,1,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",The patient
+S1130-01082008000500017-2,2,2,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",symptoms
+S1130-01082008000500017-2,2,3,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",asthenia
+S1130-01082008000500017-2,2,4,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",anorexia
+S1130-01082008000500017-2,2,5,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",that
+S1130-01082008000500017-2,2,6,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",a month
+S1130-01082008000500017-2,2,7,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",diffuse discomfort
+S1130-01082008000500017-2,2,8,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",the abdomen
+S1130-01082008000500017-2,2,9,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",the beginning
+S1130-01082008000500017-2,2,10,"The patient reported symptoms of asthenia and anorexia that had been going on for a month, with diffuse discomfort in the abdomen since the beginning of the condition.",the condition
+S1130-01082008000500017-2,3,1,"Given the progression of the symptoms and the appearance of vomiting, he went to the emergency room.",the progression
+S1130-01082008000500017-2,3,2,"Given the progression of the symptoms and the appearance of vomiting, he went to the emergency room.",the symptoms
+S1130-01082008000500017-2,3,3,"Given the progression of the symptoms and the appearance of vomiting, he went to the emergency room.",the appearance
+S1130-01082008000500017-2,3,4,"Given the progression of the symptoms and the appearance of vomiting, he went to the emergency room.",vomiting
+S1130-01082008000500017-2,3,5,"Given the progression of the symptoms and the appearance of vomiting, he went to the emergency room.",he
+S1130-01082008000500017-2,3,6,"Given the progression of the symptoms and the appearance of vomiting, he went to the emergency room.",the emergency room
+S1130-01082008000500017-2,4,1,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",physical examination
+S1130-01082008000500017-2,4,2,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",he
+S1130-01082008000500017-2,4,3,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",an acceptable general condition
+S1130-01082008000500017-2,4,4,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",only great pain
+S1130-01082008000500017-2,4,5,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",palpation
+S1130-01082008000500017-2,4,6,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",the epigastrium
+S1130-01082008000500017-2,4,7,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",right hypochondrium
+S1130-01082008000500017-2,4,8,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",an area
+S1130-01082008000500017-2,4,9,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",a mass
+S1130-01082008000500017-2,4,10,"On physical examination, he was in an acceptable general condition, highlighting only great pain on palpation in the epigastrium and right hypochondrium, with an area of ​​filling compatible with a mass at that level being palpated.",that level
+S1130-01082008000500017-2,5,1,"There were no signs of peritoneal irritation, although he did present voluntary defense.",no signs
+S1130-01082008000500017-2,5,2,"There were no signs of peritoneal irritation, although he did present voluntary defense.",peritoneal irritation
+S1130-01082008000500017-2,5,3,"There were no signs of peritoneal irritation, although he did present voluntary defense.",he
+S1130-01082008000500017-2,5,4,"There were no signs of peritoneal irritation, although he did present voluntary defense.",voluntary defense
+S1130-01082008000500017-2,6,1,Laboratory tests showed moderate hypertransaminasemia and mild coagulopathy.,Laboratory tests
+S1130-01082008000500017-2,6,2,Laboratory tests showed moderate hypertransaminasemia and mild coagulopathy.,moderate hypertransaminasemia
+S1130-01082008000500017-2,7,1,"An ultrasound was performed, revealing the presence of a large liver mass (approximately 12 cm in diameter) with numerous satellite nodules.",An ultrasound
+S1130-01082008000500017-2,7,2,"An ultrasound was performed, revealing the presence of a large liver mass (approximately 12 cm in diameter) with numerous satellite nodules.",the presence
+S1130-01082008000500017-2,7,3,"An ultrasound was performed, revealing the presence of a large liver mass (approximately 12 cm in diameter) with numerous satellite nodules.",a large liver mass
+S1130-01082008000500017-2,7,4,"An ultrasound was performed, revealing the presence of a large liver mass (approximately 12 cm in diameter) with numerous satellite nodules.",approximately 12 cm
+S1130-01082008000500017-2,7,5,"An ultrasound was performed, revealing the presence of a large liver mass (approximately 12 cm in diameter) with numerous satellite nodules.",diameter
+S1130-01082008000500017-2,7,6,"An ultrasound was performed, revealing the presence of a large liver mass (approximately 12 cm in diameter) with numerous satellite nodules.",numerous satellite nodules
+S1130-01082008000500017-2,8,1,MRI confirmed the hypervascular nature of these lesions.,MRI
+S1130-01082008000500017-2,8,2,MRI confirmed the hypervascular nature of these lesions.,the hypervascular nature
+S1130-01082008000500017-2,8,3,MRI confirmed the hypervascular nature of these lesions.,these lesions
+S1130-01082008000500017-2,9,1,"Finally, viral serologies revealed chronic HBV infection and alpha-fetoprotein was 12,687 ng/ml, so the patient was diagnosed with giant HCC with satellitosis and HBV infection.",viral serologies
+S1130-01082008000500017-2,9,2,"Finally, viral serologies revealed chronic HBV infection and alpha-fetoprotein was 12,687 ng/ml, so the patient was diagnosed with giant HCC with satellitosis and HBV infection.",chronic HBV infection
+S1130-01082008000500017-2,9,3,"Finally, viral serologies revealed chronic HBV infection and alpha-fetoprotein was 12,687 ng/ml, so the patient was diagnosed with giant HCC with satellitosis and HBV infection.",alpha-fetoprotein
+S1130-01082008000500017-2,9,4,"Finally, viral serologies revealed chronic HBV infection and alpha-fetoprotein was 12,687 ng/ml, so the patient was diagnosed with giant HCC with satellitosis and HBV infection.","12,687 ng/ml"
+S1130-01082008000500017-2,9,5,"Finally, viral serologies revealed chronic HBV infection and alpha-fetoprotein was 12,687 ng/ml, so the patient was diagnosed with giant HCC with satellitosis and HBV infection.",the patient
+S1130-01082008000500017-2,9,6,"Finally, viral serologies revealed chronic HBV infection and alpha-fetoprotein was 12,687 ng/ml, so the patient was diagnosed with giant HCC with satellitosis and HBV infection.",giant HCC
+S1130-01082008000500017-2,9,7,"Finally, viral serologies revealed chronic HBV infection and alpha-fetoprotein was 12,687 ng/ml, so the patient was diagnosed with giant HCC with satellitosis and HBV infection.",satellitosis
+S1130-01082008000500017-2,9,8,"Finally, viral serologies revealed chronic HBV infection and alpha-fetoprotein was 12,687 ng/ml, so the patient was diagnosed with giant HCC with satellitosis and HBV infection.",HBV infection
+S1130-01082008000500017-2,10,1,"Symptomatic palliative treatment was instituted, and he died a few months later.",Symptomatic palliative treatment
+S1130-01082008000500017-2,10,2,"Symptomatic palliative treatment was instituted, and he died a few months later.",he

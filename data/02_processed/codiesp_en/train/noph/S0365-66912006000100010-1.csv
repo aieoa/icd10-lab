@@ -1,0 +1,92 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912006000100010-1,1,1,"A 72-year-old male patient who suffered severe head trauma due to a traffic accident, presenting a score of 8 on the Glasgow Coma Scale at the time of admission.",A 72-year-old male patient
+S0365-66912006000100010-1,1,2,"A 72-year-old male patient who suffered severe head trauma due to a traffic accident, presenting a score of 8 on the Glasgow Coma Scale at the time of admission.",who
+S0365-66912006000100010-1,1,3,"A 72-year-old male patient who suffered severe head trauma due to a traffic accident, presenting a score of 8 on the Glasgow Coma Scale at the time of admission.",severe head trauma
+S0365-66912006000100010-1,1,4,"A 72-year-old male patient who suffered severe head trauma due to a traffic accident, presenting a score of 8 on the Glasgow Coma Scale at the time of admission.",a traffic accident
+S0365-66912006000100010-1,1,5,"A 72-year-old male patient who suffered severe head trauma due to a traffic accident, presenting a score of 8 on the Glasgow Coma Scale at the time of admission.",a score
+S0365-66912006000100010-1,1,6,"A 72-year-old male patient who suffered severe head trauma due to a traffic accident, presenting a score of 8 on the Glasgow Coma Scale at the time of admission.",the Glasgow Coma Scale
+S0365-66912006000100010-1,1,7,"A 72-year-old male patient who suffered severe head trauma due to a traffic accident, presenting a score of 8 on the Glasgow Coma Scale at the time of admission.",the time
+S0365-66912006000100010-1,1,8,"A 72-year-old male patient who suffered severe head trauma due to a traffic accident, presenting a score of 8 on the Glasgow Coma Scale at the time of admission.",admission
+S0365-66912006000100010-1,2,1,He clinically associated severe thoracic and pelvic trauma that required orotracheal intubation and thoracic drainage.,He
+S0365-66912006000100010-1,2,2,He clinically associated severe thoracic and pelvic trauma that required orotracheal intubation and thoracic drainage.,severe thoracic
+S0365-66912006000100010-1,2,3,He clinically associated severe thoracic and pelvic trauma that required orotracheal intubation and thoracic drainage.,pelvic trauma
+S0365-66912006000100010-1,2,4,He clinically associated severe thoracic and pelvic trauma that required orotracheal intubation and thoracic drainage.,that
+S0365-66912006000100010-1,2,5,He clinically associated severe thoracic and pelvic trauma that required orotracheal intubation and thoracic drainage.,orotracheal intubation
+S0365-66912006000100010-1,2,6,He clinically associated severe thoracic and pelvic trauma that required orotracheal intubation and thoracic drainage.,drainage
+S0365-66912006000100010-1,3,1,"Cranial CT showed intraventricular bleeding and a slight right frontoparietal subarachnoid hemorrhage, which evolved as subdural hygromas.",Cranial CT
+S0365-66912006000100010-1,3,2,"Cranial CT showed intraventricular bleeding and a slight right frontoparietal subarachnoid hemorrhage, which evolved as subdural hygromas.",intraventricular bleeding
+S0365-66912006000100010-1,3,3,"Cranial CT showed intraventricular bleeding and a slight right frontoparietal subarachnoid hemorrhage, which evolved as subdural hygromas.",a slight right frontoparietal subarachnoid hemorrhage
+S0365-66912006000100010-1,3,4,"Cranial CT showed intraventricular bleeding and a slight right frontoparietal subarachnoid hemorrhage, which evolved as subdural hygromas.",which
+S0365-66912006000100010-1,3,5,"Cranial CT showed intraventricular bleeding and a slight right frontoparietal subarachnoid hemorrhage, which evolved as subdural hygromas.",subdural hygromas
+S0365-66912006000100010-1,4,1,There were no lesions in the posterior fossa.,no lesions
+S0365-66912006000100010-1,4,2,There were no lesions in the posterior fossa.,the posterior fossa
+S0365-66912006000100010-1,5,1,The facial CT scan revealed a multiple fracture of the facial mass including the roof and medial wall of the left orbit.,The facial CT scan
+S0365-66912006000100010-1,5,2,The facial CT scan revealed a multiple fracture of the facial mass including the roof and medial wall of the left orbit.,a multiple fracture
+S0365-66912006000100010-1,5,3,The facial CT scan revealed a multiple fracture of the facial mass including the roof and medial wall of the left orbit.,the facial mass
+S0365-66912006000100010-1,5,4,The facial CT scan revealed a multiple fracture of the facial mass including the roof and medial wall of the left orbit.,the roof
+S0365-66912006000100010-1,5,5,The facial CT scan revealed a multiple fracture of the facial mass including the roof and medial wall of the left orbit.,medial wall
+S0365-66912006000100010-1,5,6,The facial CT scan revealed a multiple fracture of the facial mass including the roof and medial wall of the left orbit.,the left orbit
+S0365-66912006000100010-1,6,1,"When the patient leaves the ICU and is clinically stable, the ophthalmological study revealed a VA of 0.7 in both eyes.",the patient
+S0365-66912006000100010-1,6,2,"When the patient leaves the ICU and is clinically stable, the ophthalmological study revealed a VA of 0.7 in both eyes.",the ICU
+S0365-66912006000100010-1,6,3,"When the patient leaves the ICU and is clinically stable, the ophthalmological study revealed a VA of 0.7 in both eyes.",the ophthalmological study
+S0365-66912006000100010-1,6,4,"When the patient leaves the ICU and is clinically stable, the ophthalmological study revealed a VA of 0.7 in both eyes.",a VA
+S0365-66912006000100010-1,6,5,"When the patient leaves the ICU and is clinically stable, the ophthalmological study revealed a VA of 0.7 in both eyes.",both eyes
+S0365-66912006000100010-1,7,1,Biomicroscopy showed moderate phacosclerosis without the presence of other alterations.,Biomicroscopy
+S0365-66912006000100010-1,7,2,Biomicroscopy showed moderate phacosclerosis without the presence of other alterations.,moderate phacosclerosis
+S0365-66912006000100010-1,7,3,Biomicroscopy showed moderate phacosclerosis without the presence of other alterations.,the presence
+S0365-66912006000100010-1,7,4,Biomicroscopy showed moderate phacosclerosis without the presence of other alterations.,other alterations
+S0365-66912006000100010-1,8,1,"In the funduscopy, myelinated nerve fibers were found as a casual finding in both eyes, the papillae were normal and there were no alterations of the posterior pole or peripheral lesions.","the funduscopy, myelinated nerve fibers"
+S0365-66912006000100010-1,8,2,"In the funduscopy, myelinated nerve fibers were found as a casual finding in both eyes, the papillae were normal and there were no alterations of the posterior pole or peripheral lesions.",a casual finding
+S0365-66912006000100010-1,8,3,"In the funduscopy, myelinated nerve fibers were found as a casual finding in both eyes, the papillae were normal and there were no alterations of the posterior pole or peripheral lesions.",both eyes
+S0365-66912006000100010-1,8,4,"In the funduscopy, myelinated nerve fibers were found as a casual finding in both eyes, the papillae were normal and there were no alterations of the posterior pole or peripheral lesions.",no alterations
+S0365-66912006000100010-1,8,5,"In the funduscopy, myelinated nerve fibers were found as a casual finding in both eyes, the papillae were normal and there were no alterations of the posterior pole or peripheral lesions.",the posterior pole or peripheral lesions
+S0365-66912006000100010-1,9,1,"In the study of intrinsic ocular motility, anisocoria with mydriasis of the left eye appeared.",the study
+S0365-66912006000100010-1,9,2,"In the study of intrinsic ocular motility, anisocoria with mydriasis of the left eye appeared.",intrinsic ocular motility
+S0365-66912006000100010-1,9,3,"In the study of intrinsic ocular motility, anisocoria with mydriasis of the left eye appeared.",anisocoria
+S0365-66912006000100010-1,9,4,"In the study of intrinsic ocular motility, anisocoria with mydriasis of the left eye appeared.",mydriasis
+S0365-66912006000100010-1,9,5,"In the study of intrinsic ocular motility, anisocoria with mydriasis of the left eye appeared.",the left eye
+S0365-66912006000100010-1,10,1,"Regarding extrinsic motility, a complete paralysis of both abductor nerves and the left oculomotor nerve was observed (including ptosis).",extrinsic motility
+S0365-66912006000100010-1,10,2,"Regarding extrinsic motility, a complete paralysis of both abductor nerves and the left oculomotor nerve was observed (including ptosis).",a complete paralysis
+S0365-66912006000100010-1,10,3,"Regarding extrinsic motility, a complete paralysis of both abductor nerves and the left oculomotor nerve was observed (including ptosis).",both abductor nerves
+S0365-66912006000100010-1,10,4,"Regarding extrinsic motility, a complete paralysis of both abductor nerves and the left oculomotor nerve was observed (including ptosis).",the left oculomotor nerve
+S0365-66912006000100010-1,10,5,"Regarding extrinsic motility, a complete paralysis of both abductor nerves and the left oculomotor nerve was observed (including ptosis).",ptosis
+S0365-66912006000100010-1,11,1,"Clinically it manifested itself with torticollis, as well as diplopia in all positions, resulting in disabling.",it
+S0365-66912006000100010-1,11,2,"Clinically it manifested itself with torticollis, as well as diplopia in all positions, resulting in disabling.",itself
+S0365-66912006000100010-1,11,3,"Clinically it manifested itself with torticollis, as well as diplopia in all positions, resulting in disabling.",torticollis
+S0365-66912006000100010-1,11,4,"Clinically it manifested itself with torticollis, as well as diplopia in all positions, resulting in disabling.",diplopia
+S0365-66912006000100010-1,11,5,"Clinically it manifested itself with torticollis, as well as diplopia in all positions, resulting in disabling.",all positions
+S0365-66912006000100010-1,12,1,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",none
+S0365-66912006000100010-1,12,2,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",the lesions
+S0365-66912006000100010-1,12,3,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",the clinical findings
+S0365-66912006000100010-1,12,4,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",they
+S0365-66912006000100010-1,12,5,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",surgical treatment
+S0365-66912006000100010-1,12,6,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",it
+S0365-66912006000100010-1,12,7,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",the study
+S0365-66912006000100010-1,12,8,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",a cranial MRI
+S0365-66912006000100010-1,12,9,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",a pathophysiological explanation
+S0365-66912006000100010-1,12,10,"Given that none of the lesions described radiologically justified the clinical findings, nor were they susceptible to surgical treatment, it was decided to complete the study with a cranial MRI to find a pathophysiological explanation for the clinical findings.",the clinical findings
+S0365-66912006000100010-1,13,1,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",This examination
+S0365-66912006000100010-1,13,2,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",the existence
+S0365-66912006000100010-1,13,3,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",subcortical petechiae
+S0365-66912006000100010-1,13,4,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",focal lesions
+S0365-66912006000100010-1,13,5,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",the corpus callosum
+S0365-66912006000100010-1,13,6,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",all
+S0365-66912006000100010-1,13,7,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",which
+S0365-66912006000100010-1,13,8,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",the diagnosis
+S0365-66912006000100010-1,13,9,"This examination revealed the existence of subcortical petechiae and focal lesions of the corpus callosum, all of which is compatible with the diagnosis of diffuse axonal damage.",diffuse axonal damage
+S0365-66912006000100010-1,14,1,No structural lesions were found in the brainstem.,No structural lesions
+S0365-66912006000100010-1,14,2,No structural lesions were found in the brainstem.,the brainstem
+S0365-66912006000100010-1,15,1,"After four months of evolution, the patient presented combined paralysis that had not improved clinically.",four months
+S0365-66912006000100010-1,15,2,"After four months of evolution, the patient presented combined paralysis that had not improved clinically.",evolution
+S0365-66912006000100010-1,15,3,"After four months of evolution, the patient presented combined paralysis that had not improved clinically.",the patient
+S0365-66912006000100010-1,15,4,"After four months of evolution, the patient presented combined paralysis that had not improved clinically.",combined paralysis
+S0365-66912006000100010-1,15,5,"After four months of evolution, the patient presented combined paralysis that had not improved clinically.",that
+S0365-66912006000100010-1,16,1,"As a therapeutic procedure, injection of botulinum toxin (5 IU Botox) was performed in both middle rectums.",a therapeutic procedure
+S0365-66912006000100010-1,16,2,"As a therapeutic procedure, injection of botulinum toxin (5 IU Botox) was performed in both middle rectums.",injection
+S0365-66912006000100010-1,16,3,"As a therapeutic procedure, injection of botulinum toxin (5 IU Botox) was performed in both middle rectums.",botulinum toxin
+S0365-66912006000100010-1,16,4,"As a therapeutic procedure, injection of botulinum toxin (5 IU Botox) was performed in both middle rectums.",(5 IU Botox
+S0365-66912006000100010-1,16,5,"As a therapeutic procedure, injection of botulinum toxin (5 IU Botox) was performed in both middle rectums.",both middle rectums
+S0365-66912006000100010-1,17,1,"The clinical improvement was maintained for three months, after which the symptoms reappeared.",The clinical improvement
+S0365-66912006000100010-1,17,2,"The clinical improvement was maintained for three months, after which the symptoms reappeared.",three months
+S0365-66912006000100010-1,17,3,"The clinical improvement was maintained for three months, after which the symptoms reappeared.",which
+S0365-66912006000100010-1,17,4,"The clinical improvement was maintained for three months, after which the symptoms reappeared.",the symptoms

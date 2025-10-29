@@ -1,0 +1,74 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912008000200014-1,1,1,A 50-year-old man who underwent a Scopinaro biliopancreatic diversion in January 2004 for morbid obesity.,A 50-year-old man
+S0365-66912008000200014-1,1,2,A 50-year-old man who underwent a Scopinaro biliopancreatic diversion in January 2004 for morbid obesity.,who
+S0365-66912008000200014-1,1,3,A 50-year-old man who underwent a Scopinaro biliopancreatic diversion in January 2004 for morbid obesity.,a Scopinaro biliopancreatic diversion
+S0365-66912008000200014-1,1,4,A 50-year-old man who underwent a Scopinaro biliopancreatic diversion in January 2004 for morbid obesity.,January
+S0365-66912008000200014-1,1,5,A 50-year-old man who underwent a Scopinaro biliopancreatic diversion in January 2004 for morbid obesity.,morbid obesity
+S0365-66912008000200014-1,2,1,The patient presents hepatic steatosis and malabsorption syndrome.,The patient
+S0365-66912008000200014-1,2,2,The patient presents hepatic steatosis and malabsorption syndrome.,hepatic steatosis
+S0365-66912008000200014-1,2,3,The patient presents hepatic steatosis and malabsorption syndrome.,malabsorption syndrome
+S0365-66912008000200014-1,3,1,He is being treated with vitamin B12 for chronic anemia and vitamin K for decreased prothrombin activity.,He
+S0365-66912008000200014-1,3,2,He is being treated with vitamin B12 for chronic anemia and vitamin K for decreased prothrombin activity.,vitamin B12
+S0365-66912008000200014-1,3,3,He is being treated with vitamin B12 for chronic anemia and vitamin K for decreased prothrombin activity.,chronic anemia
+S0365-66912008000200014-1,3,4,He is being treated with vitamin B12 for chronic anemia and vitamin K for decreased prothrombin activity.,vitamin K
+S0365-66912008000200014-1,3,5,He is being treated with vitamin B12 for chronic anemia and vitamin K for decreased prothrombin activity.,decreased prothrombin activity
+S0365-66912008000200014-1,4,1,"In January 2006, a pyeloinfundibulonephrolithotomy with postoperative urinary fistula was performed.",January
+S0365-66912008000200014-1,4,2,"In January 2006, a pyeloinfundibulonephrolithotomy with postoperative urinary fistula was performed.",a pyeloinfundibulonephrolithotomy
+S0365-66912008000200014-1,4,3,"In January 2006, a pyeloinfundibulonephrolithotomy with postoperative urinary fistula was performed.",postoperative urinary fistula
+S0365-66912008000200014-1,5,1,"In April 2006, the patient was referred to the ophthalmology service due to night blindness that had progressed over 3 months.",April
+S0365-66912008000200014-1,5,2,"In April 2006, the patient was referred to the ophthalmology service due to night blindness that had progressed over 3 months.",the patient
+S0365-66912008000200014-1,5,3,"In April 2006, the patient was referred to the ophthalmology service due to night blindness that had progressed over 3 months.",the ophthalmology service
+S0365-66912008000200014-1,5,4,"In April 2006, the patient was referred to the ophthalmology service due to night blindness that had progressed over 3 months.",night blindness
+S0365-66912008000200014-1,5,5,"In April 2006, the patient was referred to the ophthalmology service due to night blindness that had progressed over 3 months.",that
+S0365-66912008000200014-1,5,6,"In April 2006, the patient was referred to the ophthalmology service due to night blindness that had progressed over 3 months.",over 3 months
+S0365-66912008000200014-1,6,1,The patient also reported a foreign body sensation and red eye.,The patient
+S0365-66912008000200014-1,6,2,The patient also reported a foreign body sensation and red eye.,a foreign body sensation
+S0365-66912008000200014-1,6,3,The patient also reported a foreign body sensation and red eye.,red eye
+S0365-66912008000200014-1,7,1,"On examination, visual acuity was unity in both eyes.",examination
+S0365-66912008000200014-1,7,2,"On examination, visual acuity was unity in both eyes.",visual acuity
+S0365-66912008000200014-1,7,3,"On examination, visual acuity was unity in both eyes.",unity
+S0365-66912008000200014-1,7,4,"On examination, visual acuity was unity in both eyes.",both eyes
+S0365-66912008000200014-1,8,1,"Slit lamp examination showed greatly decreased BUT, conjunctival xerosis, and Bitot spots in both eyes.",Slit lamp examination
+S0365-66912008000200014-1,8,2,"Slit lamp examination showed greatly decreased BUT, conjunctival xerosis, and Bitot spots in both eyes.","greatly decreased BUT, conjunctival xerosis"
+S0365-66912008000200014-1,8,3,"Slit lamp examination showed greatly decreased BUT, conjunctival xerosis, and Bitot spots in both eyes.",Bitot spots
+S0365-66912008000200014-1,8,4,"Slit lamp examination showed greatly decreased BUT, conjunctival xerosis, and Bitot spots in both eyes.",both eyes
+S0365-66912008000200014-1,9,1,Fine corneal conjunctive epithelial stippling could also be seen on fluorescein staining.,Fine corneal conjunctive epithelial stippling
+S0365-66912008000200014-1,9,2,Fine corneal conjunctive epithelial stippling could also be seen on fluorescein staining.,fluorescein
+S0365-66912008000200014-1,10,1,"In the Schirmer I test under anesthesia, values ​​greater than 15 mm were observed.",the Schirmer
+S0365-66912008000200014-1,10,2,"In the Schirmer I test under anesthesia, values ​​greater than 15 mm were observed.",I
+S0365-66912008000200014-1,10,3,"In the Schirmer I test under anesthesia, values ​​greater than 15 mm were observed.",anesthesia
+S0365-66912008000200014-1,10,4,"In the Schirmer I test under anesthesia, values ​​greater than 15 mm were observed.",values
+S0365-66912008000200014-1,10,5,"In the Schirmer I test under anesthesia, values ​​greater than 15 mm were observed.",​​greater
+S0365-66912008000200014-1,10,6,"In the Schirmer I test under anesthesia, values ​​greater than 15 mm were observed.",15 mm
+S0365-66912008000200014-1,11,1,"Ophthalmoscopically, whitish mottling was observed in the mid-periphery without macular involvement.",whitish mottling
+S0365-66912008000200014-1,11,2,"Ophthalmoscopically, whitish mottling was observed in the mid-periphery without macular involvement.",-
+S0365-66912008000200014-1,11,3,"Ophthalmoscopically, whitish mottling was observed in the mid-periphery without macular involvement.",periphery
+S0365-66912008000200014-1,11,4,"Ophthalmoscopically, whitish mottling was observed in the mid-periphery without macular involvement.",macular involvement
+S0365-66912008000200014-1,12,1,The plasma retinol level was 0.07 mg/l (normal level 0.30-0.8 mg/l).,The plasma retinol level
+S0365-66912008000200014-1,12,2,The plasma retinol level was 0.07 mg/l (normal level 0.30-0.8 mg/l).,0.07 mg/l (normal level
+S0365-66912008000200014-1,12,3,The plasma retinol level was 0.07 mg/l (normal level 0.30-0.8 mg/l).,0.8 mg/l
+S0365-66912008000200014-1,13,1,"Given the potential severity of the condition, oral treatment with vitamin A and pancreatic enzymes was started to promote its absorption while waiting to receive intramuscular treatment, with little improvement achieved.",the potential severity
+S0365-66912008000200014-1,13,2,"Given the potential severity of the condition, oral treatment with vitamin A and pancreatic enzymes was started to promote its absorption while waiting to receive intramuscular treatment, with little improvement achieved.",the condition
+S0365-66912008000200014-1,13,3,"Given the potential severity of the condition, oral treatment with vitamin A and pancreatic enzymes was started to promote its absorption while waiting to receive intramuscular treatment, with little improvement achieved.",oral treatment
+S0365-66912008000200014-1,13,4,"Given the potential severity of the condition, oral treatment with vitamin A and pancreatic enzymes was started to promote its absorption while waiting to receive intramuscular treatment, with little improvement achieved.",vitamin A and pancreatic enzymes
+S0365-66912008000200014-1,13,5,"Given the potential severity of the condition, oral treatment with vitamin A and pancreatic enzymes was started to promote its absorption while waiting to receive intramuscular treatment, with little improvement achieved.",its absorption
+S0365-66912008000200014-1,13,6,"Given the potential severity of the condition, oral treatment with vitamin A and pancreatic enzymes was started to promote its absorption while waiting to receive intramuscular treatment, with little improvement achieved.",intramuscular treatment
+S0365-66912008000200014-1,13,7,"Given the potential severity of the condition, oral treatment with vitamin A and pancreatic enzymes was started to promote its absorption while waiting to receive intramuscular treatment, with little improvement achieved.",little improvement
+S0365-66912008000200014-1,14,1,"Concomitantly, due to complicated nephrolithiasis (intrarenal abscess), the patient underwent a nephrectomy with intense bleeding, requiring five packed red blood cells.",complicated nephrolithiasis
+S0365-66912008000200014-1,14,2,"Concomitantly, due to complicated nephrolithiasis (intrarenal abscess), the patient underwent a nephrectomy with intense bleeding, requiring five packed red blood cells.",intrarenal abscess
+S0365-66912008000200014-1,14,3,"Concomitantly, due to complicated nephrolithiasis (intrarenal abscess), the patient underwent a nephrectomy with intense bleeding, requiring five packed red blood cells.",the patient
+S0365-66912008000200014-1,14,4,"Concomitantly, due to complicated nephrolithiasis (intrarenal abscess), the patient underwent a nephrectomy with intense bleeding, requiring five packed red blood cells.",a nephrectomy
+S0365-66912008000200014-1,14,5,"Concomitantly, due to complicated nephrolithiasis (intrarenal abscess), the patient underwent a nephrectomy with intense bleeding, requiring five packed red blood cells.",intense bleeding
+S0365-66912008000200014-1,14,6,"Concomitantly, due to complicated nephrolithiasis (intrarenal abscess), the patient underwent a nephrectomy with intense bleeding, requiring five packed red blood cells.",five packed red blood cells
+S0365-66912008000200014-1,15,1,"After this process, the patient reports a slight improvement in his symptoms, despite having discontinued oral treatment due to post-surgical fasting.",this process
+S0365-66912008000200014-1,15,2,"After this process, the patient reports a slight improvement in his symptoms, despite having discontinued oral treatment due to post-surgical fasting.",the patient
+S0365-66912008000200014-1,15,3,"After this process, the patient reports a slight improvement in his symptoms, despite having discontinued oral treatment due to post-surgical fasting.",a slight improvement
+S0365-66912008000200014-1,15,4,"After this process, the patient reports a slight improvement in his symptoms, despite having discontinued oral treatment due to post-surgical fasting.",his symptoms
+S0365-66912008000200014-1,15,5,"After this process, the patient reports a slight improvement in his symptoms, despite having discontinued oral treatment due to post-surgical fasting.",oral treatment
+S0365-66912008000200014-1,15,6,"After this process, the patient reports a slight improvement in his symptoms, despite having discontinued oral treatment due to post-surgical fasting.",post-surgical fasting
+S0365-66912008000200014-1,16,1,"Finally, 300,000 IU of intramuscular vitamin A was administered, achieving an immediate improvement in subjective symptoms, although the ophthalmoscopic manifestations took three months to disappear.","300,000 IU"
+S0365-66912008000200014-1,16,2,"Finally, 300,000 IU of intramuscular vitamin A was administered, achieving an immediate improvement in subjective symptoms, although the ophthalmoscopic manifestations took three months to disappear.",intramuscular vitamin A
+S0365-66912008000200014-1,16,3,"Finally, 300,000 IU of intramuscular vitamin A was administered, achieving an immediate improvement in subjective symptoms, although the ophthalmoscopic manifestations took three months to disappear.",an immediate improvement
+S0365-66912008000200014-1,16,4,"Finally, 300,000 IU of intramuscular vitamin A was administered, achieving an immediate improvement in subjective symptoms, although the ophthalmoscopic manifestations took three months to disappear.",subjective symptoms
+S0365-66912008000200014-1,16,5,"Finally, 300,000 IU of intramuscular vitamin A was administered, achieving an immediate improvement in subjective symptoms, although the ophthalmoscopic manifestations took three months to disappear.",the ophthalmoscopic manifestations
+S0365-66912008000200014-1,16,6,"Finally, 300,000 IU of intramuscular vitamin A was administered, achieving an immediate improvement in subjective symptoms, although the ophthalmoscopic manifestations took three months to disappear.",three months

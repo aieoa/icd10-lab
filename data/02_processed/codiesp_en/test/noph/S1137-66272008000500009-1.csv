@@ -1,0 +1,110 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1137-66272008000500009-1,1,1,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,A case
+S1137-66272008000500009-1,1,2,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,a 26-year-old patient
+S1137-66272008000500009-1,1,3,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,who
+S1137-66272008000500009-1,1,4,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,the clinic
+S1137-66272008000500009-1,1,5,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,pain
+S1137-66272008000500009-1,1,6,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,the right wrist
+S1137-66272008000500009-1,1,7,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,7 years' duration
+S1137-66272008000500009-1,1,8,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,no history
+S1137-66272008000500009-1,1,9,A case is presented of a 26-year-old patient who came to the clinic due to pain in the right wrist of 7 years' duration with no history of trauma.,trauma
+S1137-66272008000500009-1,2,1,"The pain at rest was mild, but increased with manual activity and especially with forced extension of the wrist.",The pain
+S1137-66272008000500009-1,2,2,"The pain at rest was mild, but increased with manual activity and especially with forced extension of the wrist.",rest
+S1137-66272008000500009-1,2,3,"The pain at rest was mild, but increased with manual activity and especially with forced extension of the wrist.",manual activity
+S1137-66272008000500009-1,2,4,"The pain at rest was mild, but increased with manual activity and especially with forced extension of the wrist.",forced extension
+S1137-66272008000500009-1,2,5,"The pain at rest was mild, but increased with manual activity and especially with forced extension of the wrist.",the wrist
+S1137-66272008000500009-1,3,1,She did not improve with symptomatic medical treatment.,She
+S1137-66272008000500009-1,3,2,She did not improve with symptomatic medical treatment.,symptomatic medical treatment
+S1137-66272008000500009-1,4,1,The dorsal radiocarpal joint interline and the proximal pole of the scaphoid were tender on palpation.,The dorsal radiocarpal joint interline
+S1137-66272008000500009-1,4,2,The dorsal radiocarpal joint interline and the proximal pole of the scaphoid were tender on palpation.,the proximal pole
+S1137-66272008000500009-1,4,3,The dorsal radiocarpal joint interline and the proximal pole of the scaphoid were tender on palpation.,the scaphoid
+S1137-66272008000500009-1,4,4,The dorsal radiocarpal joint interline and the proximal pole of the scaphoid were tender on palpation.,palpation
+S1137-66272008000500009-1,5,1,No palpable tumor was seen.,No palpable tumor
+S1137-66272008000500009-1,6,1,Wrist mobility was slightly limited in the last degrees of flexion and extension.,Wrist mobility
+S1137-66272008000500009-1,6,2,Wrist mobility was slightly limited in the last degrees of flexion and extension.,the last degrees
+S1137-66272008000500009-1,6,3,Wrist mobility was slightly limited in the last degrees of flexion and extension.,flexion
+S1137-66272008000500009-1,6,4,Wrist mobility was slightly limited in the last degrees of flexion and extension.,extension
+S1137-66272008000500009-1,7,1,"The radiological image showed a well-defined, oval, radiolucent lesion located in the mid-dorsal third of the scaphoid.",The radiological image
+S1137-66272008000500009-1,7,2,"The radiological image showed a well-defined, oval, radiolucent lesion located in the mid-dorsal third of the scaphoid.","a well-defined, oval, radiolucent lesion"
+S1137-66272008000500009-1,7,3,"The radiological image showed a well-defined, oval, radiolucent lesion located in the mid-dorsal third of the scaphoid.",-dorsal third
+S1137-66272008000500009-1,7,4,"The radiological image showed a well-defined, oval, radiolucent lesion located in the mid-dorsal third of the scaphoid.",the scaphoid
+S1137-66272008000500009-1,8,1,The CT scan showed the dorsal eccentric location of the lesion and stippling compatible with calcifications.,The CT scan
+S1137-66272008000500009-1,8,2,The CT scan showed the dorsal eccentric location of the lesion and stippling compatible with calcifications.,the dorsal eccentric location
+S1137-66272008000500009-1,8,3,The CT scan showed the dorsal eccentric location of the lesion and stippling compatible with calcifications.,the lesion
+S1137-66272008000500009-1,8,4,The CT scan showed the dorsal eccentric location of the lesion and stippling compatible with calcifications.,calcifications
+S1137-66272008000500009-1,9,1,"The MRI showed signs of marked bone edema in the scaphoid, except in its distal third and adjacent synovitis.",The MRI
+S1137-66272008000500009-1,9,2,"The MRI showed signs of marked bone edema in the scaphoid, except in its distal third and adjacent synovitis.",signs
+S1137-66272008000500009-1,9,3,"The MRI showed signs of marked bone edema in the scaphoid, except in its distal third and adjacent synovitis.",marked bone edema
+S1137-66272008000500009-1,9,4,"The MRI showed signs of marked bone edema in the scaphoid, except in its distal third and adjacent synovitis.",the scaphoid
+S1137-66272008000500009-1,9,5,"The MRI showed signs of marked bone edema in the scaphoid, except in its distal third and adjacent synovitis.",its distal third and adjacent synovitis
+S1137-66272008000500009-1,10,1,"With the suspected diagnosis of a benign lesion (enchondroma, intraosseous ganglion), surgical treatment of the lesion was decided.",the suspected diagnosis
+S1137-66272008000500009-1,10,2,"With the suspected diagnosis of a benign lesion (enchondroma, intraosseous ganglion), surgical treatment of the lesion was decided.",a benign lesion
+S1137-66272008000500009-1,10,3,"With the suspected diagnosis of a benign lesion (enchondroma, intraosseous ganglion), surgical treatment of the lesion was decided.",enchondroma
+S1137-66272008000500009-1,10,4,"With the suspected diagnosis of a benign lesion (enchondroma, intraosseous ganglion), surgical treatment of the lesion was decided.",intraosseous ganglion
+S1137-66272008000500009-1,10,5,"With the suspected diagnosis of a benign lesion (enchondroma, intraosseous ganglion), surgical treatment of the lesion was decided.",surgical treatment
+S1137-66272008000500009-1,10,6,"With the suspected diagnosis of a benign lesion (enchondroma, intraosseous ganglion), surgical treatment of the lesion was decided.",the lesion
+S1137-66272008000500009-1,11,1,This was performed through a dorsal approach to the scaphoid.,This
+S1137-66272008000500009-1,11,2,This was performed through a dorsal approach to the scaphoid.,a dorsal approach
+S1137-66272008000500009-1,11,3,This was performed through a dorsal approach to the scaphoid.,the scaphoid
+S1137-66272008000500009-1,12,1,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",the joint capsule
+S1137-66272008000500009-1,12,2,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",the dorsal surface
+S1137-66272008000500009-1,12,3,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",the distal epiphysis
+S1137-66272008000500009-1,12,4,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",the radius
+S1137-66272008000500009-1,12,5,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",scaphoid
+S1137-66272008000500009-1,12,6,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",the middle third
+S1137-66272008000500009-1,12,7,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",a pearly appearance
+S1137-66272008000500009-1,12,8,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",a wine-red color
+S1137-66272008000500009-1,12,9,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",that
+S1137-66272008000500009-1,12,10,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",the dorsal crest
+S1137-66272008000500009-1,12,11,"After opening the joint capsule, the dorsal surface of the distal epiphysis of the radius and scaphoid was exposed, and in the middle third of the latter a tumor with a pearly appearance and a wine-red color was seen that occupied the dorsal crest of the navicular bone.",the navicular bone
+S1137-66272008000500009-1,13,1,An exhaustive curettage of the lesion was performed and the defect was filled with cancellous bone graft from the iliac crest.,An exhaustive curettage
+S1137-66272008000500009-1,13,2,An exhaustive curettage of the lesion was performed and the defect was filled with cancellous bone graft from the iliac crest.,the lesion
+S1137-66272008000500009-1,13,3,An exhaustive curettage of the lesion was performed and the defect was filled with cancellous bone graft from the iliac crest.,the defect
+S1137-66272008000500009-1,13,4,An exhaustive curettage of the lesion was performed and the defect was filled with cancellous bone graft from the iliac crest.,cancellous bone graft
+S1137-66272008000500009-1,13,5,An exhaustive curettage of the lesion was performed and the defect was filled with cancellous bone graft from the iliac crest.,the iliac crest
+S1137-66272008000500009-1,14,1,The material submitted was formed by islets of cartilaginous matrix surrounded by abundant cellular tissue made up of pseudo-chondroblastic cells.,The material
+S1137-66272008000500009-1,14,2,The material submitted was formed by islets of cartilaginous matrix surrounded by abundant cellular tissue made up of pseudo-chondroblastic cells.,islets
+S1137-66272008000500009-1,14,3,The material submitted was formed by islets of cartilaginous matrix surrounded by abundant cellular tissue made up of pseudo-chondroblastic cells.,cartilaginous matrix
+S1137-66272008000500009-1,14,4,The material submitted was formed by islets of cartilaginous matrix surrounded by abundant cellular tissue made up of pseudo-chondroblastic cells.,abundant cellular tissue
+S1137-66272008000500009-1,14,5,The material submitted was formed by islets of cartilaginous matrix surrounded by abundant cellular tissue made up of pseudo-chondroblastic cells.,pseudo-chondroblastic cells
+S1137-66272008000500009-1,15,1,"These cells were round or ovoid with hyperchromatic nuclei, clear or moderately eosinophilic cytoplasm, and a clear plasma membrane.",These cells
+S1137-66272008000500009-1,15,2,"These cells were round or ovoid with hyperchromatic nuclei, clear or moderately eosinophilic cytoplasm, and a clear plasma membrane.",hyperchromatic nuclei
+S1137-66272008000500009-1,15,3,"These cells were round or ovoid with hyperchromatic nuclei, clear or moderately eosinophilic cytoplasm, and a clear plasma membrane.",clear or moderately eosinophilic cytoplasm
+S1137-66272008000500009-1,15,4,"These cells were round or ovoid with hyperchromatic nuclei, clear or moderately eosinophilic cytoplasm, and a clear plasma membrane.",a clear plasma membrane
+S1137-66272008000500009-1,16,1,Cellular pleomorphism was minimal and the mitotic index was very low.,Cellular pleomorphism
+S1137-66272008000500009-1,16,2,Cellular pleomorphism was minimal and the mitotic index was very low.,the mitotic index
+S1137-66272008000500009-1,17,1,Some cells contained iron.,Some cells
+S1137-66272008000500009-1,17,2,Some cells contained iron.,iron
+S1137-66272008000500009-1,18,1,Among the pseudochondroblastic cells were abundant osteoclastic-type giant cells.,the pseudochondroblastic cells
+S1137-66272008000500009-1,18,2,Among the pseudochondroblastic cells were abundant osteoclastic-type giant cells.,abundant osteoclastic-type giant cells
+S1137-66272008000500009-1,19,1,In some areas there were areas of irregular calcification.,some areas
+S1137-66272008000500009-1,19,2,In some areas there were areas of irregular calcification.,areas
+S1137-66272008000500009-1,19,3,In some areas there were areas of irregular calcification.,irregular calcification
+S1137-66272008000500009-1,20,1,Some areas of cystic transformation that resembled aneurysmal cysts were also observed.,Some areas
+S1137-66272008000500009-1,20,2,Some areas of cystic transformation that resembled aneurysmal cysts were also observed.,cystic transformation
+S1137-66272008000500009-1,20,3,Some areas of cystic transformation that resembled aneurysmal cysts were also observed.,that
+S1137-66272008000500009-1,20,4,Some areas of cystic transformation that resembled aneurysmal cysts were also observed.,aneurysmal cysts
+S1137-66272008000500009-1,21,1,The pathological diagnosis was carpal scaphoid chondroblastoma.,The pathological diagnosis
+S1137-66272008000500009-1,21,2,The pathological diagnosis was carpal scaphoid chondroblastoma.,carpal scaphoid chondroblastoma
+S1137-66272008000500009-1,22,1,"After the surgical treatment, the wrist was immobilized with an antebrachial splint for 3 weeks and the patient was subsequently referred to the Rehabilitation Service.",the surgical treatment
+S1137-66272008000500009-1,22,2,"After the surgical treatment, the wrist was immobilized with an antebrachial splint for 3 weeks and the patient was subsequently referred to the Rehabilitation Service.",the wrist
+S1137-66272008000500009-1,22,3,"After the surgical treatment, the wrist was immobilized with an antebrachial splint for 3 weeks and the patient was subsequently referred to the Rehabilitation Service.",an antebrachial splint
+S1137-66272008000500009-1,22,4,"After the surgical treatment, the wrist was immobilized with an antebrachial splint for 3 weeks and the patient was subsequently referred to the Rehabilitation Service.",3 weeks
+S1137-66272008000500009-1,22,5,"After the surgical treatment, the wrist was immobilized with an antebrachial splint for 3 weeks and the patient was subsequently referred to the Rehabilitation Service.",the patient
+S1137-66272008000500009-1,22,6,"After the surgical treatment, the wrist was immobilized with an antebrachial splint for 3 weeks and the patient was subsequently referred to the Rehabilitation Service.",the Rehabilitation Service
+S1137-66272008000500009-1,23,1,"In the review carried out after 3 months, complete recovery of wrist mobility and radiological image of bone consolidation of the iliac crest autograft were observed.",the review
+S1137-66272008000500009-1,23,2,"In the review carried out after 3 months, complete recovery of wrist mobility and radiological image of bone consolidation of the iliac crest autograft were observed.",3 months
+S1137-66272008000500009-1,23,3,"In the review carried out after 3 months, complete recovery of wrist mobility and radiological image of bone consolidation of the iliac crest autograft were observed.",complete recovery
+S1137-66272008000500009-1,23,4,"In the review carried out after 3 months, complete recovery of wrist mobility and radiological image of bone consolidation of the iliac crest autograft were observed.",wrist mobility
+S1137-66272008000500009-1,23,5,"In the review carried out after 3 months, complete recovery of wrist mobility and radiological image of bone consolidation of the iliac crest autograft were observed.",radiological image
+S1137-66272008000500009-1,23,6,"In the review carried out after 3 months, complete recovery of wrist mobility and radiological image of bone consolidation of the iliac crest autograft were observed.",bone consolidation
+S1137-66272008000500009-1,23,7,"In the review carried out after 3 months, complete recovery of wrist mobility and radiological image of bone consolidation of the iliac crest autograft were observed.",the iliac crest autograft
+S1137-66272008000500009-1,24,1,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",surgical treatment
+S1137-66272008000500009-1,24,2,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",no evidence
+S1137-66272008000500009-1,24,3,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",recurrence
+S1137-66272008000500009-1,24,4,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",a complete disappearance
+S1137-66272008000500009-1,24,5,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",pain persists
+S1137-66272008000500009-1,24,6,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",that
+S1137-66272008000500009-1,24,7,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",the contralateral wrist
+S1137-66272008000500009-1,24,8,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",a completely normalized radiological image
+S1137-66272008000500009-1,24,9,"Two years after surgical treatment there is no evidence of recurrence and a complete disappearance of pain persists with wrist mobility similar to that of the contralateral wrist, as well as a completely normalized radiological image of the scaphoid.",the scaphoid

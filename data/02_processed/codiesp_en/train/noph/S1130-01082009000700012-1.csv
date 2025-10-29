@@ -1,0 +1,64 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082009000700012-1,1,1,A 53-year-old man presented with intense pain in the left iliac fossa without other associated symptoms.,A 53-year-old man
+S1130-01082009000700012-1,1,2,A 53-year-old man presented with intense pain in the left iliac fossa without other associated symptoms.,intense pain
+S1130-01082009000700012-1,1,3,A 53-year-old man presented with intense pain in the left iliac fossa without other associated symptoms.,the left iliac fossa
+S1130-01082009000700012-1,1,4,A 53-year-old man presented with intense pain in the left iliac fossa without other associated symptoms.,other associated symptoms
+S1130-01082009000700012-1,2,1,He denied the existence of fever.,He
+S1130-01082009000700012-1,2,2,He denied the existence of fever.,the existence
+S1130-01082009000700012-1,2,3,He denied the existence of fever.,fever
+S1130-01082009000700012-1,3,1,He did not report regular home treatment or personal or family history of interest.,He
+S1130-01082009000700012-1,3,2,He did not report regular home treatment or personal or family history of interest.,regular home treatment
+S1130-01082009000700012-1,3,3,He did not report regular home treatment or personal or family history of interest.,personal or family history
+S1130-01082009000700012-1,3,4,He did not report regular home treatment or personal or family history of interest.,interest
+S1130-01082009000700012-1,4,1,"The physical examination revealed a slight overweight and painful palpation at the level of the left iliac fossa, along with abdominal guarding.",The physical examination
+S1130-01082009000700012-1,4,2,"The physical examination revealed a slight overweight and painful palpation at the level of the left iliac fossa, along with abdominal guarding.",a slight overweight and painful palpation
+S1130-01082009000700012-1,4,3,"The physical examination revealed a slight overweight and painful palpation at the level of the left iliac fossa, along with abdominal guarding.",the level
+S1130-01082009000700012-1,4,4,"The physical examination revealed a slight overweight and painful palpation at the level of the left iliac fossa, along with abdominal guarding.",the left iliac fossa
+S1130-01082009000700012-1,4,5,"The physical examination revealed a slight overweight and painful palpation at the level of the left iliac fossa, along with abdominal guarding.",abdominal guarding
+S1130-01082009000700012-1,5,1,Bowel sounds and the rest of the examination were normal.,Bowel
+S1130-01082009000700012-1,5,2,Bowel sounds and the rest of the examination were normal.,the rest
+S1130-01082009000700012-1,5,3,Bowel sounds and the rest of the examination were normal.,the examination
+S1130-01082009000700012-1,6,1,"The general analysis revealed a GGT of 88 U/l, ferritin of 297.11 ng/ml and CRP of 7 mg/dl.",The general analysis
+S1130-01082009000700012-1,6,2,"The general analysis revealed a GGT of 88 U/l, ferritin of 297.11 ng/ml and CRP of 7 mg/dl.",a GGT
+S1130-01082009000700012-1,6,3,"The general analysis revealed a GGT of 88 U/l, ferritin of 297.11 ng/ml and CRP of 7 mg/dl.",88 U/l
+S1130-01082009000700012-1,6,4,"The general analysis revealed a GGT of 88 U/l, ferritin of 297.11 ng/ml and CRP of 7 mg/dl.",ferritin
+S1130-01082009000700012-1,6,5,"The general analysis revealed a GGT of 88 U/l, ferritin of 297.11 ng/ml and CRP of 7 mg/dl.",297.11 ng/ml
+S1130-01082009000700012-1,6,6,"The general analysis revealed a GGT of 88 U/l, ferritin of 297.11 ng/ml and CRP of 7 mg/dl.",CRP
+S1130-01082009000700012-1,6,7,"The general analysis revealed a GGT of 88 U/l, ferritin of 297.11 ng/ml and CRP of 7 mg/dl.",7 mg
+S1130-01082009000700012-1,6,8,"The general analysis revealed a GGT of 88 U/l, ferritin of 297.11 ng/ml and CRP of 7 mg/dl.",dl
+S1130-01082009000700012-1,7,1,The other parameters were normal.,The other parameters
+S1130-01082009000700012-1,8,1,The clinic indicated acute diverticulitis.,The clinic
+S1130-01082009000700012-1,8,2,The clinic indicated acute diverticulitis.,acute diverticulitis
+S1130-01082009000700012-1,9,1,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",the persistence
+S1130-01082009000700012-1,9,2,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",intensity
+S1130-01082009000700012-1,9,3,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",the pain
+S1130-01082009000700012-1,9,4,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",the suspected diagnosis
+S1130-01082009000700012-1,9,5,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",a CT scan
+S1130-01082009000700012-1,9,6,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",the abdomen
+S1130-01082009000700012-1,9,7,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",which
+S1130-01082009000700012-1,9,8,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",the existence
+S1130-01082009000700012-1,9,9,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",sigmoid diverticulosis
+S1130-01082009000700012-1,9,10,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",signs
+S1130-01082009000700012-1,9,11,"Given the persistence and intensity of the pain, as well as to confirm the suspected diagnosis, a CT scan of the abdomen was performed, which revealed the existence of sigmoid diverticulosis without signs of diverticulitis.",diverticulitis
+S1130-01082009000700012-1,10,1,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",an upper section
+S1130-01082009000700012-1,10,2,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",the abdomen
+S1130-01082009000700012-1,10,3,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",an inflammation
+S1130-01082009000700012-1,10,4,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",the descending colon
+S1130-01082009000700012-1,10,5,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",which
+S1130-01082009000700012-1,10,6,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",an epiploic appendix
+S1130-01082009000700012-1,10,7,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",the context
+S1130-01082009000700012-1,10,8,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",acute appendagitis
+S1130-01082009000700012-1,10,9,"In an upper section of the abdomen, an inflammation of the fat adjacent to the descending colon was observed, which corresponded to an epiploic appendix, probably in the context of acute appendagitis secondary to torsion of the same.",torsion
+S1130-01082009000700012-1,11,1,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.",The patient
+S1130-01082009000700012-1,11,2,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.","""appendagitis"
+S1130-01082009000700012-1,11,3,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.","""epiploic appendagitis"
+S1130-01082009000700012-1,11,4,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.",conservative treatment
+S1130-01082009000700012-1,11,5,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.",-
+S1130-01082009000700012-1,11,6,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.",inflammatories
+S1130-01082009000700012-1,11,7,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.",7 days
+S1130-01082009000700012-1,11,8,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.",a progressive improvement
+S1130-01082009000700012-1,11,9,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.",symptoms
+S1130-01082009000700012-1,11,10,"The patient was diagnosed with ""appendagitis"" or ""epiploic appendagitis"" and received conservative treatment with oral anti-inflammatories for 7 days, with a progressive improvement of symptoms and without complications appearing.",complications
+S1130-01082009000700012-1,12,1,The use of antibiotics or hospital admission was not necessary.,The use
+S1130-01082009000700012-1,12,2,The use of antibiotics or hospital admission was not necessary.,antibiotics
+S1130-01082009000700012-1,12,3,The use of antibiotics or hospital admission was not necessary.,hospital admission

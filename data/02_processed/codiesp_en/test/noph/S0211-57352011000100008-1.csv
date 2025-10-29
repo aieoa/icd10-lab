@@ -1,0 +1,121 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0211-57352011000100008-1,1,1,"A 65-year-old woman, with a previous diagnosis of bipolar affective disorder type II treated with lithium and olanzapine, attended the Emergency Department due to behavioral alterations of four days' duration.",A 65-year-old woman
+S0211-57352011000100008-1,1,2,"A 65-year-old woman, with a previous diagnosis of bipolar affective disorder type II treated with lithium and olanzapine, attended the Emergency Department due to behavioral alterations of four days' duration.",a previous diagnosis
+S0211-57352011000100008-1,1,3,"A 65-year-old woman, with a previous diagnosis of bipolar affective disorder type II treated with lithium and olanzapine, attended the Emergency Department due to behavioral alterations of four days' duration.",bipolar affective disorder type II
+S0211-57352011000100008-1,1,4,"A 65-year-old woman, with a previous diagnosis of bipolar affective disorder type II treated with lithium and olanzapine, attended the Emergency Department due to behavioral alterations of four days' duration.",lithium
+S0211-57352011000100008-1,1,5,"A 65-year-old woman, with a previous diagnosis of bipolar affective disorder type II treated with lithium and olanzapine, attended the Emergency Department due to behavioral alterations of four days' duration.",olanzapine
+S0211-57352011000100008-1,1,6,"A 65-year-old woman, with a previous diagnosis of bipolar affective disorder type II treated with lithium and olanzapine, attended the Emergency Department due to behavioral alterations of four days' duration.",the Emergency Department
+S0211-57352011000100008-1,1,7,"A 65-year-old woman, with a previous diagnosis of bipolar affective disorder type II treated with lithium and olanzapine, attended the Emergency Department due to behavioral alterations of four days' duration.",behavioral alterations
+S0211-57352011000100008-1,1,8,"A 65-year-old woman, with a previous diagnosis of bipolar affective disorder type II treated with lithium and olanzapine, attended the Emergency Department due to behavioral alterations of four days' duration.",four days' duration
+S0211-57352011000100008-1,2,1,The patient has a long history of several admissions to psychiatric services.,The patient
+S0211-57352011000100008-1,2,2,The patient has a long history of several admissions to psychiatric services.,a long history
+S0211-57352011000100008-1,2,3,The patient has a long history of several admissions to psychiatric services.,several admissions
+S0211-57352011000100008-1,2,4,The patient has a long history of several admissions to psychiatric services.,psychiatric services
+S0211-57352011000100008-1,3,1,She lives alone and is autonomous in the activities of daily living although she receives home help.,She
+S0211-57352011000100008-1,3,2,She lives alone and is autonomous in the activities of daily living although she receives home help.,the activities
+S0211-57352011000100008-1,3,3,She lives alone and is autonomous in the activities of daily living although she receives home help.,daily living
+S0211-57352011000100008-1,3,4,She lives alone and is autonomous in the activities of daily living although she receives home help.,she
+S0211-57352011000100008-1,3,5,She lives alone and is autonomous in the activities of daily living although she receives home help.,home help
+S0211-57352011000100008-1,4,1,"The family reports initial symptoms of mood swings and extravagant clothing that later progress to dysarthria, difficulty walking, and temporal-spatial disorientation.",The family
+S0211-57352011000100008-1,4,2,"The family reports initial symptoms of mood swings and extravagant clothing that later progress to dysarthria, difficulty walking, and temporal-spatial disorientation.",initial symptoms
+S0211-57352011000100008-1,4,3,"The family reports initial symptoms of mood swings and extravagant clothing that later progress to dysarthria, difficulty walking, and temporal-spatial disorientation.",mood swings
+S0211-57352011000100008-1,4,4,"The family reports initial symptoms of mood swings and extravagant clothing that later progress to dysarthria, difficulty walking, and temporal-spatial disorientation.",extravagant clothing
+S0211-57352011000100008-1,4,5,"The family reports initial symptoms of mood swings and extravagant clothing that later progress to dysarthria, difficulty walking, and temporal-spatial disorientation.",that
+S0211-57352011000100008-1,4,6,"The family reports initial symptoms of mood swings and extravagant clothing that later progress to dysarthria, difficulty walking, and temporal-spatial disorientation.",temporal-spatial disorientation
+S0211-57352011000100008-1,5,1,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",the study
+S0211-57352011000100008-1,5,2,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",the Emergency Department
+S0211-57352011000100008-1,5,3,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",arterial hypertension
+S0211-57352011000100008-1,5,4,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",174/110 mmHg
+S0211-57352011000100008-1,5,5,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",hypokalemia
+S0211-57352011000100008-1,5,6,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",3.09 mEq/l
+S0211-57352011000100008-1,5,7,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",fever
+S0211-57352011000100008-1,5,8,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",38.4ºC
+S0211-57352011000100008-1,5,9,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",abdominal distension
+S0211-57352011000100008-1,5,10,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",which
+S0211-57352011000100008-1,5,11,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",urinary retention
+S0211-57352011000100008-1,5,12,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",2 liters
+S0211-57352011000100008-1,5,13,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",fluid
+S0211-57352011000100008-1,5,14,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",urine
+S0211-57352011000100008-1,5,15,"In the study carried out in the Emergency Department, arterial hypertension (174/110 mmHg), hypokalemia (3.09 mEq/l), fever (38.4ºC) and abdominal distension were observed, which was attributed to urinary retention, and 2 liters of fluid were removed. urine after bladder catheterization.",bladder catheterization
+S0211-57352011000100008-1,6,1,"The lithemia, ECG, CK and head CT are normal, as well as the simple abdominal and chest x-ray.",The lithemia
+S0211-57352011000100008-1,6,2,"The lithemia, ECG, CK and head CT are normal, as well as the simple abdominal and chest x-ray.",ECG
+S0211-57352011000100008-1,6,3,"The lithemia, ECG, CK and head CT are normal, as well as the simple abdominal and chest x-ray.",CK
+S0211-57352011000100008-1,6,4,"The lithemia, ECG, CK and head CT are normal, as well as the simple abdominal and chest x-ray.",head CT
+S0211-57352011000100008-1,6,5,"The lithemia, ECG, CK and head CT are normal, as well as the simple abdominal and chest x-ray.",-
+S0211-57352011000100008-1,6,6,"The lithemia, ECG, CK and head CT are normal, as well as the simple abdominal and chest x-ray.",ray
+S0211-57352011000100008-1,7,1,Lumbar puncture was performed with normal cell count.,Lumbar puncture
+S0211-57352011000100008-1,7,2,Lumbar puncture was performed with normal cell count.,normal cell count
+S0211-57352011000100008-1,8,1,The patient was admitted to the Internal Medicine Service with a diagnostic impression of confusional syndrome without an identified etiology.,The patient
+S0211-57352011000100008-1,8,2,The patient was admitted to the Internal Medicine Service with a diagnostic impression of confusional syndrome without an identified etiology.,the Internal Medicine Service
+S0211-57352011000100008-1,8,3,The patient was admitted to the Internal Medicine Service with a diagnostic impression of confusional syndrome without an identified etiology.,a diagnostic impression
+S0211-57352011000100008-1,8,4,The patient was admitted to the Internal Medicine Service with a diagnostic impression of confusional syndrome without an identified etiology.,confusional syndrome
+S0211-57352011000100008-1,8,5,The patient was admitted to the Internal Medicine Service with a diagnostic impression of confusional syndrome without an identified etiology.,an identified etiology
+S0211-57352011000100008-1,9,1,"It is treated with antipyresis, broad-spectrum antibiotic therapy, and venous thrombosis prophylaxis with heparin.",It
+S0211-57352011000100008-1,9,2,"It is treated with antipyresis, broad-spectrum antibiotic therapy, and venous thrombosis prophylaxis with heparin.","antipyresis, broad-spectrum antibiotic therapy"
+S0211-57352011000100008-1,9,3,"It is treated with antipyresis, broad-spectrum antibiotic therapy, and venous thrombosis prophylaxis with heparin.",venous thrombosis prophylaxis
+S0211-57352011000100008-1,9,4,"It is treated with antipyresis, broad-spectrum antibiotic therapy, and venous thrombosis prophylaxis with heparin.",heparin
+S0211-57352011000100008-1,10,1,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",The study
+S0211-57352011000100008-1,10,2,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",a new lumbar puncture
+S0211-57352011000100008-1,10,3,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",MRI
+S0211-57352011000100008-1,10,4,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",the skull
+S0211-57352011000100008-1,10,5,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",abdomino-pelvic CT
+S0211-57352011000100008-1,10,6,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",blood cultures
+S0211-57352011000100008-1,10,7,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",urine cultures
+S0211-57352011000100008-1,10,8,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",that
+S0211-57352011000100008-1,10,9,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",alterations
+S0211-57352011000100008-1,10,10,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",that
+S0211-57352011000100008-1,10,11,"The study is expanded with a new lumbar puncture, MRI of the skull, thoracic and abdomino-pelvic CT, blood cultures and urine cultures that do not show alterations that justify the condition.",the condition
+S0211-57352011000100008-1,11,1,"The condition progresses in two days to mutism, akinesia, rigidity, distal tremor and decreased blinking.",The condition
+S0211-57352011000100008-1,11,2,"The condition progresses in two days to mutism, akinesia, rigidity, distal tremor and decreased blinking.",two days
+S0211-57352011000100008-1,11,3,"The condition progresses in two days to mutism, akinesia, rigidity, distal tremor and decreased blinking.",mutism
+S0211-57352011000100008-1,11,4,"The condition progresses in two days to mutism, akinesia, rigidity, distal tremor and decreased blinking.",akinesia
+S0211-57352011000100008-1,11,5,"The condition progresses in two days to mutism, akinesia, rigidity, distal tremor and decreased blinking.",rigidity
+S0211-57352011000100008-1,11,6,"The condition progresses in two days to mutism, akinesia, rigidity, distal tremor and decreased blinking.",distal tremor
+S0211-57352011000100008-1,12,1,"Fever and high blood pressure (HBP) persist, with hypernatremia (150mEq/l).",Fever
+S0211-57352011000100008-1,12,2,"Fever and high blood pressure (HBP) persist, with hypernatremia (150mEq/l).",high blood pressure
+S0211-57352011000100008-1,12,3,"Fever and high blood pressure (HBP) persist, with hypernatremia (150mEq/l).",HBP
+S0211-57352011000100008-1,12,4,"Fever and high blood pressure (HBP) persist, with hypernatremia (150mEq/l).",persist
+S0211-57352011000100008-1,12,5,"Fever and high blood pressure (HBP) persist, with hypernatremia (150mEq/l).",hypernatremia
+S0211-57352011000100008-1,12,6,"Fever and high blood pressure (HBP) persist, with hypernatremia (150mEq/l).",150mEq/l
+S0211-57352011000100008-1,13,1,Electrolyte alterations are interpreted in the context of diaphoresis and no fluid and food intake.,Electrolyte alterations
+S0211-57352011000100008-1,13,2,Electrolyte alterations are interpreted in the context of diaphoresis and no fluid and food intake.,the context
+S0211-57352011000100008-1,13,3,Electrolyte alterations are interpreted in the context of diaphoresis and no fluid and food intake.,diaphoresis
+S0211-57352011000100008-1,13,4,Electrolyte alterations are interpreted in the context of diaphoresis and no fluid and food intake.,no fluid and food intake
+S0211-57352011000100008-1,14,1,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",deterioration
+S0211-57352011000100008-1,14,2,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",the level
+S0211-57352011000100008-1,14,3,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",consciousness
+S0211-57352011000100008-1,14,4,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",admission
+S0211-57352011000100008-1,14,5,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",the Resuscitation Unit
+S0211-57352011000100008-1,14,6,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",placement
+S0211-57352011000100008-1,14,7,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",a nasogastric tube
+S0211-57352011000100008-1,14,8,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",nutrition
+S0211-57352011000100008-1,14,9,"After deterioration of the level of consciousness, admission to the Resuscitation Unit and placement of a nasogastric tube for nutrition of the patient is considered.",the patient
+S0211-57352011000100008-1,15,1,A psychiatry evaluation was requested and urgent electroconvulsive therapy (ECT) was prescribed for the next day with a diagnostic impression of malignant catatonia.,A psychiatry evaluation
+S0211-57352011000100008-1,15,2,A psychiatry evaluation was requested and urgent electroconvulsive therapy (ECT) was prescribed for the next day with a diagnostic impression of malignant catatonia.,urgent electroconvulsive therapy
+S0211-57352011000100008-1,15,3,A psychiatry evaluation was requested and urgent electroconvulsive therapy (ECT) was prescribed for the next day with a diagnostic impression of malignant catatonia.,ECT
+S0211-57352011000100008-1,15,4,A psychiatry evaluation was requested and urgent electroconvulsive therapy (ECT) was prescribed for the next day with a diagnostic impression of malignant catatonia.,the next day
+S0211-57352011000100008-1,15,5,A psychiatry evaluation was requested and urgent electroconvulsive therapy (ECT) was prescribed for the next day with a diagnostic impression of malignant catatonia.,a diagnostic impression
+S0211-57352011000100008-1,15,6,A psychiatry evaluation was requested and urgent electroconvulsive therapy (ECT) was prescribed for the next day with a diagnostic impression of malignant catatonia.,malignant catatonia
+S0211-57352011000100008-1,16,1,"Two days after the first session, it was noted that the patient maintained coherent spontaneous speech and was feeding.",the first session
+S0211-57352011000100008-1,16,2,"Two days after the first session, it was noted that the patient maintained coherent spontaneous speech and was feeding.",it
+S0211-57352011000100008-1,16,3,"Two days after the first session, it was noted that the patient maintained coherent spontaneous speech and was feeding.",the patient
+S0211-57352011000100008-1,16,4,"Two days after the first session, it was noted that the patient maintained coherent spontaneous speech and was feeding.",coherent spontaneous speech
+S0211-57352011000100008-1,17,1,Two more sessions of ECT are administered and lithium is reintroduced.,Two more sessions
+S0211-57352011000100008-1,17,2,Two more sessions of ECT are administered and lithium is reintroduced.,ECT
+S0211-57352011000100008-1,17,3,Two more sessions of ECT are administered and lithium is reintroduced.,lithium
+S0211-57352011000100008-1,18,1,"The fever, diaphoresis, HBP, electrolyte disturbances and disorientation have subsided.",The fever
+S0211-57352011000100008-1,18,2,"The fever, diaphoresis, HBP, electrolyte disturbances and disorientation have subsided.",diaphoresis
+S0211-57352011000100008-1,18,3,"The fever, diaphoresis, HBP, electrolyte disturbances and disorientation have subsided.",HBP
+S0211-57352011000100008-1,18,4,"The fever, diaphoresis, HBP, electrolyte disturbances and disorientation have subsided.",electrolyte disturbances
+S0211-57352011000100008-1,18,5,"The fever, diaphoresis, HBP, electrolyte disturbances and disorientation have subsided.",disorientation
+S0211-57352011000100008-1,19,1,"The culture for Herpes Simplex Virus was negative, ruling out encephalitis due to this cause.",The culture
+S0211-57352011000100008-1,19,2,"The culture for Herpes Simplex Virus was negative, ruling out encephalitis due to this cause.",Herpes Simplex Virus
+S0211-57352011000100008-1,19,3,"The culture for Herpes Simplex Virus was negative, ruling out encephalitis due to this cause.",encephalitis
+S0211-57352011000100008-1,19,4,"The culture for Herpes Simplex Virus was negative, ruling out encephalitis due to this cause.",this cause
+S0211-57352011000100008-1,20,1,The patient was discharged in 30 days with a diagnosis of TAB type II and malignant catatonia.,The patient
+S0211-57352011000100008-1,20,2,The patient was discharged in 30 days with a diagnosis of TAB type II and malignant catatonia.,30 days
+S0211-57352011000100008-1,20,3,The patient was discharged in 30 days with a diagnosis of TAB type II and malignant catatonia.,a diagnosis
+S0211-57352011000100008-1,20,4,The patient was discharged in 30 days with a diagnosis of TAB type II and malignant catatonia.,TAB type II
+S0211-57352011000100008-1,20,5,The patient was discharged in 30 days with a diagnosis of TAB type II and malignant catatonia.,malignant catatonia
+S0211-57352011000100008-1,21,1,At discharge the patient was euthymic.,discharge
+S0211-57352011000100008-1,21,2,At discharge the patient was euthymic.,the patient

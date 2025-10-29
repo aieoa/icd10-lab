@@ -1,0 +1,78 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142009000800011-1,1,1,A 56-year-old woman was initially evaluated for intestinal disorders.,A 56-year-old woman
+S0004-06142009000800011-1,1,2,A 56-year-old woman was initially evaluated for intestinal disorders.,intestinal disorders
+S0004-06142009000800011-1,2,1,Physical examination and initial laboratory routine were normal.,Physical examination
+S0004-06142009000800011-1,2,2,Physical examination and initial laboratory routine were normal.,initial laboratory routine
+S0004-06142009000800011-1,3,1,An abdominal ultrasound showed a solid mass 12 cm behind the left kidney that presented anomalous vascularization.,An abdominal ultrasound
+S0004-06142009000800011-1,3,2,An abdominal ultrasound showed a solid mass 12 cm behind the left kidney that presented anomalous vascularization.,a solid mass 12 cm
+S0004-06142009000800011-1,3,3,An abdominal ultrasound showed a solid mass 12 cm behind the left kidney that presented anomalous vascularization.,the left kidney
+S0004-06142009000800011-1,3,4,An abdominal ultrasound showed a solid mass 12 cm behind the left kidney that presented anomalous vascularization.,that
+S0004-06142009000800011-1,3,5,An abdominal ultrasound showed a solid mass 12 cm behind the left kidney that presented anomalous vascularization.,anomalous vascularization
+S0004-06142009000800011-1,4,1,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,The computed tomography
+S0004-06142009000800011-1,4,2,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,a well-circumscribed mass
+S0004-06142009000800011-1,4,3,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,the left kidney
+S0004-06142009000800011-1,4,4,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,that
+S0004-06142009000800011-1,4,5,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,the administration
+S0004-06142009000800011-1,4,6,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,intravenous contrast
+S0004-06142009000800011-1,4,7,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,a clear fatty plane
+S0004-06142009000800011-1,4,8,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,the left kidney
+S0004-06142009000800011-1,4,9,The computed tomography showed a well-circumscribed mass behind the left kidney that enhanced after the administration of intravenous contrast and presented a clear fatty plane between the left kidney and the mass.,the mass
+S0004-06142009000800011-1,5,1,Fine needle puncture was performed to obtain histology.,Fine needle puncture
+S0004-06142009000800011-1,5,2,Fine needle puncture was performed to obtain histology.,histology
+S0004-06142009000800011-1,6,1,The pathological report was of a benign mesenchymal tumor or one with low malignant potential.,The pathological report
+S0004-06142009000800011-1,6,2,The pathological report was of a benign mesenchymal tumor or one with low malignant potential.,a benign mesenchymal tumor
+S0004-06142009000800011-1,6,3,The pathological report was of a benign mesenchymal tumor or one with low malignant potential.,low malignant potential
+S0004-06142009000800011-1,7,1,Laparoscopic exploration was decided.,Laparoscopic exploration
+S0004-06142009000800011-1,8,1,Surgical technique: Under general anesthesia the patient was positioned in the right lateral decubitus after the placement of an orogastric and bladder tube.,Surgical technique
+S0004-06142009000800011-1,8,2,Surgical technique: Under general anesthesia the patient was positioned in the right lateral decubitus after the placement of an orogastric and bladder tube.,general anesthesia
+S0004-06142009000800011-1,8,3,Surgical technique: Under general anesthesia the patient was positioned in the right lateral decubitus after the placement of an orogastric and bladder tube.,the patient
+S0004-06142009000800011-1,8,4,Surgical technique: Under general anesthesia the patient was positioned in the right lateral decubitus after the placement of an orogastric and bladder tube.,the right lateral decubitus
+S0004-06142009000800011-1,8,5,Surgical technique: Under general anesthesia the patient was positioned in the right lateral decubitus after the placement of an orogastric and bladder tube.,the placement
+S0004-06142009000800011-1,8,6,Surgical technique: Under general anesthesia the patient was positioned in the right lateral decubitus after the placement of an orogastric and bladder tube.,an orogastric and bladder tube
+S0004-06142009000800011-1,9,1,A single dose of 2gr cephalothin was administered intravenously.,A single dose
+S0004-06142009000800011-1,9,2,A single dose of 2gr cephalothin was administered intravenously.,2gr cephalothin
+S0004-06142009000800011-1,10,1,Pneumoperitoneum was performed with a Veress needle at 1 2 mmHg.,Pneumoperitoneum
+S0004-06142009000800011-1,10,2,Pneumoperitoneum was performed with a Veress needle at 1 2 mmHg.,a Veress needle
+S0004-06142009000800011-1,10,3,Pneumoperitoneum was performed with a Veress needle at 1 2 mmHg.,1 2 mmHg
+S0004-06142009000800011-1,11,1,"Two trocars of 1,2 mm and 5 mm respectively were placed forming a rhombus as seen in Figure 3.",Two trocars
+S0004-06142009000800011-1,11,2,"Two trocars of 1,2 mm and 5 mm respectively were placed forming a rhombus as seen in Figure 3.","1,2 mm"
+S0004-06142009000800011-1,11,3,"Two trocars of 1,2 mm and 5 mm respectively were placed forming a rhombus as seen in Figure 3.",5 mm
+S0004-06142009000800011-1,11,4,"Two trocars of 1,2 mm and 5 mm respectively were placed forming a rhombus as seen in Figure 3.",a rhombus
+S0004-06142009000800011-1,11,5,"Two trocars of 1,2 mm and 5 mm respectively were placed forming a rhombus as seen in Figure 3.",Figure
+S0004-06142009000800011-1,12,1,The colon and spleen were widely mobilized towards the midline.,The colon
+S0004-06142009000800011-1,12,2,The colon and spleen were widely mobilized towards the midline.,spleen
+S0004-06142009000800011-1,12,3,The colon and spleen were widely mobilized towards the midline.,the midline
+S0004-06142009000800011-1,13,1,"After opening Gerota's fascia, the mass was clearly visualized on the outer edge of the kidney.",Gerota's fascia
+S0004-06142009000800011-1,13,2,"After opening Gerota's fascia, the mass was clearly visualized on the outer edge of the kidney.",the mass
+S0004-06142009000800011-1,13,3,"After opening Gerota's fascia, the mass was clearly visualized on the outer edge of the kidney.",the outer edge
+S0004-06142009000800011-1,13,4,"After opening Gerota's fascia, the mass was clearly visualized on the outer edge of the kidney.",the kidney
+S0004-06142009000800011-1,14,1,"By preserving the tumor boundaries, it was freed from its contact with the renal capsule.",the tumor boundaries
+S0004-06142009000800011-1,14,2,"By preserving the tumor boundaries, it was freed from its contact with the renal capsule.",it
+S0004-06142009000800011-1,14,3,"By preserving the tumor boundaries, it was freed from its contact with the renal capsule.",its contact
+S0004-06142009000800011-1,14,4,"By preserving the tumor boundaries, it was freed from its contact with the renal capsule.",the renal capsule
+S0004-06142009000800011-1,15,1,A 2cm area was observed firmly adhered to the renal capsule requiring resection of the same and subsequent fulguration of the bloody bed with argon laser.,A 2cm area
+S0004-06142009000800011-1,15,2,A 2cm area was observed firmly adhered to the renal capsule requiring resection of the same and subsequent fulguration of the bloody bed with argon laser.,the renal capsule requiring resection
+S0004-06142009000800011-1,15,3,A 2cm area was observed firmly adhered to the renal capsule requiring resection of the same and subsequent fulguration of the bloody bed with argon laser.,the same and subsequent fulguration
+S0004-06142009000800011-1,15,4,A 2cm area was observed firmly adhered to the renal capsule requiring resection of the same and subsequent fulguration of the bloody bed with argon laser.,the bloody bed
+S0004-06142009000800011-1,15,5,A 2cm area was observed firmly adhered to the renal capsule requiring resection of the same and subsequent fulguration of the bloody bed with argon laser.,argon laser
+S0004-06142009000800011-1,16,1,The surgical specimen was removed in a plastic bag by obliquely extending the trocar incision on the left flank.,The surgical specimen
+S0004-06142009000800011-1,16,2,The surgical specimen was removed in a plastic bag by obliquely extending the trocar incision on the left flank.,a plastic bag
+S0004-06142009000800011-1,16,3,The surgical specimen was removed in a plastic bag by obliquely extending the trocar incision on the left flank.,the trocar incision
+S0004-06142009000800011-1,16,4,The surgical specimen was removed in a plastic bag by obliquely extending the trocar incision on the left flank.,the left flank
+S0004-06142009000800011-1,17,1,A Blake-type drain was left through the 5 mm trocar hole.,A Blake-type drain
+S0004-06142009000800011-1,17,2,A Blake-type drain was left through the 5 mm trocar hole.,the 5 mm trocar hole
+S0004-06142009000800011-1,18,1,The operative time was 135 minutes with an estimated bleeding of 200 ml.,The operative time
+S0004-06142009000800011-1,18,2,The operative time was 135 minutes with an estimated bleeding of 200 ml.,135 minutes
+S0004-06142009000800011-1,18,3,The operative time was 135 minutes with an estimated bleeding of 200 ml.,an estimated bleeding
+S0004-06142009000800011-1,18,4,The operative time was 135 minutes with an estimated bleeding of 200 ml.,200 ml
+S0004-06142009000800011-1,19,1,The patient progressed favorably and she was discharged on the third postoperative day.,The patient
+S0004-06142009000800011-1,19,2,The patient progressed favorably and she was discharged on the third postoperative day.,she
+S0004-06142009000800011-1,19,3,The patient progressed favorably and she was discharged on the third postoperative day.,the third postoperative day
+S0004-06142009000800011-1,20,1,The final pathological analysis revealed a leiomyosarcoma of very low grade of malignancy.,The final pathological analysis
+S0004-06142009000800011-1,20,2,The final pathological analysis revealed a leiomyosarcoma of very low grade of malignancy.,a leiomyosarcoma
+S0004-06142009000800011-1,20,3,The final pathological analysis revealed a leiomyosarcoma of very low grade of malignancy.,very low grade
+S0004-06142009000800011-1,20,4,The final pathological analysis revealed a leiomyosarcoma of very low grade of malignancy.,malignancy
+S0004-06142009000800011-1,21,1,"After a 6-month follow-up, the patient has completely recovered with no evidence of her underlying disease.",a 6-month follow-up
+S0004-06142009000800011-1,21,2,"After a 6-month follow-up, the patient has completely recovered with no evidence of her underlying disease.",the patient
+S0004-06142009000800011-1,21,3,"After a 6-month follow-up, the patient has completely recovered with no evidence of her underlying disease.",no evidence
+S0004-06142009000800011-1,21,4,"After a 6-month follow-up, the patient has completely recovered with no evidence of her underlying disease.",her underlying disease

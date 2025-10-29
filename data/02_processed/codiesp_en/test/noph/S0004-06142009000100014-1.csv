@@ -1,0 +1,150 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142009000100014-1,1,1,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",A 60-year-old man
+S0004-06142009000100014-1,1,2,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",no relevant pathological history
+S0004-06142009000100014-1,1,3,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",us
+S0004-06142009000100014-1,1,4,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",the Urology Service
+S0004-06142009000100014-1,1,5,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",our Center
+S0004-06142009000100014-1,1,6,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",the diagnosis
+S0004-06142009000100014-1,1,7,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",stage IV prostate adenocarcinoma
+S0004-06142009000100014-1,1,8,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",multiple metastatic bone involvement
+S0004-06142009000100014-1,1,9,"A 60-year-old man, with no relevant pathological history, was referred to us from the Urology Service of our Center with the diagnosis of stage IV prostate adenocarcinoma due to multiple metastatic bone involvement and in the hormone-resistance phase.",the hormone-resistance phase
+S0004-06142009000100014-1,2,1,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",February
+S0004-06142009000100014-1,2,2,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",prostate syndrome
+S0004-06142009000100014-1,2,3,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",frequency
+S0004-06142009000100014-1,2,4,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",urinary urgency
+S0004-06142009000100014-1,2,5,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",his Primary Care Physician
+S0004-06142009000100014-1,2,6,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",PCP
+S0004-06142009000100014-1,2,7,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",a PSA determination
+S0004-06142009000100014-1,2,8,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",that
+S0004-06142009000100014-1,2,9,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",a value
+S0004-06142009000100014-1,2,10,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",12 ng/ml
+S0004-06142009000100014-1,2,11,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",which
+S0004-06142009000100014-1,2,12,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",he
+S0004-06142009000100014-1,2,13,"In February 2004, due to prostate syndrome (frequency and urinary urgency), his Primary Care Physician (PCP) had performed a PSA determination that returned a value of 12 ng/ml, which is why he was referred to a specialist. .",a specialist
+S0004-06142009000100014-1,3,1,"Transrectal ultrasound and ultrasound-guided prostate biopsy were performed, which was reported as: bilobular adenocarcinoma, Gleason 7 (4+3).",Transrectal ultrasound
+S0004-06142009000100014-1,3,2,"Transrectal ultrasound and ultrasound-guided prostate biopsy were performed, which was reported as: bilobular adenocarcinoma, Gleason 7 (4+3).",ultrasound-guided prostate biopsy
+S0004-06142009000100014-1,3,3,"Transrectal ultrasound and ultrasound-guided prostate biopsy were performed, which was reported as: bilobular adenocarcinoma, Gleason 7 (4+3).",which
+S0004-06142009000100014-1,3,4,"Transrectal ultrasound and ultrasound-guided prostate biopsy were performed, which was reported as: bilobular adenocarcinoma, Gleason 7 (4+3).",bilobular adenocarcinoma
+S0004-06142009000100014-1,3,5,"Transrectal ultrasound and ultrasound-guided prostate biopsy were performed, which was reported as: bilobular adenocarcinoma, Gleason 7 (4+3).",Gleason
+S0004-06142009000100014-1,4,1,"In the extension study (analysis, MRI and bone scintigraphy), retroperitoneal lymph node metastases and multiple foci of pathological hyperuptake (spine, neck and femoral shaft, bone pelvis) were evident.",the extension study
+S0004-06142009000100014-1,4,2,"In the extension study (analysis, MRI and bone scintigraphy), retroperitoneal lymph node metastases and multiple foci of pathological hyperuptake (spine, neck and femoral shaft, bone pelvis) were evident.",(analysis
+S0004-06142009000100014-1,4,3,"In the extension study (analysis, MRI and bone scintigraphy), retroperitoneal lymph node metastases and multiple foci of pathological hyperuptake (spine, neck and femoral shaft, bone pelvis) were evident.",MRI
+S0004-06142009000100014-1,4,4,"In the extension study (analysis, MRI and bone scintigraphy), retroperitoneal lymph node metastases and multiple foci of pathological hyperuptake (spine, neck and femoral shaft, bone pelvis) were evident.",bone scintigraphy
+S0004-06142009000100014-1,4,5,"In the extension study (analysis, MRI and bone scintigraphy), retroperitoneal lymph node metastases and multiple foci of pathological hyperuptake (spine, neck and femoral shaft, bone pelvis) were evident.",retroperitoneal lymph node metastases
+S0004-06142009000100014-1,4,6,"In the extension study (analysis, MRI and bone scintigraphy), retroperitoneal lymph node metastases and multiple foci of pathological hyperuptake (spine, neck and femoral shaft, bone pelvis) were evident.",multiple foci
+S0004-06142009000100014-1,4,7,"In the extension study (analysis, MRI and bone scintigraphy), retroperitoneal lymph node metastases and multiple foci of pathological hyperuptake (spine, neck and femoral shaft, bone pelvis) were evident.",pathological hyperuptake
+S0004-06142009000100014-1,4,8,"In the extension study (analysis, MRI and bone scintigraphy), retroperitoneal lymph node metastases and multiple foci of pathological hyperuptake (spine, neck and femoral shaft, bone pelvis) were evident.","spine, neck and femoral shaft, bone pelvis"
+S0004-06142009000100014-1,5,1,Complete androgen blockade was instituted with gonadotropin-releasing hormone analogue (A-LHRH) and antiandrogen.,Complete androgen blockade
+S0004-06142009000100014-1,5,2,Complete androgen blockade was instituted with gonadotropin-releasing hormone analogue (A-LHRH) and antiandrogen.,gonadotropin-releasing hormone analogue
+S0004-06142009000100014-1,5,3,Complete androgen blockade was instituted with gonadotropin-releasing hormone analogue (A-LHRH) and antiandrogen.,A-LHRH
+S0004-06142009000100014-1,5,4,Complete androgen blockade was instituted with gonadotropin-releasing hormone analogue (A-LHRH) and antiandrogen.,antiandrogen
+S0004-06142009000100014-1,6,1,"With this treatment, the PSA level normalized within 4 months (June 04).",this treatment
+S0004-06142009000100014-1,6,2,"With this treatment, the PSA level normalized within 4 months (June 04).",4 months
+S0004-06142009000100014-1,7,1,The patient received analgesic treatment for bone pain with NSAIDs and morphine.,The patient
+S0004-06142009000100014-1,7,2,The patient received analgesic treatment for bone pain with NSAIDs and morphine.,analgesic treatment
+S0004-06142009000100014-1,7,3,The patient received analgesic treatment for bone pain with NSAIDs and morphine.,bone pain
+S0004-06142009000100014-1,7,4,The patient received analgesic treatment for bone pain with NSAIDs and morphine.,NSAIDs
+S0004-06142009000100014-1,7,5,The patient received analgesic treatment for bone pain with NSAIDs and morphine.,morphine
+S0004-06142009000100014-1,8,1,He was also treated with thoracolumbar vertebral irradiation with 30 Gy administered in 10 sessions.,He
+S0004-06142009000100014-1,8,2,He was also treated with thoracolumbar vertebral irradiation with 30 Gy administered in 10 sessions.,thoracolumbar vertebral irradiation
+S0004-06142009000100014-1,8,3,He was also treated with thoracolumbar vertebral irradiation with 30 Gy administered in 10 sessions.,10 sessions
+S0004-06142009000100014-1,9,1,"In April 2006, and with the patient asymptomatic, the progressive rise of PSA began to 7.3, 13.1, 21 ng/ml, maintaining testosterone at castration levels.",April
+S0004-06142009000100014-1,9,2,"In April 2006, and with the patient asymptomatic, the progressive rise of PSA began to 7.3, 13.1, 21 ng/ml, maintaining testosterone at castration levels.",the patient asymptomatic
+S0004-06142009000100014-1,9,3,"In April 2006, and with the patient asymptomatic, the progressive rise of PSA began to 7.3, 13.1, 21 ng/ml, maintaining testosterone at castration levels.",the progressive rise
+S0004-06142009000100014-1,9,4,"In April 2006, and with the patient asymptomatic, the progressive rise of PSA began to 7.3, 13.1, 21 ng/ml, maintaining testosterone at castration levels.",PSA
+S0004-06142009000100014-1,9,5,"In April 2006, and with the patient asymptomatic, the progressive rise of PSA began to 7.3, 13.1, 21 ng/ml, maintaining testosterone at castration levels.",/ml
+S0004-06142009000100014-1,9,6,"In April 2006, and with the patient asymptomatic, the progressive rise of PSA began to 7.3, 13.1, 21 ng/ml, maintaining testosterone at castration levels.",testosterone
+S0004-06142009000100014-1,9,7,"In April 2006, and with the patient asymptomatic, the progressive rise of PSA began to 7.3, 13.1, 21 ng/ml, maintaining testosterone at castration levels.",castration levels
+S0004-06142009000100014-1,10,1,It was decided at this time to discontinue the antiandrogen.,It
+S0004-06142009000100014-1,10,2,It was decided at this time to discontinue the antiandrogen.,this time
+S0004-06142009000100014-1,10,3,It was decided at this time to discontinue the antiandrogen.,the antiandrogen
+S0004-06142009000100014-1,11,1,"The biochemical response was good, achieving normalization in August 06.",The biochemical response
+S0004-06142009000100014-1,11,2,"The biochemical response was good, achieving normalization in August 06.",normalization
+S0004-06142009000100014-1,11,3,"The biochemical response was good, achieving normalization in August 06.",August
+S0004-06142009000100014-1,12,1,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",November
+S0004-06142009000100014-1,12,2,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",he
+S0004-06142009000100014-1,12,3,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",the emergency room
+S0004-06142009000100014-1,12,4,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",intense generalized and disabling bone pain
+S0004-06142009000100014-1,12,5,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",the increase
+S0004-06142009000100014-1,12,6,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",the dose
+S0004-06142009000100014-1,12,7,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",analgesics
+S0004-06142009000100014-1,12,8,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",which
+S0004-06142009000100014-1,12,9,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",he
+S0004-06142009000100014-1,12,10,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",treatment
+S0004-06142009000100014-1,12,11,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",Strontium
+S0004-06142009000100014-1,12,12,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",St
+S0004-06142009000100014-1,12,13,"Unfortunately, in November 06 he went to the emergency room complaining of intense generalized and disabling bone pain despite the increase in the dose of analgesics (VAS = 8-9) for which he received treatment with Strontium (St) in the Nuclear Medicine Service.",the Nuclear Medicine Service
+S0004-06142009000100014-1,13,1,"Furthermore, the clinical picture is accompanied by PSA levels of 850 ng/ml.",the clinical picture
+S0004-06142009000100014-1,13,2,"Furthermore, the clinical picture is accompanied by PSA levels of 850 ng/ml.",PSA levels
+S0004-06142009000100014-1,13,3,"Furthermore, the clinical picture is accompanied by PSA levels of 850 ng/ml.",850 ng
+S0004-06142009000100014-1,13,4,"Furthermore, the clinical picture is accompanied by PSA levels of 850 ng/ml.",/ml
+S0004-06142009000100014-1,14,1,"In December 06 we decided, with his informed consent, to start palliative CT with Docetaxel and prednisone.",December
+S0004-06142009000100014-1,14,2,"In December 06 we decided, with his informed consent, to start palliative CT with Docetaxel and prednisone.",we
+S0004-06142009000100014-1,14,3,"In December 06 we decided, with his informed consent, to start palliative CT with Docetaxel and prednisone.",his informed consent
+S0004-06142009000100014-1,14,4,"In December 06 we decided, with his informed consent, to start palliative CT with Docetaxel and prednisone.",palliative CT
+S0004-06142009000100014-1,14,5,"In December 06 we decided, with his informed consent, to start palliative CT with Docetaxel and prednisone.",Docetaxel
+S0004-06142009000100014-1,14,6,"In December 06 we decided, with his informed consent, to start palliative CT with Docetaxel and prednisone.",prednisone
+S0004-06142009000100014-1,15,1,We also institute therapy with bone resorption inhibitors (zoledronic acid).,We
+S0004-06142009000100014-1,15,2,We also institute therapy with bone resorption inhibitors (zoledronic acid).,therapy
+S0004-06142009000100014-1,15,3,We also institute therapy with bone resorption inhibitors (zoledronic acid).,bone resorption inhibitors
+S0004-06142009000100014-1,15,4,We also institute therapy with bone resorption inhibitors (zoledronic acid).,zoledronic acid
+S0004-06142009000100014-1,16,1,The clinical response was satisfactory with analgesic control (VAS=2-3) and PSA reduction to 150 ng/ml.,The clinical response
+S0004-06142009000100014-1,16,2,The clinical response was satisfactory with analgesic control (VAS=2-3) and PSA reduction to 150 ng/ml.,analgesic control
+S0004-06142009000100014-1,16,3,The clinical response was satisfactory with analgesic control (VAS=2-3) and PSA reduction to 150 ng/ml.,VAS=2
+S0004-06142009000100014-1,16,4,The clinical response was satisfactory with analgesic control (VAS=2-3) and PSA reduction to 150 ng/ml.,PSA reduction
+S0004-06142009000100014-1,16,5,The clinical response was satisfactory with analgesic control (VAS=2-3) and PSA reduction to 150 ng/ml.,150 ng
+S0004-06142009000100014-1,16,6,The clinical response was satisfactory with analgesic control (VAS=2-3) and PSA reduction to 150 ng/ml.,ml
+S0004-06142009000100014-1,17,1,On 02-15-07 he went to the emergency room stating that for about 15 days he had been noticing the protrusion of the left eyeball and difficulty in completely separating the eyelids.,he
+S0004-06142009000100014-1,17,2,On 02-15-07 he went to the emergency room stating that for about 15 days he had been noticing the protrusion of the left eyeball and difficulty in completely separating the eyelids.,the emergency room
+S0004-06142009000100014-1,17,3,On 02-15-07 he went to the emergency room stating that for about 15 days he had been noticing the protrusion of the left eyeball and difficulty in completely separating the eyelids.,about 15 days
+S0004-06142009000100014-1,17,4,On 02-15-07 he went to the emergency room stating that for about 15 days he had been noticing the protrusion of the left eyeball and difficulty in completely separating the eyelids.,he
+S0004-06142009000100014-1,17,5,On 02-15-07 he went to the emergency room stating that for about 15 days he had been noticing the protrusion of the left eyeball and difficulty in completely separating the eyelids.,the protrusion
+S0004-06142009000100014-1,17,6,On 02-15-07 he went to the emergency room stating that for about 15 days he had been noticing the protrusion of the left eyeball and difficulty in completely separating the eyelids.,the left eyeball
+S0004-06142009000100014-1,17,7,On 02-15-07 he went to the emergency room stating that for about 15 days he had been noticing the protrusion of the left eyeball and difficulty in completely separating the eyelids.,difficulty
+S0004-06142009000100014-1,17,8,On 02-15-07 he went to the emergency room stating that for about 15 days he had been noticing the protrusion of the left eyeball and difficulty in completely separating the eyelids.,the eyelids
+S0004-06142009000100014-1,18,1,Neurological examination,Neurological examination
+S0004-06142009000100014-1,19,1,"Proptosis, eyelid ptosis, poorly reactive mydriasis secondary to involvement of the third nerve.",Proptosis
+S0004-06142009000100014-1,19,2,"Proptosis, eyelid ptosis, poorly reactive mydriasis secondary to involvement of the third nerve.",eyelid ptosis
+S0004-06142009000100014-1,19,3,"Proptosis, eyelid ptosis, poorly reactive mydriasis secondary to involvement of the third nerve.",mydriasis
+S0004-06142009000100014-1,19,4,"Proptosis, eyelid ptosis, poorly reactive mydriasis secondary to involvement of the third nerve.",involvement
+S0004-06142009000100014-1,19,5,"Proptosis, eyelid ptosis, poorly reactive mydriasis secondary to involvement of the third nerve.",the third nerve
+S0004-06142009000100014-1,20,1,No orbital murmurs.,No orbital murmurs
+S0004-06142009000100014-1,21,1,Orbital MRI,Orbital MRI
+S0004-06142009000100014-1,22,1,"Metastatic replacement of the entire central segment of the cranial base, the bone marrow of the vertebrae included in the study and part of the cranial diploe.",Metastatic replacement
+S0004-06142009000100014-1,22,2,"Metastatic replacement of the entire central segment of the cranial base, the bone marrow of the vertebrae included in the study and part of the cranial diploe.",the entire central segment
+S0004-06142009000100014-1,22,3,"Metastatic replacement of the entire central segment of the cranial base, the bone marrow of the vertebrae included in the study and part of the cranial diploe.",the cranial base
+S0004-06142009000100014-1,22,4,"Metastatic replacement of the entire central segment of the cranial base, the bone marrow of the vertebrae included in the study and part of the cranial diploe.",the bone marrow
+S0004-06142009000100014-1,22,5,"Metastatic replacement of the entire central segment of the cranial base, the bone marrow of the vertebrae included in the study and part of the cranial diploe.",the vertebrae
+S0004-06142009000100014-1,22,6,"Metastatic replacement of the entire central segment of the cranial base, the bone marrow of the vertebrae included in the study and part of the cranial diploe.",the study
+S0004-06142009000100014-1,22,7,"Metastatic replacement of the entire central segment of the cranial base, the bone marrow of the vertebrae included in the study and part of the cranial diploe.",part
+S0004-06142009000100014-1,22,8,"Metastatic replacement of the entire central segment of the cranial base, the bone marrow of the vertebrae included in the study and part of the cranial diploe.",the cranial diploe
+S0004-06142009000100014-1,23,1,Involvement of the roof and lateral wall of the left orbit that appear expanded and cause proptosis of the eyeball.,Involvement
+S0004-06142009000100014-1,23,2,Involvement of the roof and lateral wall of the left orbit that appear expanded and cause proptosis of the eyeball.,the roof
+S0004-06142009000100014-1,23,3,Involvement of the roof and lateral wall of the left orbit that appear expanded and cause proptosis of the eyeball.,lateral wall
+S0004-06142009000100014-1,23,4,Involvement of the roof and lateral wall of the left orbit that appear expanded and cause proptosis of the eyeball.,the left orbit
+S0004-06142009000100014-1,23,5,Involvement of the roof and lateral wall of the left orbit that appear expanded and cause proptosis of the eyeball.,that
+S0004-06142009000100014-1,23,6,Involvement of the roof and lateral wall of the left orbit that appear expanded and cause proptosis of the eyeball.,proptosis
+S0004-06142009000100014-1,23,7,Involvement of the roof and lateral wall of the left orbit that appear expanded and cause proptosis of the eyeball.,the eyeball
+S0004-06142009000100014-1,24,1,The left sphenoid greater wing is replaced and thickened and there is clear extension to the wall of the left cavernous sinus and the cleft.,The left sphenoid greater wing
+S0004-06142009000100014-1,24,2,The left sphenoid greater wing is replaced and thickened and there is clear extension to the wall of the left cavernous sinus and the cleft.,clear extension
+S0004-06142009000100014-1,24,3,The left sphenoid greater wing is replaced and thickened and there is clear extension to the wall of the left cavernous sinus and the cleft.,the wall
+S0004-06142009000100014-1,24,4,The left sphenoid greater wing is replaced and thickened and there is clear extension to the wall of the left cavernous sinus and the cleft.,the left cavernous sinus
+S0004-06142009000100014-1,24,5,The left sphenoid greater wing is replaced and thickened and there is clear extension to the wall of the left cavernous sinus and the cleft.,the cleft
+S0004-06142009000100014-1,25,1,"Similar changes are observed in the bones that make up the contralateral orbit, but less advanced.",Similar changes
+S0004-06142009000100014-1,25,2,"Similar changes are observed in the bones that make up the contralateral orbit, but less advanced.",the bones
+S0004-06142009000100014-1,25,3,"Similar changes are observed in the bones that make up the contralateral orbit, but less advanced.",that
+S0004-06142009000100014-1,25,4,"Similar changes are observed in the bones that make up the contralateral orbit, but less advanced.",the contralateral orbit
+S0004-06142009000100014-1,26,1,Injury to the roof of the left orbit is accompanied by a soft tissue injury that causes inferior displacement of the orbital muscles.,Injury
+S0004-06142009000100014-1,26,2,Injury to the roof of the left orbit is accompanied by a soft tissue injury that causes inferior displacement of the orbital muscles.,the roof
+S0004-06142009000100014-1,26,3,Injury to the roof of the left orbit is accompanied by a soft tissue injury that causes inferior displacement of the orbital muscles.,the left orbit
+S0004-06142009000100014-1,26,4,Injury to the roof of the left orbit is accompanied by a soft tissue injury that causes inferior displacement of the orbital muscles.,a soft tissue injury
+S0004-06142009000100014-1,26,5,Injury to the roof of the left orbit is accompanied by a soft tissue injury that causes inferior displacement of the orbital muscles.,that
+S0004-06142009000100014-1,26,6,Injury to the roof of the left orbit is accompanied by a soft tissue injury that causes inferior displacement of the orbital muscles.,inferior displacement
+S0004-06142009000100014-1,26,7,Injury to the roof of the left orbit is accompanied by a soft tissue injury that causes inferior displacement of the orbital muscles.,the orbital muscles
+S0004-06142009000100014-1,27,1,"In the contrast-enhanced sequences, heterogeneous hyperuptake of all the lesions described is identified.",the contrast-enhanced sequences
+S0004-06142009000100014-1,27,2,"In the contrast-enhanced sequences, heterogeneous hyperuptake of all the lesions described is identified.",heterogeneous hyperuptake
+S0004-06142009000100014-1,27,3,"In the contrast-enhanced sequences, heterogeneous hyperuptake of all the lesions described is identified.",all the lesions
+S0004-06142009000100014-1,28,1,"He received palliative irradiation of the affected areas and showed clear and rapid deterioration, dying on 03-21-07.",He
+S0004-06142009000100014-1,28,2,"He received palliative irradiation of the affected areas and showed clear and rapid deterioration, dying on 03-21-07.",palliative irradiation
+S0004-06142009000100014-1,28,3,"He received palliative irradiation of the affected areas and showed clear and rapid deterioration, dying on 03-21-07.",the affected areas
+S0004-06142009000100014-1,28,4,"He received palliative irradiation of the affected areas and showed clear and rapid deterioration, dying on 03-21-07.",clear and rapid deterioration

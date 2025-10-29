@@ -1,0 +1,125 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912007001200013-1,1,1,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",A 64-year-old man
+S0365-66912007001200013-1,1,2,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).","bilateral, progressive and painless vision loss"
+S0365-66912007001200013-1,1,3,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",which
+S0365-66912007001200013-1,1,4,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",the left eye
+S0365-66912007001200013-1,1,5,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",LE
+S0365-66912007001200013-1,1,6,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",7 days
+S0365-66912007001200013-1,1,7,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",which
+S0365-66912007001200013-1,1,8,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",the last 48 hours
+S0365-66912007001200013-1,1,9,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",the right eye
+S0365-66912007001200013-1,1,10,"A 64-year-old man reported bilateral, progressive and painless vision loss, which had affected the left eye (LE) for 7 days and which in the last 48 hours had also begun to affect the right eye (RE).",RE
+S0365-66912007001200013-1,2,1,His medical history included being a heavy smoker and the death of a brother due to lung cancer.,His medical history
+S0365-66912007001200013-1,2,2,His medical history included being a heavy smoker and the death of a brother due to lung cancer.,a heavy smoker
+S0365-66912007001200013-1,2,3,His medical history included being a heavy smoker and the death of a brother due to lung cancer.,the death
+S0365-66912007001200013-1,2,4,His medical history included being a heavy smoker and the death of a brother due to lung cancer.,a brother
+S0365-66912007001200013-1,2,5,His medical history included being a heavy smoker and the death of a brother due to lung cancer.,lung cancer
+S0365-66912007001200013-1,3,1,In the ophthalmological examination we found a corrected visual acuity of 0.4 in RE and hand movement in LE.,the ophthalmological examination
+S0365-66912007001200013-1,3,2,In the ophthalmological examination we found a corrected visual acuity of 0.4 in RE and hand movement in LE.,we
+S0365-66912007001200013-1,3,3,In the ophthalmological examination we found a corrected visual acuity of 0.4 in RE and hand movement in LE.,a corrected visual acuity
+S0365-66912007001200013-1,3,4,In the ophthalmological examination we found a corrected visual acuity of 0.4 in RE and hand movement in LE.,RE
+S0365-66912007001200013-1,3,5,In the ophthalmological examination we found a corrected visual acuity of 0.4 in RE and hand movement in LE.,hand movement
+S0365-66912007001200013-1,3,6,In the ophthalmological examination we found a corrected visual acuity of 0.4 in RE and hand movement in LE.,LE
+S0365-66912007001200013-1,4,1,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",The intraocular pressure
+S0365-66912007001200013-1,4,2,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",the anterior segment
+S0365-66912007001200013-1,4,3,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",the funduscopy
+S0365-66912007001200013-1,4,4,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",moderate vitritis
+S0365-66912007001200013-1,4,5,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",both eyes
+S0365-66912007001200013-1,4,6,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",slight hyperemia
+S0365-66912007001200013-1,4,7,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",the RE papilla
+S0365-66912007001200013-1,4,8,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",papillary pallor
+S0365-66912007001200013-1,4,9,"The intraocular pressure and the anterior segment were normal, and the funduscopy showed moderate vitritis in both eyes, with slight hyperemia of the RE papilla, and papillary pallor in the LE.",the LE
+S0365-66912007001200013-1,5,1,"It was decided to admit him for study, with the initial diagnosis of papillitis with bilateral vitritis.",It
+S0365-66912007001200013-1,5,2,"It was decided to admit him for study, with the initial diagnosis of papillitis with bilateral vitritis.",him
+S0365-66912007001200013-1,5,3,"It was decided to admit him for study, with the initial diagnosis of papillitis with bilateral vitritis.",study
+S0365-66912007001200013-1,5,4,"It was decided to admit him for study, with the initial diagnosis of papillitis with bilateral vitritis.",the initial diagnosis
+S0365-66912007001200013-1,5,5,"It was decided to admit him for study, with the initial diagnosis of papillitis with bilateral vitritis.",papillitis
+S0365-66912007001200013-1,5,6,"It was decided to admit him for study, with the initial diagnosis of papillitis with bilateral vitritis.",bilateral vitritis
+S0365-66912007001200013-1,6,1,"The neurological examination, as well as the blood count and biochemistry were normal.",The neurological examination
+S0365-66912007001200013-1,6,2,"The neurological examination, as well as the blood count and biochemistry were normal.",the blood count
+S0365-66912007001200013-1,6,3,"The neurological examination, as well as the blood count and biochemistry were normal.",biochemistry
+S0365-66912007001200013-1,7,1,"The chest x-ray showed slight thickening of the right pulmonary hilum, and the head CT scan was normal.",The chest
+S0365-66912007001200013-1,7,2,"The chest x-ray showed slight thickening of the right pulmonary hilum, and the head CT scan was normal.",x
+S0365-66912007001200013-1,7,3,"The chest x-ray showed slight thickening of the right pulmonary hilum, and the head CT scan was normal.",-
+S0365-66912007001200013-1,7,4,"The chest x-ray showed slight thickening of the right pulmonary hilum, and the head CT scan was normal.",ray
+S0365-66912007001200013-1,7,5,"The chest x-ray showed slight thickening of the right pulmonary hilum, and the head CT scan was normal.",slight thickening
+S0365-66912007001200013-1,7,6,"The chest x-ray showed slight thickening of the right pulmonary hilum, and the head CT scan was normal.",the right pulmonary hilum
+S0365-66912007001200013-1,7,7,"The chest x-ray showed slight thickening of the right pulmonary hilum, and the head CT scan was normal.",the head
+S0365-66912007001200013-1,7,8,"The chest x-ray showed slight thickening of the right pulmonary hilum, and the head CT scan was normal.",CT scan
+S0365-66912007001200013-1,8,1,Lumbar puncture only showed a slight elevation of proteins.,Lumbar puncture
+S0365-66912007001200013-1,8,2,Lumbar puncture only showed a slight elevation of proteins.,a slight elevation
+S0365-66912007001200013-1,8,3,Lumbar puncture only showed a slight elevation of proteins.,proteins
+S0365-66912007001200013-1,9,1,"With these data, it was decided to start treatment with bolus corticosteroids and antiplatelet therapy.",these data
+S0365-66912007001200013-1,9,2,"With these data, it was decided to start treatment with bolus corticosteroids and antiplatelet therapy.",it
+S0365-66912007001200013-1,9,3,"With these data, it was decided to start treatment with bolus corticosteroids and antiplatelet therapy.",treatment
+S0365-66912007001200013-1,9,4,"With these data, it was decided to start treatment with bolus corticosteroids and antiplatelet therapy.",bolus corticosteroids
+S0365-66912007001200013-1,9,5,"With these data, it was decided to start treatment with bolus corticosteroids and antiplatelet therapy.",therapy
+S0365-66912007001200013-1,10,1,The angiofluoresceinography showed hyperuptake in the papilla without signs of vasculitis.,The angiofluoresceinography
+S0365-66912007001200013-1,10,2,The angiofluoresceinography showed hyperuptake in the papilla without signs of vasculitis.,hyperuptake
+S0365-66912007001200013-1,10,3,The angiofluoresceinography showed hyperuptake in the papilla without signs of vasculitis.,the papilla
+S0365-66912007001200013-1,10,4,The angiofluoresceinography showed hyperuptake in the papilla without signs of vasculitis.,signs
+S0365-66912007001200013-1,10,5,The angiofluoresceinography showed hyperuptake in the papilla without signs of vasculitis.,vasculitis
+S0365-66912007001200013-1,11,1,The evoked potentials were normal in RE and compatible with an axonal neuropathy in LE.,The evoked potentials
+S0365-66912007001200013-1,11,2,The evoked potentials were normal in RE and compatible with an axonal neuropathy in LE.,RE
+S0365-66912007001200013-1,11,3,The evoked potentials were normal in RE and compatible with an axonal neuropathy in LE.,an axonal neuropathy
+S0365-66912007001200013-1,11,4,The evoked potentials were normal in RE and compatible with an axonal neuropathy in LE.,LE
+S0365-66912007001200013-1,12,1,The electroretinogram and brain MRI were normal.,The electroretinogram
+S0365-66912007001200013-1,12,2,The electroretinogram and brain MRI were normal.,brain MRI
+S0365-66912007001200013-1,13,1,"Serology, immunology, and routine tumor markers were negative.",Serology
+S0365-66912007001200013-1,13,2,"Serology, immunology, and routine tumor markers were negative.",immunology
+S0365-66912007001200013-1,13,3,"Serology, immunology, and routine tumor markers were negative.",routine tumor markers
+S0365-66912007001200013-1,14,1,"With the tests obtained, an infectious, vascular or demyelizing etiology was ruled out, so an infiltrative etiology or a paraneoplastic syndrome was assessed.",the tests
+S0365-66912007001200013-1,14,2,"With the tests obtained, an infectious, vascular or demyelizing etiology was ruled out, so an infiltrative etiology or a paraneoplastic syndrome was assessed.","an infectious, vascular or demyelizing etiology"
+S0365-66912007001200013-1,14,3,"With the tests obtained, an infectious, vascular or demyelizing etiology was ruled out, so an infiltrative etiology or a paraneoplastic syndrome was assessed.",an infiltrative etiology
+S0365-66912007001200013-1,14,4,"With the tests obtained, an infectious, vascular or demyelizing etiology was ruled out, so an infiltrative etiology or a paraneoplastic syndrome was assessed.",a paraneoplastic syndrome
+S0365-66912007001200013-1,15,1,"A thoraco-abdominal CT scan was requested and showed an image of 3 cm in the right hilum, compatible with lymphadenopathy.",A thoraco-abdominal CT scan
+S0365-66912007001200013-1,15,2,"A thoraco-abdominal CT scan was requested and showed an image of 3 cm in the right hilum, compatible with lymphadenopathy.",an image
+S0365-66912007001200013-1,15,3,"A thoraco-abdominal CT scan was requested and showed an image of 3 cm in the right hilum, compatible with lymphadenopathy.",3 cm
+S0365-66912007001200013-1,15,4,"A thoraco-abdominal CT scan was requested and showed an image of 3 cm in the right hilum, compatible with lymphadenopathy.",the right hilum
+S0365-66912007001200013-1,16,1,"Bronchoscopy reported a widening of the carina, and cytology was negative for malignancy.",Bronchoscopy
+S0365-66912007001200013-1,16,2,"Bronchoscopy reported a widening of the carina, and cytology was negative for malignancy.",a widening
+S0365-66912007001200013-1,16,3,"Bronchoscopy reported a widening of the carina, and cytology was negative for malignancy.",the carina
+S0365-66912007001200013-1,16,4,"Bronchoscopy reported a widening of the carina, and cytology was negative for malignancy.",cytology
+S0365-66912007001200013-1,16,5,"Bronchoscopy reported a widening of the carina, and cytology was negative for malignancy.",malignancy
+S0365-66912007001200013-1,17,1,A PET study was considered to better assess the lymphadenopathy and refer to Thoracic Surgery to perform a mediastinoscopy.,A PET study
+S0365-66912007001200013-1,17,2,A PET study was considered to better assess the lymphadenopathy and refer to Thoracic Surgery to perform a mediastinoscopy.,Thoracic Surgery
+S0365-66912007001200013-1,17,3,A PET study was considered to better assess the lymphadenopathy and refer to Thoracic Surgery to perform a mediastinoscopy.,a mediastinoscopy
+S0365-66912007001200013-1,18,1,"In addition, samples of cerebrospinal fluid, plasma and aqueous humor were extracted to study the CRMP-5-IgG autoantibody, which was positive in the first two.",addition
+S0365-66912007001200013-1,18,2,"In addition, samples of cerebrospinal fluid, plasma and aqueous humor were extracted to study the CRMP-5-IgG autoantibody, which was positive in the first two.",samples
+S0365-66912007001200013-1,18,3,"In addition, samples of cerebrospinal fluid, plasma and aqueous humor were extracted to study the CRMP-5-IgG autoantibody, which was positive in the first two.",cerebrospinal fluid
+S0365-66912007001200013-1,18,4,"In addition, samples of cerebrospinal fluid, plasma and aqueous humor were extracted to study the CRMP-5-IgG autoantibody, which was positive in the first two.",plasma
+S0365-66912007001200013-1,18,5,"In addition, samples of cerebrospinal fluid, plasma and aqueous humor were extracted to study the CRMP-5-IgG autoantibody, which was positive in the first two.",aqueous humor
+S0365-66912007001200013-1,18,6,"In addition, samples of cerebrospinal fluid, plasma and aqueous humor were extracted to study the CRMP-5-IgG autoantibody, which was positive in the first two.",the CRMP-5-IgG autoantibody
+S0365-66912007001200013-1,18,7,"In addition, samples of cerebrospinal fluid, plasma and aqueous humor were extracted to study the CRMP-5-IgG autoantibody, which was positive in the first two.",which
+S0365-66912007001200013-1,19,1,"Positivity for CRMP-5-IgG and the presence of neuritis is associated in 62.5% of cases with the existence of small cell lung carcinoma (2,3).",Positivity
+S0365-66912007001200013-1,19,2,"Positivity for CRMP-5-IgG and the presence of neuritis is associated in 62.5% of cases with the existence of small cell lung carcinoma (2,3).",CRMP-5-IgG
+S0365-66912007001200013-1,19,3,"Positivity for CRMP-5-IgG and the presence of neuritis is associated in 62.5% of cases with the existence of small cell lung carcinoma (2,3).",the presence
+S0365-66912007001200013-1,19,4,"Positivity for CRMP-5-IgG and the presence of neuritis is associated in 62.5% of cases with the existence of small cell lung carcinoma (2,3).",neuritis
+S0365-66912007001200013-1,19,5,"Positivity for CRMP-5-IgG and the presence of neuritis is associated in 62.5% of cases with the existence of small cell lung carcinoma (2,3).",62.5%
+S0365-66912007001200013-1,19,6,"Positivity for CRMP-5-IgG and the presence of neuritis is associated in 62.5% of cases with the existence of small cell lung carcinoma (2,3).",cases
+S0365-66912007001200013-1,19,7,"Positivity for CRMP-5-IgG and the presence of neuritis is associated in 62.5% of cases with the existence of small cell lung carcinoma (2,3).",the existence
+S0365-66912007001200013-1,19,8,"Positivity for CRMP-5-IgG and the presence of neuritis is associated in 62.5% of cases with the existence of small cell lung carcinoma (2,3).",small cell lung carcinoma
+S0365-66912007001200013-1,20,1,"With these data, it was decided to cancel the PET study and perform mediastinoscopy, which was reported as small cell lung carcinoma.",these data
+S0365-66912007001200013-1,20,2,"With these data, it was decided to cancel the PET study and perform mediastinoscopy, which was reported as small cell lung carcinoma.",it
+S0365-66912007001200013-1,20,3,"With these data, it was decided to cancel the PET study and perform mediastinoscopy, which was reported as small cell lung carcinoma.",the PET study
+S0365-66912007001200013-1,20,4,"With these data, it was decided to cancel the PET study and perform mediastinoscopy, which was reported as small cell lung carcinoma.",mediastinoscopy
+S0365-66912007001200013-1,20,5,"With these data, it was decided to cancel the PET study and perform mediastinoscopy, which was reported as small cell lung carcinoma.",which
+S0365-66912007001200013-1,20,6,"With these data, it was decided to cancel the PET study and perform mediastinoscopy, which was reported as small cell lung carcinoma.",small cell lung carcinoma
+S0365-66912007001200013-1,21,1,"The Oncology Service classified it as limited-stage small cell carcinoma, initiating treatment with chemotherapy and radiotherapy.",The Oncology Service
+S0365-66912007001200013-1,21,2,"The Oncology Service classified it as limited-stage small cell carcinoma, initiating treatment with chemotherapy and radiotherapy.",it
+S0365-66912007001200013-1,21,3,"The Oncology Service classified it as limited-stage small cell carcinoma, initiating treatment with chemotherapy and radiotherapy.",limited-stage small cell carcinoma
+S0365-66912007001200013-1,21,4,"The Oncology Service classified it as limited-stage small cell carcinoma, initiating treatment with chemotherapy and radiotherapy.",treatment
+S0365-66912007001200013-1,21,5,"The Oncology Service classified it as limited-stage small cell carcinoma, initiating treatment with chemotherapy and radiotherapy.",chemotherapy
+S0365-66912007001200013-1,21,6,"The Oncology Service classified it as limited-stage small cell carcinoma, initiating treatment with chemotherapy and radiotherapy.",radiotherapy
+S0365-66912007001200013-1,22,1,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",The initial response
+S0365-66912007001200013-1,22,2,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",corticosteroid treatment
+S0365-66912007001200013-1,22,3,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",vision
+S0365-66912007001200013-1,22,4,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",15 days
+S0365-66912007001200013-1,22,5,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",a final visual acuity
+S0365-66912007001200013-1,22,6,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",six months
+S0365-66912007001200013-1,22,7,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",we
+S0365-66912007001200013-1,22,8,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",the study
+S0365-66912007001200013-1,22,9,"The initial response to corticosteroid treatment was good, improving vision to 0.7-0.3 at 15 days and reaching a final visual acuity at six months, when we considered the study closed, of 0.8 in OD and 0.",OD
+S0365-66912007001200013-1,23,1,"6 in LE, with an ad integrum restitution of the funduscopic image.",LE
+S0365-66912007001200013-1,23,2,"6 in LE, with an ad integrum restitution of the funduscopic image.",an ad integrum restitution
+S0365-66912007001200013-1,23,3,"6 in LE, with an ad integrum restitution of the funduscopic image.",the funduscopic image

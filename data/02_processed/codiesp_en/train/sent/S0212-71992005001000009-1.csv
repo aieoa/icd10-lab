@@ -1,0 +1,21 @@
+report_id,sentence_id,sentence
+S0212-71992005001000009-1,1,"A 79-year-old man, allergic to beta-lactams, with a personal history of corticosteroid-dependent COPD with several annual exacerbations and being treated with home oxygen and bronchodilators at full doses (NYHA functional status III-IV)."
+S0212-71992005001000009-1,2,"He went to the hospital with a 3-day history of cough with purulent expectoration, increased respiratory difficulty, and worsening level of consciousness."
+S0212-71992005001000009-1,3,"The physical examination revealed fever of 38ºC, central and peripheral cyanosis, increased jugular venous pressure, tachycardia at 120 bpm, lengthening of expiratory time, wheezing and expiratory rhonchi in both lung fields, especially in the right."
+S0212-71992005001000009-1,4,"In the abdomen, painful hepatomegaly and edema in both legs."
+S0212-71992005001000009-1,5,"The chest x-ray showed an increase in density in the right lower lobe, with poorly defined borders."
+S0212-71992005001000009-1,6,"The blood count showed 22,970 leukocytes/mm3 (93N, 3.4L), Hb 13 g/dl, HCT 37%, MCV 90 fl, PLQ 235,000/mm3."
+S0212-71992005001000009-1,7,"The blood gas results were pH 7.45, pO257, pCO2 36.4, HCO3 25.9, SatO2 90%."
+S0212-71992005001000009-1,8,"Blood and sputum cultures were performed in general media (blood and chocolate agar, Biomerieux®) and for the study of mycobacteria [Bactec 960 MGIT (Mycobacterial Growth Indicator Tube) and Lowenstein (Becton Dickinson®)}."
+S0212-71992005001000009-1,9,Gram and Ziehl stains of sputum did not offer diagnostic guidance.
+S0212-71992005001000009-1,10,"In the sputum culture at 24 hours (intermediate quality, > 25 leukocytes 10-25 epithelial cells) only the usual flora of the respiratory tract was observed."
+S0212-71992005001000009-1,11,Empirical treatment was started with Levofloxacin e.v.
+S0212-71992005001000009-1,12,"(500 mg/day), Vancomycin e.v."
+S0212-71992005001000009-1,13,(1 g/12 h) and Tobramycin e.v.
+S0212-71992005001000009-1,14,(200 mg/12 hours).
+S0212-71992005001000009-1,15,"The patient developed progressive clinical (hypotension, dyspnea and fever) and analytical worsening (the blood count then showed 40,000 leukocytes/mm3), dying on the fourth day after admission."
+S0212-71992005001000009-1,16,"On the same day of death, positivity was observed in both the blood culture and the sputum culture, both in specific medium for mycobacteria (MGIT)."
+S0212-71992005001000009-1,17,Ziehl staining of both showed tangles of branching Ziehl-positive bacilli.
+S0212-71992005001000009-1,18,"After transferring the MGIT broth to Mueller-Hinton (Biomerieux®) and Lowenstein medium, after 24 hours some dry, initially whitish colonies grew, which after 48 hours turned salmon-coloured, with a texture similar to plaster."
+S0212-71992005001000009-1,19,The problem strain was sent to the National Center of Microbiology of Majadahonda.
+S0212-71992005001000009-1,20,"There, the 16S rDNA sequence of the microorganism was amplified by PCR and, with 100% homologies, it was identified as Nocardia otitidiscaviarum."

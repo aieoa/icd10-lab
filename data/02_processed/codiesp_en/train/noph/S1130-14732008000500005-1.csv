@@ -1,0 +1,66 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-14732008000500005-1,1,1,"A 64-year-old woman with a personal history of diabetes mellitus, arterial hypertension and atrial fibrillation anticoagulated with acenocoumarol.",A 64-year-old woman
+S1130-14732008000500005-1,1,2,"A 64-year-old woman with a personal history of diabetes mellitus, arterial hypertension and atrial fibrillation anticoagulated with acenocoumarol.",a personal history
+S1130-14732008000500005-1,1,3,"A 64-year-old woman with a personal history of diabetes mellitus, arterial hypertension and atrial fibrillation anticoagulated with acenocoumarol.",diabetes
+S1130-14732008000500005-1,1,4,"A 64-year-old woman with a personal history of diabetes mellitus, arterial hypertension and atrial fibrillation anticoagulated with acenocoumarol.",arterial hypertension
+S1130-14732008000500005-1,1,5,"A 64-year-old woman with a personal history of diabetes mellitus, arterial hypertension and atrial fibrillation anticoagulated with acenocoumarol.",atrial fibrillation
+S1130-14732008000500005-1,1,6,"A 64-year-old woman with a personal history of diabetes mellitus, arterial hypertension and atrial fibrillation anticoagulated with acenocoumarol.",acenocoumarol
+S1130-14732008000500005-1,2,1,"Seen in Outpatient Clinics due to a clinical picture of inability to walk and occasional urinary incontinence, with impairment of higher functions and emotional lability.",Outpatient Clinics
+S1130-14732008000500005-1,2,2,"Seen in Outpatient Clinics due to a clinical picture of inability to walk and occasional urinary incontinence, with impairment of higher functions and emotional lability.",a clinical picture
+S1130-14732008000500005-1,2,3,"Seen in Outpatient Clinics due to a clinical picture of inability to walk and occasional urinary incontinence, with impairment of higher functions and emotional lability.",inability
+S1130-14732008000500005-1,2,4,"Seen in Outpatient Clinics due to a clinical picture of inability to walk and occasional urinary incontinence, with impairment of higher functions and emotional lability.",impairment
+S1130-14732008000500005-1,2,5,"Seen in Outpatient Clinics due to a clinical picture of inability to walk and occasional urinary incontinence, with impairment of higher functions and emotional lability.",higher functions
+S1130-14732008000500005-1,2,6,"Seen in Outpatient Clinics due to a clinical picture of inability to walk and occasional urinary incontinence, with impairment of higher functions and emotional lability.",emotional lability
+S1130-14732008000500005-1,3,1,Neuroimaging studies showed tetraventricular hydrocephalus.,Neuroimaging studies
+S1130-14732008000500005-1,3,2,Neuroimaging studies showed tetraventricular hydrocephalus.,tetraventricular hydrocephalus
+S1130-14732008000500005-1,4,1,"Given the suspicion of HCA, it was decided to place a DLE as a diagnostic test.",the suspicion
+S1130-14732008000500005-1,4,2,"Given the suspicion of HCA, it was decided to place a DLE as a diagnostic test.",HCA
+S1130-14732008000500005-1,4,3,"Given the suspicion of HCA, it was decided to place a DLE as a diagnostic test.",it
+S1130-14732008000500005-1,4,4,"Given the suspicion of HCA, it was decided to place a DLE as a diagnostic test.",a DLE
+S1130-14732008000500005-1,4,5,"Given the suspicion of HCA, it was decided to place a DLE as a diagnostic test.",a diagnostic test
+S1130-14732008000500005-1,5,1,"After replacing acenocoumarol with low molecular weight heparin a few weeks before, the DLE was placed.",acenocoumarol
+S1130-14732008000500005-1,5,2,"After replacing acenocoumarol with low molecular weight heparin a few weeks before, the DLE was placed.",low molecular weight heparin
+S1130-14732008000500005-1,5,3,"After replacing acenocoumarol with low molecular weight heparin a few weeks before, the DLE was placed.",the DLE
+S1130-14732008000500005-1,6,1,"During the transfer of the patient from the operating room to the hospital ward, the drainage was accidentally left open.",the transfer
+S1130-14732008000500005-1,6,2,"During the transfer of the patient from the operating room to the hospital ward, the drainage was accidentally left open.",the patient
+S1130-14732008000500005-1,6,3,"During the transfer of the patient from the operating room to the hospital ward, the drainage was accidentally left open.",the operating room
+S1130-14732008000500005-1,6,4,"During the transfer of the patient from the operating room to the hospital ward, the drainage was accidentally left open.",the hospital ward
+S1130-14732008000500005-1,6,5,"During the transfer of the patient from the operating room to the hospital ward, the drainage was accidentally left open.",the drainage
+S1130-14732008000500005-1,7,1,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",placement
+S1130-14732008000500005-1,7,2,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",240 ml
+S1130-14732008000500005-1,7,3,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",CSF
+S1130-14732008000500005-1,7,4,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",the patient
+S1130-14732008000500005-1,7,5,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",headaches
+S1130-14732008000500005-1,7,6,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",nausea
+S1130-14732008000500005-1,7,7,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",vomiting
+S1130-14732008000500005-1,7,8,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",sweating
+S1130-14732008000500005-1,7,9,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",that
+S1130-14732008000500005-1,7,10,"Six hours after placement, after having drained 240 ml of CSF, the patient began to experience headaches, nausea, vomiting, and sweating that were initially attributed to intracranial hypotension.",intracranial hypotension
+S1130-14732008000500005-1,8,1,At no time did her level of consciousness deteriorate.,no time
+S1130-14732008000500005-1,8,2,At no time did her level of consciousness deteriorate.,her level
+S1130-14732008000500005-1,8,3,At no time did her level of consciousness deteriorate.,consciousness deteriorate
+S1130-14732008000500005-1,9,1,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",the intensity
+S1130-14732008000500005-1,9,2,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",the symptoms
+S1130-14732008000500005-1,9,3,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",an urgent head
+S1130-14732008000500005-1,9,4,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",CT
+S1130-14732008000500005-1,9,5,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",which
+S1130-14732008000500005-1,9,6,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",the presence
+S1130-14732008000500005-1,9,7,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",a hematoma
+S1130-14732008000500005-1,9,8,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",cerebellar hemisphere
+S1130-14732008000500005-1,9,9,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",the upper surface
+S1130-14732008000500005-1,9,10,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",the cerebellum
+S1130-14732008000500005-1,9,11,"Given the intensity of the symptoms, an urgent head CT was performed, which showed the presence of a hematoma in the vermis and left cerebellar hemisphere, with subarachnoid bleeding on the upper surface of the cerebellum and in the cerebellar foliae.",the cerebellar foliae
+S1130-14732008000500005-1,10,1,"The DLE was immediately removed and, given the patient's good clinical condition, it was decided to continue conservative treatment, with good clinical evolution.",The DLE
+S1130-14732008000500005-1,10,2,"The DLE was immediately removed and, given the patient's good clinical condition, it was decided to continue conservative treatment, with good clinical evolution.",the patient's good clinical condition
+S1130-14732008000500005-1,10,3,"The DLE was immediately removed and, given the patient's good clinical condition, it was decided to continue conservative treatment, with good clinical evolution.",it
+S1130-14732008000500005-1,10,4,"The DLE was immediately removed and, given the patient's good clinical condition, it was decided to continue conservative treatment, with good clinical evolution.",conservative treatment
+S1130-14732008000500005-1,10,5,"The DLE was immediately removed and, given the patient's good clinical condition, it was decided to continue conservative treatment, with good clinical evolution.",good clinical evolution
+S1130-14732008000500005-1,11,1,Neuroimaging studies (MRI and cerebral angiography) ruled out the existence of underlying pathology.,Neuroimaging studies
+S1130-14732008000500005-1,11,2,Neuroimaging studies (MRI and cerebral angiography) ruled out the existence of underlying pathology.,MRI
+S1130-14732008000500005-1,11,3,Neuroimaging studies (MRI and cerebral angiography) ruled out the existence of underlying pathology.,cerebral angiography
+S1130-14732008000500005-1,11,4,Neuroimaging studies (MRI and cerebral angiography) ruled out the existence of underlying pathology.,the existence
+S1130-14732008000500005-1,11,5,Neuroimaging studies (MRI and cerebral angiography) ruled out the existence of underlying pathology.,underlying pathology
+S1130-14732008000500005-1,12,1,The patient recovered to her previous condition.,The patient
+S1130-14732008000500005-1,12,2,The patient recovered to her previous condition.,her previous condition
+S1130-14732008000500005-1,13,1,"Subsequently, a ventriculoperitoneal shunt was implanted, showing great clinical improvement.",a ventriculoperitoneal shunt
+S1130-14732008000500005-1,13,2,"Subsequently, a ventriculoperitoneal shunt was implanted, showing great clinical improvement.",great clinical improvement

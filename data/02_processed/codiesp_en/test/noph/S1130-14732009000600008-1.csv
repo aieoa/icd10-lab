@@ -1,0 +1,69 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-14732009000600008-1,1,1,19-year-old male patient referred from a regional hospital for surgery for hydrocephalus.,19-year-old male patient
+S1130-14732009000600008-1,1,2,19-year-old male patient referred from a regional hospital for surgery for hydrocephalus.,a regional hospital
+S1130-14732009000600008-1,1,3,19-year-old male patient referred from a regional hospital for surgery for hydrocephalus.,surgery
+S1130-14732009000600008-1,2,1,He had a history of approximately 1 year of left hemicranial headache that worsened with exertion.,He
+S1130-14732009000600008-1,2,2,He had a history of approximately 1 year of left hemicranial headache that worsened with exertion.,a history
+S1130-14732009000600008-1,2,3,He had a history of approximately 1 year of left hemicranial headache that worsened with exertion.,approximately 1 year
+S1130-14732009000600008-1,2,4,He had a history of approximately 1 year of left hemicranial headache that worsened with exertion.,left hemicranial headache
+S1130-14732009000600008-1,2,5,He had a history of approximately 1 year of left hemicranial headache that worsened with exertion.,that
+S1130-14732009000600008-1,2,6,He had a history of approximately 1 year of left hemicranial headache that worsened with exertion.,exertion
+S1130-14732009000600008-1,3,1,In recent weeks the headache has increased in intensity and frequency.,recent weeks
+S1130-14732009000600008-1,3,2,In recent weeks the headache has increased in intensity and frequency.,the headache
+S1130-14732009000600008-1,3,3,In recent weeks the headache has increased in intensity and frequency.,intensity
+S1130-14732009000600008-1,3,4,In recent weeks the headache has increased in intensity and frequency.,frequency
+S1130-14732009000600008-1,4,1,The neurological examination showed only bilateral papilledema.,The neurological examination
+S1130-14732009000600008-1,4,2,The neurological examination showed only bilateral papilledema.,only bilateral papilledema
+S1130-14732009000600008-1,5,1,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",The patient
+S1130-14732009000600008-1,5,2,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",a magnetic resonance imaging
+S1130-14732009000600008-1,5,3,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",MRI
+S1130-14732009000600008-1,5,4,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",supratentorial ventricular dilation
+S1130-14732009000600008-1,5,5,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",an Evans index
+S1130-14732009000600008-1,5,6,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",periependymal clearance
+S1130-14732009000600008-1,5,7,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",the frontal horns
+S1130-14732009000600008-1,5,8,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",a small tectal lesion
+S1130-14732009000600008-1,5,9,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",that
+S1130-14732009000600008-1,5,10,"The patient provided a magnetic resonance imaging (MRI) showing supratentorial ventricular dilation with an Evans index of 0.43, periependymal clearance in the frontal horns, and a small tectal lesion that was not modified with contrast.",contrast
+S1130-14732009000600008-1,6,1,The fourth ventricle was normal.,The fourth ventricle
+S1130-14732009000600008-1,7,1,"With the diagnosis of stenosis of the Sylvian aqueduct, an endoscopic premammillary ventriculocisternostomy was performed through a right frontal burr hole according to the usual technique3.",the diagnosis
+S1130-14732009000600008-1,7,2,"With the diagnosis of stenosis of the Sylvian aqueduct, an endoscopic premammillary ventriculocisternostomy was performed through a right frontal burr hole according to the usual technique3.",stenosis
+S1130-14732009000600008-1,7,3,"With the diagnosis of stenosis of the Sylvian aqueduct, an endoscopic premammillary ventriculocisternostomy was performed through a right frontal burr hole according to the usual technique3.",the Sylvian aqueduct
+S1130-14732009000600008-1,7,4,"With the diagnosis of stenosis of the Sylvian aqueduct, an endoscopic premammillary ventriculocisternostomy was performed through a right frontal burr hole according to the usual technique3.",an endoscopic premammillary ventriculocisternostomy
+S1130-14732009000600008-1,7,5,"With the diagnosis of stenosis of the Sylvian aqueduct, an endoscopic premammillary ventriculocisternostomy was performed through a right frontal burr hole according to the usual technique3.",a right frontal burr hole
+S1130-14732009000600008-1,7,6,"With the diagnosis of stenosis of the Sylvian aqueduct, an endoscopic premammillary ventriculocisternostomy was performed through a right frontal burr hole according to the usual technique3.",the usual technique3
+S1130-14732009000600008-1,8,1,"A Mayfield head (Ohio Medical Instrument Co, Inc., Cincinnati, OH, USA) was used to immobilize the head.",A Mayfield head
+S1130-14732009000600008-1,8,2,"A Mayfield head (Ohio Medical Instrument Co, Inc., Cincinnati, OH, USA) was used to immobilize the head.",Ohio Medical Instrument Co
+S1130-14732009000600008-1,8,3,"A Mayfield head (Ohio Medical Instrument Co, Inc., Cincinnati, OH, USA) was used to immobilize the head.",Inc.
+S1130-14732009000600008-1,8,4,"A Mayfield head (Ohio Medical Instrument Co, Inc., Cincinnati, OH, USA) was used to immobilize the head.",Cincinnati
+S1130-14732009000600008-1,8,5,"A Mayfield head (Ohio Medical Instrument Co, Inc., Cincinnati, OH, USA) was used to immobilize the head.",OH
+S1130-14732009000600008-1,8,6,"A Mayfield head (Ohio Medical Instrument Co, Inc., Cincinnati, OH, USA) was used to immobilize the head.",USA
+S1130-14732009000600008-1,8,7,"A Mayfield head (Ohio Medical Instrument Co, Inc., Cincinnati, OH, USA) was used to immobilize the head.",the head
+S1130-14732009000600008-1,9,1,The immediate postoperative period passed without incident although the patient suffered from headache.,The immediate postoperative period
+S1130-14732009000600008-1,9,2,The immediate postoperative period passed without incident although the patient suffered from headache.,incident
+S1130-14732009000600008-1,9,3,The immediate postoperative period passed without incident although the patient suffered from headache.,the patient
+S1130-14732009000600008-1,9,4,The immediate postoperative period passed without incident although the patient suffered from headache.,headache
+S1130-14732009000600008-1,10,1,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",surgery
+S1130-14732009000600008-1,10,2,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",scheduled hospital discharge
+S1130-14732009000600008-1,10,3,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",a new MRI
+S1130-14732009000600008-1,10,4,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",which
+S1130-14732009000600008-1,10,5,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",the presence
+S1130-14732009000600008-1,10,6,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",an epidural hematoma
+S1130-14732009000600008-1,10,7,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",the left parietal area
+S1130-14732009000600008-1,10,8,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",mass effect
+S1130-14732009000600008-1,10,9,"48 hours after surgery and prior to scheduled hospital discharge, a new MRI was performed in which the presence of an epidural hematoma located in the left parietal area with mass effect on the ipsilateral lateral ventricle was striking.",the ipsilateral lateral ventricle
+S1130-14732009000600008-1,11,1,"A left parietal craniotomy was then performed, observing that there was a perforation that crossed the entire bone without affecting the dura mater.",A left parietal craniotomy
+S1130-14732009000600008-1,11,2,"A left parietal craniotomy was then performed, observing that there was a perforation that crossed the entire bone without affecting the dura mater.",a perforation
+S1130-14732009000600008-1,11,3,"A left parietal craniotomy was then performed, observing that there was a perforation that crossed the entire bone without affecting the dura mater.",that
+S1130-14732009000600008-1,11,4,"A left parietal craniotomy was then performed, observing that there was a perforation that crossed the entire bone without affecting the dura mater.",the entire bone
+S1130-14732009000600008-1,11,5,"A left parietal craniotomy was then performed, observing that there was a perforation that crossed the entire bone without affecting the dura mater.",the dura mater
+S1130-14732009000600008-1,12,1,The hematoma was drained and a small bleeding dural artery was coagulated.,The hematoma
+S1130-14732009000600008-1,12,2,The hematoma was drained and a small bleeding dural artery was coagulated.,a small bleeding dural artery
+S1130-14732009000600008-1,13,1,The patient was discharged after 6 days with only a certain degree of headache.,The patient
+S1130-14732009000600008-1,13,2,The patient was discharged after 6 days with only a certain degree of headache.,6 days
+S1130-14732009000600008-1,13,3,The patient was discharged after 6 days with only a certain degree of headache.,only a certain degree
+S1130-14732009000600008-1,13,4,The patient was discharged after 6 days with only a certain degree of headache.,headache
+S1130-14732009000600008-1,14,1,One year after surgery he is asymptomatic and the tectal lesion shows no changes in MRI studies.,surgery
+S1130-14732009000600008-1,14,2,One year after surgery he is asymptomatic and the tectal lesion shows no changes in MRI studies.,he
+S1130-14732009000600008-1,14,3,One year after surgery he is asymptomatic and the tectal lesion shows no changes in MRI studies.,the tectal lesion
+S1130-14732009000600008-1,14,4,One year after surgery he is asymptomatic and the tectal lesion shows no changes in MRI studies.,no changes
+S1130-14732009000600008-1,14,5,One year after surgery he is asymptomatic and the tectal lesion shows no changes in MRI studies.,MRI studies

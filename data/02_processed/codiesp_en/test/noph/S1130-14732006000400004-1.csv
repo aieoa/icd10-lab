@@ -1,0 +1,84 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-14732006000400004-1,1,1,14-year-old adolescent admitted for treatment of a cervical disc herniation at the C4-C5 level.,14-year-old adolescent
+S1130-14732006000400004-1,1,2,14-year-old adolescent admitted for treatment of a cervical disc herniation at the C4-C5 level.,treatment
+S1130-14732006000400004-1,1,3,14-year-old adolescent admitted for treatment of a cervical disc herniation at the C4-C5 level.,a cervical disc herniation
+S1130-14732006000400004-1,1,4,14-year-old adolescent admitted for treatment of a cervical disc herniation at the C4-C5 level.,the C4-C5 level
+S1130-14732006000400004-1,2,1,"A month earlier she had begun to suffer from right cervicobrachialgia and cervical muscle contractures, without neurological deficits.",she
+S1130-14732006000400004-1,2,2,"A month earlier she had begun to suffer from right cervicobrachialgia and cervical muscle contractures, without neurological deficits.",right cervicobrachialgia and cervical muscle contractures
+S1130-14732006000400004-1,2,3,"A month earlier she had begun to suffer from right cervicobrachialgia and cervical muscle contractures, without neurological deficits.",neurological deficits
+S1130-14732006000400004-1,3,1,"The pain improved with conservative treatment, but days later she began to have difficulty abducting her right upper limb.",The pain
+S1130-14732006000400004-1,3,2,"The pain improved with conservative treatment, but days later she began to have difficulty abducting her right upper limb.",conservative treatment
+S1130-14732006000400004-1,3,3,"The pain improved with conservative treatment, but days later she began to have difficulty abducting her right upper limb.",she
+S1130-14732006000400004-1,3,4,"The pain improved with conservative treatment, but days later she began to have difficulty abducting her right upper limb.",difficulty
+S1130-14732006000400004-1,3,5,"The pain improved with conservative treatment, but days later she began to have difficulty abducting her right upper limb.",her
+S1130-14732006000400004-1,3,6,"The pain improved with conservative treatment, but days later she began to have difficulty abducting her right upper limb.",right upper limb
+S1130-14732006000400004-1,4,1,On physical examination she noted a loss of strength in the right deltoid and biceps (grades 2/5 and 4/5 respectively).,physical examination
+S1130-14732006000400004-1,4,2,On physical examination she noted a loss of strength in the right deltoid and biceps (grades 2/5 and 4/5 respectively).,she
+S1130-14732006000400004-1,4,3,On physical examination she noted a loss of strength in the right deltoid and biceps (grades 2/5 and 4/5 respectively).,a loss
+S1130-14732006000400004-1,4,4,On physical examination she noted a loss of strength in the right deltoid and biceps (grades 2/5 and 4/5 respectively).,strength
+S1130-14732006000400004-1,4,5,On physical examination she noted a loss of strength in the right deltoid and biceps (grades 2/5 and 4/5 respectively).,the right deltoid
+S1130-14732006000400004-1,4,6,On physical examination she noted a loss of strength in the right deltoid and biceps (grades 2/5 and 4/5 respectively).,biceps
+S1130-14732006000400004-1,4,7,On physical examination she noted a loss of strength in the right deltoid and biceps (grades 2/5 and 4/5 respectively).,grades
+S1130-14732006000400004-1,5,1,No sensory alterations or pyramidalism were observed in the lower limbs.,No sensory alterations
+S1130-14732006000400004-1,5,2,No sensory alterations or pyramidalism were observed in the lower limbs.,pyramidalism
+S1130-14732006000400004-1,5,3,No sensory alterations or pyramidalism were observed in the lower limbs.,the lower limbs
+S1130-14732006000400004-1,6,1,"Cervical spine radiographs showed loss of height in the vertebral bodies of C4-C5-C6, as well as calcification at the level of the C4-C5 disc.",Cervical spine radiographs
+S1130-14732006000400004-1,6,2,"Cervical spine radiographs showed loss of height in the vertebral bodies of C4-C5-C6, as well as calcification at the level of the C4-C5 disc.",loss
+S1130-14732006000400004-1,6,3,"Cervical spine radiographs showed loss of height in the vertebral bodies of C4-C5-C6, as well as calcification at the level of the C4-C5 disc.",height
+S1130-14732006000400004-1,6,4,"Cervical spine radiographs showed loss of height in the vertebral bodies of C4-C5-C6, as well as calcification at the level of the C4-C5 disc.",the vertebral bodies
+S1130-14732006000400004-1,6,5,"Cervical spine radiographs showed loss of height in the vertebral bodies of C4-C5-C6, as well as calcification at the level of the C4-C5 disc.",C4-C5-C6
+S1130-14732006000400004-1,6,6,"Cervical spine radiographs showed loss of height in the vertebral bodies of C4-C5-C6, as well as calcification at the level of the C4-C5 disc.",calcification
+S1130-14732006000400004-1,6,7,"Cervical spine radiographs showed loss of height in the vertebral bodies of C4-C5-C6, as well as calcification at the level of the C4-C5 disc.",the level
+S1130-14732006000400004-1,6,8,"Cervical spine radiographs showed loss of height in the vertebral bodies of C4-C5-C6, as well as calcification at the level of the C4-C5 disc.",the C4-C5 disc
+S1130-14732006000400004-1,7,1,Cervical MRI revealed a voluminous right C4-C5 disc herniation that compromised the ipsilateral root.,Cervical MRI
+S1130-14732006000400004-1,7,2,Cervical MRI revealed a voluminous right C4-C5 disc herniation that compromised the ipsilateral root.,a voluminous right C4-C5 disc herniation
+S1130-14732006000400004-1,7,3,Cervical MRI revealed a voluminous right C4-C5 disc herniation that compromised the ipsilateral root.,that
+S1130-14732006000400004-1,7,4,Cervical MRI revealed a voluminous right C4-C5 disc herniation that compromised the ipsilateral root.,the ipsilateral root
+S1130-14732006000400004-1,8,1,A cervical computed tomography (CT) scan showed that the hernia was calcified.,A cervical computed tomography
+S1130-14732006000400004-1,8,2,A cervical computed tomography (CT) scan showed that the hernia was calcified.,CT
+S1130-14732006000400004-1,8,3,A cervical computed tomography (CT) scan showed that the hernia was calcified.,scan
+S1130-14732006000400004-1,8,4,A cervical computed tomography (CT) scan showed that the hernia was calcified.,the hernia
+S1130-14732006000400004-1,9,1,"A complete analytical study was performed, and no alterations were observed in the blood count, erythrocyte sedimentation rate (ESR), or phosphocalcium metabolism.",A complete analytical study
+S1130-14732006000400004-1,9,2,"A complete analytical study was performed, and no alterations were observed in the blood count, erythrocyte sedimentation rate (ESR), or phosphocalcium metabolism.",no alterations
+S1130-14732006000400004-1,9,3,"A complete analytical study was performed, and no alterations were observed in the blood count, erythrocyte sedimentation rate (ESR), or phosphocalcium metabolism.",the blood count
+S1130-14732006000400004-1,9,4,"A complete analytical study was performed, and no alterations were observed in the blood count, erythrocyte sedimentation rate (ESR), or phosphocalcium metabolism.",erythrocyte sedimentation rate
+S1130-14732006000400004-1,9,5,"A complete analytical study was performed, and no alterations were observed in the blood count, erythrocyte sedimentation rate (ESR), or phosphocalcium metabolism.",ESR
+S1130-14732006000400004-1,9,6,"A complete analytical study was performed, and no alterations were observed in the blood count, erythrocyte sedimentation rate (ESR), or phosphocalcium metabolism.",phosphocalcium metabolism
+S1130-14732006000400004-1,10,1,A scintigraphy ruled out pathological uptakes.,A scintigraphy
+S1130-14732006000400004-1,10,2,A scintigraphy ruled out pathological uptakes.,pathological uptakes
+S1130-14732006000400004-1,11,1,This patient had been diagnosed at the age of 10 with idiopathic intervertebral calcifications following a radiographic study motivated by neck pain.,This patient
+S1130-14732006000400004-1,11,2,This patient had been diagnosed at the age of 10 with idiopathic intervertebral calcifications following a radiographic study motivated by neck pain.,the age
+S1130-14732006000400004-1,11,3,This patient had been diagnosed at the age of 10 with idiopathic intervertebral calcifications following a radiographic study motivated by neck pain.,idiopathic intervertebral calcifications
+S1130-14732006000400004-1,11,4,This patient had been diagnosed at the age of 10 with idiopathic intervertebral calcifications following a radiographic study motivated by neck pain.,a radiographic study
+S1130-14732006000400004-1,11,5,This patient had been diagnosed at the age of 10 with idiopathic intervertebral calcifications following a radiographic study motivated by neck pain.,neck pain
+S1130-14732006000400004-1,12,1,This study showed the existence of a calcification at the C4-C5 level and several calcifications at the dorsal level.,This study
+S1130-14732006000400004-1,12,2,This study showed the existence of a calcification at the C4-C5 level and several calcifications at the dorsal level.,the existence
+S1130-14732006000400004-1,12,3,This study showed the existence of a calcification at the C4-C5 level and several calcifications at the dorsal level.,a calcification
+S1130-14732006000400004-1,12,4,This study showed the existence of a calcification at the C4-C5 level and several calcifications at the dorsal level.,the C4-C5 level
+S1130-14732006000400004-1,12,5,This study showed the existence of a calcification at the C4-C5 level and several calcifications at the dorsal level.,several calcifications
+S1130-14732006000400004-1,12,6,This study showed the existence of a calcification at the C4-C5 level and several calcifications at the dorsal level.,the dorsal level
+S1130-14732006000400004-1,13,1,An MRI ruled out any disc herniation.,An MRI
+S1130-14732006000400004-1,13,2,An MRI ruled out any disc herniation.,any disc herniation
+S1130-14732006000400004-1,14,1,"Until the current episode she had remained asymptomatic, except for occasional back pain.",the current episode
+S1130-14732006000400004-1,14,2,"Until the current episode she had remained asymptomatic, except for occasional back pain.",she
+S1130-14732006000400004-1,14,3,"Until the current episode she had remained asymptomatic, except for occasional back pain.",occasional back pain
+S1130-14732006000400004-1,15,1,"Given the neurological deficit that the patient presented, surgical treatment of the herniated disc via anterolateral approach was chosen.",the neurological deficit
+S1130-14732006000400004-1,15,2,"Given the neurological deficit that the patient presented, surgical treatment of the herniated disc via anterolateral approach was chosen.",the patient
+S1130-14732006000400004-1,15,3,"Given the neurological deficit that the patient presented, surgical treatment of the herniated disc via anterolateral approach was chosen.",surgical treatment
+S1130-14732006000400004-1,15,4,"Given the neurological deficit that the patient presented, surgical treatment of the herniated disc via anterolateral approach was chosen.",the herniated disc
+S1130-14732006000400004-1,15,5,"Given the neurological deficit that the patient presented, surgical treatment of the herniated disc via anterolateral approach was chosen.",anterolateral approach
+S1130-14732006000400004-1,16,1,"During surgery, the existence of an intervertebral disc with fine calcifications was observed.",surgery
+S1130-14732006000400004-1,16,2,"During surgery, the existence of an intervertebral disc with fine calcifications was observed.",the existence
+S1130-14732006000400004-1,16,3,"During surgery, the existence of an intervertebral disc with fine calcifications was observed.",an intervertebral disc
+S1130-14732006000400004-1,16,4,"During surgery, the existence of an intervertebral disc with fine calcifications was observed.",fine calcifications
+S1130-14732006000400004-1,17,1,"When the posterior common vertebral ligament was opened, a whitish, pasty material was released, which was under moderate tension.",the posterior common vertebral ligament
+S1130-14732006000400004-1,17,2,"When the posterior common vertebral ligament was opened, a whitish, pasty material was released, which was under moderate tension.","a whitish, pasty material"
+S1130-14732006000400004-1,17,3,"When the posterior common vertebral ligament was opened, a whitish, pasty material was released, which was under moderate tension.",which
+S1130-14732006000400004-1,17,4,"When the posterior common vertebral ligament was opened, a whitish, pasty material was released, which was under moderate tension.",moderate tension
+S1130-14732006000400004-1,18,1,The pathological report of the material obtained was fibrocartilage with foci of calcification.,The pathological report
+S1130-14732006000400004-1,18,2,The pathological report of the material obtained was fibrocartilage with foci of calcification.,the material
+S1130-14732006000400004-1,18,3,The pathological report of the material obtained was fibrocartilage with foci of calcification.,fibrocartilage
+S1130-14732006000400004-1,18,4,The pathological report of the material obtained was fibrocartilage with foci of calcification.,foci
+S1130-14732006000400004-1,18,5,The pathological report of the material obtained was fibrocartilage with foci of calcification.,calcification
+S1130-14732006000400004-1,19,1,One month later the patient had completely recovered from her deficits.,the patient
+S1130-14732006000400004-1,19,2,One month later the patient had completely recovered from her deficits.,her deficits

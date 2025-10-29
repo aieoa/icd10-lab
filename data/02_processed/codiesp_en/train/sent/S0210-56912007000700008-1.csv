@@ -1,0 +1,39 @@
+report_id,sentence_id,sentence
+S0210-56912007000700008-1,1,"This is a 31-year-old male, smoker of 30 cigarettes a day with no other relevant history, who was admitted to the Emergency Department reporting weight loss (approximately 10 kg), asthenia and dry cough during the last 6 months."
+S0210-56912007000700008-1,2,"Ten days before admission he began to have fever of up to 39º C, generalized myalgias and dyspnea on moderate exertion."
+S0210-56912007000700008-1,3,"The admission analysis highlights a baseline arterial oxygen pressure (PaO2) of 63 mmHg; erythrocyte sedimentation rate: 92 mm/h; leukocyte count of 9,300 l/mm3 (73% neutrophils); lacticadehydrogenase (LDH): 957 mg/dl, and fibrinogen: 954 mg/dl."
+S0210-56912007000700008-1,4,The chest x-ray shows bilateral diffuse interstitial-alveolar infiltrate over the lung parenchyma.
+S0210-56912007000700008-1,5,"The chest CT scan shows extensive involvement of the lung parenchyma with areas of alveolar involvement, symmetrical and bilateral areas of ground glass opacity, and lymphadenopathy in the pulmonary hilum, paratracheal areas, and below the carina."
+S0210-56912007000700008-1,6,The patient underwent a transbronchial biopsy that was nonspecific.
+S0210-56912007000700008-1,7,"A lung biopsy was performed in the operating room, which shows in the histological study that it is an alveolar proteinosis."
+S0210-56912007000700008-1,8,The microbiological study of the biopsy isolated a Nocardia sp.
+S0210-56912007000700008-1,9,"Fifteen days after admission, the patient presented clinical worsening with a great increase in dyspnea, hypoxia and worsening of the alveolar-arterial gradient."
+S0210-56912007000700008-1,10,"Given the clinical situation, it was decided to perform bilateral bronchoalveolar lavage."
+S0210-56912007000700008-1,11,"Prior to orotracheal intubation, we sedated the patient with propofol, analgesiated him with fentanyl, and relaxed him with succinylcholine."
+S0210-56912007000700008-1,12,We performed intubation with a left Mallinckrodt 39F type double lumen tube.
+S0210-56912007000700008-1,13,We checked the location of the tube using a pediatric fiberoptic bronchoscope.
+S0210-56912007000700008-1,14,We subsequently kept him sedated and relaxed with continuous infusion of propofol and cisatracurium.
+S0210-56912007000700008-1,15,"We ventilate the patient initially for 30 minutes at control pressure, with inspired fraction of oxygen (FiO2) of 100%, positive end-expiratory pressure (PEEP) of 6 cm H2O, maximum pressure of 30 cm H2O and respiratory rate of 12."
+S0210-56912007000700008-1,16,The patient performed tidal volumes of 800 ml (volume/minute of 10 bpm) and his oxygenation was 96%.
+S0210-56912007000700008-1,17,"Subsequently, we measured the static compliance of each lung (25 ml/cm H2O in the right lung and 15 ml/cm H2O in the left lung), so we decided to start the lavage in the left lung (the one that had the worst static compliance). with the patient in the supine position."
+S0210-56912007000700008-1,18,Lavage was performed with isotonic saline solution heated to 37º C. We infused one liter from a height of 30-40 cm above the patient and drained it by gravity.
+S0210-56912007000700008-1,19,The same operation was carried out until the washing liquid became clear.
+S0210-56912007000700008-1,20,13 liters were needed in this first phase.
+S0210-56912007000700008-1,21,"To achieve a better result and drainage, thoracic percussion was performed on the washed lung."
+S0210-56912007000700008-1,22,"After supine lavage, we observed an improvement in the static compliance of the left lung of up to 53 ml/cm H2O and an improvement in saturation of up to 98%."
+S0210-56912007000700008-1,23,We then place the patient in a prone position.
+S0210-56912007000700008-1,24,"We perform the same procedure as supine, in this case 15 liters of saline solution at 37º C are necessary to obtain clear drainage."
+S0210-56912007000700008-1,25,The total time it took to lavage the left lung was 2 hours and 45 minutes.
+S0210-56912007000700008-1,26,"After completing the lavage of the left lung, we ventilated both lungs in pressure control mode with 100% FiO2, PEEP 10 cm H2O and peak pressure of 35 cm H2O for 45 minutes."
+S0210-56912007000700008-1,27,The measured static compliance was 39 ml/cm H2O and the oxygen saturation was 96%.
+S0210-56912007000700008-1,28,"We decided to ventilate the left lung alone, to check that it could tolerate lavage of the right lung."
+S0210-56912007000700008-1,29,The patient had good tolerance with an oxygen saturation of 96%.
+S0210-56912007000700008-1,30,We decided to begin lavage of the right lung starting in the prone position.
+S0210-56912007000700008-1,31,In this position the drainage began to clear with 20 liters of saline solution in one hour and 35 minutes.
+S0210-56912007000700008-1,32,"We changed him to a supine position, with only 4 liters being necessary in this position in 14 minutes until clear drainage was obtained."
+S0210-56912007000700008-1,33,"After 30 minutes of mechanical ventilation, the static compliance of both lungs was 64 ml/cm H2O and the oxygen saturation was 98%."
+S0210-56912007000700008-1,34,"Finally, we changed the double lumen tube for a standard number 8 tube and began disconnecting the patient."
+S0210-56912007000700008-1,35,The patient was extubated two hours after completing lavage.
+S0210-56912007000700008-1,36,The follow-up chest x-ray showed a bilateral fine interstitial pattern.
+S0210-56912007000700008-1,37,When the patient was discharged from the intensive care unit he had a PaO2/FiO2 ratio of 453.8 (193.8 on admission).
+S0210-56912007000700008-1,38,Sequential washout had to be repeated twice over the next year due to worsening of his disease with good tolerance.

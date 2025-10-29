@@ -1,0 +1,44 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142010000100015-1,1,1,"A 42-year-old man presented with a right testicular mass and pain of 2 months' duration, which progressively increased.",A 42-year-old man
+S0004-06142010000100015-1,1,2,"A 42-year-old man presented with a right testicular mass and pain of 2 months' duration, which progressively increased.",a right testicular mass
+S0004-06142010000100015-1,1,3,"A 42-year-old man presented with a right testicular mass and pain of 2 months' duration, which progressively increased.",pain
+S0004-06142010000100015-1,1,4,"A 42-year-old man presented with a right testicular mass and pain of 2 months' duration, which progressively increased.",2 months' duration
+S0004-06142010000100015-1,1,5,"A 42-year-old man presented with a right testicular mass and pain of 2 months' duration, which progressively increased.",which
+S0004-06142010000100015-1,2,1,He denies any history of pathology or other symptoms.,He
+S0004-06142010000100015-1,2,2,He denies any history of pathology or other symptoms.,any history
+S0004-06142010000100015-1,2,3,He denies any history of pathology or other symptoms.,pathology
+S0004-06142010000100015-1,2,4,He denies any history of pathology or other symptoms.,other symptoms
+S0004-06142010000100015-1,3,1,"Testicular ultrasound showed diffuse increase in the size of the right testicle, which measures 6.2x5.8x4.2 cm, with diffuse alteration of its echogenicity.",Testicular ultrasound
+S0004-06142010000100015-1,3,2,"Testicular ultrasound showed diffuse increase in the size of the right testicle, which measures 6.2x5.8x4.2 cm, with diffuse alteration of its echogenicity.",diffuse increase
+S0004-06142010000100015-1,3,3,"Testicular ultrasound showed diffuse increase in the size of the right testicle, which measures 6.2x5.8x4.2 cm, with diffuse alteration of its echogenicity.",the size
+S0004-06142010000100015-1,3,4,"Testicular ultrasound showed diffuse increase in the size of the right testicle, which measures 6.2x5.8x4.2 cm, with diffuse alteration of its echogenicity.",the right testicle
+S0004-06142010000100015-1,3,5,"Testicular ultrasound showed diffuse increase in the size of the right testicle, which measures 6.2x5.8x4.2 cm, with diffuse alteration of its echogenicity.",which
+S0004-06142010000100015-1,3,6,"Testicular ultrasound showed diffuse increase in the size of the right testicle, which measures 6.2x5.8x4.2 cm, with diffuse alteration of its echogenicity.",6.2x5.8x4.2 cm
+S0004-06142010000100015-1,3,7,"Testicular ultrasound showed diffuse increase in the size of the right testicle, which measures 6.2x5.8x4.2 cm, with diffuse alteration of its echogenicity.",diffuse alteration
+S0004-06142010000100015-1,3,8,"Testicular ultrasound showed diffuse increase in the size of the right testicle, which measures 6.2x5.8x4.2 cm, with diffuse alteration of its echogenicity.",its echogenicity
+S0004-06142010000100015-1,4,1,"Therefore, he was taken to an orchidectomy and found an enlarged, rubbery, whitish testicle.",he
+S0004-06142010000100015-1,4,2,"Therefore, he was taken to an orchidectomy and found an enlarged, rubbery, whitish testicle.",an orchidectomy
+S0004-06142010000100015-1,4,3,"Therefore, he was taken to an orchidectomy and found an enlarged, rubbery, whitish testicle.","an enlarged, rubbery, whitish testicle"
+S0004-06142010000100015-1,5,1,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",The histopathological study
+S0004-06142010000100015-1,5,2,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",diffuse infiltration
+S0004-06142010000100015-1,5,3,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",the testicular parenchyma
+S0004-06142010000100015-1,5,4,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",a malignant hematolymphoid neoplasm
+S0004-06142010000100015-1,5,5,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.","small, irregular cells"
+S0004-06142010000100015-1,5,6,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",little cytoplasm
+S0004-06142010000100015-1,5,7,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",which
+S0004-06142010000100015-1,5,8,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",angiotropism
+S0004-06142010000100015-1,5,9,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",associated areas
+S0004-06142010000100015-1,5,10,"The histopathological study revealed diffuse infiltration of the testicular parenchyma by a malignant hematolymphoid neoplasm composed of small, irregular cells with little cytoplasm, which presented angiotropism, with associated areas of necrosis.",necrosis
+S0004-06142010000100015-1,6,1,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",The tumor cells
+S0004-06142010000100015-1,6,2,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",ACL
+S0004-06142010000100015-1,6,3,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",CD3
+S0004-06142010000100015-1,6,4,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",Ki67
+S0004-06142010000100015-1,6,5,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",90%
+S0004-06142010000100015-1,6,6,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",TdT
+S0004-06142010000100015-1,6,7,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",CD30
+S0004-06142010000100015-1,6,8,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",ALK
+S0004-06142010000100015-1,6,9,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",bcl2
+S0004-06142010000100015-1,6,10,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",bcl6
+S0004-06142010000100015-1,6,11,"The tumor cells were positive for ACL and CD3 with Ki67 of 90% and negative for TdT, CD30, ALK, bcl2, bcl6 and CD10.",CD10
+S0004-06142010000100015-1,7,1,"With the above, the diagnosis of unspecified peripheral non-Hodgkin T lymphoma was made.",the diagnosis
+S0004-06142010000100015-1,7,2,"With the above, the diagnosis of unspecified peripheral non-Hodgkin T lymphoma was made.",unspecified peripheral non-Hodgkin T lymphoma

@@ -1,0 +1,40 @@
+report_id,sentence_id,sentence
+S0211-69952016000600552-1,1,"A 26-year-old woman, with no relevant history or chronic treatment, consulted in Primary Care for general malaise, cramps and paresthesias in the hands and feet and, for 2 days, also reported inability to elevate the left eyelid."
+S0211-69952016000600552-1,2,"In Primary Care, an analytical control was requested and a creatinine of 4.6 mg/dl was detected (the only previous control recorded that we had in our center was from 6 years earlier with a creatinine of 1.5 mg/dl), reason for which the patient was referred to the emergency room."
+S0211-69952016000600552-1,3,There was no family history of kidney disease in any family member.
+S0211-69952016000600552-1,4,Clinical evolution
+S0211-69952016000600552-1,5,"Her blood pressure was 135/67 mmHg, heart rate 120 bpm, and temperature 37.5°C, with an unremarkable physical examination."
+S0211-69952016000600552-1,6,"Repeated blood tests in the emergency room confirmed deterioration of kidney function (creatinine 5.1 mg/dl and urea 245 mg/dl), along with sodium of 124 mmol/l; potassium 3.5 mmol/l; pH 7.08; 5.9 mmol/l bicarbonate; pCO2 of 20 mmHg; corrected ionic calcium 0.69 mmol/l (normal 1.13-1.32); magnesium 1 mg/dl; leukocytes of 14,060 and the rest of the blood count and coagulation study were normal."
+S0211-69952016000600552-1,7,Other delayed analytical determinations showed: calcium 7.4 mg/dl; phosphorus 5.6mg/dl; iPTH 298 pg/ml; vitamin D 18.27 ng/ml and uric acid 8.8 mg/dl.
+S0211-69952016000600552-1,8,"The immunological study (immunoglobulins, ANA) was normal."
+S0211-69952016000600552-1,9,In blood electrophoresis: decrease in gamma globulins.
+S0211-69952016000600552-1,10,"Serology for viruses B, C and HIV was negative."
+S0211-69952016000600552-1,11,"The urine test had a pH of 6.0, blood+, leukocytes +++."
+S0211-69952016000600552-1,12,"In 24-h urine, proteinuria was 0.73 g, creatinine clearance 12 ml/min, uricosuria 600 mg, calciuria < 4 mg/kg, and oxaluria 10 mg (normal: 4-31 )."
+S0211-69952016000600552-1,13,"The electrocardiogram showed sinus rhythm, with ST elevation of 1mm in all leads."
+S0211-69952016000600552-1,14,The chest x-ray was normal.
+S0211-69952016000600552-1,15,The simple abdominal x-ray revealed extensive bilateral renal calcifications.
+S0211-69952016000600552-1,16,"After correction of hypocalcemia, hypomagnesemia and metabolic acidosis, the patient was discharged, with no relevant incidents during admission."
+S0211-69952016000600552-1,17,"The analytical values ​​at discharge were creatinine 3.6 mg/dl; sodium 142 mmol/l; potassium 4.4 mmol/l; pH 7.43; bicarbonate 24.6 mmol/l; calcium 8.6 mg/dl; corrected ionic calcium 1.16 mmol/l; phosphorus 2.9, iPTH 103 ng/ml and magnesium 1.9 mg/dl."
+S0211-69952016000600552-1,18,The treatment at discharge was: calcium carbonate 2.5 g every 8 hours; calcitriol 0.5 mcg/day; sodium bicarbonate 1 g/day and oral potassium and magnesium supplementation.
+S0211-69952016000600552-1,19,"After about 48 hours, after being discharged from the Nephrology Service, she consulted the Emergency Service due to the inability to speak or perform lingual movements."
+S0211-69952016000600552-1,20,"Furthermore, the patient reported that the night before she had an alteration in the control of movements of her right hand."
+S0211-69952016000600552-1,21,"Likewise, she associated difficulty swallowing and intense asthenia."
+S0211-69952016000600552-1,22,She did not have fever or headache.
+S0211-69952016000600552-1,23,"On physical examination, blood pressure was 102/72 mmHg, heart rate 75 bpm, baseline oxygen saturation 98%, and the rest of the examination was normal."
+S0211-69952016000600552-1,24,The blood analysis was: creatinine 3.6 mg/dl; sodium 141 mmol/l; potassium 4.4 mmol/l; pH 7.43; bicarbonate 24.6 mmol/l; calcium 8.6 mg/dl; corrected ionic calcium 1.16 mmol/l and magnesium 1.9 mg/dl.
+S0211-69952016000600552-1,25,The patient was evaluated by the Neurology Service and she was admitted in her care for study.
+S0211-69952016000600552-1,26,"In this service, an edrophonium test was performed (negative), brain CT without contrast (without significant findings), EEG (abundant outbreaks of paroxysmal activity [theta waves] in the left temporal region, with propagation to the rest of the hemisphere, as well as to the homologous region. contralateral, forming some bilateral paroxysmal outbreaks of sharp waves)."
+S0211-69952016000600552-1,27,"Treatment was started with levetiracetam 250 mg/12 h, which was insufficient to control the seizures."
+S0211-69952016000600552-1,28,"The patient progressed to a focal status, without response to diazepam (up to 10 mg) or boluses of valproic acid, so she required transfer to the ICU."
+S0211-69952016000600552-1,29,"The seizure activity was controlled after the start of valproic acid infusion (1 g/24 h), since then the patient has remained asymptomatic."
+S0211-69952016000600552-1,30,"Subsequently, in the Neurology ward, she was controlled with oral treatment: she remained asymptomatic and could be discharged with 500 mg/12 h orally of valproic acid."
+S0211-69952016000600552-1,31,Genetic study
+S0211-69952016000600552-1,32,"Given the absence of a family history of kidney disease, the current situation of advanced kidney failure and, therefore, the diagnostic difficulties in carrying out specific studies that would clarify the primary process that had led to the development of nephrocalcinosis, it was decided to conduct a study. genetic."
+S0211-69952016000600552-1,33,"The analysis of all known genes associated with tubulointerstitial disease is requested http://nefrochus.villaweb.es/en/ which includes the analysis of the gene variants found in the known genes associated with forms of nephrocalcinosis (Nefrochus, Santiago de Compostela )."
+S0211-69952016000600552-1,34,"The study determined that the patient (II:1) was a carrier of a missense mutation in exon 14 of the SLC4A1 gene, associated with autosomal dominant distal renal tubular acidosis (ATR-AD)."
+S0211-69952016000600552-1,35,"This mutation (c.1766G > A, Fig. 2A) involves the substitution of a basic amino acid (p.R589H) arginine (Arg, R) for an amino acid histidine (His, H) not previously found in normal chromosomes of our cohort. neither in the international 1000 genomes project, nor in the dbSNP137 database, but it has been described in the literature5,6, with a genomic code rs121912744 cataloged as CLINSIG = pathogenic and associated with families with autosomal dominant distal renal tubular acidosis."
+S0211-69952016000600552-1,36,The functional study carried out with various in silico prediction tools assigns pathogenicity criteria to the gene variant (SIFT: deleterious; polyphen2: deleterious; LRT: deleterious; MutationTaster: disease_causing_automatic; mutation assessor: medium; FATHMM: tolerated; RadialSVM: deleterious and LR : deleterious).
+S0211-69952016000600552-1,37,Cosegregation study
+S0211-69952016000600552-1,38,"In order to be able to decide on a possible donation of a living kidney transplant, a cosegregation study is carried out in both parents (I:1 and I:2)."
+S0211-69952016000600552-1,39,"The fact that none of them are carriers of the R589H mutation indicates that said mutation is de novo or spontaneous, and thus they may be candidates for donation."

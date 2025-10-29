@@ -1,0 +1,79 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1134-80462009000800008-1,1,1,A 78-year-old woman was referred from the general surgery service to the pain clinic due to chronic abdominal pain secondary to intestinal angina.,A 78-year-old woman
+S1134-80462009000800008-1,1,2,A 78-year-old woman was referred from the general surgery service to the pain clinic due to chronic abdominal pain secondary to intestinal angina.,the general surgery service
+S1134-80462009000800008-1,1,3,A 78-year-old woman was referred from the general surgery service to the pain clinic due to chronic abdominal pain secondary to intestinal angina.,the pain clinic
+S1134-80462009000800008-1,1,4,A 78-year-old woman was referred from the general surgery service to the pain clinic due to chronic abdominal pain secondary to intestinal angina.,chronic abdominal pain
+S1134-80462009000800008-1,1,5,A 78-year-old woman was referred from the general surgery service to the pain clinic due to chronic abdominal pain secondary to intestinal angina.,intestinal angina
+S1134-80462009000800008-1,2,1,No history of chronic degenerative diseases.,No history
+S1134-80462009000800008-1,2,2,No history of chronic degenerative diseases.,chronic degenerative diseases
+S1134-80462009000800008-1,3,1,She underwent 2 laparotomies in 6 months and 1 diagnostic laparoscopy for episodes of mesenteric ischemia.,She
+S1134-80462009000800008-1,3,2,She underwent 2 laparotomies in 6 months and 1 diagnostic laparoscopy for episodes of mesenteric ischemia.,2 laparotomies
+S1134-80462009000800008-1,3,3,She underwent 2 laparotomies in 6 months and 1 diagnostic laparoscopy for episodes of mesenteric ischemia.,6 months
+S1134-80462009000800008-1,3,4,She underwent 2 laparotomies in 6 months and 1 diagnostic laparoscopy for episodes of mesenteric ischemia.,1 diagnostic laparoscopy
+S1134-80462009000800008-1,3,5,She underwent 2 laparotomies in 6 months and 1 diagnostic laparoscopy for episodes of mesenteric ischemia.,episodes
+S1134-80462009000800008-1,3,6,She underwent 2 laparotomies in 6 months and 1 diagnostic laparoscopy for episodes of mesenteric ischemia.,mesenteric ischemia
+S1134-80462009000800008-1,4,1,- Diagnosis: mesenteric ischemia corroborated by computed tomography with venous and arterial contrast.,- Diagnosis
+S1134-80462009000800008-1,4,2,- Diagnosis: mesenteric ischemia corroborated by computed tomography with venous and arterial contrast.,mesenteric ischemia
+S1134-80462009000800008-1,4,3,- Diagnosis: mesenteric ischemia corroborated by computed tomography with venous and arterial contrast.,computed tomography
+S1134-80462009000800008-1,4,4,- Diagnosis: mesenteric ischemia corroborated by computed tomography with venous and arterial contrast.,venous and arterial contrast
+S1134-80462009000800008-1,5,1,"- Current illness: patient with chronic, generalized, severe abdominal pain, lasting 6 months, that does not resolve with regular analgesics.",- Current illness
+S1134-80462009000800008-1,5,2,"- Current illness: patient with chronic, generalized, severe abdominal pain, lasting 6 months, that does not resolve with regular analgesics.",patient
+S1134-80462009000800008-1,5,3,"- Current illness: patient with chronic, generalized, severe abdominal pain, lasting 6 months, that does not resolve with regular analgesics.",severe abdominal pain
+S1134-80462009000800008-1,5,4,"- Current illness: patient with chronic, generalized, severe abdominal pain, lasting 6 months, that does not resolve with regular analgesics.",that
+S1134-80462009000800008-1,5,5,"- Current illness: patient with chronic, generalized, severe abdominal pain, lasting 6 months, that does not resolve with regular analgesics.",regular analgesics
+S1134-80462009000800008-1,6,1,"Crampy pain, VAS 10/10, EVERA severe, disabling, episodic, sometimes accompanied by nausea and vomiting, without factors that increase or decrease it.",Crampy pain
+S1134-80462009000800008-1,6,2,"Crampy pain, VAS 10/10, EVERA severe, disabling, episodic, sometimes accompanied by nausea and vomiting, without factors that increase or decrease it.",EVERA
+S1134-80462009000800008-1,6,3,"Crampy pain, VAS 10/10, EVERA severe, disabling, episodic, sometimes accompanied by nausea and vomiting, without factors that increase or decrease it.",nausea
+S1134-80462009000800008-1,6,4,"Crampy pain, VAS 10/10, EVERA severe, disabling, episodic, sometimes accompanied by nausea and vomiting, without factors that increase or decrease it.",vomiting
+S1134-80462009000800008-1,6,5,"Crampy pain, VAS 10/10, EVERA severe, disabling, episodic, sometimes accompanied by nausea and vomiting, without factors that increase or decrease it.",factors
+S1134-80462009000800008-1,6,6,"Crampy pain, VAS 10/10, EVERA severe, disabling, episodic, sometimes accompanied by nausea and vomiting, without factors that increase or decrease it.",that
+S1134-80462009000800008-1,6,7,"Crampy pain, VAS 10/10, EVERA severe, disabling, episodic, sometimes accompanied by nausea and vomiting, without factors that increase or decrease it.",it
+S1134-80462009000800008-1,7,1,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,- Physical examination
+S1134-80462009000800008-1,7,2,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,weight
+S1134-80462009000800008-1,7,3,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,45 kg
+S1134-80462009000800008-1,7,4,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,size
+S1134-80462009000800008-1,7,5,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,1.50 m
+S1134-80462009000800008-1,7,6,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,blood pressure
+S1134-80462009000800008-1,7,7,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,90/50 mmHg
+S1134-80462009000800008-1,7,8,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,heart rate
+S1134-80462009000800008-1,7,9,- Physical examination: weight 45 kg; size 1.50 m; blood pressure 90/50 mmHg; heart rate 65; respiratory rate 18.,respiratory rate
+S1134-80462009000800008-1,8,1,"Conscious, oriented, hydrated, with pale mucous membranes and integuments, cachectic.",pale mucous membranes
+S1134-80462009000800008-1,8,2,"Conscious, oriented, hydrated, with pale mucous membranes and integuments, cachectic.",integuments
+S1134-80462009000800008-1,9,1,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",Face
+S1134-80462009000800008-1,9,2,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",head
+S1134-80462009000800008-1,9,3,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",neck
+S1134-80462009000800008-1,9,4,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",alterations
+S1134-80462009000800008-1,9,5,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",compromise
+S1134-80462009000800008-1,9,6,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",abdomen
+S1134-80462009000800008-1,9,7,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",generalized pain
+S1134-80462009000800008-1,9,8,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",all quadrants
+S1134-80462009000800008-1,9,9,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",superficial and deep palpation
+S1134-80462009000800008-1,9,10,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",normal characteristics
+S1134-80462009000800008-1,9,11,"Face, head and neck without alterations, cardiopulmonary without compromise, abdomen with generalized pain in all quadrants, severe, on superficial and deep palpation, peristalsis present and with normal characteristics, without palpable masses.",palpable masses
+S1134-80462009000800008-1,10,1,Rest of normal physical examination.,normal physical examination
+S1134-80462009000800008-1,11,1,- Algological diagnosis: chronic abdominal pain of severe visceral type.,- Algological diagnosis
+S1134-80462009000800008-1,11,2,- Algological diagnosis: chronic abdominal pain of severe visceral type.,chronic abdominal pain
+S1134-80462009000800008-1,11,3,- Algological diagnosis: chronic abdominal pain of severe visceral type.,severe visceral type
+S1134-80462009000800008-1,12,1,- Etiological diagnosis: intestinal angina (mesenteric ischemia).,- Etiological diagnosis
+S1134-80462009000800008-1,12,2,- Etiological diagnosis: intestinal angina (mesenteric ischemia).,intestinal angina
+S1134-80462009000800008-1,12,3,- Etiological diagnosis: intestinal angina (mesenteric ischemia).,mesenteric ischemia
+S1134-80462009000800008-1,13,1,Clinical evolution,Clinical evolution
+S1134-80462009000800008-1,14,1,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",Therapeutics
+S1134-80462009000800008-1,14,2,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",powerful opiates
+S1134-80462009000800008-1,14,3,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",hydromorphone
+S1134-80462009000800008-1,14,4,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",methadone
+S1134-80462009000800008-1,14,5,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",oxycodone
+S1134-80462009000800008-1,14,6,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",morphine
+S1134-80462009000800008-1,14,7,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",adjuvants
+S1134-80462009000800008-1,14,8,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",calcium antagonists
+S1134-80462009000800008-1,14,9,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",nitrates
+S1134-80462009000800008-1,14,10,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",different rotations
+S1134-80462009000800008-1,14,11,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",management schemes
+S1134-80462009000800008-1,14,12,"Therapeutics with powerful opiates (hydromorphone, methadone, oxycodone, morphine and transdermal fentanyl) and adjuvants, such as calcium antagonists, nitrates, etc., carrying out different rotations and management schemes according to their clinical evolution.",their clinical evolution
+S1134-80462009000800008-1,15,1,"Not a candidate for intervention due to clinical status and anticoagulation with acenocoumarine, and the use of antiplatelet agents.",Not a candidate
+S1134-80462009000800008-1,15,2,"Not a candidate for intervention due to clinical status and anticoagulation with acenocoumarine, and the use of antiplatelet agents.",intervention
+S1134-80462009000800008-1,15,3,"Not a candidate for intervention due to clinical status and anticoagulation with acenocoumarine, and the use of antiplatelet agents.",clinical status
+S1134-80462009000800008-1,15,4,"Not a candidate for intervention due to clinical status and anticoagulation with acenocoumarine, and the use of antiplatelet agents.",anticoagulation
+S1134-80462009000800008-1,15,5,"Not a candidate for intervention due to clinical status and anticoagulation with acenocoumarine, and the use of antiplatelet agents.",acenocoumarine
+S1134-80462009000800008-1,15,6,"Not a candidate for intervention due to clinical status and anticoagulation with acenocoumarine, and the use of antiplatelet agents.",the use
+S1134-80462009000800008-1,15,7,"Not a candidate for intervention due to clinical status and anticoagulation with acenocoumarine, and the use of antiplatelet agents.",antiplatelet agents

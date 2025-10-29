@@ -1,0 +1,95 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1139-76322013000500010-1,1,1,13-year-old boy with no personal history of interest.,13-year-old boy
+S1139-76322013000500010-1,1,2,13-year-old boy with no personal history of interest.,no personal history
+S1139-76322013000500010-1,1,3,13-year-old boy with no personal history of interest.,interest
+S1139-76322013000500010-1,2,1,His relevant family history included a brother who died of Wilms tumor.,His relevant family history
+S1139-76322013000500010-1,2,2,His relevant family history included a brother who died of Wilms tumor.,a brother
+S1139-76322013000500010-1,2,3,His relevant family history included a brother who died of Wilms tumor.,who
+S1139-76322013000500010-1,2,4,His relevant family history included a brother who died of Wilms tumor.,Wilms tumor
+S1139-76322013000500010-1,3,1,"He consulted for urinary symptoms (dysuria, frequency) without other symptoms.",He
+S1139-76322013000500010-1,3,2,"He consulted for urinary symptoms (dysuria, frequency) without other symptoms.",urinary symptoms
+S1139-76322013000500010-1,3,3,"He consulted for urinary symptoms (dysuria, frequency) without other symptoms.","dysuria, frequency"
+S1139-76322013000500010-1,3,4,"He consulted for urinary symptoms (dysuria, frequency) without other symptoms.",other symptoms
+S1139-76322013000500010-1,4,1,His urine test strip was negative.,His urine test strip
+S1139-76322013000500010-1,5,1,"He was started on treatment with trimethoprim-sulfamethoxazole until the urine culture result was obtained, which was reported as sterile.",He
+S1139-76322013000500010-1,5,2,"He was started on treatment with trimethoprim-sulfamethoxazole until the urine culture result was obtained, which was reported as sterile.",treatment
+S1139-76322013000500010-1,5,3,"He was started on treatment with trimethoprim-sulfamethoxazole until the urine culture result was obtained, which was reported as sterile.",trimethoprim-sulfamethoxazole
+S1139-76322013000500010-1,5,4,"He was started on treatment with trimethoprim-sulfamethoxazole until the urine culture result was obtained, which was reported as sterile.",the urine culture result
+S1139-76322013000500010-1,5,5,"He was started on treatment with trimethoprim-sulfamethoxazole until the urine culture result was obtained, which was reported as sterile.",which
+S1139-76322013000500010-1,6,1,"Given the lack of improvement after a week, he went to the Emergency Department.",the lack
+S1139-76322013000500010-1,6,2,"Given the lack of improvement after a week, he went to the Emergency Department.",improvement
+S1139-76322013000500010-1,6,3,"Given the lack of improvement after a week, he went to the Emergency Department.",a week
+S1139-76322013000500010-1,6,4,"Given the lack of improvement after a week, he went to the Emergency Department.",he
+S1139-76322013000500010-1,6,5,"Given the lack of improvement after a week, he went to the Emergency Department.",the Emergency Department
+S1139-76322013000500010-1,7,1,"In the anamnesis he associated voiding symptoms and anuria of 18 hours duration, along with abdominal pain located in the hypogastrium and the right iliac fossa.",the anamnesis
+S1139-76322013000500010-1,7,2,"In the anamnesis he associated voiding symptoms and anuria of 18 hours duration, along with abdominal pain located in the hypogastrium and the right iliac fossa.",he
+S1139-76322013000500010-1,7,3,"In the anamnesis he associated voiding symptoms and anuria of 18 hours duration, along with abdominal pain located in the hypogastrium and the right iliac fossa.",symptoms
+S1139-76322013000500010-1,7,4,"In the anamnesis he associated voiding symptoms and anuria of 18 hours duration, along with abdominal pain located in the hypogastrium and the right iliac fossa.",anuria
+S1139-76322013000500010-1,7,5,"In the anamnesis he associated voiding symptoms and anuria of 18 hours duration, along with abdominal pain located in the hypogastrium and the right iliac fossa.",18 hours duration
+S1139-76322013000500010-1,7,6,"In the anamnesis he associated voiding symptoms and anuria of 18 hours duration, along with abdominal pain located in the hypogastrium and the right iliac fossa.",abdominal pain
+S1139-76322013000500010-1,7,7,"In the anamnesis he associated voiding symptoms and anuria of 18 hours duration, along with abdominal pain located in the hypogastrium and the right iliac fossa.",the hypogastrium
+S1139-76322013000500010-1,7,8,"In the anamnesis he associated voiding symptoms and anuria of 18 hours duration, along with abdominal pain located in the hypogastrium and the right iliac fossa.",the right iliac fossa
+S1139-76322013000500010-1,8,1,He reported no history of surgery or fever since the onset of the condition.,He
+S1139-76322013000500010-1,8,2,He reported no history of surgery or fever since the onset of the condition.,no history
+S1139-76322013000500010-1,8,3,He reported no history of surgery or fever since the onset of the condition.,surgery
+S1139-76322013000500010-1,8,4,He reported no history of surgery or fever since the onset of the condition.,fever
+S1139-76322013000500010-1,8,5,He reported no history of surgery or fever since the onset of the condition.,the onset
+S1139-76322013000500010-1,8,6,He reported no history of surgery or fever since the onset of the condition.,the condition
+S1139-76322013000500010-1,9,1,"On examination, he was in good general condition with no signs of dehydration, and his vital signs were within normal values.",examination
+S1139-76322013000500010-1,9,2,"On examination, he was in good general condition with no signs of dehydration, and his vital signs were within normal values.",he
+S1139-76322013000500010-1,9,3,"On examination, he was in good general condition with no signs of dehydration, and his vital signs were within normal values.",good general condition
+S1139-76322013000500010-1,9,4,"On examination, he was in good general condition with no signs of dehydration, and his vital signs were within normal values.",no signs
+S1139-76322013000500010-1,9,5,"On examination, he was in good general condition with no signs of dehydration, and his vital signs were within normal values.",dehydration
+S1139-76322013000500010-1,9,6,"On examination, he was in good general condition with no signs of dehydration, and his vital signs were within normal values.",his vital signs
+S1139-76322013000500010-1,9,7,"On examination, he was in good general condition with no signs of dehydration, and his vital signs were within normal values.",normal values
+S1139-76322013000500010-1,10,1,Cardiopulmonary auscultation was normal.,Cardiopulmonary auscultation
+S1139-76322013000500010-1,11,1,"Regarding the abdominal examination, palpation was painful at the level of the hypogastrium and the right iliac fossa, with local signs of peritoneal irritation.",the abdominal examination
+S1139-76322013000500010-1,11,2,"Regarding the abdominal examination, palpation was painful at the level of the hypogastrium and the right iliac fossa, with local signs of peritoneal irritation.",palpation
+S1139-76322013000500010-1,11,3,"Regarding the abdominal examination, palpation was painful at the level of the hypogastrium and the right iliac fossa, with local signs of peritoneal irritation.",the level
+S1139-76322013000500010-1,11,4,"Regarding the abdominal examination, palpation was painful at the level of the hypogastrium and the right iliac fossa, with local signs of peritoneal irritation.",the hypogastrium
+S1139-76322013000500010-1,11,5,"Regarding the abdominal examination, palpation was painful at the level of the hypogastrium and the right iliac fossa, with local signs of peritoneal irritation.",the right iliac fossa
+S1139-76322013000500010-1,11,6,"Regarding the abdominal examination, palpation was painful at the level of the hypogastrium and the right iliac fossa, with local signs of peritoneal irritation.",local signs
+S1139-76322013000500010-1,11,7,"Regarding the abdominal examination, palpation was painful at the level of the hypogastrium and the right iliac fossa, with local signs of peritoneal irritation.",peritoneal irritation
+S1139-76322013000500010-1,12,1,He did not have a bladder balloon.,He
+S1139-76322013000500010-1,12,2,He did not have a bladder balloon.,a bladder balloon
+S1139-76322013000500010-1,13,1,The rest of the examination showed no relevant findings.,The rest
+S1139-76322013000500010-1,13,2,The rest of the examination showed no relevant findings.,the examination
+S1139-76322013000500010-1,13,3,The rest of the examination showed no relevant findings.,no relevant findings
+S1139-76322013000500010-1,14,1,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",Analytical tests
+S1139-76322013000500010-1,14,2,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",findings
+S1139-76322013000500010-1,14,3,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",interest
+S1139-76322013000500010-1,14,4,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",leukocytes
+S1139-76322013000500010-1,14,5,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",5400 μl
+S1139-76322013000500010-1,14,6,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",2370 μl
+S1139-76322013000500010-1,14,7,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",44%
+S1139-76322013000500010-1,14,8,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.","hemoglobin 13.9 mg/dl, C-reactive protein"
+S1139-76322013000500010-1,14,9,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",mg
+S1139-76322013000500010-1,14,10,"Analytical tests did not show findings of interest: leukocytes 5400 μl, neutrophils 2370 μl (44%), hemoglobin 13.9 mg/dl, C-reactive protein <2.9 mg/l.",l.
+S1139-76322013000500010-1,15,1,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",An abdominal x
+S1139-76322013000500010-1,15,2,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",-
+S1139-76322013000500010-1,15,3,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",ray
+S1139-76322013000500010-1,15,4,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",which
+S1139-76322013000500010-1,15,5,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",no alterations
+S1139-76322013000500010-1,15,6,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",an abdominal ultrasound
+S1139-76322013000500010-1,15,7,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",no findings
+S1139-76322013000500010-1,15,8,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",the urinary tract
+S1139-76322013000500010-1,15,9,"An abdominal x-ray was performed, which showed no alterations, and an abdominal ultrasound showed no findings in the urinary tract, with a practically empty bladder.",a practically empty bladder
+S1139-76322013000500010-1,16,1,"However, an 8 mm thickened appendix with free periappendiceal fluid and thickening of the adjacent fat was visualized; findings compatible with acute appendicitis.",an 8 mm thickened appendix
+S1139-76322013000500010-1,16,2,"However, an 8 mm thickened appendix with free periappendiceal fluid and thickening of the adjacent fat was visualized; findings compatible with acute appendicitis.",free periappendiceal fluid
+S1139-76322013000500010-1,16,3,"However, an 8 mm thickened appendix with free periappendiceal fluid and thickening of the adjacent fat was visualized; findings compatible with acute appendicitis.",thickening
+S1139-76322013000500010-1,16,4,"However, an 8 mm thickened appendix with free periappendiceal fluid and thickening of the adjacent fat was visualized; findings compatible with acute appendicitis.",the adjacent fat
+S1139-76322013000500010-1,16,5,"However, an 8 mm thickened appendix with free periappendiceal fluid and thickening of the adjacent fat was visualized; findings compatible with acute appendicitis.",acute appendicitis
+S1139-76322013000500010-1,17,1,"An infusion of intravenous fluids was performed in an expansion regime, obtaining adequate diuresis in a short time.",An infusion
+S1139-76322013000500010-1,17,2,"An infusion of intravenous fluids was performed in an expansion regime, obtaining adequate diuresis in a short time.",intravenous fluids
+S1139-76322013000500010-1,17,3,"An infusion of intravenous fluids was performed in an expansion regime, obtaining adequate diuresis in a short time.",an expansion regime
+S1139-76322013000500010-1,17,4,"An infusion of intravenous fluids was performed in an expansion regime, obtaining adequate diuresis in a short time.",adequate diuresis
+S1139-76322013000500010-1,17,5,"An infusion of intravenous fluids was performed in an expansion regime, obtaining adequate diuresis in a short time.",a short time
+S1139-76322013000500010-1,18,1,"Given the diagnosis of acute appendicitis, he underwent surgery under general anesthesia, phlegmonous appendicitis was identified and an appendectomy was performed.",the diagnosis
+S1139-76322013000500010-1,18,2,"Given the diagnosis of acute appendicitis, he underwent surgery under general anesthesia, phlegmonous appendicitis was identified and an appendectomy was performed.",acute appendicitis
+S1139-76322013000500010-1,18,3,"Given the diagnosis of acute appendicitis, he underwent surgery under general anesthesia, phlegmonous appendicitis was identified and an appendectomy was performed.",he
+S1139-76322013000500010-1,18,4,"Given the diagnosis of acute appendicitis, he underwent surgery under general anesthesia, phlegmonous appendicitis was identified and an appendectomy was performed.",surgery
+S1139-76322013000500010-1,18,5,"Given the diagnosis of acute appendicitis, he underwent surgery under general anesthesia, phlegmonous appendicitis was identified and an appendectomy was performed.",general anesthesia
+S1139-76322013000500010-1,18,6,"Given the diagnosis of acute appendicitis, he underwent surgery under general anesthesia, phlegmonous appendicitis was identified and an appendectomy was performed.",phlegmonous appendicitis
+S1139-76322013000500010-1,18,7,"Given the diagnosis of acute appendicitis, he underwent surgery under general anesthesia, phlegmonous appendicitis was identified and an appendectomy was performed.",an appendectomy
+S1139-76322013000500010-1,19,1,"The subsequent evolution was favorable, with no postoperative complications occurring.",The subsequent evolution
+S1139-76322013000500010-1,19,2,"The subsequent evolution was favorable, with no postoperative complications occurring.",no postoperative complications

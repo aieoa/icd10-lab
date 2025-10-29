@@ -1,0 +1,149 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0211-69952009000600023-1,1,1,29-year-old woman diagnosed with CKD secondary to FSGS.,29-year-old woman
+S0211-69952009000600023-1,1,2,29-year-old woman diagnosed with CKD secondary to FSGS.,CKD
+S0211-69952009000600023-1,1,3,29-year-old woman diagnosed with CKD secondary to FSGS.,FSGS
+S0211-69952009000600023-1,2,1,She was admitted for hemodialysis at age 25.,She
+S0211-69952009000600023-1,2,2,She was admitted for hemodialysis at age 25.,hemodialysis
+S0211-69952009000600023-1,2,3,She was admitted for hemodialysis at age 25.,age
+S0211-69952009000600023-1,3,1,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",hemodialysis
+S0211-69952009000600023-1,3,2,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",she
+S0211-69952009000600023-1,3,3,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",severe secondary hyperparathyroidism
+S0211-69952009000600023-1,3,4,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",SHPT
+S0211-69952009000600023-1,3,5,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",PTH i
+S0211-69952009000600023-1,3,6,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",ml
+S0211-69952009000600023-1,3,7,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",bone pain
+S0211-69952009000600023-1,3,8,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",asthenia
+S0211-69952009000600023-1,3,9,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",pruritus
+S0211-69952009000600023-1,3,10,"Three years after hemodialysis she presents severe secondary hyperparathyroidism (SHPT) with PTH i > 1,000 pg/ml, with bone pain, asthenia, pruritus and persistent symptomatic arterial hypotension.",persistent symptomatic arterial hypotension
+S0211-69952009000600023-1,4,1,She does not present arterial or echocardiographic calcifications.,She
+S0211-69952009000600023-1,4,2,She does not present arterial or echocardiographic calcifications.,arterial or echocardiographic calcifications
+S0211-69952009000600023-1,5,1,Parathyroid ultrasound was performed without visualization and scintillation with 99Tc and MIBI with diffuse enhancement of the fixation of the left and right inferior parathyroid lobe.,Parathyroid ultrasound
+S0211-69952009000600023-1,5,2,Parathyroid ultrasound was performed without visualization and scintillation with 99Tc and MIBI with diffuse enhancement of the fixation of the left and right inferior parathyroid lobe.,visualization
+S0211-69952009000600023-1,5,3,Parathyroid ultrasound was performed without visualization and scintillation with 99Tc and MIBI with diffuse enhancement of the fixation of the left and right inferior parathyroid lobe.,scintillation
+S0211-69952009000600023-1,5,4,Parathyroid ultrasound was performed without visualization and scintillation with 99Tc and MIBI with diffuse enhancement of the fixation of the left and right inferior parathyroid lobe.,MIBI
+S0211-69952009000600023-1,5,5,Parathyroid ultrasound was performed without visualization and scintillation with 99Tc and MIBI with diffuse enhancement of the fixation of the left and right inferior parathyroid lobe.,diffuse enhancement
+S0211-69952009000600023-1,5,6,Parathyroid ultrasound was performed without visualization and scintillation with 99Tc and MIBI with diffuse enhancement of the fixation of the left and right inferior parathyroid lobe.,the fixation
+S0211-69952009000600023-1,5,7,Parathyroid ultrasound was performed without visualization and scintillation with 99Tc and MIBI with diffuse enhancement of the fixation of the left and right inferior parathyroid lobe.,the left and right inferior parathyroid lobe
+S0211-69952009000600023-1,6,1,She treated her HPTS with calcium chelators and discontinued it with i.v. calcitriol. due to hyperphosphatemia.,She
+S0211-69952009000600023-1,6,2,She treated her HPTS with calcium chelators and discontinued it with i.v. calcitriol. due to hyperphosphatemia.,her HPTS
+S0211-69952009000600023-1,6,3,She treated her HPTS with calcium chelators and discontinued it with i.v. calcitriol. due to hyperphosphatemia.,calcium chelators
+S0211-69952009000600023-1,6,4,She treated her HPTS with calcium chelators and discontinued it with i.v. calcitriol. due to hyperphosphatemia.,it
+S0211-69952009000600023-1,6,5,She treated her HPTS with calcium chelators and discontinued it with i.v. calcitriol. due to hyperphosphatemia.,i.v. calcitriol
+S0211-69952009000600023-1,6,6,She treated her HPTS with calcium chelators and discontinued it with i.v. calcitriol. due to hyperphosphatemia.,hyperphosphatemia
+S0211-69952009000600023-1,7,1,Subtotal parathyroidectomy is indicated considering the patient's age and her suitability for transplant.,Subtotal parathyroidectomy
+S0211-69952009000600023-1,7,2,Subtotal parathyroidectomy is indicated considering the patient's age and her suitability for transplant.,the patient's age
+S0211-69952009000600023-1,7,3,Subtotal parathyroidectomy is indicated considering the patient's age and her suitability for transplant.,her suitability
+S0211-69952009000600023-1,7,4,Subtotal parathyroidectomy is indicated considering the patient's age and her suitability for transplant.,transplant
+S0211-69952009000600023-1,8,1,"The results of the previous laboratory tests were: Hct 37%, Hb 12.1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l.",The results
+S0211-69952009000600023-1,8,2,"The results of the previous laboratory tests were: Hct 37%, Hb 12.1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l.",the previous laboratory tests
+S0211-69952009000600023-1,8,3,"The results of the previous laboratory tests were: Hct 37%, Hb 12.1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l.",Hb
+S0211-69952009000600023-1,8,4,"The results of the previous laboratory tests were: Hct 37%, Hb 12.1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l.",dl
+S0211-69952009000600023-1,8,5,"The results of the previous laboratory tests were: Hct 37%, Hb 12.1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l.",P
+S0211-69952009000600023-1,8,6,"The results of the previous laboratory tests were: Hct 37%, Hb 12.1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l.",mg
+S0211-69952009000600023-1,8,7,"The results of the previous laboratory tests were: Hct 37%, Hb 12.1, Ca 9 mg/dl, P 6 mg/dl, K 5 meq/l.",dl
+S0211-69952009000600023-1,9,1,Normal coagulogram.,Normal coagulogram
+S0211-69952009000600023-1,10,1,Parathyroid biopsy: bilateral hyperplasia.,Parathyroid biopsy
+S0211-69952009000600023-1,10,2,Parathyroid biopsy: bilateral hyperplasia.,bilateral hyperplasia
+S0211-69952009000600023-1,11,1,During surgery she was hypotensive (average BP 90/60).,surgery
+S0211-69952009000600023-1,11,2,During surgery she was hypotensive (average BP 90/60).,she
+S0211-69952009000600023-1,12,1,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",surgery
+S0211-69952009000600023-1,12,2,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",she
+S0211-69952009000600023-1,12,3,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",partial loss
+S0211-69952009000600023-1,12,4,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",vision
+S0211-69952009000600023-1,12,5,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",the RE
+S0211-69952009000600023-1,12,6,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",total vision
+S0211-69952009000600023-1,12,7,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",the LE
+S0211-69952009000600023-1,12,8,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",", moderate hypo-Ca"
+S0211-69952009000600023-1,12,9,"Six days after surgery she presented partial loss of vision in the RE and total vision in the LE, moderate hypo-Ca and symptomatic hypotension.",symptomatic hypotension
+S0211-69952009000600023-1,13,1,"Laboratory: Hct 36%, Hb 12, Ca 6.3 Ca i 0.72l, P 3.5, Mg 1.9.",Laboratory
+S0211-69952009000600023-1,13,2,"Laboratory: Hct 36%, Hb 12, Ca 6.3 Ca i 0.72l, P 3.5, Mg 1.9.",Hct
+S0211-69952009000600023-1,13,3,"Laboratory: Hct 36%, Hb 12, Ca 6.3 Ca i 0.72l, P 3.5, Mg 1.9.",Hb
+S0211-69952009000600023-1,13,4,"Laboratory: Hct 36%, Hb 12, Ca 6.3 Ca i 0.72l, P 3.5, Mg 1.9.",i
+S0211-69952009000600023-1,13,5,"Laboratory: Hct 36%, Hb 12, Ca 6.3 Ca i 0.72l, P 3.5, Mg 1.9.",P
+S0211-69952009000600023-1,13,6,"Laboratory: Hct 36%, Hb 12, Ca 6.3 Ca i 0.72l, P 3.5, Mg 1.9.",Mg
+S0211-69952009000600023-1,14,1,Hypo-Ca values ​​are corrected.,Hypo-Ca values
+S0211-69952009000600023-1,15,1,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",Normal collagenogram
+S0211-69952009000600023-1,15,2,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",coagulogram
+S0211-69952009000600023-1,15,3,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",anticardiolipins
+S0211-69952009000600023-1,15,4,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",lupus anticoagulant
+S0211-69952009000600023-1,15,5,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",ANCAp
+S0211-69952009000600023-1,15,6,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",c
+S0211-69952009000600023-1,15,7,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",serology
+S0211-69952009000600023-1,15,8,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",toxoplasmosis
+S0211-69952009000600023-1,15,9,"Normal collagenogram and coagulogram, and anticardiolipins, lupus anticoagulant, ANCAp and c and serology for toxoplasmosis and syphilis were negative.",syphilis
+S0211-69952009000600023-1,16,1,A consultation with neurology was made: she presented with right nasal hemianopsia and vision with a lump in the left eye.,A consultation
+S0211-69952009000600023-1,16,2,A consultation with neurology was made: she presented with right nasal hemianopsia and vision with a lump in the left eye.,neurology
+S0211-69952009000600023-1,16,3,A consultation with neurology was made: she presented with right nasal hemianopsia and vision with a lump in the left eye.,she
+S0211-69952009000600023-1,16,4,A consultation with neurology was made: she presented with right nasal hemianopsia and vision with a lump in the left eye.,right nasal hemianopsia
+S0211-69952009000600023-1,16,5,A consultation with neurology was made: she presented with right nasal hemianopsia and vision with a lump in the left eye.,vision
+S0211-69952009000600023-1,16,6,A consultation with neurology was made: she presented with right nasal hemianopsia and vision with a lump in the left eye.,a lump
+S0211-69952009000600023-1,16,7,A consultation with neurology was made: she presented with right nasal hemianopsia and vision with a lump in the left eye.,the left eye
+S0211-69952009000600023-1,17,1,"Discor pupils in OD 3 mm, OI 4 mm.",Discor pupils
+S0211-69952009000600023-1,17,2,"Discor pupils in OD 3 mm, OI 4 mm.",OD 3 mm
+S0211-69952009000600023-1,17,3,"Discor pupils in OD 3 mm, OI 4 mm.",OI
+S0211-69952009000600023-1,17,4,"Discor pupils in OD 3 mm, OI 4 mm.",4 mm
+S0211-69952009000600023-1,18,1,Consultation with ophthalmology: VA with finger counting vision at 50 cm in LE and moderate vision loss in RE.,Consultation
+S0211-69952009000600023-1,18,2,Consultation with ophthalmology: VA with finger counting vision at 50 cm in LE and moderate vision loss in RE.,ophthalmology
+S0211-69952009000600023-1,18,3,Consultation with ophthalmology: VA with finger counting vision at 50 cm in LE and moderate vision loss in RE.,VA
+S0211-69952009000600023-1,18,4,Consultation with ophthalmology: VA with finger counting vision at 50 cm in LE and moderate vision loss in RE.,finger counting vision
+S0211-69952009000600023-1,18,5,Consultation with ophthalmology: VA with finger counting vision at 50 cm in LE and moderate vision loss in RE.,50 cm
+S0211-69952009000600023-1,18,6,Consultation with ophthalmology: VA with finger counting vision at 50 cm in LE and moderate vision loss in RE.,LE and moderate vision loss
+S0211-69952009000600023-1,18,7,Consultation with ophthalmology: VA with finger counting vision at 50 cm in LE and moderate vision loss in RE.,RE
+S0211-69952009000600023-1,19,1,"Mydriasis are active in LE, reactive in RE.",Mydriasis
+S0211-69952009000600023-1,19,2,"Mydriasis are active in LE, reactive in RE.",LE
+S0211-69952009000600023-1,19,3,"Mydriasis are active in LE, reactive in RE.",RE
+S0211-69952009000600023-1,20,1,"Fundus of the eye: applied retina, normal macula and congestive papilla with incipient edema (LE and R).",Fundus
+S0211-69952009000600023-1,20,2,"Fundus of the eye: applied retina, normal macula and congestive papilla with incipient edema (LE and R).",the eye
+S0211-69952009000600023-1,20,3,"Fundus of the eye: applied retina, normal macula and congestive papilla with incipient edema (LE and R).",applied retina
+S0211-69952009000600023-1,20,4,"Fundus of the eye: applied retina, normal macula and congestive papilla with incipient edema (LE and R).",normal macula
+S0211-69952009000600023-1,20,5,"Fundus of the eye: applied retina, normal macula and congestive papilla with incipient edema (LE and R).",congestive papilla
+S0211-69952009000600023-1,20,6,"Fundus of the eye: applied retina, normal macula and congestive papilla with incipient edema (LE and R).",incipient edema
+S0211-69952009000600023-1,20,7,"Fundus of the eye: applied retina, normal macula and congestive papilla with incipient edema (LE and R).",LE
+S0211-69952009000600023-1,20,8,"Fundus of the eye: applied retina, normal macula and congestive papilla with incipient edema (LE and R).",R
+S0211-69952009000600023-1,21,1,PO 10/10 mmHg.,PO 10/10 mmHg
+S0211-69952009000600023-1,22,1,MRI of brain and medulla normal.,MRI
+S0211-69952009000600023-1,22,2,MRI of brain and medulla normal.,brain
+S0211-69952009000600023-1,22,3,MRI of brain and medulla normal.,medulla
+S0211-69952009000600023-1,23,1,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",Visual
+S0211-69952009000600023-1,23,2,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",potentials
+S0211-69952009000600023-1,23,3,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",RE
+S0211-69952009000600023-1,23,4,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",LE
+S0211-69952009000600023-1,23,5,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",medium amplitude
+S0211-69952009000600023-1,23,6,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",prolonged central latencies
+S0211-69952009000600023-1,23,7,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",compromises
+S0211-69952009000600023-1,23,8,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",the optic pathway
+S0211-69952009000600023-1,23,9,"Visual evoked potentials in RE and LE of medium amplitude and prolonged central latencies compatible with compromises of the optic pathway of moderate degree, compatible with optic neuropathy.",moderate degree
+S0211-69952009000600023-1,24,1,"Visual acuity: 0.5 in LE, 0.8 in OD.",Visual acuity
+S0211-69952009000600023-1,24,2,"Visual acuity: 0.5 in LE, 0.8 in OD.",LE
+S0211-69952009000600023-1,24,3,"Visual acuity: 0.5 in LE, 0.8 in OD.",OD
+S0211-69952009000600023-1,25,1,Campimetry: outside normal limits for the RE with altered relative sensitivity and restriction of the blind spot (increased).,Campimetry
+S0211-69952009000600023-1,25,2,Campimetry: outside normal limits for the RE with altered relative sensitivity and restriction of the blind spot (increased).,normal limits
+S0211-69952009000600023-1,25,3,Campimetry: outside normal limits for the RE with altered relative sensitivity and restriction of the blind spot (increased).,the RE
+S0211-69952009000600023-1,25,4,Campimetry: outside normal limits for the RE with altered relative sensitivity and restriction of the blind spot (increased).,altered relative sensitivity
+S0211-69952009000600023-1,25,5,Campimetry: outside normal limits for the RE with altered relative sensitivity and restriction of the blind spot (increased).,restriction
+S0211-69952009000600023-1,25,6,Campimetry: outside normal limits for the RE with altered relative sensitivity and restriction of the blind spot (increased).,the blind spot
+S0211-69952009000600023-1,26,1,In OI there is a total reduction in sensitivity.,OI
+S0211-69952009000600023-1,26,2,In OI there is a total reduction in sensitivity.,a total reduction
+S0211-69952009000600023-1,26,3,In OI there is a total reduction in sensitivity.,sensitivity
+S0211-69952009000600023-1,27,1,Corticosteroids (prednisone) are indicated as treatment at a dose of 1 mg/kg/day for 30 days.,Corticosteroids
+S0211-69952009000600023-1,27,2,Corticosteroids (prednisone) are indicated as treatment at a dose of 1 mg/kg/day for 30 days.,prednisone
+S0211-69952009000600023-1,27,3,Corticosteroids (prednisone) are indicated as treatment at a dose of 1 mg/kg/day for 30 days.,treatment
+S0211-69952009000600023-1,27,4,Corticosteroids (prednisone) are indicated as treatment at a dose of 1 mg/kg/day for 30 days.,a dose
+S0211-69952009000600023-1,27,5,Corticosteroids (prednisone) are indicated as treatment at a dose of 1 mg/kg/day for 30 days.,1 mg
+S0211-69952009000600023-1,27,6,Corticosteroids (prednisone) are indicated as treatment at a dose of 1 mg/kg/day for 30 days.,kg
+S0211-69952009000600023-1,27,7,Corticosteroids (prednisone) are indicated as treatment at a dose of 1 mg/kg/day for 30 days.,30 days
+S0211-69952009000600023-1,28,1,It evolves with increased papillary edema in both eyes and clinically with vision lump in the RE and amaurosis of the LE.,It
+S0211-69952009000600023-1,28,2,It evolves with increased papillary edema in both eyes and clinically with vision lump in the RE and amaurosis of the LE.,increased papillary edema
+S0211-69952009000600023-1,28,3,It evolves with increased papillary edema in both eyes and clinically with vision lump in the RE and amaurosis of the LE.,both eyes
+S0211-69952009000600023-1,28,4,It evolves with increased papillary edema in both eyes and clinically with vision lump in the RE and amaurosis of the LE.,vision lump
+S0211-69952009000600023-1,28,5,It evolves with increased papillary edema in both eyes and clinically with vision lump in the RE and amaurosis of the LE.,the RE
+S0211-69952009000600023-1,28,6,It evolves with increased papillary edema in both eyes and clinically with vision lump in the RE and amaurosis of the LE.,amaurosis
+S0211-69952009000600023-1,28,7,It evolves with increased papillary edema in both eyes and clinically with vision lump in the RE and amaurosis of the LE.,the LE
+S0211-69952009000600023-1,29,1,"In the fundus examination at 2 months, almost total atrophy of the right optic nerve was detected with dilation and venous tortuosity and total atrophy of the left optic nerve.",the fundus examination
+S0211-69952009000600023-1,29,2,"In the fundus examination at 2 months, almost total atrophy of the right optic nerve was detected with dilation and venous tortuosity and total atrophy of the left optic nerve.",2 months
+S0211-69952009000600023-1,29,3,"In the fundus examination at 2 months, almost total atrophy of the right optic nerve was detected with dilation and venous tortuosity and total atrophy of the left optic nerve.",almost total atrophy
+S0211-69952009000600023-1,29,4,"In the fundus examination at 2 months, almost total atrophy of the right optic nerve was detected with dilation and venous tortuosity and total atrophy of the left optic nerve.",the right optic nerve
+S0211-69952009000600023-1,29,5,"In the fundus examination at 2 months, almost total atrophy of the right optic nerve was detected with dilation and venous tortuosity and total atrophy of the left optic nerve.",dilation
+S0211-69952009000600023-1,29,6,"In the fundus examination at 2 months, almost total atrophy of the right optic nerve was detected with dilation and venous tortuosity and total atrophy of the left optic nerve.",venous tortuosity
+S0211-69952009000600023-1,29,7,"In the fundus examination at 2 months, almost total atrophy of the right optic nerve was detected with dilation and venous tortuosity and total atrophy of the left optic nerve.",total atrophy
+S0211-69952009000600023-1,29,8,"In the fundus examination at 2 months, almost total atrophy of the right optic nerve was detected with dilation and venous tortuosity and total atrophy of the left optic nerve.",the left optic nerve

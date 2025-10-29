@@ -1,0 +1,84 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0378-48352006000500005-1,1,1,63-year-old male with no relevant history.,63-year-old male
+S0378-48352006000500005-1,1,2,63-year-old male with no relevant history.,no relevant history
+S0378-48352006000500005-1,2,1,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",He
+S0378-48352006000500005-1,2,2,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",a nodular lesion
+S0378-48352006000500005-1,2,3,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",the right dorso-lumbar quadrant
+S0378-48352006000500005-1,2,4,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",that
+S0378-48352006000500005-1,2,5,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",a month
+S0378-48352006000500005-1,2,6,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",asthenia
+S0378-48352006000500005-1,2,7,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",anorexia
+S0378-48352006000500005-1,2,8,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",three months
+S0378-48352006000500005-1,2,9,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",a weight loss
+S0378-48352006000500005-1,2,10,"He consulted due to a nodular lesion in the right dorso-lumbar quadrant that had been developing for a month and was rapidly growing, associated with asthenia and anorexia for three months, with a weight loss of 10 kg.",10 kg
+S0378-48352006000500005-1,3,1,He did not report any other type of symptoms.,He
+S0378-48352006000500005-1,3,2,He did not report any other type of symptoms.,any other type
+S0378-48352006000500005-1,3,3,He did not report any other type of symptoms.,symptoms
+S0378-48352006000500005-1,4,1,The physical examination revealed only slight hepatomegaly.,The physical examination
+S0378-48352006000500005-1,4,2,The physical examination revealed only slight hepatomegaly.,only slight hepatomegaly
+S0378-48352006000500005-1,5,1,"At the right dorso-lumbar level, the 5x3 cm nodular lesion was observed, with a purplish color, not adhered to deep planes but which caused pain on friction and movement.",the right dorso-lumbar level
+S0378-48352006000500005-1,5,2,"At the right dorso-lumbar level, the 5x3 cm nodular lesion was observed, with a purplish color, not adhered to deep planes but which caused pain on friction and movement.",the 5x3 cm nodular lesion
+S0378-48352006000500005-1,5,3,"At the right dorso-lumbar level, the 5x3 cm nodular lesion was observed, with a purplish color, not adhered to deep planes but which caused pain on friction and movement.",a purplish color
+S0378-48352006000500005-1,5,4,"At the right dorso-lumbar level, the 5x3 cm nodular lesion was observed, with a purplish color, not adhered to deep planes but which caused pain on friction and movement.",deep planes
+S0378-48352006000500005-1,5,5,"At the right dorso-lumbar level, the 5x3 cm nodular lesion was observed, with a purplish color, not adhered to deep planes but which caused pain on friction and movement.",which
+S0378-48352006000500005-1,5,6,"At the right dorso-lumbar level, the 5x3 cm nodular lesion was observed, with a purplish color, not adhered to deep planes but which caused pain on friction and movement.",pain
+S0378-48352006000500005-1,5,7,"At the right dorso-lumbar level, the 5x3 cm nodular lesion was observed, with a purplish color, not adhered to deep planes but which caused pain on friction and movement.",friction
+S0378-48352006000500005-1,5,8,"At the right dorso-lumbar level, the 5x3 cm nodular lesion was observed, with a purplish color, not adhered to deep planes but which caused pain on friction and movement.",movement
+S0378-48352006000500005-1,6,1,"Analytically, only a urea of ​​74 mg/dl was notable, with creatinine of 1.93 mg/dl and GGT 83 UI/L with normal GOT/GPT.",only a urea
+S0378-48352006000500005-1,6,2,"Analytically, only a urea of ​​74 mg/dl was notable, with creatinine of 1.93 mg/dl and GGT 83 UI/L with normal GOT/GPT.",​​74 mg
+S0378-48352006000500005-1,6,3,"Analytically, only a urea of ​​74 mg/dl was notable, with creatinine of 1.93 mg/dl and GGT 83 UI/L with normal GOT/GPT.",dl
+S0378-48352006000500005-1,6,4,"Analytically, only a urea of ​​74 mg/dl was notable, with creatinine of 1.93 mg/dl and GGT 83 UI/L with normal GOT/GPT.",creatinine
+S0378-48352006000500005-1,6,5,"Analytically, only a urea of ​​74 mg/dl was notable, with creatinine of 1.93 mg/dl and GGT 83 UI/L with normal GOT/GPT.",1.93 mg/dl and GGT 83 UI/L
+S0378-48352006000500005-1,6,6,"Analytically, only a urea of ​​74 mg/dl was notable, with creatinine of 1.93 mg/dl and GGT 83 UI/L with normal GOT/GPT.",normal GOT/GPT
+S0378-48352006000500005-1,7,1,"A chest x-ray was performed, which revealed elevation of the left diaphragm and aortic elongation, with no other findings.",A chest x
+S0378-48352006000500005-1,7,2,"A chest x-ray was performed, which revealed elevation of the left diaphragm and aortic elongation, with no other findings.",-
+S0378-48352006000500005-1,7,3,"A chest x-ray was performed, which revealed elevation of the left diaphragm and aortic elongation, with no other findings.",ray
+S0378-48352006000500005-1,7,4,"A chest x-ray was performed, which revealed elevation of the left diaphragm and aortic elongation, with no other findings.",which
+S0378-48352006000500005-1,7,5,"A chest x-ray was performed, which revealed elevation of the left diaphragm and aortic elongation, with no other findings.",elevation
+S0378-48352006000500005-1,7,6,"A chest x-ray was performed, which revealed elevation of the left diaphragm and aortic elongation, with no other findings.",the left diaphragm
+S0378-48352006000500005-1,7,7,"A chest x-ray was performed, which revealed elevation of the left diaphragm and aortic elongation, with no other findings.",aortic elongation
+S0378-48352006000500005-1,7,8,"A chest x-ray was performed, which revealed elevation of the left diaphragm and aortic elongation, with no other findings.",no other findings
+S0378-48352006000500005-1,8,1,A biopsy of the skin lesion was performed with a pathological diagnosis of adenocarcinoma metastasis.,A biopsy
+S0378-48352006000500005-1,8,2,A biopsy of the skin lesion was performed with a pathological diagnosis of adenocarcinoma metastasis.,the skin lesion
+S0378-48352006000500005-1,8,3,A biopsy of the skin lesion was performed with a pathological diagnosis of adenocarcinoma metastasis.,a pathological diagnosis
+S0378-48352006000500005-1,8,4,A biopsy of the skin lesion was performed with a pathological diagnosis of adenocarcinoma metastasis.,adenocarcinoma metastasis
+S0378-48352006000500005-1,9,1,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",these findings
+S0378-48352006000500005-1,9,2,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",a thoraco-abdomino-pelvic CT scan
+S0378-48352006000500005-1,9,3,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",which
+S0378-48352006000500005-1,9,4,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",thickening
+S0378-48352006000500005-1,9,5,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",the esophago-gastric junction
+S0378-48352006000500005-1,9,6,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",left gastric lymphadenopathy
+S0378-48352006000500005-1,9,7,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",1cm
+S0378-48352006000500005-1,9,8,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",diameter
+S0378-48352006000500005-1,9,9,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",addition
+S0378-48352006000500005-1,9,10,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",liver lesions suggestive
+S0378-48352006000500005-1,9,11,"Given these findings, a thoraco-abdomino-pelvic CT scan was performed, which showed thickening of the esophago-gastric junction, with left gastric lymphadenopathy >1cm in diameter in addition to liver lesions suggestive of metastasis.",metastasis
+S0378-48352006000500005-1,10,1,Gastroscopy showed a lesion compatible with cardia neoplasia.,Gastroscopy
+S0378-48352006000500005-1,10,2,Gastroscopy showed a lesion compatible with cardia neoplasia.,a lesion
+S0378-48352006000500005-1,10,3,Gastroscopy showed a lesion compatible with cardia neoplasia.,cardia neoplasia
+S0378-48352006000500005-1,11,1,The biopsy gave the result of adenocarcinoma.,The biopsy
+S0378-48352006000500005-1,11,2,The biopsy gave the result of adenocarcinoma.,the result
+S0378-48352006000500005-1,11,3,The biopsy gave the result of adenocarcinoma.,adenocarcinoma
+S0378-48352006000500005-1,12,1,"Given the diagnosis of metastatic gastric adenocarcinoma, the patient began chemotherapy treatment with cisplatin (70 mg/m2 every 21 days) and 5-fluorouracil in a continuous 48-hour weekly infusion (3 gr/m2, days 1,8,15).",the diagnosis
+S0378-48352006000500005-1,12,2,"Given the diagnosis of metastatic gastric adenocarcinoma, the patient began chemotherapy treatment with cisplatin (70 mg/m2 every 21 days) and 5-fluorouracil in a continuous 48-hour weekly infusion (3 gr/m2, days 1,8,15).",metastatic gastric adenocarcinoma
+S0378-48352006000500005-1,12,3,"Given the diagnosis of metastatic gastric adenocarcinoma, the patient began chemotherapy treatment with cisplatin (70 mg/m2 every 21 days) and 5-fluorouracil in a continuous 48-hour weekly infusion (3 gr/m2, days 1,8,15).",the patient
+S0378-48352006000500005-1,12,4,"Given the diagnosis of metastatic gastric adenocarcinoma, the patient began chemotherapy treatment with cisplatin (70 mg/m2 every 21 days) and 5-fluorouracil in a continuous 48-hour weekly infusion (3 gr/m2, days 1,8,15).",chemotherapy treatment
+S0378-48352006000500005-1,12,5,"Given the diagnosis of metastatic gastric adenocarcinoma, the patient began chemotherapy treatment with cisplatin (70 mg/m2 every 21 days) and 5-fluorouracil in a continuous 48-hour weekly infusion (3 gr/m2, days 1,8,15).",cisplatin
+S0378-48352006000500005-1,12,6,"Given the diagnosis of metastatic gastric adenocarcinoma, the patient began chemotherapy treatment with cisplatin (70 mg/m2 every 21 days) and 5-fluorouracil in a continuous 48-hour weekly infusion (3 gr/m2, days 1,8,15).",5-fluorouracil
+S0378-48352006000500005-1,12,7,"Given the diagnosis of metastatic gastric adenocarcinoma, the patient began chemotherapy treatment with cisplatin (70 mg/m2 every 21 days) and 5-fluorouracil in a continuous 48-hour weekly infusion (3 gr/m2, days 1,8,15).",a continuous 48-hour weekly infusion
+S0378-48352006000500005-1,12,8,"Given the diagnosis of metastatic gastric adenocarcinoma, the patient began chemotherapy treatment with cisplatin (70 mg/m2 every 21 days) and 5-fluorouracil in a continuous 48-hour weekly infusion (3 gr/m2, days 1,8,15).",3 gr/m2
+S0378-48352006000500005-1,13,1,This scheme is one of the first-line ones used in this tumor and is included in the guidelines of the Spanish group for the treatment of digestive tract tumors (TTD).,This scheme
+S0378-48352006000500005-1,13,2,This scheme is one of the first-line ones used in this tumor and is included in the guidelines of the Spanish group for the treatment of digestive tract tumors (TTD).,the first-line ones
+S0378-48352006000500005-1,13,3,This scheme is one of the first-line ones used in this tumor and is included in the guidelines of the Spanish group for the treatment of digestive tract tumors (TTD).,this tumor
+S0378-48352006000500005-1,13,4,This scheme is one of the first-line ones used in this tumor and is included in the guidelines of the Spanish group for the treatment of digestive tract tumors (TTD).,the guidelines
+S0378-48352006000500005-1,13,5,This scheme is one of the first-line ones used in this tumor and is included in the guidelines of the Spanish group for the treatment of digestive tract tumors (TTD).,the Spanish group
+S0378-48352006000500005-1,13,6,This scheme is one of the first-line ones used in this tumor and is included in the guidelines of the Spanish group for the treatment of digestive tract tumors (TTD).,the treatment
+S0378-48352006000500005-1,13,7,This scheme is one of the first-line ones used in this tumor and is included in the guidelines of the Spanish group for the treatment of digestive tract tumors (TTD).,digestive tract tumors
+S0378-48352006000500005-1,13,8,This scheme is one of the first-line ones used in this tumor and is included in the guidelines of the Spanish group for the treatment of digestive tract tumors (TTD).,TTD
+S0378-48352006000500005-1,14,1,After the second cycle he presented significant hematological toxicity with febrile neutropenia.,the second cycle
+S0378-48352006000500005-1,14,2,After the second cycle he presented significant hematological toxicity with febrile neutropenia.,he
+S0378-48352006000500005-1,14,3,After the second cycle he presented significant hematological toxicity with febrile neutropenia.,significant hematological toxicity
+S0378-48352006000500005-1,14,4,After the second cycle he presented significant hematological toxicity with febrile neutropenia.,febrile neutropenia
+S0378-48352006000500005-1,15,1,He developed septic shock and died in that context.,He
+S0378-48352006000500005-1,15,2,He developed septic shock and died in that context.,septic shock
+S0378-48352006000500005-1,15,3,He developed septic shock and died in that context.,that context

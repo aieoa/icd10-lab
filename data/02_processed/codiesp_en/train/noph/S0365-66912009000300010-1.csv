@@ -1,0 +1,109 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912009000300010-1,1,1,We present the case of a 24-year-old man who came to the emergency room due to decreased bilateral VA and headache for two days.,We
+S0365-66912009000300010-1,1,2,We present the case of a 24-year-old man who came to the emergency room due to decreased bilateral VA and headache for two days.,the case
+S0365-66912009000300010-1,1,3,We present the case of a 24-year-old man who came to the emergency room due to decreased bilateral VA and headache for two days.,a 24-year-old man
+S0365-66912009000300010-1,1,4,We present the case of a 24-year-old man who came to the emergency room due to decreased bilateral VA and headache for two days.,who
+S0365-66912009000300010-1,1,5,We present the case of a 24-year-old man who came to the emergency room due to decreased bilateral VA and headache for two days.,the emergency room
+S0365-66912009000300010-1,1,6,We present the case of a 24-year-old man who came to the emergency room due to decreased bilateral VA and headache for two days.,decreased bilateral VA
+S0365-66912009000300010-1,1,7,We present the case of a 24-year-old man who came to the emergency room due to decreased bilateral VA and headache for two days.,headache
+S0365-66912009000300010-1,1,8,We present the case of a 24-year-old man who came to the emergency room due to decreased bilateral VA and headache for two days.,two days
+S0365-66912009000300010-1,2,1,"As a notable personal history, the patient reported a flu-like illness the previous week treated with ibuprofen 600 mg.",a notable personal history
+S0365-66912009000300010-1,2,2,"As a notable personal history, the patient reported a flu-like illness the previous week treated with ibuprofen 600 mg.",the patient
+S0365-66912009000300010-1,2,3,"As a notable personal history, the patient reported a flu-like illness the previous week treated with ibuprofen 600 mg.",a flu-like illness
+S0365-66912009000300010-1,2,4,"As a notable personal history, the patient reported a flu-like illness the previous week treated with ibuprofen 600 mg.",ibuprofen
+S0365-66912009000300010-1,3,1,"On examination, the VA of the right eye is lumpy and the VA of the left eye is 0.05.",examination
+S0365-66912009000300010-1,3,2,"On examination, the VA of the right eye is lumpy and the VA of the left eye is 0.05.",the VA
+S0365-66912009000300010-1,3,3,"On examination, the VA of the right eye is lumpy and the VA of the left eye is 0.05.",the right eye
+S0365-66912009000300010-1,3,4,"On examination, the VA of the right eye is lumpy and the VA of the left eye is 0.05.",the VA
+S0365-66912009000300010-1,3,5,"On examination, the VA of the right eye is lumpy and the VA of the left eye is 0.05.",the left eye
+S0365-66912009000300010-1,4,1,The pupils are isochoric and normoreactive and biomicroscopy of the anterior pole is normal.,The pupils
+S0365-66912009000300010-1,4,2,The pupils are isochoric and normoreactive and biomicroscopy of the anterior pole is normal.,the anterior pole
+S0365-66912009000300010-1,5,1,In ophthalmoscopy we observed confluent white-grayish lesions in the posterior pole in both eyes that affected the fovea.,ophthalmoscopy
+S0365-66912009000300010-1,5,2,In ophthalmoscopy we observed confluent white-grayish lesions in the posterior pole in both eyes that affected the fovea.,we
+S0365-66912009000300010-1,5,3,In ophthalmoscopy we observed confluent white-grayish lesions in the posterior pole in both eyes that affected the fovea.,confluent white-grayish lesions
+S0365-66912009000300010-1,5,4,In ophthalmoscopy we observed confluent white-grayish lesions in the posterior pole in both eyes that affected the fovea.,the posterior pole
+S0365-66912009000300010-1,5,5,In ophthalmoscopy we observed confluent white-grayish lesions in the posterior pole in both eyes that affected the fovea.,both eyes
+S0365-66912009000300010-1,5,6,In ophthalmoscopy we observed confluent white-grayish lesions in the posterior pole in both eyes that affected the fovea.,that
+S0365-66912009000300010-1,5,7,In ophthalmoscopy we observed confluent white-grayish lesions in the posterior pole in both eyes that affected the fovea.,the fovea
+S0365-66912009000300010-1,6,1,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",the suspicion
+S0365-66912009000300010-1,6,2,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",EPPMA
+S0365-66912009000300010-1,6,3,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",fluorescein angiography
+S0365-66912009000300010-1,6,4,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",FGA
+S0365-66912009000300010-1,6,5,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",areas
+S0365-66912009000300010-1,6,6,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",marked hypofluorescence
+S0365-66912009000300010-1,6,7,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",early times
+S0365-66912009000300010-1,6,8,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",that
+S0365-66912009000300010-1,6,9,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",areas
+S0365-66912009000300010-1,6,10,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",hyperfluorescence
+S0365-66912009000300010-1,6,11,"Given the suspicion of EPPMA, fluorescein angiography (FGA) was performed, where areas of marked hypofluorescence were observed in early times that became areas of hyperfluorescence in late times.",late times
+S0365-66912009000300010-1,7,1,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,Indocyanine green angiography
+S0365-66912009000300010-1,7,2,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,ICG
+S0365-66912009000300010-1,7,3,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,areas
+S0365-66912009000300010-1,7,4,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,hypofluorescence
+S0365-66912009000300010-1,7,5,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,the choroid
+S0365-66912009000300010-1,7,6,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,that
+S0365-66912009000300010-1,7,7,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,placoid lesions
+S0365-66912009000300010-1,7,8,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,that
+S0365-66912009000300010-1,7,9,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,the choroidal hypoperfusion
+S0365-66912009000300010-1,7,10,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,that
+S0365-66912009000300010-1,7,11,Indocyanine green angiography (ICG) shows areas of hypofluorescence in the choroid that correspond to placoid lesions that are related to the choroidal hypoperfusion that accompanies this pathology.,this pathology
+S0365-66912009000300010-1,8,1,Optical coherence tomography shows retinal thickening with hyperreflectivity at the level of the outer retinal layers.,Optical coherence tomography
+S0365-66912009000300010-1,8,2,Optical coherence tomography shows retinal thickening with hyperreflectivity at the level of the outer retinal layers.,retinal thickening
+S0365-66912009000300010-1,8,3,Optical coherence tomography shows retinal thickening with hyperreflectivity at the level of the outer retinal layers.,hyperreflectivity
+S0365-66912009000300010-1,8,4,Optical coherence tomography shows retinal thickening with hyperreflectivity at the level of the outer retinal layers.,the level
+S0365-66912009000300010-1,8,5,Optical coherence tomography shows retinal thickening with hyperreflectivity at the level of the outer retinal layers.,the outer retinal layers
+S0365-66912009000300010-1,9,1,Oral corticosteroid treatment (prednisone 60 mg) was started and continued for one week.,Oral corticosteroid treatment
+S0365-66912009000300010-1,9,2,Oral corticosteroid treatment (prednisone 60 mg) was started and continued for one week.,prednisone
+S0365-66912009000300010-1,9,3,Oral corticosteroid treatment (prednisone 60 mg) was started and continued for one week.,60 mg
+S0365-66912009000300010-1,9,4,Oral corticosteroid treatment (prednisone 60 mg) was started and continued for one week.,one week
+S0365-66912009000300010-1,10,1,"On the other hand, the patient reported an intense headache that improved with corticosteroid treatment and that reappeared when the medication was discontinued.",the other hand
+S0365-66912009000300010-1,10,2,"On the other hand, the patient reported an intense headache that improved with corticosteroid treatment and that reappeared when the medication was discontinued.",the patient
+S0365-66912009000300010-1,10,3,"On the other hand, the patient reported an intense headache that improved with corticosteroid treatment and that reappeared when the medication was discontinued.",an intense headache
+S0365-66912009000300010-1,10,4,"On the other hand, the patient reported an intense headache that improved with corticosteroid treatment and that reappeared when the medication was discontinued.",that
+S0365-66912009000300010-1,10,5,"On the other hand, the patient reported an intense headache that improved with corticosteroid treatment and that reappeared when the medication was discontinued.",corticosteroid treatment
+S0365-66912009000300010-1,10,6,"On the other hand, the patient reported an intense headache that improved with corticosteroid treatment and that reappeared when the medication was discontinued.",that
+S0365-66912009000300010-1,10,7,"On the other hand, the patient reported an intense headache that improved with corticosteroid treatment and that reappeared when the medication was discontinued.",the medication
+S0365-66912009000300010-1,11,1,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",the suspicion
+S0365-66912009000300010-1,11,2,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",cerebral vasculitis
+S0365-66912009000300010-1,11,3,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",which
+S0365-66912009000300010-1,11,4,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",this condition
+S0365-66912009000300010-1,11,5,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",a magnetic resonance angiography
+S0365-66912009000300010-1,11,6,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",MRI
+S0365-66912009000300010-1,11,7,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",which
+S0365-66912009000300010-1,11,8,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",no signs
+S0365-66912009000300010-1,11,9,"Therefore, given the suspicion of cerebral vasculitis, which is sometimes associated with this condition, a magnetic resonance angiography (MRI) was performed. ), in which no signs of vasculitis were observed.",vasculitis
+S0365-66912009000300010-1,12,1,"A histocompatibility study for HLA B-7 and HLA DR2 was requested, which turned out to be positive.",A histocompatibility study
+S0365-66912009000300010-1,12,2,"A histocompatibility study for HLA B-7 and HLA DR2 was requested, which turned out to be positive.",HLA B-7
+S0365-66912009000300010-1,12,3,"A histocompatibility study for HLA B-7 and HLA DR2 was requested, which turned out to be positive.",HLA DR2
+S0365-66912009000300010-1,12,4,"A histocompatibility study for HLA B-7 and HLA DR2 was requested, which turned out to be positive.",which
+S0365-66912009000300010-1,13,1,"Regarding the evolution, visual acuity gradually improved but after a month of follow-up the patient reported diplopia in distance vision.",the evolution
+S0365-66912009000300010-1,13,2,"Regarding the evolution, visual acuity gradually improved but after a month of follow-up the patient reported diplopia in distance vision.",visual acuity
+S0365-66912009000300010-1,13,3,"Regarding the evolution, visual acuity gradually improved but after a month of follow-up the patient reported diplopia in distance vision.",a month
+S0365-66912009000300010-1,13,4,"Regarding the evolution, visual acuity gradually improved but after a month of follow-up the patient reported diplopia in distance vision.",follow-up
+S0365-66912009000300010-1,13,5,"Regarding the evolution, visual acuity gradually improved but after a month of follow-up the patient reported diplopia in distance vision.",the patient
+S0365-66912009000300010-1,13,6,"Regarding the evolution, visual acuity gradually improved but after a month of follow-up the patient reported diplopia in distance vision.",diplopia
+S0365-66912009000300010-1,13,7,"Regarding the evolution, visual acuity gradually improved but after a month of follow-up the patient reported diplopia in distance vision.",distance vision
+S0365-66912009000300010-1,14,1,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",The examination
+S0365-66912009000300010-1,14,2,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",paralysis
+S0365-66912009000300010-1,14,3,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",the right 6th cranial nerve
+S0365-66912009000300010-1,14,4,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",slight limitation
+S0365-66912009000300010-1,14,5,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",abduction
+S0365-66912009000300010-1,14,6,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",the right eye
+S0365-66912009000300010-1,14,7,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",a fact
+S0365-66912009000300010-1,14,8,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",that
+S0365-66912009000300010-1,14,9,"The examination revealed paralysis of the right 6th cranial nerve, with slight limitation of abduction of the right eye, a fact that was confirmed with the Hess-Lancaster Test.",the Hess-Lancaster Test
+S0365-66912009000300010-1,15,1,An injection of botulinum toxin was performed in the middle rectum of the right eye and after a week the diplopia disappeared.,An injection
+S0365-66912009000300010-1,15,2,An injection of botulinum toxin was performed in the middle rectum of the right eye and after a week the diplopia disappeared.,botulinum toxin
+S0365-66912009000300010-1,15,3,An injection of botulinum toxin was performed in the middle rectum of the right eye and after a week the diplopia disappeared.,the middle rectum
+S0365-66912009000300010-1,15,4,An injection of botulinum toxin was performed in the middle rectum of the right eye and after a week the diplopia disappeared.,the right eye
+S0365-66912009000300010-1,15,5,An injection of botulinum toxin was performed in the middle rectum of the right eye and after a week the diplopia disappeared.,a week
+S0365-66912009000300010-1,15,6,An injection of botulinum toxin was performed in the middle rectum of the right eye and after a week the diplopia disappeared.,the diplopia
+S0365-66912009000300010-1,16,1,"Currently, the diplopia has disappeared and the VA is 0.7 in the right eye and 0.8 in the left eye.",the diplopia
+S0365-66912009000300010-1,16,2,"Currently, the diplopia has disappeared and the VA is 0.7 in the right eye and 0.8 in the left eye.",the VA
+S0365-66912009000300010-1,16,3,"Currently, the diplopia has disappeared and the VA is 0.7 in the right eye and 0.8 in the left eye.",the right eye
+S0365-66912009000300010-1,16,4,"Currently, the diplopia has disappeared and the VA is 0.7 in the right eye and 0.8 in the left eye.",the left eye
+S0365-66912009000300010-1,17,1,"OCT demonstrates recovery of foveal architecture, but with an increase in retinal reflectivity in both eyes.",recovery
+S0365-66912009000300010-1,17,2,"OCT demonstrates recovery of foveal architecture, but with an increase in retinal reflectivity in both eyes.",foveal architecture
+S0365-66912009000300010-1,17,3,"OCT demonstrates recovery of foveal architecture, but with an increase in retinal reflectivity in both eyes.",an increase
+S0365-66912009000300010-1,17,4,"OCT demonstrates recovery of foveal architecture, but with an increase in retinal reflectivity in both eyes.",retinal reflectivity
+S0365-66912009000300010-1,17,5,"OCT demonstrates recovery of foveal architecture, but with an increase in retinal reflectivity in both eyes.",both eyes

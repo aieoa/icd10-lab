@@ -1,0 +1,109 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062009000400016-1,1,1,65-year-old patient diagnosed with Gleason 6/10 prostate adenocarcinoma in both prostate lobes (TNM Stage 2003 T1c).,65-year-old patient
+S0210-48062009000400016-1,1,2,65-year-old patient diagnosed with Gleason 6/10 prostate adenocarcinoma in both prostate lobes (TNM Stage 2003 T1c).,Gleason 6/10 prostate adenocarcinoma
+S0210-48062009000400016-1,1,3,65-year-old patient diagnosed with Gleason 6/10 prostate adenocarcinoma in both prostate lobes (TNM Stage 2003 T1c).,both prostate lobes
+S0210-48062009000400016-1,1,4,65-year-old patient diagnosed with Gleason 6/10 prostate adenocarcinoma in both prostate lobes (TNM Stage 2003 T1c).,TNM Stage
+S0210-48062009000400016-1,2,1,PSA at diagnosis 9.43 ng/ml.,PSA
+S0210-48062009000400016-1,2,2,PSA at diagnosis 9.43 ng/ml.,diagnosis
+S0210-48062009000400016-1,2,3,PSA at diagnosis 9.43 ng/ml.,ml
+S0210-48062009000400016-1,3,1,"In January 2006, the patient underwent a radical retorpubic prostatectomy (Pathology report: Gleason 6/10 pT2c prostate adenocarcinoma with tumor-free margins).",January
+S0210-48062009000400016-1,3,2,"In January 2006, the patient underwent a radical retorpubic prostatectomy (Pathology report: Gleason 6/10 pT2c prostate adenocarcinoma with tumor-free margins).",the patient
+S0210-48062009000400016-1,3,3,"In January 2006, the patient underwent a radical retorpubic prostatectomy (Pathology report: Gleason 6/10 pT2c prostate adenocarcinoma with tumor-free margins).",a radical retorpubic prostatectomy
+S0210-48062009000400016-1,3,4,"In January 2006, the patient underwent a radical retorpubic prostatectomy (Pathology report: Gleason 6/10 pT2c prostate adenocarcinoma with tumor-free margins).",Pathology report
+S0210-48062009000400016-1,3,5,"In January 2006, the patient underwent a radical retorpubic prostatectomy (Pathology report: Gleason 6/10 pT2c prostate adenocarcinoma with tumor-free margins).",Gleason 6/10 pT2c prostate adenocarcinoma
+S0210-48062009000400016-1,3,6,"In January 2006, the patient underwent a radical retorpubic prostatectomy (Pathology report: Gleason 6/10 pT2c prostate adenocarcinoma with tumor-free margins).",tumor-free margins
+S0210-48062009000400016-1,4,1,During the dissection of the posterior aspect of the prostate opening 2 cm in the anterior aspect of the rectum.,the dissection
+S0210-48062009000400016-1,4,2,During the dissection of the posterior aspect of the prostate opening 2 cm in the anterior aspect of the rectum.,the posterior aspect
+S0210-48062009000400016-1,4,3,During the dissection of the posterior aspect of the prostate opening 2 cm in the anterior aspect of the rectum.,the prostate
+S0210-48062009000400016-1,4,4,During the dissection of the posterior aspect of the prostate opening 2 cm in the anterior aspect of the rectum.,2 cm
+S0210-48062009000400016-1,4,5,During the dissection of the posterior aspect of the prostate opening 2 cm in the anterior aspect of the rectum.,the anterior aspect
+S0210-48062009000400016-1,4,6,During the dissection of the posterior aspect of the prostate opening 2 cm in the anterior aspect of the rectum.,the rectum
+S0210-48062009000400016-1,5,1,Direct closure of the rectal wall with loose sutures.,Direct closure
+S0210-48062009000400016-1,5,2,Direct closure of the rectal wall with loose sutures.,the rectal wall
+S0210-48062009000400016-1,5,3,Direct closure of the rectal wall with loose sutures.,loose sutures
+S0210-48062009000400016-1,6,1,No other intraoperative complications.,No other intraoperative complications
+S0210-48062009000400016-1,7,1,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",the fifth postoperative day
+S0210-48062009000400016-1,7,2,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",the patient
+S0210-48062009000400016-1,7,3,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",fever
+S0210-48062009000400016-1,7,4,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",37.6ºC
+S0210-48062009000400016-1,7,5,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",abdominal pain
+S0210-48062009000400016-1,7,6,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",urinary fistula
+S0210-48062009000400016-1,7,7,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",fecaluria
+S0210-48062009000400016-1,7,8,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",signs
+S0210-48062009000400016-1,7,9,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",peritonitis
+S0210-48062009000400016-1,7,10,"On the fifth postoperative day, the patient presented fever (37.6ºC), abdominal pain, urinary fistula, fecaluria, and signs of peritonitis on physical examination.",physical examination
+S0210-48062009000400016-1,8,1,"An abdominal CT scan showed free retrohepatic fluid, so urgent laparotomy was performed, visualizing fecal peritonitis secondary to perforation in the sigmoid and abundant urine and feces in the pelvis.",An abdominal CT scan
+S0210-48062009000400016-1,8,2,"An abdominal CT scan showed free retrohepatic fluid, so urgent laparotomy was performed, visualizing fecal peritonitis secondary to perforation in the sigmoid and abundant urine and feces in the pelvis.",free retrohepatic fluid
+S0210-48062009000400016-1,8,3,"An abdominal CT scan showed free retrohepatic fluid, so urgent laparotomy was performed, visualizing fecal peritonitis secondary to perforation in the sigmoid and abundant urine and feces in the pelvis.",urgent laparotomy
+S0210-48062009000400016-1,8,4,"An abdominal CT scan showed free retrohepatic fluid, so urgent laparotomy was performed, visualizing fecal peritonitis secondary to perforation in the sigmoid and abundant urine and feces in the pelvis.",fecal peritonitis
+S0210-48062009000400016-1,8,5,"An abdominal CT scan showed free retrohepatic fluid, so urgent laparotomy was performed, visualizing fecal peritonitis secondary to perforation in the sigmoid and abundant urine and feces in the pelvis.",perforation
+S0210-48062009000400016-1,8,6,"An abdominal CT scan showed free retrohepatic fluid, so urgent laparotomy was performed, visualizing fecal peritonitis secondary to perforation in the sigmoid and abundant urine and feces in the pelvis.",the sigmoid
+S0210-48062009000400016-1,8,7,"An abdominal CT scan showed free retrohepatic fluid, so urgent laparotomy was performed, visualizing fecal peritonitis secondary to perforation in the sigmoid and abundant urine and feces in the pelvis.",abundant urine
+S0210-48062009000400016-1,8,8,"An abdominal CT scan showed free retrohepatic fluid, so urgent laparotomy was performed, visualizing fecal peritonitis secondary to perforation in the sigmoid and abundant urine and feces in the pelvis.",feces
+S0210-48062009000400016-1,9,1,"A new vesicourethral suture, resection of the perforated sigmoid segment and discharge colostomy were performed.",A new vesicourethral suture
+S0210-48062009000400016-1,9,2,"A new vesicourethral suture, resection of the perforated sigmoid segment and discharge colostomy were performed.",resection
+S0210-48062009000400016-1,9,3,"A new vesicourethral suture, resection of the perforated sigmoid segment and discharge colostomy were performed.",the perforated sigmoid segment
+S0210-48062009000400016-1,9,4,"A new vesicourethral suture, resection of the perforated sigmoid segment and discharge colostomy were performed.",discharge colostomy
+S0210-48062009000400016-1,10,1,"After urgent surgery, the patient presented septic symptoms, requiring admission to the ICU for respiratory support.",urgent surgery
+S0210-48062009000400016-1,10,2,"After urgent surgery, the patient presented septic symptoms, requiring admission to the ICU for respiratory support.",the patient
+S0210-48062009000400016-1,10,3,"After urgent surgery, the patient presented septic symptoms, requiring admission to the ICU for respiratory support.",septic symptoms
+S0210-48062009000400016-1,10,4,"After urgent surgery, the patient presented septic symptoms, requiring admission to the ICU for respiratory support.",admission
+S0210-48062009000400016-1,10,5,"After urgent surgery, the patient presented septic symptoms, requiring admission to the ICU for respiratory support.",the ICU
+S0210-48062009000400016-1,10,6,"After urgent surgery, the patient presented septic symptoms, requiring admission to the ICU for respiratory support.",respiratory support
+S0210-48062009000400016-1,11,1,"During the septic condition, the patient presents a urinary fistula with abundant urine output through the drainage and infection of the surgical wound.",the septic condition
+S0210-48062009000400016-1,11,2,"During the septic condition, the patient presents a urinary fistula with abundant urine output through the drainage and infection of the surgical wound.",the patient
+S0210-48062009000400016-1,11,3,"During the septic condition, the patient presents a urinary fistula with abundant urine output through the drainage and infection of the surgical wound.",a urinary fistula
+S0210-48062009000400016-1,11,4,"During the septic condition, the patient presents a urinary fistula with abundant urine output through the drainage and infection of the surgical wound.",abundant urine output
+S0210-48062009000400016-1,11,5,"During the septic condition, the patient presents a urinary fistula with abundant urine output through the drainage and infection of the surgical wound.",the drainage
+S0210-48062009000400016-1,11,6,"During the septic condition, the patient presents a urinary fistula with abundant urine output through the drainage and infection of the surgical wound.",infection
+S0210-48062009000400016-1,11,7,"During the septic condition, the patient presents a urinary fistula with abundant urine output through the drainage and infection of the surgical wound.",the surgical wound
+S0210-48062009000400016-1,12,1,"After respiratory and hemodynamic stabilization, the patient was discharged from the ICU with a patent colostomy.",respiratory and hemodynamic stabilization
+S0210-48062009000400016-1,12,2,"After respiratory and hemodynamic stabilization, the patient was discharged from the ICU with a patent colostomy.",the patient
+S0210-48062009000400016-1,12,3,"After respiratory and hemodynamic stabilization, the patient was discharged from the ICU with a patent colostomy.",the ICU
+S0210-48062009000400016-1,12,4,"After respiratory and hemodynamic stabilization, the patient was discharged from the ICU with a patent colostomy.",a patent colostomy
+S0210-48062009000400016-1,13,1,Clear urine.,Clear urine
+S0210-48062009000400016-1,14,1,"Subsequently, disappearance of urinary fistula and fat necrosis in the distal third of the surgical wound, observing abdominal muscles as the bottom of the ulcer.","Subsequently, disappearance"
+S0210-48062009000400016-1,14,2,"Subsequently, disappearance of urinary fistula and fat necrosis in the distal third of the surgical wound, observing abdominal muscles as the bottom of the ulcer.",urinary fistula
+S0210-48062009000400016-1,14,3,"Subsequently, disappearance of urinary fistula and fat necrosis in the distal third of the surgical wound, observing abdominal muscles as the bottom of the ulcer.",fat necrosis
+S0210-48062009000400016-1,14,4,"Subsequently, disappearance of urinary fistula and fat necrosis in the distal third of the surgical wound, observing abdominal muscles as the bottom of the ulcer.",the distal third
+S0210-48062009000400016-1,14,5,"Subsequently, disappearance of urinary fistula and fat necrosis in the distal third of the surgical wound, observing abdominal muscles as the bottom of the ulcer.",the surgical wound
+S0210-48062009000400016-1,14,6,"Subsequently, disappearance of urinary fistula and fat necrosis in the distal third of the surgical wound, observing abdominal muscles as the bottom of the ulcer.",abdominal muscles
+S0210-48062009000400016-1,14,7,"Subsequently, disappearance of urinary fistula and fat necrosis in the distal third of the surgical wound, observing abdominal muscles as the bottom of the ulcer.",the bottom
+S0210-48062009000400016-1,14,8,"Subsequently, disappearance of urinary fistula and fat necrosis in the distal third of the surgical wound, observing abdominal muscles as the bottom of the ulcer.",the ulcer
+S0210-48062009000400016-1,15,1,"In March 2006, cystography was performed, observing contrast passage from the urethrovesical junction to the rectal ampulla.",March
+S0210-48062009000400016-1,15,2,"In March 2006, cystography was performed, observing contrast passage from the urethrovesical junction to the rectal ampulla.",cystography
+S0210-48062009000400016-1,15,3,"In March 2006, cystography was performed, observing contrast passage from the urethrovesical junction to the rectal ampulla.",contrast passage
+S0210-48062009000400016-1,15,4,"In March 2006, cystography was performed, observing contrast passage from the urethrovesical junction to the rectal ampulla.",the urethrovesical junction
+S0210-48062009000400016-1,15,5,"In March 2006, cystography was performed, observing contrast passage from the urethrovesical junction to the rectal ampulla.",the rectal ampulla
+S0210-48062009000400016-1,16,1,"With the diagnosis of vesico-rectal fistula, conservative treatment is indicated using bladder catheterization until resolution of surgical wound infection and closure by secondary intention.",the diagnosis
+S0210-48062009000400016-1,16,2,"With the diagnosis of vesico-rectal fistula, conservative treatment is indicated using bladder catheterization until resolution of surgical wound infection and closure by secondary intention.",vesico-rectal fistula
+S0210-48062009000400016-1,16,3,"With the diagnosis of vesico-rectal fistula, conservative treatment is indicated using bladder catheterization until resolution of surgical wound infection and closure by secondary intention.",conservative treatment
+S0210-48062009000400016-1,16,4,"With the diagnosis of vesico-rectal fistula, conservative treatment is indicated using bladder catheterization until resolution of surgical wound infection and closure by secondary intention.",bladder catheterization
+S0210-48062009000400016-1,16,5,"With the diagnosis of vesico-rectal fistula, conservative treatment is indicated using bladder catheterization until resolution of surgical wound infection and closure by secondary intention.",resolution
+S0210-48062009000400016-1,16,6,"With the diagnosis of vesico-rectal fistula, conservative treatment is indicated using bladder catheterization until resolution of surgical wound infection and closure by secondary intention.",surgical wound infection
+S0210-48062009000400016-1,16,7,"With the diagnosis of vesico-rectal fistula, conservative treatment is indicated using bladder catheterization until resolution of surgical wound infection and closure by secondary intention.",closure
+S0210-48062009000400016-1,16,8,"With the diagnosis of vesico-rectal fistula, conservative treatment is indicated using bladder catheterization until resolution of surgical wound infection and closure by secondary intention.",secondary intention
+S0210-48062009000400016-1,17,1,"In October 2006, given the persistence of the fistulous orifice, urethro-rectal fistula closure and mucosal advancement plasty were performed transanally.",October
+S0210-48062009000400016-1,17,2,"In October 2006, given the persistence of the fistulous orifice, urethro-rectal fistula closure and mucosal advancement plasty were performed transanally.",the persistence
+S0210-48062009000400016-1,17,3,"In October 2006, given the persistence of the fistulous orifice, urethro-rectal fistula closure and mucosal advancement plasty were performed transanally.",the fistulous orifice
+S0210-48062009000400016-1,17,4,"In October 2006, given the persistence of the fistulous orifice, urethro-rectal fistula closure and mucosal advancement plasty were performed transanally.",urethro-rectal fistula closure
+S0210-48062009000400016-1,17,5,"In October 2006, given the persistence of the fistulous orifice, urethro-rectal fistula closure and mucosal advancement plasty were performed transanally.",mucosal advancement plasty
+S0210-48062009000400016-1,18,1,"One month after surgery, cystography was performed, and no contrast leakage outside the urinary tract was observed, so the urinary catheter was removed.",surgery
+S0210-48062009000400016-1,18,2,"One month after surgery, cystography was performed, and no contrast leakage outside the urinary tract was observed, so the urinary catheter was removed.",cystography
+S0210-48062009000400016-1,18,3,"One month after surgery, cystography was performed, and no contrast leakage outside the urinary tract was observed, so the urinary catheter was removed.",no contrast leakage
+S0210-48062009000400016-1,18,4,"One month after surgery, cystography was performed, and no contrast leakage outside the urinary tract was observed, so the urinary catheter was removed.",the urinary tract
+S0210-48062009000400016-1,18,5,"One month after surgery, cystography was performed, and no contrast leakage outside the urinary tract was observed, so the urinary catheter was removed.",the urinary catheter
+S0210-48062009000400016-1,19,1,"In March 2007, colostomy closure and abdominal wall eventhroplasty with mesh were performed.",March
+S0210-48062009000400016-1,19,2,"In March 2007, colostomy closure and abdominal wall eventhroplasty with mesh were performed.",colostomy closure
+S0210-48062009000400016-1,19,3,"In March 2007, colostomy closure and abdominal wall eventhroplasty with mesh were performed.",abdominal wall eventhroplasty
+S0210-48062009000400016-1,19,4,"In March 2007, colostomy closure and abdominal wall eventhroplasty with mesh were performed.",mesh
+S0210-48062009000400016-1,20,1,"In June 2007, the patient presented comfortable spontaneous urination and normal bowel movements.",June
+S0210-48062009000400016-1,20,2,"In June 2007, the patient presented comfortable spontaneous urination and normal bowel movements.",the patient
+S0210-48062009000400016-1,20,3,"In June 2007, the patient presented comfortable spontaneous urination and normal bowel movements.",comfortable spontaneous urination
+S0210-48062009000400016-1,20,4,"In June 2007, the patient presented comfortable spontaneous urination and normal bowel movements.",normal bowel movements
+S0210-48062009000400016-1,21,1,Absence of urinary incontinence.,Absence
+S0210-48062009000400016-1,21,2,Absence of urinary incontinence.,urinary incontinence
+S0210-48062009000400016-1,22,1,Erectile dysfunction treated with phosphodiesterase inhibitors and PSA less than 0.15 ng/ml.,Erectile dysfunction
+S0210-48062009000400016-1,22,2,Erectile dysfunction treated with phosphodiesterase inhibitors and PSA less than 0.15 ng/ml.,phosphodiesterase inhibitors
+S0210-48062009000400016-1,22,3,Erectile dysfunction treated with phosphodiesterase inhibitors and PSA less than 0.15 ng/ml.,less than 0.15 ng
+S0210-48062009000400016-1,22,4,Erectile dysfunction treated with phosphodiesterase inhibitors and PSA less than 0.15 ng/ml.,ml

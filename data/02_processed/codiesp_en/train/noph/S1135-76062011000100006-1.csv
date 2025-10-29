@@ -1,0 +1,40 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1135-76062011000100006-1,1,1,27-year-old man who receives a gunshot to the skull during a police chase.,27-year-old man
+S1135-76062011000100006-1,1,2,27-year-old man who receives a gunshot to the skull during a police chase.,who
+S1135-76062011000100006-1,1,3,27-year-old man who receives a gunshot to the skull during a police chase.,a gunshot
+S1135-76062011000100006-1,1,4,27-year-old man who receives a gunshot to the skull during a police chase.,the skull
+S1135-76062011000100006-1,1,5,27-year-old man who receives a gunshot to the skull during a police chase.,a police chase
+S1135-76062011000100006-1,2,1,"Transferred to a healthcare center, he died 24 hours later as a result of the brain damage.",a healthcare center
+S1135-76062011000100006-1,2,2,"Transferred to a healthcare center, he died 24 hours later as a result of the brain damage.",he
+S1135-76062011000100006-1,2,3,"Transferred to a healthcare center, he died 24 hours later as a result of the brain damage.",a result
+S1135-76062011000100006-1,2,4,"Transferred to a healthcare center, he died 24 hours later as a result of the brain damage.",the brain damage
+S1135-76062011000100006-1,3,1,"Among the autopsy findings, there were two holes in the scalp (right frontal and parietal) and a single bone entry hole in the right parietal bone without a bone exit hole.",the autopsy findings
+S1135-76062011000100006-1,3,2,"Among the autopsy findings, there were two holes in the scalp (right frontal and parietal) and a single bone entry hole in the right parietal bone without a bone exit hole.",two holes
+S1135-76062011000100006-1,3,3,"Among the autopsy findings, there were two holes in the scalp (right frontal and parietal) and a single bone entry hole in the right parietal bone without a bone exit hole.",the scalp
+S1135-76062011000100006-1,3,4,"Among the autopsy findings, there were two holes in the scalp (right frontal and parietal) and a single bone entry hole in the right parietal bone without a bone exit hole.",a single bone entry hole
+S1135-76062011000100006-1,3,5,"Among the autopsy findings, there were two holes in the scalp (right frontal and parietal) and a single bone entry hole in the right parietal bone without a bone exit hole.",the right parietal bone
+S1135-76062011000100006-1,3,6,"Among the autopsy findings, there were two holes in the scalp (right frontal and parietal) and a single bone entry hole in the right parietal bone without a bone exit hole.",a bone exit hole
+S1135-76062011000100006-1,4,1,"The cutaneous entry hole, without tattooing or smoking, is classified as ""distant"" or ""long distance.""",The cutaneous entry hole
+S1135-76062011000100006-1,4,2,"The cutaneous entry hole, without tattooing or smoking, is classified as ""distant"" or ""long distance.""",tattooing
+S1135-76062011000100006-1,4,3,"The cutaneous entry hole, without tattooing or smoking, is classified as ""distant"" or ""long distance.""",smoking
+S1135-76062011000100006-1,5,1,"After removing the scalp, an elongated bone entry hole is observed in the right parietal region, confirming external bevelling limited to the most posterior area of ​​the hole, with a fracture line.",the scalp
+S1135-76062011000100006-1,5,2,"After removing the scalp, an elongated bone entry hole is observed in the right parietal region, confirming external bevelling limited to the most posterior area of ​​the hole, with a fracture line.",an elongated bone entry hole
+S1135-76062011000100006-1,5,3,"After removing the scalp, an elongated bone entry hole is observed in the right parietal region, confirming external bevelling limited to the most posterior area of ​​the hole, with a fracture line.",the right parietal region
+S1135-76062011000100006-1,5,4,"After removing the scalp, an elongated bone entry hole is observed in the right parietal region, confirming external bevelling limited to the most posterior area of ​​the hole, with a fracture line.",external bevelling
+S1135-76062011000100006-1,5,5,"After removing the scalp, an elongated bone entry hole is observed in the right parietal region, confirming external bevelling limited to the most posterior area of ​​the hole, with a fracture line.",the most posterior area
+S1135-76062011000100006-1,5,6,"After removing the scalp, an elongated bone entry hole is observed in the right parietal region, confirming external bevelling limited to the most posterior area of ​​the hole, with a fracture line.",​​the hole
+S1135-76062011000100006-1,5,7,"After removing the scalp, an elongated bone entry hole is observed in the right parietal region, confirming external bevelling limited to the most posterior area of ​​the hole, with a fracture line.",a fracture line
+S1135-76062011000100006-1,6,1,"A fragment of the projectile was recovered in the right occipital region, deformed, made of bare lead, caliber .38, with a sector of its ""mirror"" surface.",A fragment
+S1135-76062011000100006-1,6,2,"A fragment of the projectile was recovered in the right occipital region, deformed, made of bare lead, caliber .38, with a sector of its ""mirror"" surface.",the projectile
+S1135-76062011000100006-1,6,3,"A fragment of the projectile was recovered in the right occipital region, deformed, made of bare lead, caliber .38, with a sector of its ""mirror"" surface.",the right occipital region
+S1135-76062011000100006-1,6,4,"A fragment of the projectile was recovered in the right occipital region, deformed, made of bare lead, caliber .38, with a sector of its ""mirror"" surface.",bare lead
+S1135-76062011000100006-1,6,5,"A fragment of the projectile was recovered in the right occipital region, deformed, made of bare lead, caliber .38, with a sector of its ""mirror"" surface.",a sector
+S1135-76062011000100006-1,6,6,"A fragment of the projectile was recovered in the right occipital region, deformed, made of bare lead, caliber .38, with a sector of its ""mirror"" surface.","its ""mirror"" surface"
+S1135-76062011000100006-1,7,1,"The rest of the projectile produces a cutaneous exit hole in the right parietal region, almost superimposed on the bony entry hole.",The rest
+S1135-76062011000100006-1,7,2,"The rest of the projectile produces a cutaneous exit hole in the right parietal region, almost superimposed on the bony entry hole.",the projectile
+S1135-76062011000100006-1,7,3,"The rest of the projectile produces a cutaneous exit hole in the right parietal region, almost superimposed on the bony entry hole.",a cutaneous exit hole
+S1135-76062011000100006-1,7,4,"The rest of the projectile produces a cutaneous exit hole in the right parietal region, almost superimposed on the bony entry hole.",the right parietal region
+S1135-76062011000100006-1,7,5,"The rest of the projectile produces a cutaneous exit hole in the right parietal region, almost superimposed on the bony entry hole.",the bony entry hole
+S1135-76062011000100006-1,8,1,Histological examination confirms the nature of the skin holes.,Histological examination
+S1135-76062011000100006-1,8,2,Histological examination confirms the nature of the skin holes.,the nature
+S1135-76062011000100006-1,8,3,Histological examination confirms the nature of the skin holes.,the skin holes

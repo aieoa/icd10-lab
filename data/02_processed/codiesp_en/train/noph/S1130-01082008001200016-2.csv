@@ -1,0 +1,29 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082008001200016-2,1,1,A 28-year-old woman reported epigastric pain and constitutional syndrome for one month.,A 28-year-old woman
+S1130-01082008001200016-2,1,2,A 28-year-old woman reported epigastric pain and constitutional syndrome for one month.,pain
+S1130-01082008001200016-2,1,3,A 28-year-old woman reported epigastric pain and constitutional syndrome for one month.,constitutional syndrome
+S1130-01082008001200016-2,1,4,A 28-year-old woman reported epigastric pain and constitutional syndrome for one month.,one month
+S1130-01082008001200016-2,2,1,CT showed a 15 x 13 x 7 cm mass dependent on the ascending colon with bilobar liver metastases; A right hemicolectomy with liver biopsy was performed.,CT
+S1130-01082008001200016-2,2,2,CT showed a 15 x 13 x 7 cm mass dependent on the ascending colon with bilobar liver metastases; A right hemicolectomy with liver biopsy was performed.,the ascending colon
+S1130-01082008001200016-2,2,3,CT showed a 15 x 13 x 7 cm mass dependent on the ascending colon with bilobar liver metastases; A right hemicolectomy with liver biopsy was performed.,bilobar liver metastases
+S1130-01082008001200016-2,2,4,CT showed a 15 x 13 x 7 cm mass dependent on the ascending colon with bilobar liver metastases; A right hemicolectomy with liver biopsy was performed.,A right hemicolectomy
+S1130-01082008001200016-2,2,5,CT showed a 15 x 13 x 7 cm mass dependent on the ascending colon with bilobar liver metastases; A right hemicolectomy with liver biopsy was performed.,liver biopsy
+S1130-01082008001200016-2,3,1,"The pathological anatomy showed a tumor formed by spindle cells with great mitotic activity that, after ultrastructural examination and IHC, was diagnostic of GANT.",The pathological anatomy
+S1130-01082008001200016-2,3,2,"The pathological anatomy showed a tumor formed by spindle cells with great mitotic activity that, after ultrastructural examination and IHC, was diagnostic of GANT.",a tumor
+S1130-01082008001200016-2,3,3,"The pathological anatomy showed a tumor formed by spindle cells with great mitotic activity that, after ultrastructural examination and IHC, was diagnostic of GANT.",spindle cells
+S1130-01082008001200016-2,3,4,"The pathological anatomy showed a tumor formed by spindle cells with great mitotic activity that, after ultrastructural examination and IHC, was diagnostic of GANT.",great mitotic activity
+S1130-01082008001200016-2,3,5,"The pathological anatomy showed a tumor formed by spindle cells with great mitotic activity that, after ultrastructural examination and IHC, was diagnostic of GANT.",that
+S1130-01082008001200016-2,3,6,"The pathological anatomy showed a tumor formed by spindle cells with great mitotic activity that, after ultrastructural examination and IHC, was diagnostic of GANT.",ultrastructural examination
+S1130-01082008001200016-2,3,7,"The pathological anatomy showed a tumor formed by spindle cells with great mitotic activity that, after ultrastructural examination and IHC, was diagnostic of GANT.",IHC
+S1130-01082008001200016-2,3,8,"The pathological anatomy showed a tumor formed by spindle cells with great mitotic activity that, after ultrastructural examination and IHC, was diagnostic of GANT.",GANT
+S1130-01082008001200016-2,4,1,Adjuvant treatment was performed with imatinib 400 mg orally daily.,Adjuvant treatment
+S1130-01082008001200016-2,4,2,Adjuvant treatment was performed with imatinib 400 mg orally daily.,imatinib
+S1130-01082008001200016-2,5,1,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",The follow-up CT scan
+S1130-01082008001200016-2,5,2,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",six months
+S1130-01082008001200016-2,5,3,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",a partial reduction
+S1130-01082008001200016-2,5,4,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",liver metastases
+S1130-01082008001200016-2,5,5,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",a complete remission
+S1130-01082008001200016-2,5,6,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",one year
+S1130-01082008001200016-2,5,7,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",three years
+S1130-01082008001200016-2,5,8,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",no evidence
+S1130-01082008001200016-2,5,9,"The follow-up CT scan at six months showed a partial reduction in liver metastases, a complete remission at one year, and after three years there is no evidence of local or distant recurrence.",local or distant recurrence

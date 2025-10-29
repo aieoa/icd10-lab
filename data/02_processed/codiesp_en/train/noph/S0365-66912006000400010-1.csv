@@ -1,0 +1,58 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0365-66912006000400010-1,1,1,A 33-year-old female patient presented with a long-standing decrease in visual acuity and serious discomfort due to known dry eyes.,A 33-year-old female patient
+S0365-66912006000400010-1,1,2,A 33-year-old female patient presented with a long-standing decrease in visual acuity and serious discomfort due to known dry eyes.,a long-standing decrease
+S0365-66912006000400010-1,1,3,A 33-year-old female patient presented with a long-standing decrease in visual acuity and serious discomfort due to known dry eyes.,visual acuity
+S0365-66912006000400010-1,1,4,A 33-year-old female patient presented with a long-standing decrease in visual acuity and serious discomfort due to known dry eyes.,serious discomfort
+S0365-66912006000400010-1,1,5,A 33-year-old female patient presented with a long-standing decrease in visual acuity and serious discomfort due to known dry eyes.,known dry eyes
+S0365-66912006000400010-1,2,1,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",childhood
+S0365-66912006000400010-1,2,2,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",the patient
+S0365-66912006000400010-1,2,3,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",generalized dry skin
+S0365-66912006000400010-1,2,4,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",anhidrosis
+S0365-66912006000400010-1,2,5,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",cutaneous piosis
+S0365-66912006000400010-1,2,6,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",hyperkeratotic skin lesions
+S0365-66912006000400010-1,2,7,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",loss
+S0365-66912006000400010-1,2,8,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",scalp
+S0365-66912006000400010-1,2,9,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",absence
+S0365-66912006000400010-1,2,10,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",eyebrows
+S0365-66912006000400010-1,2,11,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",madarosis
+S0365-66912006000400010-1,2,12,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",alterations
+S0365-66912006000400010-1,2,13,"Since childhood, the patient suffered from generalized dry skin, anhidrosis, cutaneous piosis, hyperkeratotic skin lesions, loss of scalp, absence of eyebrows and madarosis without alterations in eyelid position.",eyelid position
+S0365-66912006000400010-1,3,1,Her visual acuity was 20/100 with the right eye (RE) and 20/400 with the left eye (LE).,Her visual acuity
+S0365-66912006000400010-1,3,2,Her visual acuity was 20/100 with the right eye (RE) and 20/400 with the left eye (LE).,the right eye
+S0365-66912006000400010-1,3,3,Her visual acuity was 20/100 with the right eye (RE) and 20/400 with the left eye (LE).,RE
+S0365-66912006000400010-1,3,4,Her visual acuity was 20/100 with the right eye (RE) and 20/400 with the left eye (LE).,the left eye
+S0365-66912006000400010-1,3,5,Her visual acuity was 20/100 with the right eye (RE) and 20/400 with the left eye (LE).,LE
+S0365-66912006000400010-1,4,1,"Biomicroscopy revealed mixed conjunctival hyperemia, bilateral corneal neovascularization involving the entire corneal surface (both superficial and deep), and diffuse superficial punctate keratopathy.",Biomicroscopy
+S0365-66912006000400010-1,4,2,"Biomicroscopy revealed mixed conjunctival hyperemia, bilateral corneal neovascularization involving the entire corneal surface (both superficial and deep), and diffuse superficial punctate keratopathy.",mixed conjunctival hyperemia
+S0365-66912006000400010-1,4,3,"Biomicroscopy revealed mixed conjunctival hyperemia, bilateral corneal neovascularization involving the entire corneal surface (both superficial and deep), and diffuse superficial punctate keratopathy.",bilateral corneal neovascularization
+S0365-66912006000400010-1,4,4,"Biomicroscopy revealed mixed conjunctival hyperemia, bilateral corneal neovascularization involving the entire corneal surface (both superficial and deep), and diffuse superficial punctate keratopathy.",the entire corneal surface
+S0365-66912006000400010-1,4,5,"Biomicroscopy revealed mixed conjunctival hyperemia, bilateral corneal neovascularization involving the entire corneal surface (both superficial and deep), and diffuse superficial punctate keratopathy.",superficial punctate keratopathy
+S0365-66912006000400010-1,5,1,"The Schirmer test was 10 mm OD and 5 mm OI, with the tear meniscus of both eyes being markedly reduced.",The Schirmer test
+S0365-66912006000400010-1,5,2,"The Schirmer test was 10 mm OD and 5 mm OI, with the tear meniscus of both eyes being markedly reduced.",10 mm OD
+S0365-66912006000400010-1,5,3,"The Schirmer test was 10 mm OD and 5 mm OI, with the tear meniscus of both eyes being markedly reduced.",5 mm
+S0365-66912006000400010-1,5,4,"The Schirmer test was 10 mm OD and 5 mm OI, with the tear meniscus of both eyes being markedly reduced.",OI
+S0365-66912006000400010-1,5,5,"The Schirmer test was 10 mm OD and 5 mm OI, with the tear meniscus of both eyes being markedly reduced.",the tear meniscus
+S0365-66912006000400010-1,5,6,"The Schirmer test was 10 mm OD and 5 mm OI, with the tear meniscus of both eyes being markedly reduced.",both eyes
+S0365-66912006000400010-1,6,1,The intraocular pressure was 14 mm Hg in both eyes.,The intraocular pressure
+S0365-66912006000400010-1,6,2,The intraocular pressure was 14 mm Hg in both eyes.,both eyes
+S0365-66912006000400010-1,7,1,"A topical treatment based on fluorometholone, erythromycin ointment and abundant ocular lubrication was administered.",A topical treatment
+S0365-66912006000400010-1,7,2,"A topical treatment based on fluorometholone, erythromycin ointment and abundant ocular lubrication was administered.",fluorometholone
+S0365-66912006000400010-1,7,3,"A topical treatment based on fluorometholone, erythromycin ointment and abundant ocular lubrication was administered.",abundant ocular lubrication
+S0365-66912006000400010-1,8,1,"Visual acuity was maintained for the right eye, however, it improved notably for the left eye, reaching 20/50.",Visual acuity
+S0365-66912006000400010-1,8,2,"Visual acuity was maintained for the right eye, however, it improved notably for the left eye, reaching 20/50.",the right eye
+S0365-66912006000400010-1,8,3,"Visual acuity was maintained for the right eye, however, it improved notably for the left eye, reaching 20/50.",it
+S0365-66912006000400010-1,8,4,"Visual acuity was maintained for the right eye, however, it improved notably for the left eye, reaching 20/50.",the left eye
+S0365-66912006000400010-1,9,1,"A detailed dermatological and neurological physical examination revealed keratoerythema and sensorineural deafness, and the patient was diagnosed with KID syndrome.",A detailed dermatological and neurological physical examination
+S0365-66912006000400010-1,9,2,"A detailed dermatological and neurological physical examination revealed keratoerythema and sensorineural deafness, and the patient was diagnosed with KID syndrome.",keratoerythema
+S0365-66912006000400010-1,9,3,"A detailed dermatological and neurological physical examination revealed keratoerythema and sensorineural deafness, and the patient was diagnosed with KID syndrome.",sensorineural deafness
+S0365-66912006000400010-1,9,4,"A detailed dermatological and neurological physical examination revealed keratoerythema and sensorineural deafness, and the patient was diagnosed with KID syndrome.",the patient
+S0365-66912006000400010-1,9,5,"A detailed dermatological and neurological physical examination revealed keratoerythema and sensorineural deafness, and the patient was diagnosed with KID syndrome.",KID syndrome
+S0365-66912006000400010-1,10,1,The family history was negative for similar problems and there was no consanguinity.,The family history
+S0365-66912006000400010-1,10,2,The family history was negative for similar problems and there was no consanguinity.,similar problems
+S0365-66912006000400010-1,10,3,The family history was negative for similar problems and there was no consanguinity.,no consanguinity
+S0365-66912006000400010-1,11,1,"Molecular genetic analysis of the GJB2 gene, whose mutation and relationship with KID syndrome has recently been established, was performed, proving positive for our patient.",Molecular genetic analysis
+S0365-66912006000400010-1,11,2,"Molecular genetic analysis of the GJB2 gene, whose mutation and relationship with KID syndrome has recently been established, was performed, proving positive for our patient.",the GJB2 gene
+S0365-66912006000400010-1,11,3,"Molecular genetic analysis of the GJB2 gene, whose mutation and relationship with KID syndrome has recently been established, was performed, proving positive for our patient.",whose mutation
+S0365-66912006000400010-1,11,4,"Molecular genetic analysis of the GJB2 gene, whose mutation and relationship with KID syndrome has recently been established, was performed, proving positive for our patient.",relationship
+S0365-66912006000400010-1,11,5,"Molecular genetic analysis of the GJB2 gene, whose mutation and relationship with KID syndrome has recently been established, was performed, proving positive for our patient.",KID syndrome
+S0365-66912006000400010-1,11,6,"Molecular genetic analysis of the GJB2 gene, whose mutation and relationship with KID syndrome has recently been established, was performed, proving positive for our patient.",our patient

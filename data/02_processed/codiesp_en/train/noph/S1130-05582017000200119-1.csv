@@ -1,0 +1,78 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-05582017000200119-1,1,1,A 21-year-old woman who attended a maxillofacial surgery consultation due to a painless tumor at the left parotid level that had been present for about 8 months.,A 21-year-old woman
+S1130-05582017000200119-1,1,2,A 21-year-old woman who attended a maxillofacial surgery consultation due to a painless tumor at the left parotid level that had been present for about 8 months.,who
+S1130-05582017000200119-1,1,3,A 21-year-old woman who attended a maxillofacial surgery consultation due to a painless tumor at the left parotid level that had been present for about 8 months.,a maxillofacial surgery consultation
+S1130-05582017000200119-1,1,4,A 21-year-old woman who attended a maxillofacial surgery consultation due to a painless tumor at the left parotid level that had been present for about 8 months.,a painless tumor
+S1130-05582017000200119-1,1,5,A 21-year-old woman who attended a maxillofacial surgery consultation due to a painless tumor at the left parotid level that had been present for about 8 months.,the left parotid level
+S1130-05582017000200119-1,1,6,A 21-year-old woman who attended a maxillofacial surgery consultation due to a painless tumor at the left parotid level that had been present for about 8 months.,that
+S1130-05582017000200119-1,1,7,A 21-year-old woman who attended a maxillofacial surgery consultation due to a painless tumor at the left parotid level that had been present for about 8 months.,about 8 months
+S1130-05582017000200119-1,2,1,"The physical examination revealed a solid lesion at the level of the parotid gland, not adherent to deep planes.",The physical examination
+S1130-05582017000200119-1,2,2,"The physical examination revealed a solid lesion at the level of the parotid gland, not adherent to deep planes.",a solid lesion
+S1130-05582017000200119-1,2,3,"The physical examination revealed a solid lesion at the level of the parotid gland, not adherent to deep planes.",the level
+S1130-05582017000200119-1,2,4,"The physical examination revealed a solid lesion at the level of the parotid gland, not adherent to deep planes.",the parotid gland
+S1130-05582017000200119-1,2,5,"The physical examination revealed a solid lesion at the level of the parotid gland, not adherent to deep planes.",not adherent
+S1130-05582017000200119-1,2,6,"The physical examination revealed a solid lesion at the level of the parotid gland, not adherent to deep planes.",deep planes
+S1130-05582017000200119-1,3,1,"An ultrasound with fine-needle aspiration (FNAC) was requested, in which a well-defined parotid nodule of approximately 25mm in maximum diameter, predominantly cystic, with a 9mm solid pole inside was detected.",An ultrasound
+S1130-05582017000200119-1,3,2,"An ultrasound with fine-needle aspiration (FNAC) was requested, in which a well-defined parotid nodule of approximately 25mm in maximum diameter, predominantly cystic, with a 9mm solid pole inside was detected.",fine-needle aspiration
+S1130-05582017000200119-1,3,3,"An ultrasound with fine-needle aspiration (FNAC) was requested, in which a well-defined parotid nodule of approximately 25mm in maximum diameter, predominantly cystic, with a 9mm solid pole inside was detected.",FNAC
+S1130-05582017000200119-1,3,4,"An ultrasound with fine-needle aspiration (FNAC) was requested, in which a well-defined parotid nodule of approximately 25mm in maximum diameter, predominantly cystic, with a 9mm solid pole inside was detected.",which
+S1130-05582017000200119-1,3,5,"An ultrasound with fine-needle aspiration (FNAC) was requested, in which a well-defined parotid nodule of approximately 25mm in maximum diameter, predominantly cystic, with a 9mm solid pole inside was detected.",approximately 25mm
+S1130-05582017000200119-1,3,6,"An ultrasound with fine-needle aspiration (FNAC) was requested, in which a well-defined parotid nodule of approximately 25mm in maximum diameter, predominantly cystic, with a 9mm solid pole inside was detected.",maximum diameter
+S1130-05582017000200119-1,3,7,"An ultrasound with fine-needle aspiration (FNAC) was requested, in which a well-defined parotid nodule of approximately 25mm in maximum diameter, predominantly cystic, with a 9mm solid pole inside was detected.",a 9mm solid pole
+S1130-05582017000200119-1,4,1,It did not show vascularization with color Doppler; the FNAC was inconclusive.,It
+S1130-05582017000200119-1,4,2,It did not show vascularization with color Doppler; the FNAC was inconclusive.,vascularization
+S1130-05582017000200119-1,4,3,It did not show vascularization with color Doppler; the FNAC was inconclusive.,color Doppler
+S1130-05582017000200119-1,4,4,It did not show vascularization with color Doppler; the FNAC was inconclusive.,the FNAC
+S1130-05582017000200119-1,5,1,"Given these ultrasound findings, the study was completed with a computed tomography (CT) of the neck with intravenous contrast.",these ultrasound findings
+S1130-05582017000200119-1,5,2,"Given these ultrasound findings, the study was completed with a computed tomography (CT) of the neck with intravenous contrast.",the study
+S1130-05582017000200119-1,5,3,"Given these ultrasound findings, the study was completed with a computed tomography (CT) of the neck with intravenous contrast.",a computed tomography
+S1130-05582017000200119-1,5,4,"Given these ultrasound findings, the study was completed with a computed tomography (CT) of the neck with intravenous contrast.",CT
+S1130-05582017000200119-1,5,5,"Given these ultrasound findings, the study was completed with a computed tomography (CT) of the neck with intravenous contrast.",the neck
+S1130-05582017000200119-1,5,6,"Given these ultrasound findings, the study was completed with a computed tomography (CT) of the neck with intravenous contrast.",intravenous contrast
+S1130-05582017000200119-1,6,1,"The CT showed a well-defined tumor of about 22mm, located in the superficial lobe of the left parotid, which contained fat inside, and an 8mm rounded solid nodule on its posterior wall.",The CT
+S1130-05582017000200119-1,6,2,"The CT showed a well-defined tumor of about 22mm, located in the superficial lobe of the left parotid, which contained fat inside, and an 8mm rounded solid nodule on its posterior wall.",a well-defined tumor
+S1130-05582017000200119-1,6,3,"The CT showed a well-defined tumor of about 22mm, located in the superficial lobe of the left parotid, which contained fat inside, and an 8mm rounded solid nodule on its posterior wall.",about 22mm
+S1130-05582017000200119-1,6,4,"The CT showed a well-defined tumor of about 22mm, located in the superficial lobe of the left parotid, which contained fat inside, and an 8mm rounded solid nodule on its posterior wall.",the superficial lobe
+S1130-05582017000200119-1,6,5,"The CT showed a well-defined tumor of about 22mm, located in the superficial lobe of the left parotid, which contained fat inside, and an 8mm rounded solid nodule on its posterior wall.",the left parotid
+S1130-05582017000200119-1,6,6,"The CT showed a well-defined tumor of about 22mm, located in the superficial lobe of the left parotid, which contained fat inside, and an 8mm rounded solid nodule on its posterior wall.",which
+S1130-05582017000200119-1,6,7,"The CT showed a well-defined tumor of about 22mm, located in the superficial lobe of the left parotid, which contained fat inside, and an 8mm rounded solid nodule on its posterior wall.",an 8mm rounded solid nodule
+S1130-05582017000200119-1,6,8,"The CT showed a well-defined tumor of about 22mm, located in the superficial lobe of the left parotid, which contained fat inside, and an 8mm rounded solid nodule on its posterior wall.",its posterior wall
+S1130-05582017000200119-1,7,1,All of this was compatible with parotid cystic teratoma by imaging.,All
+S1130-05582017000200119-1,7,2,All of this was compatible with parotid cystic teratoma by imaging.,this
+S1130-05582017000200119-1,7,3,All of this was compatible with parotid cystic teratoma by imaging.,parotid cystic teratoma
+S1130-05582017000200119-1,8,1,"Given these results, surgical intervention was proposed to the patient, which she accepted.",these results
+S1130-05582017000200119-1,8,2,"Given these results, surgical intervention was proposed to the patient, which she accepted.",surgical intervention
+S1130-05582017000200119-1,8,3,"Given these results, surgical intervention was proposed to the patient, which she accepted.",the patient
+S1130-05582017000200119-1,8,4,"Given these results, surgical intervention was proposed to the patient, which she accepted.",which
+S1130-05582017000200119-1,8,5,"Given these results, surgical intervention was proposed to the patient, which she accepted.",she
+S1130-05582017000200119-1,9,1,A conservative suprafacial parotidectomy of the facial nerve was performed with en bloc resection of the lesion.,A conservative suprafacial parotidectomy
+S1130-05582017000200119-1,9,2,A conservative suprafacial parotidectomy of the facial nerve was performed with en bloc resection of the lesion.,the facial nerve
+S1130-05582017000200119-1,9,3,A conservative suprafacial parotidectomy of the facial nerve was performed with en bloc resection of the lesion.,en bloc resection
+S1130-05582017000200119-1,9,4,A conservative suprafacial parotidectomy of the facial nerve was performed with en bloc resection of the lesion.,the lesion
+S1130-05582017000200119-1,10,1,"At the end of the surgery, all branches of the facial nerve were monitored to check their integrity and function.",the end
+S1130-05582017000200119-1,10,2,"At the end of the surgery, all branches of the facial nerve were monitored to check their integrity and function.",the surgery
+S1130-05582017000200119-1,10,3,"At the end of the surgery, all branches of the facial nerve were monitored to check their integrity and function.",all branches
+S1130-05582017000200119-1,10,4,"At the end of the surgery, all branches of the facial nerve were monitored to check their integrity and function.",the facial nerve
+S1130-05582017000200119-1,10,5,"At the end of the surgery, all branches of the facial nerve were monitored to check their integrity and function.",their integrity
+S1130-05582017000200119-1,10,6,"At the end of the surgery, all branches of the facial nerve were monitored to check their integrity and function.",function
+S1130-05582017000200119-1,11,1,The surgical specimen obtained after resection presented a fragment of epidermis with hair follicles.,The surgical specimen
+S1130-05582017000200119-1,11,2,The surgical specimen obtained after resection presented a fragment of epidermis with hair follicles.,resection
+S1130-05582017000200119-1,11,3,The surgical specimen obtained after resection presented a fragment of epidermis with hair follicles.,a fragment
+S1130-05582017000200119-1,11,4,The surgical specimen obtained after resection presented a fragment of epidermis with hair follicles.,epidermis
+S1130-05582017000200119-1,11,5,The surgical specimen obtained after resection presented a fragment of epidermis with hair follicles.,hair follicles
+S1130-05582017000200119-1,12,1,"The pathological result confirmed the definitive diagnosis of benign mature cystic teratoma of the left parotid gland, in which epidermal and mesenchymal cells, adipocytes, sebaceous glands and mature chondrocytes were found.",The pathological result
+S1130-05582017000200119-1,12,2,"The pathological result confirmed the definitive diagnosis of benign mature cystic teratoma of the left parotid gland, in which epidermal and mesenchymal cells, adipocytes, sebaceous glands and mature chondrocytes were found.",the definitive diagnosis
+S1130-05582017000200119-1,12,3,"The pathological result confirmed the definitive diagnosis of benign mature cystic teratoma of the left parotid gland, in which epidermal and mesenchymal cells, adipocytes, sebaceous glands and mature chondrocytes were found.",benign mature cystic teratoma
+S1130-05582017000200119-1,12,4,"The pathological result confirmed the definitive diagnosis of benign mature cystic teratoma of the left parotid gland, in which epidermal and mesenchymal cells, adipocytes, sebaceous glands and mature chondrocytes were found.",the left parotid gland
+S1130-05582017000200119-1,12,5,"The pathological result confirmed the definitive diagnosis of benign mature cystic teratoma of the left parotid gland, in which epidermal and mesenchymal cells, adipocytes, sebaceous glands and mature chondrocytes were found.",which
+S1130-05582017000200119-1,12,6,"The pathological result confirmed the definitive diagnosis of benign mature cystic teratoma of the left parotid gland, in which epidermal and mesenchymal cells, adipocytes, sebaceous glands and mature chondrocytes were found.",epidermal and mesenchymal cells
+S1130-05582017000200119-1,12,7,"The pathological result confirmed the definitive diagnosis of benign mature cystic teratoma of the left parotid gland, in which epidermal and mesenchymal cells, adipocytes, sebaceous glands and mature chondrocytes were found.",sebaceous glands
+S1130-05582017000200119-1,12,8,"The pathological result confirmed the definitive diagnosis of benign mature cystic teratoma of the left parotid gland, in which epidermal and mesenchymal cells, adipocytes, sebaceous glands and mature chondrocytes were found.",mature chondrocytes
+S1130-05582017000200119-1,13,1,No atypia was observed.,No atypia
+S1130-05582017000200119-1,14,1,"The patient presented mild paresis postoperatively, completely recovering facial mimicry 4 months postoperatively.",The patient
+S1130-05582017000200119-1,14,2,"The patient presented mild paresis postoperatively, completely recovering facial mimicry 4 months postoperatively.",mild paresis
+S1130-05582017000200119-1,14,3,"The patient presented mild paresis postoperatively, completely recovering facial mimicry 4 months postoperatively.",facial mimicry
+S1130-05582017000200119-1,15,1,"Currently, 14 months after surgery, she has no recurrence of the lesion.",surgery
+S1130-05582017000200119-1,15,2,"Currently, 14 months after surgery, she has no recurrence of the lesion.",she
+S1130-05582017000200119-1,15,3,"Currently, 14 months after surgery, she has no recurrence of the lesion.",no recurrence
+S1130-05582017000200119-1,15,4,"Currently, 14 months after surgery, she has no recurrence of the lesion.",the lesion

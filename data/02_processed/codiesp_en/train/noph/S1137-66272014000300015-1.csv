@@ -1,0 +1,87 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1137-66272014000300015-1,1,1,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",Female patient
+S1137-66272014000300015-1,1,2,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",no medical history
+S1137-66272014000300015-1,1,3,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",interest
+S1137-66272014000300015-1,1,4,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",ex
+S1137-66272014000300015-1,1,5,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",-
+S1137-66272014000300015-1,1,6,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",smoker
+S1137-66272014000300015-1,1,7,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",15 years
+S1137-66272014000300015-1,1,8,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",the Breast Cancer Early Detection Unit
+S1137-66272014000300015-1,1,9,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",a 3.5 cm nodule
+S1137-66272014000300015-1,1,10,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",the lower-inner quadrant
+S1137-66272014000300015-1,1,11,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",the left breast
+S1137-66272014000300015-1,1,12,"Female patient, 57 years old, with no medical history of interest, ex-smoker for 15 years, referred from the Breast Cancer Early Detection Unit for a 3.5 cm nodule in the lower-inner quadrant of the left breast, without palpable axillary lymphadenopathy. .",palpable axillary lymphadenopathy
+S1137-66272014000300015-1,2,1,"She was diagnosed with infiltrating ductal carcinoma of the left breast with axillary involvement by study with biopsy, MRI and axillary ultrasound.",She
+S1137-66272014000300015-1,2,2,"She was diagnosed with infiltrating ductal carcinoma of the left breast with axillary involvement by study with biopsy, MRI and axillary ultrasound.",infiltrating ductal carcinoma
+S1137-66272014000300015-1,2,3,"She was diagnosed with infiltrating ductal carcinoma of the left breast with axillary involvement by study with biopsy, MRI and axillary ultrasound.",the left breast
+S1137-66272014000300015-1,2,4,"She was diagnosed with infiltrating ductal carcinoma of the left breast with axillary involvement by study with biopsy, MRI and axillary ultrasound.",axillary involvement
+S1137-66272014000300015-1,2,5,"She was diagnosed with infiltrating ductal carcinoma of the left breast with axillary involvement by study with biopsy, MRI and axillary ultrasound.",study
+S1137-66272014000300015-1,2,6,"She was diagnosed with infiltrating ductal carcinoma of the left breast with axillary involvement by study with biopsy, MRI and axillary ultrasound.",biopsy
+S1137-66272014000300015-1,2,7,"She was diagnosed with infiltrating ductal carcinoma of the left breast with axillary involvement by study with biopsy, MRI and axillary ultrasound.",MRI
+S1137-66272014000300015-1,2,8,"She was diagnosed with infiltrating ductal carcinoma of the left breast with axillary involvement by study with biopsy, MRI and axillary ultrasound.",axillary ultrasound
+S1137-66272014000300015-1,3,1,Neoadjuvant treatment is instituted with a standard chemotherapy regimen with FEC 75 (4 cycles) followed by docetaxel (4 cycles).,Neoadjuvant treatment
+S1137-66272014000300015-1,3,2,Neoadjuvant treatment is instituted with a standard chemotherapy regimen with FEC 75 (4 cycles) followed by docetaxel (4 cycles).,a standard chemotherapy regimen
+S1137-66272014000300015-1,3,3,Neoadjuvant treatment is instituted with a standard chemotherapy regimen with FEC 75 (4 cycles) followed by docetaxel (4 cycles).,FEC
+S1137-66272014000300015-1,3,4,Neoadjuvant treatment is instituted with a standard chemotherapy regimen with FEC 75 (4 cycles) followed by docetaxel (4 cycles).,4 cycles
+S1137-66272014000300015-1,3,5,Neoadjuvant treatment is instituted with a standard chemotherapy regimen with FEC 75 (4 cycles) followed by docetaxel (4 cycles).,docetaxel
+S1137-66272014000300015-1,3,6,Neoadjuvant treatment is instituted with a standard chemotherapy regimen with FEC 75 (4 cycles) followed by docetaxel (4 cycles).,4 cycles
+S1137-66272014000300015-1,4,1,"After treatment, an absence of radiological response was evident and surgery was subsequently performed, performing a left mastectomy and lymphadenectomy of Berg levels I and II.",treatment
+S1137-66272014000300015-1,4,2,"After treatment, an absence of radiological response was evident and surgery was subsequently performed, performing a left mastectomy and lymphadenectomy of Berg levels I and II.",an absence
+S1137-66272014000300015-1,4,3,"After treatment, an absence of radiological response was evident and surgery was subsequently performed, performing a left mastectomy and lymphadenectomy of Berg levels I and II.",radiological response
+S1137-66272014000300015-1,4,4,"After treatment, an absence of radiological response was evident and surgery was subsequently performed, performing a left mastectomy and lymphadenectomy of Berg levels I and II.",surgery
+S1137-66272014000300015-1,4,5,"After treatment, an absence of radiological response was evident and surgery was subsequently performed, performing a left mastectomy and lymphadenectomy of Berg levels I and II.",a left mastectomy
+S1137-66272014000300015-1,4,6,"After treatment, an absence of radiological response was evident and surgery was subsequently performed, performing a left mastectomy and lymphadenectomy of Berg levels I and II.",lymphadenectomy
+S1137-66272014000300015-1,4,7,"After treatment, an absence of radiological response was evident and surgery was subsequently performed, performing a left mastectomy and lymphadenectomy of Berg levels I and II.",Berg levels I
+S1137-66272014000300015-1,4,8,"After treatment, an absence of radiological response was evident and surgery was subsequently performed, performing a left mastectomy and lymphadenectomy of Berg levels I and II.",II
+S1137-66272014000300015-1,5,1,"The definitive pathological diagnosis is infiltrating ductal carcinoma, grade III, 2.6 cm, Her2-neu negative.",The definitive pathological diagnosis
+S1137-66272014000300015-1,5,2,"The definitive pathological diagnosis is infiltrating ductal carcinoma, grade III, 2.6 cm, Her2-neu negative.",ductal carcinoma
+S1137-66272014000300015-1,5,3,"The definitive pathological diagnosis is infiltrating ductal carcinoma, grade III, 2.6 cm, Her2-neu negative.",grade III
+S1137-66272014000300015-1,5,4,"The definitive pathological diagnosis is infiltrating ductal carcinoma, grade III, 2.6 cm, Her2-neu negative.",2.6 cm
+S1137-66272014000300015-1,5,5,"The definitive pathological diagnosis is infiltrating ductal carcinoma, grade III, 2.6 cm, Her2-neu negative.",Her2-neu negative
+S1137-66272014000300015-1,6,1,Estrogen receptors 98%.,Estrogen
+S1137-66272014000300015-1,7,1,Progesterone 38%.,Progesterone
+S1137-66272014000300015-1,8,1,P53 29%.,P53
+S1137-66272014000300015-1,9,1,Ki 67 35%.,Ki
+S1137-66272014000300015-1,9,2,Ki 67 35%.,67 35%
+S1137-66272014000300015-1,10,1,Her-2 0%.,Her-2
+S1137-66272014000300015-1,10,2,Her-2 0%.,0%
+S1137-66272014000300015-1,11,1,Keratin 56 positive 1/3.,Keratin
+S1137-66272014000300015-1,16,1,It is a B-Ki67 luminal pattern with metastasis in 1/19 lymph nodes.,It
+S1137-66272014000300015-1,16,2,It is a B-Ki67 luminal pattern with metastasis in 1/19 lymph nodes.,a B-Ki67 luminal pattern
+S1137-66272014000300015-1,16,3,It is a B-Ki67 luminal pattern with metastasis in 1/19 lymph nodes.,metastasis
+S1137-66272014000300015-1,16,4,It is a B-Ki67 luminal pattern with metastasis in 1/19 lymph nodes.,1/19 lymph nodes
+S1137-66272014000300015-1,17,1,"In the immediate postoperative period, there was slight bleeding externalized by the drainage, and conservative treatment was carried out.",the immediate postoperative period
+S1137-66272014000300015-1,17,2,"In the immediate postoperative period, there was slight bleeding externalized by the drainage, and conservative treatment was carried out.",slight bleeding
+S1137-66272014000300015-1,17,3,"In the immediate postoperative period, there was slight bleeding externalized by the drainage, and conservative treatment was carried out.",the drainage
+S1137-66272014000300015-1,17,4,"In the immediate postoperative period, there was slight bleeding externalized by the drainage, and conservative treatment was carried out.",conservative treatment
+S1137-66272014000300015-1,18,1,"On the seventh postoperative day, a discharge of 400 ml was observed through the axillary drainage, with a milky appearance, suggestive of chylous lymphorrhea.",the seventh postoperative day
+S1137-66272014000300015-1,18,2,"On the seventh postoperative day, a discharge of 400 ml was observed through the axillary drainage, with a milky appearance, suggestive of chylous lymphorrhea.",a discharge
+S1137-66272014000300015-1,18,3,"On the seventh postoperative day, a discharge of 400 ml was observed through the axillary drainage, with a milky appearance, suggestive of chylous lymphorrhea.",400 ml
+S1137-66272014000300015-1,18,4,"On the seventh postoperative day, a discharge of 400 ml was observed through the axillary drainage, with a milky appearance, suggestive of chylous lymphorrhea.",the axillary drainage
+S1137-66272014000300015-1,18,5,"On the seventh postoperative day, a discharge of 400 ml was observed through the axillary drainage, with a milky appearance, suggestive of chylous lymphorrhea.",a milky appearance
+S1137-66272014000300015-1,18,6,"On the seventh postoperative day, a discharge of 400 ml was observed through the axillary drainage, with a milky appearance, suggestive of chylous lymphorrhea.",suggestive
+S1137-66272014000300015-1,18,7,"On the seventh postoperative day, a discharge of 400 ml was observed through the axillary drainage, with a milky appearance, suggestive of chylous lymphorrhea.",chylous lymphorrhea
+S1137-66272014000300015-1,19,1,"The chylous fluid is confirmed by biochemical study (Triglycerides: 800 mg/dl, total cholesterol: 47 mg/dl).",The chylous fluid
+S1137-66272014000300015-1,19,2,"The chylous fluid is confirmed by biochemical study (Triglycerides: 800 mg/dl, total cholesterol: 47 mg/dl).",biochemical study
+S1137-66272014000300015-1,19,3,"The chylous fluid is confirmed by biochemical study (Triglycerides: 800 mg/dl, total cholesterol: 47 mg/dl).",(Triglycerides
+S1137-66272014000300015-1,19,4,"The chylous fluid is confirmed by biochemical study (Triglycerides: 800 mg/dl, total cholesterol: 47 mg/dl).",dl
+S1137-66272014000300015-1,19,5,"The chylous fluid is confirmed by biochemical study (Triglycerides: 800 mg/dl, total cholesterol: 47 mg/dl).",47 mg
+S1137-66272014000300015-1,19,6,"The chylous fluid is confirmed by biochemical study (Triglycerides: 800 mg/dl, total cholesterol: 47 mg/dl).",dl
+S1137-66272014000300015-1,20,1,"A fat-restricted diet is indicated, advising the ingestion of foods with medium-chain triglycerides and simultaneously administering subcutaneous somatostatin every 8 hours for 10 days.",A fat-restricted diet
+S1137-66272014000300015-1,20,2,"A fat-restricted diet is indicated, advising the ingestion of foods with medium-chain triglycerides and simultaneously administering subcutaneous somatostatin every 8 hours for 10 days.",the ingestion
+S1137-66272014000300015-1,20,3,"A fat-restricted diet is indicated, advising the ingestion of foods with medium-chain triglycerides and simultaneously administering subcutaneous somatostatin every 8 hours for 10 days.",foods
+S1137-66272014000300015-1,20,4,"A fat-restricted diet is indicated, advising the ingestion of foods with medium-chain triglycerides and simultaneously administering subcutaneous somatostatin every 8 hours for 10 days.",medium-chain triglycerides
+S1137-66272014000300015-1,20,5,"A fat-restricted diet is indicated, advising the ingestion of foods with medium-chain triglycerides and simultaneously administering subcutaneous somatostatin every 8 hours for 10 days.",subcutaneous somatostatin
+S1137-66272014000300015-1,20,6,"A fat-restricted diet is indicated, advising the ingestion of foods with medium-chain triglycerides and simultaneously administering subcutaneous somatostatin every 8 hours for 10 days.",10 days
+S1137-66272014000300015-1,21,1,"With these measures, the quantity and appearance of the axillary drainage improved and became normal, allowing its removal 20 days postoperatively.",these measures
+S1137-66272014000300015-1,21,2,"With these measures, the quantity and appearance of the axillary drainage improved and became normal, allowing its removal 20 days postoperatively.",the quantity
+S1137-66272014000300015-1,21,3,"With these measures, the quantity and appearance of the axillary drainage improved and became normal, allowing its removal 20 days postoperatively.",appearance
+S1137-66272014000300015-1,21,4,"With these measures, the quantity and appearance of the axillary drainage improved and became normal, allowing its removal 20 days postoperatively.",the axillary drainage
+S1137-66272014000300015-1,21,5,"With these measures, the quantity and appearance of the axillary drainage improved and became normal, allowing its removal 20 days postoperatively.",its removal
+S1137-66272014000300015-1,22,1,"In subsequent controls, no other complications were observed, and the patient went on to complete oncological treatment.",subsequent controls
+S1137-66272014000300015-1,22,2,"In subsequent controls, no other complications were observed, and the patient went on to complete oncological treatment.",no other complications
+S1137-66272014000300015-1,22,3,"In subsequent controls, no other complications were observed, and the patient went on to complete oncological treatment.",the patient
+S1137-66272014000300015-1,22,4,"In subsequent controls, no other complications were observed, and the patient went on to complete oncological treatment.",oncological treatment
+S1137-66272014000300015-1,23,1,The patient is asymptomatic and disease-free after 37 months of follow-up.,The patient
+S1137-66272014000300015-1,23,2,The patient is asymptomatic and disease-free after 37 months of follow-up.,37 months
+S1137-66272014000300015-1,23,3,The patient is asymptomatic and disease-free after 37 months of follow-up.,follow-up

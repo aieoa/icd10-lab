@@ -1,0 +1,90 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-05582009000600006-1,1,1,A healthy 24-year-old woman presented with gingival bleeding in her upper right teeth for the past 6 months.,A healthy 24-year-old woman
+S1130-05582009000600006-1,1,2,A healthy 24-year-old woman presented with gingival bleeding in her upper right teeth for the past 6 months.,gingival
+S1130-05582009000600006-1,1,3,A healthy 24-year-old woman presented with gingival bleeding in her upper right teeth for the past 6 months.,her upper right teeth
+S1130-05582009000600006-1,1,4,A healthy 24-year-old woman presented with gingival bleeding in her upper right teeth for the past 6 months.,the past 6 months
+S1130-05582009000600006-1,2,1,The patient also reported episodes of mild pain and a gradual deviation of the teeth.,The patient
+S1130-05582009000600006-1,2,2,The patient also reported episodes of mild pain and a gradual deviation of the teeth.,episodes
+S1130-05582009000600006-1,2,3,The patient also reported episodes of mild pain and a gradual deviation of the teeth.,mild pain
+S1130-05582009000600006-1,2,4,The patient also reported episodes of mild pain and a gradual deviation of the teeth.,a gradual deviation
+S1130-05582009000600006-1,2,5,The patient also reported episodes of mild pain and a gradual deviation of the teeth.,the teeth
+S1130-05582009000600006-1,3,1,There were no signs of fever or pus.,no signs
+S1130-05582009000600006-1,3,2,There were no signs of fever or pus.,fever
+S1130-05582009000600006-1,3,3,There were no signs of fever or pus.,pus
+S1130-05582009000600006-1,4,1,A general systemic examination of the patient did not reveal any abnormalities.,A general systemic examination
+S1130-05582009000600006-1,4,2,A general systemic examination of the patient did not reveal any abnormalities.,the patient
+S1130-05582009000600006-1,4,3,A general systemic examination of the patient did not reveal any abnormalities.,any abnormalities
+S1130-05582009000600006-1,5,1,Local examination revealed a 1 x 3 cm diffuse inflammation in the socket corresponding to the upper right molars.,Local examination
+S1130-05582009000600006-1,5,2,Local examination revealed a 1 x 3 cm diffuse inflammation in the socket corresponding to the upper right molars.,inflammation
+S1130-05582009000600006-1,5,3,Local examination revealed a 1 x 3 cm diffuse inflammation in the socket corresponding to the upper right molars.,the socket
+S1130-05582009000600006-1,5,4,Local examination revealed a 1 x 3 cm diffuse inflammation in the socket corresponding to the upper right molars.,the upper right molars
+S1130-05582009000600006-1,6,1,The swelling was most prominent on the buccal aspect.,The swelling
+S1130-05582009000600006-1,6,2,The swelling was most prominent on the buccal aspect.,the buccal aspect
+S1130-05582009000600006-1,7,1,The surface appeared rough and erythematous.,The surface
+S1130-05582009000600006-1,8,1,There were no visible pulsations in the lesion.,no visible pulsations
+S1130-05582009000600006-1,8,2,There were no visible pulsations in the lesion.,the lesion
+S1130-05582009000600006-1,9,1,The aforementioned teeth deviated towards the palate.,The aforementioned teeth
+S1130-05582009000600006-1,9,2,The aforementioned teeth deviated towards the palate.,the palate
+S1130-05582009000600006-1,10,1,"On palpation, the swelling had a hard consistency.",palpation
+S1130-05582009000600006-1,10,2,"On palpation, the swelling had a hard consistency.",the swelling
+S1130-05582009000600006-1,10,3,"On palpation, the swelling had a hard consistency.",a hard consistency
+S1130-05582009000600006-1,11,1,"The three affected teeth did not respond to heat, cold or electrical stimulation of the pulp.",The three affected teeth
+S1130-05582009000600006-1,11,2,"The three affected teeth did not respond to heat, cold or electrical stimulation of the pulp.",heat
+S1130-05582009000600006-1,11,3,"The three affected teeth did not respond to heat, cold or electrical stimulation of the pulp.",stimulation
+S1130-05582009000600006-1,11,4,"The three affected teeth did not respond to heat, cold or electrical stimulation of the pulp.",the pulp
+S1130-05582009000600006-1,12,1,Orthopantomography was inconclusive.,Orthopantomography
+S1130-05582009000600006-1,13,1,"A contrast-enhanced computed tomography (CT) scan showed a soft tissue mass in the right maxillary alveolus, without bone erosion.",A contrast-enhanced computed tomography
+S1130-05582009000600006-1,13,2,"A contrast-enhanced computed tomography (CT) scan showed a soft tissue mass in the right maxillary alveolus, without bone erosion.",CT
+S1130-05582009000600006-1,13,3,"A contrast-enhanced computed tomography (CT) scan showed a soft tissue mass in the right maxillary alveolus, without bone erosion.",scan
+S1130-05582009000600006-1,13,4,"A contrast-enhanced computed tomography (CT) scan showed a soft tissue mass in the right maxillary alveolus, without bone erosion.",a soft tissue mass
+S1130-05582009000600006-1,13,5,"A contrast-enhanced computed tomography (CT) scan showed a soft tissue mass in the right maxillary alveolus, without bone erosion.",bone erosion
+S1130-05582009000600006-1,14,1,"Radiological examinations and routine hematological examinations, including coagulation tests, did not reveal any abnormalities.",Radiological examinations
+S1130-05582009000600006-1,14,2,"Radiological examinations and routine hematological examinations, including coagulation tests, did not reveal any abnormalities.",routine hematological examinations
+S1130-05582009000600006-1,14,3,"Radiological examinations and routine hematological examinations, including coagulation tests, did not reveal any abnormalities.",coagulation tests
+S1130-05582009000600006-1,14,4,"Radiological examinations and routine hematological examinations, including coagulation tests, did not reveal any abnormalities.",any abnormalities
+S1130-05582009000600006-1,15,1,"Based on the clinical, radiological, and CT findings, a provisional diagnosis of giant cell lesion was made, and an incisional biopsy of the buccal gingiva was performed.",CT findings
+S1130-05582009000600006-1,15,2,"Based on the clinical, radiological, and CT findings, a provisional diagnosis of giant cell lesion was made, and an incisional biopsy of the buccal gingiva was performed.",a provisional diagnosis
+S1130-05582009000600006-1,15,3,"Based on the clinical, radiological, and CT findings, a provisional diagnosis of giant cell lesion was made, and an incisional biopsy of the buccal gingiva was performed.",giant cell lesion
+S1130-05582009000600006-1,15,4,"Based on the clinical, radiological, and CT findings, a provisional diagnosis of giant cell lesion was made, and an incisional biopsy of the buccal gingiva was performed.",an incisional biopsy
+S1130-05582009000600006-1,15,5,"Based on the clinical, radiological, and CT findings, a provisional diagnosis of giant cell lesion was made, and an incisional biopsy of the buccal gingiva was performed.",the buccal gingiva
+S1130-05582009000600006-1,16,1,Marginal increase in intraoperative bleeding was evident but was attributed to inflammation.,Marginal increase
+S1130-05582009000600006-1,16,2,Marginal increase in intraoperative bleeding was evident but was attributed to inflammation.,intraoperative bleeding
+S1130-05582009000600006-1,16,3,Marginal increase in intraoperative bleeding was evident but was attributed to inflammation.,inflammation
+S1130-05582009000600006-1,17,1,The pathological report of the sample revealed fibrovascular connective tissue with aggregates of numerous capillaries and dilated endothelial venules suggestive of AVM.,The pathological report
+S1130-05582009000600006-1,17,2,The pathological report of the sample revealed fibrovascular connective tissue with aggregates of numerous capillaries and dilated endothelial venules suggestive of AVM.,the sample
+S1130-05582009000600006-1,17,3,The pathological report of the sample revealed fibrovascular connective tissue with aggregates of numerous capillaries and dilated endothelial venules suggestive of AVM.,fibrovascular connective tissue
+S1130-05582009000600006-1,17,4,The pathological report of the sample revealed fibrovascular connective tissue with aggregates of numerous capillaries and dilated endothelial venules suggestive of AVM.,aggregates
+S1130-05582009000600006-1,17,5,The pathological report of the sample revealed fibrovascular connective tissue with aggregates of numerous capillaries and dilated endothelial venules suggestive of AVM.,numerous capillaries
+S1130-05582009000600006-1,17,6,The pathological report of the sample revealed fibrovascular connective tissue with aggregates of numerous capillaries and dilated endothelial venules suggestive of AVM.,endothelial venules suggestive
+S1130-05582009000600006-1,17,7,The pathological report of the sample revealed fibrovascular connective tissue with aggregates of numerous capillaries and dilated endothelial venules suggestive of AVM.,AVM
+S1130-05582009000600006-1,18,1,"After consultation with an interventional radiologist, resection of the lesion was decided and performed under general anesthesia.",consultation
+S1130-05582009000600006-1,18,2,"After consultation with an interventional radiologist, resection of the lesion was decided and performed under general anesthesia.",an interventional radiologist
+S1130-05582009000600006-1,18,3,"After consultation with an interventional radiologist, resection of the lesion was decided and performed under general anesthesia.",resection
+S1130-05582009000600006-1,18,4,"After consultation with an interventional radiologist, resection of the lesion was decided and performed under general anesthesia.",the lesion
+S1130-05582009000600006-1,18,5,"After consultation with an interventional radiologist, resection of the lesion was decided and performed under general anesthesia.",general anesthesia
+S1130-05582009000600006-1,19,1,"The only sample included buccal and palatal gingiva, alveoli, and the affected teeth.",The only sample
+S1130-05582009000600006-1,19,2,"The only sample included buccal and palatal gingiva, alveoli, and the affected teeth.",buccal and palatal gingiva
+S1130-05582009000600006-1,19,3,"The only sample included buccal and palatal gingiva, alveoli, and the affected teeth.",alveoli
+S1130-05582009000600006-1,19,4,"The only sample included buccal and palatal gingiva, alveoli, and the affected teeth.",the affected teeth
+S1130-05582009000600006-1,20,1,Hemostasis was achieved and the defect was closed by first intention by advancing the palate and buccal mucosa.,Hemostasis
+S1130-05582009000600006-1,20,2,Hemostasis was achieved and the defect was closed by first intention by advancing the palate and buccal mucosa.,the defect
+S1130-05582009000600006-1,20,3,Hemostasis was achieved and the defect was closed by first intention by advancing the palate and buccal mucosa.,first intention
+S1130-05582009000600006-1,20,4,Hemostasis was achieved and the defect was closed by first intention by advancing the palate and buccal mucosa.,the palate
+S1130-05582009000600006-1,20,5,Hemostasis was achieved and the defect was closed by first intention by advancing the palate and buccal mucosa.,buccal mucosa
+S1130-05582009000600006-1,21,1,The perioperative period and recovery were uneventful and comfortable for the patient.,The perioperative period
+S1130-05582009000600006-1,21,2,The perioperative period and recovery were uneventful and comfortable for the patient.,recovery
+S1130-05582009000600006-1,21,3,The perioperative period and recovery were uneventful and comfortable for the patient.,the patient
+S1130-05582009000600006-1,22,1,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",The pathological analysis
+S1130-05582009000600006-1,22,2,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",the sample
+S1130-05582009000600006-1,22,3,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",that
+S1130-05582009000600006-1,22,4,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",the incisional biopsy
+S1130-05582009000600006-1,22,5,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",numerous arterioles
+S1130-05582009000600006-1,22,6,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",venules
+S1130-05582009000600006-1,22,7,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",the bone trabeculae
+S1130-05582009000600006-1,22,8,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",which
+S1130-05582009000600006-1,22,9,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",the gingiva
+S1130-05582009000600006-1,22,10,"The pathological analysis of the sample was very similar to that of the incisional biopsy and revealed numerous arterioles and venules interspersed between the bone trabeculae, which extended to the gingiva, suggesting arteriovenous malformation.",arteriovenous malformation
+S1130-05582009000600006-1,23,1,The patient was followed up for a period of 1 year without recurrence.,The patient
+S1130-05582009000600006-1,23,2,The patient was followed up for a period of 1 year without recurrence.,a period
+S1130-05582009000600006-1,23,3,The patient was followed up for a period of 1 year without recurrence.,1 year
+S1130-05582009000600006-1,23,4,The patient was followed up for a period of 1 year without recurrence.,recurrence

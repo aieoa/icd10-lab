@@ -1,0 +1,71 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0212-71992006000600008-1,1,1,A 73-year-old woman whose personal history reported only bronchial asthma that she treated with bronchodilators as needed.,A 73-year-old woman
+S0212-71992006000600008-1,1,2,A 73-year-old woman whose personal history reported only bronchial asthma that she treated with bronchodilators as needed.,whose personal history
+S0212-71992006000600008-1,1,3,A 73-year-old woman whose personal history reported only bronchial asthma that she treated with bronchodilators as needed.,only bronchial asthma
+S0212-71992006000600008-1,1,4,A 73-year-old woman whose personal history reported only bronchial asthma that she treated with bronchodilators as needed.,that
+S0212-71992006000600008-1,1,5,A 73-year-old woman whose personal history reported only bronchial asthma that she treated with bronchodilators as needed.,she
+S0212-71992006000600008-1,1,6,A 73-year-old woman whose personal history reported only bronchial asthma that she treated with bronchodilators as needed.,bronchodilators
+S0212-71992006000600008-1,2,1,She did not report cardiovascular risk factors.,She
+S0212-71992006000600008-1,2,2,She did not report cardiovascular risk factors.,cardiovascular risk factors
+S0212-71992006000600008-1,3,1,The patient went to the hospital due to bronchial hyperreactivity secondary to respiratory infection.,The patient
+S0212-71992006000600008-1,3,2,The patient went to the hospital due to bronchial hyperreactivity secondary to respiratory infection.,the hospital
+S0212-71992006000600008-1,3,3,The patient went to the hospital due to bronchial hyperreactivity secondary to respiratory infection.,bronchial hyperreactivity
+S0212-71992006000600008-1,3,4,The patient went to the hospital due to bronchial hyperreactivity secondary to respiratory infection.,respiratory infection
+S0212-71992006000600008-1,4,1,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",her anamnesis
+S0212-71992006000600008-1,4,2,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",she
+S0212-71992006000600008-1,4,3,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",oppressive back pain
+S0212-71992006000600008-1,4,4,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",sweating
+S0212-71992006000600008-1,4,5,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",dyspnea
+S0212-71992006000600008-1,4,6,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",8 months
+S0212-71992006000600008-1,4,7,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",that
+S0212-71992006000600008-1,4,8,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",moderate exertion
+S0212-71992006000600008-1,4,9,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",which
+S0212-71992006000600008-1,4,10,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",rest
+S0212-71992006000600008-1,4,11,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",which
+S0212-71992006000600008-1,4,12,"In her anamnesis she reported oppressive back pain with sweating and dyspnea for 8 months that was triggered by moderate exertion, which subsided with rest and which had not changed in all this time.",all this time
+S0212-71992006000600008-1,5,1,"On auscultation her heart was rhythmic, she had a third heart sound, a fluctuating systolic and diastolic murmur, and signs of heart failure.",auscultation
+S0212-71992006000600008-1,5,2,"On auscultation her heart was rhythmic, she had a third heart sound, a fluctuating systolic and diastolic murmur, and signs of heart failure.",her heart
+S0212-71992006000600008-1,5,3,"On auscultation her heart was rhythmic, she had a third heart sound, a fluctuating systolic and diastolic murmur, and signs of heart failure.",she
+S0212-71992006000600008-1,5,4,"On auscultation her heart was rhythmic, she had a third heart sound, a fluctuating systolic and diastolic murmur, and signs of heart failure.",a third heart sound
+S0212-71992006000600008-1,5,5,"On auscultation her heart was rhythmic, she had a third heart sound, a fluctuating systolic and diastolic murmur, and signs of heart failure.",a fluctuating systolic
+S0212-71992006000600008-1,5,6,"On auscultation her heart was rhythmic, she had a third heart sound, a fluctuating systolic and diastolic murmur, and signs of heart failure.",signs
+S0212-71992006000600008-1,5,7,"On auscultation her heart was rhythmic, she had a third heart sound, a fluctuating systolic and diastolic murmur, and signs of heart failure.",heart failure
+S0212-71992006000600008-1,6,1,Lung auscultation revealed rhonchi and wheezing compatible with the bronchial hyperreactivity that led to admission.,Lung auscultation
+S0212-71992006000600008-1,6,2,Lung auscultation revealed rhonchi and wheezing compatible with the bronchial hyperreactivity that led to admission.,rhonchi
+S0212-71992006000600008-1,6,3,Lung auscultation revealed rhonchi and wheezing compatible with the bronchial hyperreactivity that led to admission.,the bronchial hyperreactivity
+S0212-71992006000600008-1,6,4,Lung auscultation revealed rhonchi and wheezing compatible with the bronchial hyperreactivity that led to admission.,that
+S0212-71992006000600008-1,6,5,Lung auscultation revealed rhonchi and wheezing compatible with the bronchial hyperreactivity that led to admission.,admission
+S0212-71992006000600008-1,7,1,The analysis showed anemia with a slight increase in acute phase reactants.,The analysis
+S0212-71992006000600008-1,7,2,The analysis showed anemia with a slight increase in acute phase reactants.,anemia
+S0212-71992006000600008-1,7,3,The analysis showed anemia with a slight increase in acute phase reactants.,a slight increase
+S0212-71992006000600008-1,7,4,The analysis showed anemia with a slight increase in acute phase reactants.,acute phase reactants
+S0212-71992006000600008-1,8,1,Cardiac biomarkers were negative.,Cardiac biomarkers
+S0212-71992006000600008-1,9,1,"The ECG was normal and the chest x-ray showed cardiomegaly, not present in a previous one from a year ago.",The ECG
+S0212-71992006000600008-1,9,2,"The ECG was normal and the chest x-ray showed cardiomegaly, not present in a previous one from a year ago.",the chest x
+S0212-71992006000600008-1,9,3,"The ECG was normal and the chest x-ray showed cardiomegaly, not present in a previous one from a year ago.",-
+S0212-71992006000600008-1,9,4,"The ECG was normal and the chest x-ray showed cardiomegaly, not present in a previous one from a year ago.",ray
+S0212-71992006000600008-1,9,5,"The ECG was normal and the chest x-ray showed cardiomegaly, not present in a previous one from a year ago.",cardiomegaly
+S0212-71992006000600008-1,10,1,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",the initial suspicion
+S0212-71992006000600008-1,10,2,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",bronchial hyperreactivity
+S0212-71992006000600008-1,10,3,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",stable exertional angina
+S0212-71992006000600008-1,10,4,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",secondary heart failure
+S0212-71992006000600008-1,10,5,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",an echocardiogram
+S0212-71992006000600008-1,10,6,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",which
+S0212-71992006000600008-1,10,7,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",the left atrium
+S0212-71992006000600008-1,10,8,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",the fossa ovalis
+S0212-71992006000600008-1,10,9,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",diastole
+S0212-71992006000600008-1,10,10,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",the ventricle
+S0212-71992006000600008-1,10,11,"With the initial suspicion of bronchial hyperreactivity, stable exertional angina and secondary heart failure, an echocardiogram was requested, which showed a 4 x 5 cm mass dependent on the left atrium and that, starting from the fossa ovalis, protruded in diastole towards the ventricle, producing a stenosis. mitral.",a stenosis
+S0212-71992006000600008-1,11,1,"Subsequently, a cardiac catheterization was performed in which no angiographically significant coronary lesions were observed.",a cardiac catheterization
+S0212-71992006000600008-1,11,2,"Subsequently, a cardiac catheterization was performed in which no angiographically significant coronary lesions were observed.",which
+S0212-71992006000600008-1,11,3,"Subsequently, a cardiac catheterization was performed in which no angiographically significant coronary lesions were observed.",no angiographically significant coronary lesions
+S0212-71992006000600008-1,12,1,"With suspicion of atrial myxoma, the patient underwent surgery, confirming the diagnosis by histology.",suspicion
+S0212-71992006000600008-1,12,2,"With suspicion of atrial myxoma, the patient underwent surgery, confirming the diagnosis by histology.",atrial myxoma
+S0212-71992006000600008-1,12,3,"With suspicion of atrial myxoma, the patient underwent surgery, confirming the diagnosis by histology.",the patient
+S0212-71992006000600008-1,12,4,"With suspicion of atrial myxoma, the patient underwent surgery, confirming the diagnosis by histology.",surgery
+S0212-71992006000600008-1,12,5,"With suspicion of atrial myxoma, the patient underwent surgery, confirming the diagnosis by histology.",the diagnosis
+S0212-71992006000600008-1,12,6,"With suspicion of atrial myxoma, the patient underwent surgery, confirming the diagnosis by histology.",histology
+S0212-71992006000600008-1,13,1,"Four months after the intervention, the patient is asymptomatic and without signs of recurrence.",the intervention
+S0212-71992006000600008-1,13,2,"Four months after the intervention, the patient is asymptomatic and without signs of recurrence.",the patient
+S0212-71992006000600008-1,13,3,"Four months after the intervention, the patient is asymptomatic and without signs of recurrence.",signs
+S0212-71992006000600008-1,13,4,"Four months after the intervention, the patient is asymptomatic and without signs of recurrence.",recurrence

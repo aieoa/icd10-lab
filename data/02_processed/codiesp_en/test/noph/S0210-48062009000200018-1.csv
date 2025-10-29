@@ -1,0 +1,164 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062009000200018-1,1,1,"Male patient, 68 years old, former textile industry worker, sent to the clinic due to complex renal cystic mass.",Male patient
+S0210-48062009000200018-1,1,2,"Male patient, 68 years old, former textile industry worker, sent to the clinic due to complex renal cystic mass.",former textile industry worker
+S0210-48062009000200018-1,1,3,"Male patient, 68 years old, former textile industry worker, sent to the clinic due to complex renal cystic mass.",the clinic
+S0210-48062009000200018-1,1,4,"Male patient, 68 years old, former textile industry worker, sent to the clinic due to complex renal cystic mass.",complex renal cystic mass
+S0210-48062009000200018-1,2,1,"History of rheumatoid arthritis, controlled hypertension, dyslipidemia, pulmonary tuberculosis 40 years ago, medicated with indapamide, sinvastatin and NSAIDs.",History
+S0210-48062009000200018-1,2,2,"History of rheumatoid arthritis, controlled hypertension, dyslipidemia, pulmonary tuberculosis 40 years ago, medicated with indapamide, sinvastatin and NSAIDs.",rheumatoid arthritis
+S0210-48062009000200018-1,2,3,"History of rheumatoid arthritis, controlled hypertension, dyslipidemia, pulmonary tuberculosis 40 years ago, medicated with indapamide, sinvastatin and NSAIDs.",controlled hypertension
+S0210-48062009000200018-1,2,4,"History of rheumatoid arthritis, controlled hypertension, dyslipidemia, pulmonary tuberculosis 40 years ago, medicated with indapamide, sinvastatin and NSAIDs.",indapamide
+S0210-48062009000200018-1,2,5,"History of rheumatoid arthritis, controlled hypertension, dyslipidemia, pulmonary tuberculosis 40 years ago, medicated with indapamide, sinvastatin and NSAIDs.",sinvastatin
+S0210-48062009000200018-1,2,6,"History of rheumatoid arthritis, controlled hypertension, dyslipidemia, pulmonary tuberculosis 40 years ago, medicated with indapamide, sinvastatin and NSAIDs.",NSAIDs
+S0210-48062009000200018-1,3,1,He denied smoking habits or exposure to chemical agents.,He
+S0210-48062009000200018-1,3,2,He denied smoking habits or exposure to chemical agents.,smoking habits
+S0210-48062009000200018-1,3,3,He denied smoking habits or exposure to chemical agents.,exposure
+S0210-48062009000200018-1,3,4,He denied smoking habits or exposure to chemical agents.,chemical agents
+S0210-48062009000200018-1,4,1,He reported exposure to sheep in his youth.,He
+S0210-48062009000200018-1,4,2,He reported exposure to sheep in his youth.,exposure
+S0210-48062009000200018-1,4,3,He reported exposure to sheep in his youth.,sheep
+S0210-48062009000200018-1,4,4,He reported exposure to sheep in his youth.,his youth
+S0210-48062009000200018-1,5,1,He denied any known history of kidney stones.,He
+S0210-48062009000200018-1,5,2,He denied any known history of kidney stones.,any known history
+S0210-48062009000200018-1,5,3,He denied any known history of kidney stones.,kidney stones
+S0210-48062009000200018-1,6,1,Underwent left hip arthroplasty years ago.,Underwent
+S0210-48062009000200018-1,6,2,Underwent left hip arthroplasty years ago.,hip arthroplasty
+S0210-48062009000200018-1,7,1,No history of abdominal or genitourinary surgery.,No history
+S0210-48062009000200018-1,7,2,No history of abdominal or genitourinary surgery.,abdominal or genitourinary surgery
+S0210-48062009000200018-1,8,1,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",months
+S0210-48062009000200018-1,8,2,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",he
+S0210-48062009000200018-1,8,3,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",the elimination
+S0210-48062009000200018-1,8,4,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",gelatinous material
+S0210-48062009000200018-1,8,5,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",the urine
+S0210-48062009000200018-1,8,6,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",specific form
+S0210-48062009000200018-1,8,7,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",episodes
+S0210-48062009000200018-1,8,8,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",total macroscopic hematuria
+S0210-48062009000200018-1,8,9,"For months he had been reporting the elimination of gelatinous material in the urine, without specific form, accompanied by episodes of total macroscopic hematuria, without clots.",clots
+S0210-48062009000200018-1,9,1,"Without other accompanying symptoms, such as low back pain, nausea or vomiting, or low urinary complaints.",other accompanying symptoms
+S0210-48062009000200018-1,9,2,"Without other accompanying symptoms, such as low back pain, nausea or vomiting, or low urinary complaints.",low back pain
+S0210-48062009000200018-1,9,3,"Without other accompanying symptoms, such as low back pain, nausea or vomiting, or low urinary complaints.",nausea
+S0210-48062009000200018-1,9,4,"Without other accompanying symptoms, such as low back pain, nausea or vomiting, or low urinary complaints.",vomiting
+S0210-48062009000200018-1,9,5,"Without other accompanying symptoms, such as low back pain, nausea or vomiting, or low urinary complaints.",low urinary complaints
+S0210-48062009000200018-1,10,1,"Without anorexia, asthenia or weight loss.",anorexia
+S0210-48062009000200018-1,10,2,"Without anorexia, asthenia or weight loss.",asthenia
+S0210-48062009000200018-1,10,3,"Without anorexia, asthenia or weight loss.",weight loss
+S0210-48062009000200018-1,11,1,No respiratory or gastrointestinal symptoms.,No respiratory or gastrointestinal symptoms
+S0210-48062009000200018-1,12,1,"On physical examination, there was swelling of the left flank/lumbar region, which was not painful.",physical examination
+S0210-48062009000200018-1,12,2,"On physical examination, there was swelling of the left flank/lumbar region, which was not painful.",the left flank/lumbar region
+S0210-48062009000200018-1,12,3,"On physical examination, there was swelling of the left flank/lumbar region, which was not painful.",which
+S0210-48062009000200018-1,13,1,"No hepatomegaly, no abnormal abdominal collateral circulation.",No hepatomegaly
+S0210-48062009000200018-1,13,2,"No hepatomegaly, no abnormal abdominal collateral circulation.",no abnormal abdominal collateral circulation
+S0210-48062009000200018-1,14,1,Genitals without clinical varicocele.,Genitals
+S0210-48062009000200018-1,14,2,Genitals without clinical varicocele.,clinical varicocele
+S0210-48062009000200018-1,15,1,Lower limbs without edema.,Lower limbs
+S0210-48062009000200018-1,15,2,Lower limbs without edema.,edema
+S0210-48062009000200018-1,16,1,Without peripheral lymphadenopathy.,peripheral lymphadenopathy
+S0210-48062009000200018-1,17,1,Pulmonary ausculation without apparent alterations.,Pulmonary ausculation
+S0210-48062009000200018-1,17,2,Pulmonary ausculation without apparent alterations.,apparent alterations
+S0210-48062009000200018-1,18,1,"In analytical terms, he had slight anemia (Hb 12.7 g/dL), without leukocytosis.",analytical terms
+S0210-48062009000200018-1,18,2,"In analytical terms, he had slight anemia (Hb 12.7 g/dL), without leukocytosis.",he
+S0210-48062009000200018-1,18,3,"In analytical terms, he had slight anemia (Hb 12.7 g/dL), without leukocytosis.",slight anemia
+S0210-48062009000200018-1,18,4,"In analytical terms, he had slight anemia (Hb 12.7 g/dL), without leukocytosis.",Hb
+S0210-48062009000200018-1,18,5,"In analytical terms, he had slight anemia (Hb 12.7 g/dL), without leukocytosis.",12.7 g
+S0210-48062009000200018-1,18,6,"In analytical terms, he had slight anemia (Hb 12.7 g/dL), without leukocytosis.",dL
+S0210-48062009000200018-1,18,7,"In analytical terms, he had slight anemia (Hb 12.7 g/dL), without leukocytosis.",leukocytosis
+S0210-48062009000200018-1,19,1,Relative eosinophilia (2800/µL).,Relative eosinophilia
+S0210-48062009000200018-1,19,2,Relative eosinophilia (2800/µL).,2800/µL
+S0210-48062009000200018-1,20,1,VS 67mm.,VS
+S0210-48062009000200018-1,21,1,Creatinine 1.2 mg/dL.,Creatinine
+S0210-48062009000200018-1,21,2,Creatinine 1.2 mg/dL.,/dL.
+S0210-48062009000200018-1,22,1,Urea 77 mg/dL.,Urea
+S0210-48062009000200018-1,22,2,Urea 77 mg/dL.,mg/dL.
+S0210-48062009000200018-1,23,1,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",Carrier
+S0210-48062009000200018-1,23,2,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",an ultrasound
+S0210-48062009000200018-1,23,3,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",a right kidney
+S0210-48062009000200018-1,23,4,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",somewhat reduced dimensions
+S0210-48062009000200018-1,23,5,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",10.8 cm
+S0210-48062009000200018-1,23,6,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",increased echogenicity
+S0210-48062009000200018-1,23,7,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",the parenchyma
+S0210-48062009000200018-1,23,8,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",a simple cyst
+S0210-48062009000200018-1,23,9,"Carrier of an ultrasound revealing a right kidney of somewhat reduced dimensions (10.8 cm) and with increased echogenicity of the parenchyma, presenting a simple cyst in the upper pole.",the upper pole
+S0210-48062009000200018-1,24,1,"The left kidney presents a voluminous complex cyst of the upper pole (70 x 68 x 67 mm), presenting evident solid content and regions associated with posterior acoustic shadowing.",The left kidney
+S0210-48062009000200018-1,24,2,"The left kidney presents a voluminous complex cyst of the upper pole (70 x 68 x 67 mm), presenting evident solid content and regions associated with posterior acoustic shadowing.",a voluminous complex cyst
+S0210-48062009000200018-1,24,3,"The left kidney presents a voluminous complex cyst of the upper pole (70 x 68 x 67 mm), presenting evident solid content and regions associated with posterior acoustic shadowing.",the upper pole
+S0210-48062009000200018-1,24,4,"The left kidney presents a voluminous complex cyst of the upper pole (70 x 68 x 67 mm), presenting evident solid content and regions associated with posterior acoustic shadowing.",70 x 68 x 67 mm
+S0210-48062009000200018-1,24,5,"The left kidney presents a voluminous complex cyst of the upper pole (70 x 68 x 67 mm), presenting evident solid content and regions associated with posterior acoustic shadowing.",evident solid content
+S0210-48062009000200018-1,24,6,"The left kidney presents a voluminous complex cyst of the upper pole (70 x 68 x 67 mm), presenting evident solid content and regions associated with posterior acoustic shadowing.",regions
+S0210-48062009000200018-1,24,7,"The left kidney presents a voluminous complex cyst of the upper pole (70 x 68 x 67 mm), presenting evident solid content and regions associated with posterior acoustic shadowing.",posterior acoustic shadowing
+S0210-48062009000200018-1,25,1,"Subjected to abdominopelvic CT - voluminous complex cystic formation that contained gross parietal and central calcifications, occupying the upper two thirds of the left kidney, as well as fine septa inside, presenting attenuation values ​​that varied between 10 and 20 Housefield units.",abdominopelvic CT - voluminous complex cystic formation
+S0210-48062009000200018-1,25,2,"Subjected to abdominopelvic CT - voluminous complex cystic formation that contained gross parietal and central calcifications, occupying the upper two thirds of the left kidney, as well as fine septa inside, presenting attenuation values ​​that varied between 10 and 20 Housefield units.",that
+S0210-48062009000200018-1,25,3,"Subjected to abdominopelvic CT - voluminous complex cystic formation that contained gross parietal and central calcifications, occupying the upper two thirds of the left kidney, as well as fine septa inside, presenting attenuation values ​​that varied between 10 and 20 Housefield units.",gross parietal and central calcifications
+S0210-48062009000200018-1,25,4,"Subjected to abdominopelvic CT - voluminous complex cystic formation that contained gross parietal and central calcifications, occupying the upper two thirds of the left kidney, as well as fine septa inside, presenting attenuation values ​​that varied between 10 and 20 Housefield units.",the upper two thirds
+S0210-48062009000200018-1,25,5,"Subjected to abdominopelvic CT - voluminous complex cystic formation that contained gross parietal and central calcifications, occupying the upper two thirds of the left kidney, as well as fine septa inside, presenting attenuation values ​​that varied between 10 and 20 Housefield units.",the left kidney
+S0210-48062009000200018-1,25,6,"Subjected to abdominopelvic CT - voluminous complex cystic formation that contained gross parietal and central calcifications, occupying the upper two thirds of the left kidney, as well as fine septa inside, presenting attenuation values ​​that varied between 10 and 20 Housefield units.",attenuation values
+S0210-48062009000200018-1,25,7,"Subjected to abdominopelvic CT - voluminous complex cystic formation that contained gross parietal and central calcifications, occupying the upper two thirds of the left kidney, as well as fine septa inside, presenting attenuation values ​​that varied between 10 and 20 Housefield units.",​​that
+S0210-48062009000200018-1,25,8,"Subjected to abdominopelvic CT - voluminous complex cystic formation that contained gross parietal and central calcifications, occupying the upper two thirds of the left kidney, as well as fine septa inside, presenting attenuation values ​​that varied between 10 and 20 Housefield units.",10 and 20 Housefield units
+S0210-48062009000200018-1,26,1,"After contrast administration, contrast uptake by the walls is evident.",contrast administration
+S0210-48062009000200018-1,26,2,"After contrast administration, contrast uptake by the walls is evident.",contrast uptake
+S0210-48062009000200018-1,26,3,"After contrast administration, contrast uptake by the walls is evident.",the walls
+S0210-48062009000200018-1,27,1,"No lesions of abdominal solid organs, presence of retroperitoneal lymphadenopathy or morphological alteration of the adrenal glands were evident.",No lesions
+S0210-48062009000200018-1,27,2,"No lesions of abdominal solid organs, presence of retroperitoneal lymphadenopathy or morphological alteration of the adrenal glands were evident.",abdominal solid organs
+S0210-48062009000200018-1,27,3,"No lesions of abdominal solid organs, presence of retroperitoneal lymphadenopathy or morphological alteration of the adrenal glands were evident.",presence
+S0210-48062009000200018-1,27,4,"No lesions of abdominal solid organs, presence of retroperitoneal lymphadenopathy or morphological alteration of the adrenal glands were evident.",retroperitoneal lymphadenopathy or morphological alteration
+S0210-48062009000200018-1,27,5,"No lesions of abdominal solid organs, presence of retroperitoneal lymphadenopathy or morphological alteration of the adrenal glands were evident.",the adrenal glands
+S0210-48062009000200018-1,28,1,"Chest x-ray without significant alterations, such as cystic lesions or alterations compatible with lesions of a metastatic nature or active tuberculosis.",Chest x
+S0210-48062009000200018-1,28,2,"Chest x-ray without significant alterations, such as cystic lesions or alterations compatible with lesions of a metastatic nature or active tuberculosis.",significant alterations
+S0210-48062009000200018-1,28,3,"Chest x-ray without significant alterations, such as cystic lesions or alterations compatible with lesions of a metastatic nature or active tuberculosis.",cystic lesions
+S0210-48062009000200018-1,28,4,"Chest x-ray without significant alterations, such as cystic lesions or alterations compatible with lesions of a metastatic nature or active tuberculosis.",alterations
+S0210-48062009000200018-1,28,5,"Chest x-ray without significant alterations, such as cystic lesions or alterations compatible with lesions of a metastatic nature or active tuberculosis.",lesions
+S0210-48062009000200018-1,28,6,"Chest x-ray without significant alterations, such as cystic lesions or alterations compatible with lesions of a metastatic nature or active tuberculosis.",a metastatic nature
+S0210-48062009000200018-1,28,7,"Chest x-ray without significant alterations, such as cystic lesions or alterations compatible with lesions of a metastatic nature or active tuberculosis.",active tuberculosis
+S0210-48062009000200018-1,29,1,Mantoux (tuberculin test) negative.,Mantoux
+S0210-48062009000200018-1,29,2,Mantoux (tuberculin test) negative.,(tuberculin test
+S0210-48062009000200018-1,30,1,Search for acid-fast bacilli negative.,acid-fast bacilli
+S0210-48062009000200018-1,31,1,Urine cultures (multiple samples) in Lowenstein medium were negative.,Urine cultures
+S0210-48062009000200018-1,31,2,Urine cultures (multiple samples) in Lowenstein medium were negative.,multiple samples
+S0210-48062009000200018-1,31,3,Urine cultures (multiple samples) in Lowenstein medium were negative.,Lowenstein medium
+S0210-48062009000200018-1,32,1,Serology for Echinococcos granulosis and multilocularis negative.,Serology
+S0210-48062009000200018-1,32,2,Serology for Echinococcos granulosis and multilocularis negative.,Echinococcos
+S0210-48062009000200018-1,32,3,Serology for Echinococcos granulosis and multilocularis negative.,multilocularis
+S0210-48062009000200018-1,32,4,Serology for Echinococcos granulosis and multilocularis negative.,negative
+S0210-48062009000200018-1,33,1,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",the diagnosis
+S0210-48062009000200018-1,33,2,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",Bosniak class IV complex cystic mass
+S0210-48062009000200018-1,33,3,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",the absence
+S0210-48062009000200018-1,33,4,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",support
+S0210-48062009000200018-1,33,5,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",lesions
+S0210-48062009000200018-1,33,6,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",a specific infectious/parasitic nature
+S0210-48062009000200018-1,33,7,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",he
+S0210-48062009000200018-1,33,8,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",radical nephrectomy
+S0210-48062009000200018-1,33,9,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",a lumbotomy incision
+S0210-48062009000200018-1,33,10,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",the bed
+S0210-48062009000200018-1,33,11,"With the diagnosis of Bosniak class IV complex cystic mass and in the absence of support for lesions of a specific infectious/parasitic nature, he underwent left radical nephrectomy through a lumbotomy incision over the bed of the 12th rib.",the 12th rib
+S0210-48062009000200018-1,34,1,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",The pathological examination
+S0210-48062009000200018-1,34,2,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",a neoplasia
+S0210-48062009000200018-1,34,3,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",11.5 cm
+S0210-48062009000200018-1,34,4,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",size
+S0210-48062009000200018-1,34,5,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",glands
+S0210-48062009000200018-1,34,6,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",a simple and complex structure
+S0210-48062009000200018-1,34,7,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",the epithelium
+S0210-48062009000200018-1,34,8,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",mucoid material
+S0210-48062009000200018-1,34,9,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",the form
+S0210-48062009000200018-1,34,10,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.","large ""pools"
+S0210-48062009000200018-1,34,11,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",mucin
+S0210-48062009000200018-1,34,12,"The pathological examination showed a neoplasia measuring 11.5 cm in size, consisting of glands with a simple and complex structure, the epithelium being moderately differentiated and centered by mucoid material in the form of large ""pools"" of mucin with tumor fragments.",tumor fragments
+S0210-48062009000200018-1,35,1,The lesion invaded the renal parenchyma without affecting the capsule.,The lesion
+S0210-48062009000200018-1,35,2,The lesion invaded the renal parenchyma without affecting the capsule.,the renal parenchyma
+S0210-48062009000200018-1,35,3,The lesion invaded the renal parenchyma without affecting the capsule.,the capsule
+S0210-48062009000200018-1,36,1,The remaining parenchyma showed signs of pyelonephritis with slight atrophy.,The remaining parenchyma
+S0210-48062009000200018-1,36,2,The remaining parenchyma showed signs of pyelonephritis with slight atrophy.,signs
+S0210-48062009000200018-1,36,3,The remaining parenchyma showed signs of pyelonephritis with slight atrophy.,pyelonephritis
+S0210-48062009000200018-1,36,4,The remaining parenchyma showed signs of pyelonephritis with slight atrophy.,slight atrophy
+S0210-48062009000200018-1,37,1,Surgical margins free of tumor.,Surgical margins
+S0210-48062009000200018-1,37,2,Surgical margins free of tumor.,tumor
+S0210-48062009000200018-1,38,1,Conclusion: mucinous adenocarcinoma of the renal pelvis PT3NxMx.,Conclusion
+S0210-48062009000200018-1,38,2,Conclusion: mucinous adenocarcinoma of the renal pelvis PT3NxMx.,mucinous adenocarcinoma
+S0210-48062009000200018-1,38,3,Conclusion: mucinous adenocarcinoma of the renal pelvis PT3NxMx.,pelvis PT3NxMx
+S0210-48062009000200018-1,39,1,"After obtaining the histological result, he underwent upper digestive endoscopy and colonoscopy, which showed no alterations.",the histological result
+S0210-48062009000200018-1,39,2,"After obtaining the histological result, he underwent upper digestive endoscopy and colonoscopy, which showed no alterations.",he
+S0210-48062009000200018-1,39,3,"After obtaining the histological result, he underwent upper digestive endoscopy and colonoscopy, which showed no alterations.",upper digestive endoscopy
+S0210-48062009000200018-1,39,4,"After obtaining the histological result, he underwent upper digestive endoscopy and colonoscopy, which showed no alterations.",colonoscopy
+S0210-48062009000200018-1,39,5,"After obtaining the histological result, he underwent upper digestive endoscopy and colonoscopy, which showed no alterations.",which
+S0210-48062009000200018-1,39,6,"After obtaining the histological result, he underwent upper digestive endoscopy and colonoscopy, which showed no alterations.",no alterations
+S0210-48062009000200018-1,40,1,A 10-month follow-up was carried out.,A 10-month follow-up
+S0210-48062009000200018-1,41,1,"The patient is completely asymptomatic, with no evidence of disease recurrence, locally or remotely.",The patient
+S0210-48062009000200018-1,41,2,"The patient is completely asymptomatic, with no evidence of disease recurrence, locally or remotely.",no evidence
+S0210-48062009000200018-1,41,3,"The patient is completely asymptomatic, with no evidence of disease recurrence, locally or remotely.",disease recurrence

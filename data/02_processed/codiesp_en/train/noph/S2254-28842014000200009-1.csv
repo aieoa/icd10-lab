@@ -1,0 +1,167 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S2254-28842014000200009-1,1,1,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",A 33-year-old woman
+S2254-28842014000200009-1,1,2,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",the emergency room
+S2254-28842014000200009-1,1,3,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",symptoms
+S2254-28842014000200009-1,1,4,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",asthenia
+S2254-28842014000200009-1,1,5,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",a history
+S2254-28842014000200009-1,1,6,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",unknown allergies
+S2254-28842014000200009-1,1,7,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",malar erythema
+S2254-28842014000200009-1,1,8,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",treatment
+S2254-28842014000200009-1,1,9,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",8 years
+S2254-28842014000200009-1,1,10,"A 33-year-old woman came to the emergency room with symptoms of asthenia, a history of unknown allergies, cutaneous lupus with malar erythema without treatment for 8 years and being followed up by rheumatology.",rheumatology
+S2254-28842014000200009-1,2,1,Hashimoto's thyroiditis.,Hashimoto's thyroiditis
+S2254-28842014000200009-1,3,1,Appendectomy.,Appendectomy
+S2254-28842014000200009-1,4,1,Ex-smoker for 7 years.,Ex
+S2254-28842014000200009-1,4,2,Ex-smoker for 7 years.,7 years
+S2254-28842014000200009-1,5,1,Non-drinker.,Non-drinker
+S2254-28842014000200009-1,6,1,"No toxic habits, except when drinking drinks with quinine (tonics).",No toxic habits
+S2254-28842014000200009-1,6,2,"No toxic habits, except when drinking drinks with quinine (tonics).",drinks
+S2254-28842014000200009-1,6,3,"No toxic habits, except when drinking drinks with quinine (tonics).",quinine
+S2254-28842014000200009-1,6,4,"No toxic habits, except when drinking drinks with quinine (tonics).",tonics
+S2254-28842014000200009-1,7,1,Episodes of anemia after 2 births.,Episodes
+S2254-28842014000200009-1,7,2,Episodes of anemia after 2 births.,anemia
+S2254-28842014000200009-1,7,3,Episodes of anemia after 2 births.,2 births
+S2254-28842014000200009-1,8,1,Cesarean section and tubal ligation in the 3rd.,Cesarean section
+S2254-28842014000200009-1,8,2,Cesarean section and tubal ligation in the 3rd.,tubal ligation
+S2254-28842014000200009-1,8,3,Cesarean section and tubal ligation in the 3rd.,the 3rd
+S2254-28842014000200009-1,9,1,Current illness:,Current illness
+S2254-28842014000200009-1,10,1,"Consultation due to intense asthenia and presyncope (lasting one week), which makes walking difficult, along with anorexia without weight loss.",Consultation
+S2254-28842014000200009-1,10,2,"Consultation due to intense asthenia and presyncope (lasting one week), which makes walking difficult, along with anorexia without weight loss.",intense asthenia
+S2254-28842014000200009-1,10,3,"Consultation due to intense asthenia and presyncope (lasting one week), which makes walking difficult, along with anorexia without weight loss.",presyncope
+S2254-28842014000200009-1,10,4,"Consultation due to intense asthenia and presyncope (lasting one week), which makes walking difficult, along with anorexia without weight loss.",which
+S2254-28842014000200009-1,10,5,"Consultation due to intense asthenia and presyncope (lasting one week), which makes walking difficult, along with anorexia without weight loss.",anorexia
+S2254-28842014000200009-1,10,6,"Consultation due to intense asthenia and presyncope (lasting one week), which makes walking difficult, along with anorexia without weight loss.",weight loss
+S2254-28842014000200009-1,11,1,Very long-lasting (8 days) and abundant menstruation.,Very long-lasting (8 days
+S2254-28842014000200009-1,11,2,Very long-lasting (8 days) and abundant menstruation.,abundant menstruation
+S2254-28842014000200009-1,12,1,"No melenic stools, pale skin and mucosa.",No melenic stools
+S2254-28842014000200009-1,12,2,"No melenic stools, pale skin and mucosa.",pale skin
+S2254-28842014000200009-1,12,3,"No melenic stools, pale skin and mucosa.",mucosa
+S2254-28842014000200009-1,13,1,Epistaxis and gingivorrhagia.,gingivorrhagia
+S2254-28842014000200009-1,14,1,"The analysis highlights anemia with 6.7 gr/dl of hemoglobin, thrombopenia with platelets of 6,000/mm3.",The analysis highlights anemia
+S2254-28842014000200009-1,14,2,"The analysis highlights anemia with 6.7 gr/dl of hemoglobin, thrombopenia with platelets of 6,000/mm3.",6.7 gr/dl
+S2254-28842014000200009-1,14,3,"The analysis highlights anemia with 6.7 gr/dl of hemoglobin, thrombopenia with platelets of 6,000/mm3.",hemoglobin
+S2254-28842014000200009-1,14,4,"The analysis highlights anemia with 6.7 gr/dl of hemoglobin, thrombopenia with platelets of 6,000/mm3.",thrombopenia
+S2254-28842014000200009-1,14,5,"The analysis highlights anemia with 6.7 gr/dl of hemoglobin, thrombopenia with platelets of 6,000/mm3.",platelets
+S2254-28842014000200009-1,14,6,"The analysis highlights anemia with 6.7 gr/dl of hemoglobin, thrombopenia with platelets of 6,000/mm3.","6,000/mm3"
+S2254-28842014000200009-1,15,1,LDH 1696 IU/l.,LDH
+S2254-28842014000200009-1,15,2,LDH 1696 IU/l.,1696 IU/l.
+S2254-28842014000200009-1,16,1,Blood smear with presence of schistocytes.,Blood smear
+S2254-28842014000200009-1,16,2,Blood smear with presence of schistocytes.,presence
+S2254-28842014000200009-1,16,3,Blood smear with presence of schistocytes.,schistocytes
+S2254-28842014000200009-1,17,1,Rest of normal examinations.,normal examinations
+S2254-28842014000200009-1,18,1,"Diagnosis: According to clinical and laboratory data, the patient presents a picture compatible with TTP in the context of SLE.",Diagnosis
+S2254-28842014000200009-1,18,2,"Diagnosis: According to clinical and laboratory data, the patient presents a picture compatible with TTP in the context of SLE.",clinical and laboratory data
+S2254-28842014000200009-1,18,3,"Diagnosis: According to clinical and laboratory data, the patient presents a picture compatible with TTP in the context of SLE.",the patient
+S2254-28842014000200009-1,18,4,"Diagnosis: According to clinical and laboratory data, the patient presents a picture compatible with TTP in the context of SLE.",a picture
+S2254-28842014000200009-1,18,5,"Diagnosis: According to clinical and laboratory data, the patient presents a picture compatible with TTP in the context of SLE.",TTP
+S2254-28842014000200009-1,18,6,"Diagnosis: According to clinical and laboratory data, the patient presents a picture compatible with TTP in the context of SLE.",the context
+S2254-28842014000200009-1,18,7,"Diagnosis: According to clinical and laboratory data, the patient presents a picture compatible with TTP in the context of SLE.",SLE
+S2254-28842014000200009-1,19,1,"Upon her admission, a concentrate of red blood cells and another of platelets are transfused.",her admission
+S2254-28842014000200009-1,19,2,"Upon her admission, a concentrate of red blood cells and another of platelets are transfused.",a concentrate
+S2254-28842014000200009-1,19,3,"Upon her admission, a concentrate of red blood cells and another of platelets are transfused.",red blood cells
+S2254-28842014000200009-1,19,4,"Upon her admission, a concentrate of red blood cells and another of platelets are transfused.",another
+S2254-28842014000200009-1,19,5,"Upon her admission, a concentrate of red blood cells and another of platelets are transfused.",platelets
+S2254-28842014000200009-1,20,1,"One hour after passing the platelets, the patient began to experience global aphasia and deviation of the oral commissure to the left without any other neurological focal point.",the platelets
+S2254-28842014000200009-1,20,2,"One hour after passing the platelets, the patient began to experience global aphasia and deviation of the oral commissure to the left without any other neurological focal point.",the patient
+S2254-28842014000200009-1,20,3,"One hour after passing the platelets, the patient began to experience global aphasia and deviation of the oral commissure to the left without any other neurological focal point.",global aphasia
+S2254-28842014000200009-1,20,4,"One hour after passing the platelets, the patient began to experience global aphasia and deviation of the oral commissure to the left without any other neurological focal point.",deviation
+S2254-28842014000200009-1,20,5,"One hour after passing the platelets, the patient began to experience global aphasia and deviation of the oral commissure to the left without any other neurological focal point.",the oral commissure
+S2254-28842014000200009-1,20,6,"One hour after passing the platelets, the patient began to experience global aphasia and deviation of the oral commissure to the left without any other neurological focal point.",the left
+S2254-28842014000200009-1,20,7,"One hour after passing the platelets, the patient began to experience global aphasia and deviation of the oral commissure to the left without any other neurological focal point.",any other neurological focal point
+S2254-28842014000200009-1,21,1,She subsequently speaks with normal language without obvious focality.,She
+S2254-28842014000200009-1,21,2,She subsequently speaks with normal language without obvious focality.,normal language
+S2254-28842014000200009-1,21,3,She subsequently speaks with normal language without obvious focality.,obvious focality
+S2254-28842014000200009-1,22,1,"Given the additional neurological symptoms, she was admitted to hematology for study.",the additional neurological symptoms
+S2254-28842014000200009-1,22,2,"Given the additional neurological symptoms, she was admitted to hematology for study.",she
+S2254-28842014000200009-1,22,3,"Given the additional neurological symptoms, she was admitted to hematology for study.",hematology
+S2254-28842014000200009-1,22,4,"Given the additional neurological symptoms, she was admitted to hematology for study.",study
+S2254-28842014000200009-1,23,1,"When the patient presented with thrombotic microangiopathy and seizures, this service requested that we perform plasmapheresis.",the patient
+S2254-28842014000200009-1,23,2,"When the patient presented with thrombotic microangiopathy and seizures, this service requested that we perform plasmapheresis.",thrombotic microangiopathy
+S2254-28842014000200009-1,23,3,"When the patient presented with thrombotic microangiopathy and seizures, this service requested that we perform plasmapheresis.",seizures
+S2254-28842014000200009-1,23,4,"When the patient presented with thrombotic microangiopathy and seizures, this service requested that we perform plasmapheresis.",this service
+S2254-28842014000200009-1,23,5,"When the patient presented with thrombotic microangiopathy and seizures, this service requested that we perform plasmapheresis.",we
+S2254-28842014000200009-1,23,6,"When the patient presented with thrombotic microangiopathy and seizures, this service requested that we perform plasmapheresis.",plasmapheresis
+S2254-28842014000200009-1,24,1,"Due to the patient's clinical worsening, she is admitted to the ICU.",the patient's clinical worsening
+S2254-28842014000200009-1,24,2,"Due to the patient's clinical worsening, she is admitted to the ICU.",she
+S2254-28842014000200009-1,24,3,"Due to the patient's clinical worsening, she is admitted to the ICU.",the ICU
+S2254-28842014000200009-1,25,1,Plasmapheresis session plan:,Plasmapheresis session plan
+S2254-28842014000200009-1,26,1,The exchange volume should be between 1-1.5 times the plasma volume.,The exchange volume
+S2254-28842014000200009-1,26,2,The exchange volume should be between 1-1.5 times the plasma volume.,between 1-1.5 times the plasma volume
+S2254-28842014000200009-1,27,1,The treatment will last up to 48 hours. after getting the answer.,The treatment
+S2254-28842014000200009-1,27,2,The treatment will last up to 48 hours. after getting the answer.,48 hours
+S2254-28842014000200009-1,27,3,The treatment will last up to 48 hours. after getting the answer.,the answer
+S2254-28842014000200009-1,28,1,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",The patient
+S2254-28842014000200009-1,28,2,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",75 kg
+S2254-28842014000200009-1,28,3,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",relationship tables
+S2254-28842014000200009-1,28,4,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",a total
+S2254-28842014000200009-1,28,5,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.","3,500 cc corresponds"
+S2254-28842014000200009-1,28,6,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",her
+S2254-28842014000200009-1,28,7,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",volume
+S2254-28842014000200009-1,28,8,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",it
+S2254-28842014000200009-1,28,9,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",.
+S2254-28842014000200009-1,28,10,"The patient weighs 75 kg, and according to relationship tables, a total of 3,500 cc corresponds to her. of volume to be reinfused, so it is programmed: 1,750 cc. of fresh plasma + 350 cc.",fresh plasma
+S2254-28842014000200009-1,29,1,"20% human albumin + 1,400 cc.",20% human albumin
+S2254-28842014000200009-1,30,1,Dianeal® 1.36% peritoneal dialysis solution.,Dianeal® 1.36% peritoneal dialysis solution
+S2254-28842014000200009-1,31,1,Incidence of the sessions:,Incidence
+S2254-28842014000200009-1,31,2,Incidence of the sessions:,the sessions
+S2254-28842014000200009-1,32,1,"To perform the 1st plasmapheresis in the ICU, an attempt was made to implant a catheter in the right jugular, but due to its difficulty and excessive bleeding, a double lumen catheter was placed in the left femoral.",the 1st plasmapheresis
+S2254-28842014000200009-1,32,2,"To perform the 1st plasmapheresis in the ICU, an attempt was made to implant a catheter in the right jugular, but due to its difficulty and excessive bleeding, a double lumen catheter was placed in the left femoral.",the ICU
+S2254-28842014000200009-1,32,3,"To perform the 1st plasmapheresis in the ICU, an attempt was made to implant a catheter in the right jugular, but due to its difficulty and excessive bleeding, a double lumen catheter was placed in the left femoral.",an attempt
+S2254-28842014000200009-1,32,4,"To perform the 1st plasmapheresis in the ICU, an attempt was made to implant a catheter in the right jugular, but due to its difficulty and excessive bleeding, a double lumen catheter was placed in the left femoral.",a catheter
+S2254-28842014000200009-1,32,5,"To perform the 1st plasmapheresis in the ICU, an attempt was made to implant a catheter in the right jugular, but due to its difficulty and excessive bleeding, a double lumen catheter was placed in the left femoral.",its difficulty
+S2254-28842014000200009-1,32,6,"To perform the 1st plasmapheresis in the ICU, an attempt was made to implant a catheter in the right jugular, but due to its difficulty and excessive bleeding, a double lumen catheter was placed in the left femoral.",excessive bleeding
+S2254-28842014000200009-1,32,7,"To perform the 1st plasmapheresis in the ICU, an attempt was made to implant a catheter in the right jugular, but due to its difficulty and excessive bleeding, a double lumen catheter was placed in the left femoral.",a double lumen catheter
+S2254-28842014000200009-1,32,8,"To perform the 1st plasmapheresis in the ICU, an attempt was made to implant a catheter in the right jugular, but due to its difficulty and excessive bleeding, a double lumen catheter was placed in the left femoral.",the left femoral
+S2254-28842014000200009-1,33,1,"The monitor used for the technique was a PRISMA CRRT-TPE (Hospal®), with a PTE-2000 filter.",The monitor
+S2254-28842014000200009-1,33,2,"The monitor used for the technique was a PRISMA CRRT-TPE (Hospal®), with a PTE-2000 filter.",the technique
+S2254-28842014000200009-1,33,3,"The monitor used for the technique was a PRISMA CRRT-TPE (Hospal®), with a PTE-2000 filter.",a PRISMA CRRT-TPE
+S2254-28842014000200009-1,33,4,"The monitor used for the technique was a PRISMA CRRT-TPE (Hospal®), with a PTE-2000 filter.",Hospal®
+S2254-28842014000200009-1,33,5,"The monitor used for the technique was a PRISMA CRRT-TPE (Hospal®), with a PTE-2000 filter.",a PTE-2000 filter
+S2254-28842014000200009-1,34,1,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",The dose
+S2254-28842014000200009-1,34,2,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",heparin
+S2254-28842014000200009-1,34,3,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",15-5-5-5 mg
+S2254-28842014000200009-1,34,4,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",the duration
+S2254-28842014000200009-1,34,5,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",the sessions
+S2254-28842014000200009-1,34,6,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",about 210 minutes
+S2254-28842014000200009-1,34,7,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",an average infusion
+S2254-28842014000200009-1,34,8,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",980 ml
+S2254-28842014000200009-1,34,9,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",h
+S2254-28842014000200009-1,34,10,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",blood
+S2254-28842014000200009-1,34,11,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",120-140 ml
+S2254-28842014000200009-1,34,12,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",min
+S2254-28842014000200009-1,34,13,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",.
+S2254-28842014000200009-1,34,14,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",pressures
+S2254-28842014000200009-1,34,15,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",PA
+S2254-28842014000200009-1,34,16,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",to -170 mmHg
+S2254-28842014000200009-1,34,17,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",PV
+S2254-28842014000200009-1,34,18,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",70 to 90 mmHg
+S2254-28842014000200009-1,34,19,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",a MTP
+S2254-28842014000200009-1,34,20,"The dose of heparin was 15-5-5-5 mg, the duration of the sessions being about 210 minutes, with an average infusion of 980 ml/h, blood flows between 120-140 ml/min. and pressures of (PA. - 85 to -170 mmHg, and PV of 70 to 90 mmHg, maintaining a MTP between 25-55 mmHg).",25-55 mmHg
+S2254-28842014000200009-1,35,1,"The patient in the ICU presents a poor general condition (sedated), with constant constants.",The patient
+S2254-28842014000200009-1,35,2,"The patient in the ICU presents a poor general condition (sedated), with constant constants.",the ICU
+S2254-28842014000200009-1,35,3,"The patient in the ICU presents a poor general condition (sedated), with constant constants.",a poor general condition
+S2254-28842014000200009-1,35,4,"The patient in the ICU presents a poor general condition (sedated), with constant constants.",constant constants
+S2254-28842014000200009-1,36,1,A total of 17 sessions were carried out.,A total
+S2254-28842014000200009-1,36,2,A total of 17 sessions were carried out.,17 sessions
+S2254-28842014000200009-1,37,1,Incidence thereof:,Incidence
+S2254-28842014000200009-1,38,1,The 1st session was very hectic.,The 1st session
+S2254-28842014000200009-1,39,1,"In the 5th and 6th, she suffered hypotension and significant seizures, which subsided with diazepam and physiological saline, ending the treatment.",she
+S2254-28842014000200009-1,39,2,"In the 5th and 6th, she suffered hypotension and significant seizures, which subsided with diazepam and physiological saline, ending the treatment.",hypotension and significant seizures
+S2254-28842014000200009-1,39,3,"In the 5th and 6th, she suffered hypotension and significant seizures, which subsided with diazepam and physiological saline, ending the treatment.",which
+S2254-28842014000200009-1,39,4,"In the 5th and 6th, she suffered hypotension and significant seizures, which subsided with diazepam and physiological saline, ending the treatment.",diazepam and physiological saline
+S2254-28842014000200009-1,39,5,"In the 5th and 6th, she suffered hypotension and significant seizures, which subsided with diazepam and physiological saline, ending the treatment.",the treatment
+S2254-28842014000200009-1,40,1,"In the 16th there is an increase in PTM up to 55 mm Hg with 50 minutes remaining, ending the session.",the 16th
+S2254-28842014000200009-1,40,2,"In the 16th there is an increase in PTM up to 55 mm Hg with 50 minutes remaining, ending the session.",an increase
+S2254-28842014000200009-1,40,3,"In the 16th there is an increase in PTM up to 55 mm Hg with 50 minutes remaining, ending the session.",PTM
+S2254-28842014000200009-1,40,4,"In the 16th there is an increase in PTM up to 55 mm Hg with 50 minutes remaining, ending the session.",Hg
+S2254-28842014000200009-1,40,5,"In the 16th there is an increase in PTM up to 55 mm Hg with 50 minutes remaining, ending the session.",50 minutes
+S2254-28842014000200009-1,40,6,"In the 16th there is an increase in PTM up to 55 mm Hg with 50 minutes remaining, ending the session.",the session
+S2254-28842014000200009-1,41,1,"In the 17th, there is a failure of the air test with 90 minutes left, so the SET had to be changed.",the 17th
+S2254-28842014000200009-1,41,2,"In the 17th, there is a failure of the air test with 90 minutes left, so the SET had to be changed.",a failure
+S2254-28842014000200009-1,41,3,"In the 17th, there is a failure of the air test with 90 minutes left, so the SET had to be changed.",the air test
+S2254-28842014000200009-1,41,4,"In the 17th, there is a failure of the air test with 90 minutes left, so the SET had to be changed.",90 minutes
+S2254-28842014000200009-1,41,5,"In the 17th, there is a failure of the air test with 90 minutes left, so the SET had to be changed.",the SET
+S2254-28842014000200009-1,42,1,"The rest of the sessions were carried out without problems, being well tolerated by the patient.",The rest
+S2254-28842014000200009-1,42,2,"The rest of the sessions were carried out without problems, being well tolerated by the patient.",the sessions
+S2254-28842014000200009-1,42,3,"The rest of the sessions were carried out without problems, being well tolerated by the patient.",problems
+S2254-28842014000200009-1,42,4,"The rest of the sessions were carried out without problems, being well tolerated by the patient.",the patient

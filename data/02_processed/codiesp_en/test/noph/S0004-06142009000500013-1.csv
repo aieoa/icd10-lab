@@ -1,0 +1,60 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0004-06142009000500013-1,1,1,"Female patient, 62 years old, poorly controlled diabetic, obese, with a history of unresolved left staghorn lithiasis.",Female patient
+S0004-06142009000500013-1,1,2,"Female patient, 62 years old, poorly controlled diabetic, obese, with a history of unresolved left staghorn lithiasis.",obese
+S0004-06142009000500013-1,1,3,"Female patient, 62 years old, poorly controlled diabetic, obese, with a history of unresolved left staghorn lithiasis.",a history
+S0004-06142009000500013-1,1,4,"Female patient, 62 years old, poorly controlled diabetic, obese, with a history of unresolved left staghorn lithiasis.",unresolved left staghorn lithiasis
+S0004-06142009000500013-1,2,1,"Consultation due to fever and left low back pain of 7 days duration, with oral mycosis and clear deterioration of general condition.",Consultation
+S0004-06142009000500013-1,2,2,"Consultation due to fever and left low back pain of 7 days duration, with oral mycosis and clear deterioration of general condition.",fever
+S0004-06142009000500013-1,2,3,"Consultation due to fever and left low back pain of 7 days duration, with oral mycosis and clear deterioration of general condition.",low back pain
+S0004-06142009000500013-1,2,4,"Consultation due to fever and left low back pain of 7 days duration, with oral mycosis and clear deterioration of general condition.",7 days duration
+S0004-06142009000500013-1,2,5,"Consultation due to fever and left low back pain of 7 days duration, with oral mycosis and clear deterioration of general condition.",oral mycosis
+S0004-06142009000500013-1,2,6,"Consultation due to fever and left low back pain of 7 days duration, with oral mycosis and clear deterioration of general condition.",clear deterioration
+S0004-06142009000500013-1,2,7,"Consultation due to fever and left low back pain of 7 days duration, with oral mycosis and clear deterioration of general condition.",general condition
+S0004-06142009000500013-1,3,1,"She presents leukocytosis with marked neutrophilia, hyperglycemia with ketoacidosis, and elevated urea and creatinine levels.",She
+S0004-06142009000500013-1,3,2,"She presents leukocytosis with marked neutrophilia, hyperglycemia with ketoacidosis, and elevated urea and creatinine levels.",leukocytosis
+S0004-06142009000500013-1,3,3,"She presents leukocytosis with marked neutrophilia, hyperglycemia with ketoacidosis, and elevated urea and creatinine levels.",marked neutrophilia
+S0004-06142009000500013-1,3,4,"She presents leukocytosis with marked neutrophilia, hyperglycemia with ketoacidosis, and elevated urea and creatinine levels.",hyperglycemia
+S0004-06142009000500013-1,3,5,"She presents leukocytosis with marked neutrophilia, hyperglycemia with ketoacidosis, and elevated urea and creatinine levels.",ketoacidosis
+S0004-06142009000500013-1,3,6,"She presents leukocytosis with marked neutrophilia, hyperglycemia with ketoacidosis, and elevated urea and creatinine levels.",elevated urea and creatinine levels
+S0004-06142009000500013-1,4,1,"On physical examination, she had a soft abdomen, with left flank pain and positive left renal fist percussion.",physical examination
+S0004-06142009000500013-1,4,2,"On physical examination, she had a soft abdomen, with left flank pain and positive left renal fist percussion.",she
+S0004-06142009000500013-1,4,3,"On physical examination, she had a soft abdomen, with left flank pain and positive left renal fist percussion.",a soft abdomen
+S0004-06142009000500013-1,4,4,"On physical examination, she had a soft abdomen, with left flank pain and positive left renal fist percussion.",left flank pain
+S0004-06142009000500013-1,4,5,"On physical examination, she had a soft abdomen, with left flank pain and positive left renal fist percussion.",positive left renal fist percussion
+S0004-06142009000500013-1,5,1,"Abdominal ultrasound and direct abdominal x-ray are performed, which guide the diagnosis by identifying air in the left renal fossa.",Abdominal ultrasound
+S0004-06142009000500013-1,5,2,"Abdominal ultrasound and direct abdominal x-ray are performed, which guide the diagnosis by identifying air in the left renal fossa.",x
+S0004-06142009000500013-1,5,3,"Abdominal ultrasound and direct abdominal x-ray are performed, which guide the diagnosis by identifying air in the left renal fossa.",-
+S0004-06142009000500013-1,5,4,"Abdominal ultrasound and direct abdominal x-ray are performed, which guide the diagnosis by identifying air in the left renal fossa.",ray
+S0004-06142009000500013-1,5,5,"Abdominal ultrasound and direct abdominal x-ray are performed, which guide the diagnosis by identifying air in the left renal fossa.",which
+S0004-06142009000500013-1,5,6,"Abdominal ultrasound and direct abdominal x-ray are performed, which guide the diagnosis by identifying air in the left renal fossa.",the diagnosis
+S0004-06142009000500013-1,5,7,"Abdominal ultrasound and direct abdominal x-ray are performed, which guide the diagnosis by identifying air in the left renal fossa.",air
+S0004-06142009000500013-1,5,8,"Abdominal ultrasound and direct abdominal x-ray are performed, which guide the diagnosis by identifying air in the left renal fossa.",the left renal fossa
+S0004-06142009000500013-1,6,1,"Abdominal-pelvic CT scan shows air in the left kidney and perirenal tissues, which infiltrates the abdominal wall.",Abdominal-pelvic CT scan
+S0004-06142009000500013-1,6,2,"Abdominal-pelvic CT scan shows air in the left kidney and perirenal tissues, which infiltrates the abdominal wall.",air
+S0004-06142009000500013-1,6,3,"Abdominal-pelvic CT scan shows air in the left kidney and perirenal tissues, which infiltrates the abdominal wall.",the left kidney
+S0004-06142009000500013-1,6,4,"Abdominal-pelvic CT scan shows air in the left kidney and perirenal tissues, which infiltrates the abdominal wall.",perirenal tissues
+S0004-06142009000500013-1,6,5,"Abdominal-pelvic CT scan shows air in the left kidney and perirenal tissues, which infiltrates the abdominal wall.",which
+S0004-06142009000500013-1,6,6,"Abdominal-pelvic CT scan shows air in the left kidney and perirenal tissues, which infiltrates the abdominal wall.",the abdominal wall
+S0004-06142009000500013-1,7,1,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",the rapid deterioration
+S0004-06142009000500013-1,7,2,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",his general condition
+S0004-06142009000500013-1,7,3,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",drainage
+S0004-06142009000500013-1,7,4,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",the renal fossa
+S0004-06142009000500013-1,7,5,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",lumbotomy
+S0004-06142009000500013-1,7,6,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",contamination
+S0004-06142009000500013-1,7,7,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",the peritoneal cavity
+S0004-06142009000500013-1,7,8,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",the gas
+S0004-06142009000500013-1,7,9,"Due to the rapid deterioration of his general condition, drainage of the renal fossa was performed by lumbotomy, to avoid contamination of the peritoneal cavity, evacuating the gas and debriding necrotic tissue.",necrotic tissue
+S0004-06142009000500013-1,8,1,"After an initial improvement, signs of sepsis reappeared, making it necessary to perform a simple nephrectomy a week later.",an initial improvement
+S0004-06142009000500013-1,8,2,"After an initial improvement, signs of sepsis reappeared, making it necessary to perform a simple nephrectomy a week later.",sepsis
+S0004-06142009000500013-1,8,3,"After an initial improvement, signs of sepsis reappeared, making it necessary to perform a simple nephrectomy a week later.",it
+S0004-06142009000500013-1,8,4,"After an initial improvement, signs of sepsis reappeared, making it necessary to perform a simple nephrectomy a week later.",a simple nephrectomy
+S0004-06142009000500013-1,9,1,"Good postoperative evolution, 14 days later new sepsis of respiratory origin.",Good postoperative evolution
+S0004-06142009000500013-1,9,2,"Good postoperative evolution, 14 days later new sepsis of respiratory origin.",14 days later new sepsis
+S0004-06142009000500013-1,9,3,"Good postoperative evolution, 14 days later new sepsis of respiratory origin.",respiratory origin
+S0004-06142009000500013-1,10,1,"It began with purulent discharge through the wound, a ""toilette"" was performed, but he died 48 hours later. due to multiple organ dysfunction with nosocomial pneumonia.",It
+S0004-06142009000500013-1,10,2,"It began with purulent discharge through the wound, a ""toilette"" was performed, but he died 48 hours later. due to multiple organ dysfunction with nosocomial pneumonia.",purulent discharge
+S0004-06142009000500013-1,10,3,"It began with purulent discharge through the wound, a ""toilette"" was performed, but he died 48 hours later. due to multiple organ dysfunction with nosocomial pneumonia.",the wound
+S0004-06142009000500013-1,10,4,"It began with purulent discharge through the wound, a ""toilette"" was performed, but he died 48 hours later. due to multiple organ dysfunction with nosocomial pneumonia.","a ""toilette"
+S0004-06142009000500013-1,10,5,"It began with purulent discharge through the wound, a ""toilette"" was performed, but he died 48 hours later. due to multiple organ dysfunction with nosocomial pneumonia.",he
+S0004-06142009000500013-1,10,6,"It began with purulent discharge through the wound, a ""toilette"" was performed, but he died 48 hours later. due to multiple organ dysfunction with nosocomial pneumonia.",multiple organ dysfunction
+S0004-06142009000500013-1,10,7,"It began with purulent discharge through the wound, a ""toilette"" was performed, but he died 48 hours later. due to multiple organ dysfunction with nosocomial pneumonia.",nosocomial pneumonia

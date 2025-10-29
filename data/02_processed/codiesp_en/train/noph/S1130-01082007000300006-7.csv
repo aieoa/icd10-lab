@@ -1,0 +1,33 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082007000300006-7,1,1,CJRM.,CJRM
+S1130-01082007000300006-7,2,1,29 year old male.,29 year old male
+S1130-01082007000300006-7,3,1,Middle son of three brothers (the other two are healthy).,Middle son
+S1130-01082007000300006-7,3,2,Middle son of three brothers (the other two are healthy).,three brothers
+S1130-01082007000300006-7,4,1,He is married and has no children.,He
+S1130-01082007000300006-7,4,2,He is married and has no children.,no children
+S1130-01082007000300006-7,5,1,"Not a drinker, nor a smoker.",Not a drinker
+S1130-01082007000300006-7,5,2,"Not a drinker, nor a smoker.",a smoker
+S1130-01082007000300006-7,6,1,"Recurrent tonsillitis in childhood, undergoing surgery at age 6.",Recurrent tonsillitis
+S1130-01082007000300006-7,6,2,"Recurrent tonsillitis in childhood, undergoing surgery at age 6.",childhood
+S1130-01082007000300006-7,6,3,"Recurrent tonsillitis in childhood, undergoing surgery at age 6.",surgery
+S1130-01082007000300006-7,6,4,"Recurrent tonsillitis in childhood, undergoing surgery at age 6.",age
+S1130-01082007000300006-7,7,1,Asymptomatic.,Asymptomatic
+S1130-01082007000300006-7,8,1,Normal intestinal habit.,Normal intestinal habit
+S1130-01082007000300006-7,9,1,Normal analysis with slight persistent elevation of transaminases.,Normal analysis
+S1130-01082007000300006-7,9,2,Normal analysis with slight persistent elevation of transaminases.,slight persistent elevation
+S1130-01082007000300006-7,9,3,Normal analysis with slight persistent elevation of transaminases.,transaminases
+S1130-01082007000300006-7,10,1,Positive TTG (2.46).,Positive TTG
+S1130-01082007000300006-7,11,1,DQ2 (-) and DQ8 (+).,DQ2
+S1130-01082007000300006-7,11,2,DQ2 (-) and DQ8 (+).,DQ8
+S1130-01082007000300006-7,11,3,DQ2 (-) and DQ8 (+).,+
+S1130-01082007000300006-7,12,1,"The duodenal biopsy showed moderate atrophy of the intestinal villi, accompanied by significant inflammatory infiltrate, at the level of the lamina propria (Marsh stage 3b).",The duodenal biopsy
+S1130-01082007000300006-7,12,2,"The duodenal biopsy showed moderate atrophy of the intestinal villi, accompanied by significant inflammatory infiltrate, at the level of the lamina propria (Marsh stage 3b).",moderate atrophy
+S1130-01082007000300006-7,12,3,"The duodenal biopsy showed moderate atrophy of the intestinal villi, accompanied by significant inflammatory infiltrate, at the level of the lamina propria (Marsh stage 3b).",the intestinal villi
+S1130-01082007000300006-7,12,4,"The duodenal biopsy showed moderate atrophy of the intestinal villi, accompanied by significant inflammatory infiltrate, at the level of the lamina propria (Marsh stage 3b).",significant inflammatory infiltrate
+S1130-01082007000300006-7,12,5,"The duodenal biopsy showed moderate atrophy of the intestinal villi, accompanied by significant inflammatory infiltrate, at the level of the lamina propria (Marsh stage 3b).",the level
+S1130-01082007000300006-7,12,6,"The duodenal biopsy showed moderate atrophy of the intestinal villi, accompanied by significant inflammatory infiltrate, at the level of the lamina propria (Marsh stage 3b).",the lamina propria
+S1130-01082007000300006-7,12,7,"The duodenal biopsy showed moderate atrophy of the intestinal villi, accompanied by significant inflammatory infiltrate, at the level of the lamina propria (Marsh stage 3b).",Marsh stage 3b
+S1130-01082007000300006-7,13,1,"He has been on GSD for 2 years, with good clinical and analytical response.",He
+S1130-01082007000300006-7,13,2,"He has been on GSD for 2 years, with good clinical and analytical response.",GSD
+S1130-01082007000300006-7,13,3,"He has been on GSD for 2 years, with good clinical and analytical response.",2 years
+S1130-01082007000300006-7,13,4,"He has been on GSD for 2 years, with good clinical and analytical response.",good clinical and analytical response

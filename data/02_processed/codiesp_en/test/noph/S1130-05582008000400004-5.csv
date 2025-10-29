@@ -1,0 +1,40 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-05582008000400004-5,1,1,"This patient, daughter of patient #3, was the subject of a biochemical and radiological screening study at the age of 14 years.",This patient
+S1130-05582008000400004-5,1,2,"This patient, daughter of patient #3, was the subject of a biochemical and radiological screening study at the age of 14 years.",daughter
+S1130-05582008000400004-5,1,3,"This patient, daughter of patient #3, was the subject of a biochemical and radiological screening study at the age of 14 years.",patient
+S1130-05582008000400004-5,1,4,"This patient, daughter of patient #3, was the subject of a biochemical and radiological screening study at the age of 14 years.",the subject
+S1130-05582008000400004-5,1,5,"This patient, daughter of patient #3, was the subject of a biochemical and radiological screening study at the age of 14 years.",a biochemical and radiological screening study
+S1130-05582008000400004-5,1,6,"This patient, daughter of patient #3, was the subject of a biochemical and radiological screening study at the age of 14 years.",the age
+S1130-05582008000400004-5,1,7,"This patient, daughter of patient #3, was the subject of a biochemical and radiological screening study at the age of 14 years.",14 years
+S1130-05582008000400004-5,2,1,"She was found to have hypocalcemia, hyperparathyroidism, two maxillary tumors (from the second and fourth quadrants) and several renal cysts.",She
+S1130-05582008000400004-5,2,2,"She was found to have hypocalcemia, hyperparathyroidism, two maxillary tumors (from the second and fourth quadrants) and several renal cysts.",hypocalcemia
+S1130-05582008000400004-5,2,3,"She was found to have hypocalcemia, hyperparathyroidism, two maxillary tumors (from the second and fourth quadrants) and several renal cysts.",hyperparathyroidism
+S1130-05582008000400004-5,2,4,"She was found to have hypocalcemia, hyperparathyroidism, two maxillary tumors (from the second and fourth quadrants) and several renal cysts.",two maxillary tumors
+S1130-05582008000400004-5,2,5,"She was found to have hypocalcemia, hyperparathyroidism, two maxillary tumors (from the second and fourth quadrants) and several renal cysts.",the second and fourth quadrants
+S1130-05582008000400004-5,2,6,"She was found to have hypocalcemia, hyperparathyroidism, two maxillary tumors (from the second and fourth quadrants) and several renal cysts.",several renal cysts
+S1130-05582008000400004-5,3,1,A right parathyroidectomy was performed to treat a parathyroid adenoma.,A right parathyroidectomy
+S1130-05582008000400004-5,3,2,A right parathyroidectomy was performed to treat a parathyroid adenoma.,a parathyroid adenoma
+S1130-05582008000400004-5,4,1,"Calcemia remained normal for a year, but from then on it began to increase.",Calcemia
+S1130-05582008000400004-5,4,2,"Calcemia remained normal for a year, but from then on it began to increase.",a year
+S1130-05582008000400004-5,4,3,"Calcemia remained normal for a year, but from then on it began to increase.",it
+S1130-05582008000400004-5,5,1,"The patient underwent further surgery (left parathyroidectomy, both superior and inferior, and excision of half of the right superior parathyroid due to an adenoma of the left superior parathyroid).",The patient
+S1130-05582008000400004-5,5,2,"The patient underwent further surgery (left parathyroidectomy, both superior and inferior, and excision of half of the right superior parathyroid due to an adenoma of the left superior parathyroid).",further surgery
+S1130-05582008000400004-5,5,3,"The patient underwent further surgery (left parathyroidectomy, both superior and inferior, and excision of half of the right superior parathyroid due to an adenoma of the left superior parathyroid).",left parathyroidectomy
+S1130-05582008000400004-5,5,4,"The patient underwent further surgery (left parathyroidectomy, both superior and inferior, and excision of half of the right superior parathyroid due to an adenoma of the left superior parathyroid).",excision
+S1130-05582008000400004-5,5,5,"The patient underwent further surgery (left parathyroidectomy, both superior and inferior, and excision of half of the right superior parathyroid due to an adenoma of the left superior parathyroid).",half
+S1130-05582008000400004-5,5,6,"The patient underwent further surgery (left parathyroidectomy, both superior and inferior, and excision of half of the right superior parathyroid due to an adenoma of the left superior parathyroid).",the right superior parathyroid
+S1130-05582008000400004-5,5,7,"The patient underwent further surgery (left parathyroidectomy, both superior and inferior, and excision of half of the right superior parathyroid due to an adenoma of the left superior parathyroid).",an adenoma
+S1130-05582008000400004-5,5,8,"The patient underwent further surgery (left parathyroidectomy, both superior and inferior, and excision of half of the right superior parathyroid due to an adenoma of the left superior parathyroid).",the left superior parathyroid
+S1130-05582008000400004-5,6,1,The maxillary lesions continued to grow and a few months later the two ossifying fibromas were resected.,The maxillary lesions
+S1130-05582008000400004-5,6,2,The maxillary lesions continued to grow and a few months later the two ossifying fibromas were resected.,the two ossifying fibromas
+S1130-05582008000400004-5,7,1,She subsequently had another episode of hyperparathyroidism and she underwent surgery to resect the adenoma from the remaining gland.,She
+S1130-05582008000400004-5,7,2,She subsequently had another episode of hyperparathyroidism and she underwent surgery to resect the adenoma from the remaining gland.,another episode
+S1130-05582008000400004-5,7,3,She subsequently had another episode of hyperparathyroidism and she underwent surgery to resect the adenoma from the remaining gland.,hyperparathyroidism
+S1130-05582008000400004-5,7,4,She subsequently had another episode of hyperparathyroidism and she underwent surgery to resect the adenoma from the remaining gland.,she
+S1130-05582008000400004-5,7,5,She subsequently had another episode of hyperparathyroidism and she underwent surgery to resect the adenoma from the remaining gland.,surgery
+S1130-05582008000400004-5,7,6,She subsequently had another episode of hyperparathyroidism and she underwent surgery to resect the adenoma from the remaining gland.,the adenoma
+S1130-05582008000400004-5,7,7,She subsequently had another episode of hyperparathyroidism and she underwent surgery to resect the adenoma from the remaining gland.,the remaining gland
+S1130-05582008000400004-5,8,1,There is no indication of recurrence or the presentation of new maxillary tumors.,no indication
+S1130-05582008000400004-5,8,2,There is no indication of recurrence or the presentation of new maxillary tumors.,recurrence
+S1130-05582008000400004-5,8,3,There is no indication of recurrence or the presentation of new maxillary tumors.,the presentation
+S1130-05582008000400004-5,8,4,There is no indication of recurrence or the presentation of new maxillary tumors.,new maxillary tumors

@@ -1,0 +1,69 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0210-48062006000700010-1,1,1,A 56-year-old male patient with a history of positive serology for HIV and Hepatitis B presented with acute cholecystitis for which emergency laparoscopic cholecystectomy was performed.,A 56-year-old male patient
+S0210-48062006000700010-1,1,2,A 56-year-old male patient with a history of positive serology for HIV and Hepatitis B presented with acute cholecystitis for which emergency laparoscopic cholecystectomy was performed.,a history
+S0210-48062006000700010-1,1,3,A 56-year-old male patient with a history of positive serology for HIV and Hepatitis B presented with acute cholecystitis for which emergency laparoscopic cholecystectomy was performed.,positive serology
+S0210-48062006000700010-1,1,4,A 56-year-old male patient with a history of positive serology for HIV and Hepatitis B presented with acute cholecystitis for which emergency laparoscopic cholecystectomy was performed.,HIV
+S0210-48062006000700010-1,1,5,A 56-year-old male patient with a history of positive serology for HIV and Hepatitis B presented with acute cholecystitis for which emergency laparoscopic cholecystectomy was performed.,Hepatitis B
+S0210-48062006000700010-1,1,6,A 56-year-old male patient with a history of positive serology for HIV and Hepatitis B presented with acute cholecystitis for which emergency laparoscopic cholecystectomy was performed.,acute cholecystitis
+S0210-48062006000700010-1,1,7,A 56-year-old male patient with a history of positive serology for HIV and Hepatitis B presented with acute cholecystitis for which emergency laparoscopic cholecystectomy was performed.,which
+S0210-48062006000700010-1,1,8,A 56-year-old male patient with a history of positive serology for HIV and Hepatitis B presented with acute cholecystitis for which emergency laparoscopic cholecystectomy was performed.,emergency laparoscopic cholecystectomy
+S0210-48062006000700010-1,2,1,"During the late post-operative period, one month after surgery, the patient presents a bilioma which is evacuated percutaneously.",the late post-operative period
+S0210-48062006000700010-1,2,2,"During the late post-operative period, one month after surgery, the patient presents a bilioma which is evacuated percutaneously.",surgery
+S0210-48062006000700010-1,2,3,"During the late post-operative period, one month after surgery, the patient presents a bilioma which is evacuated percutaneously.",the patient
+S0210-48062006000700010-1,2,4,"During the late post-operative period, one month after surgery, the patient presents a bilioma which is evacuated percutaneously.",a bilioma
+S0210-48062006000700010-1,2,5,"During the late post-operative period, one month after surgery, the patient presents a bilioma which is evacuated percutaneously.",which
+S0210-48062006000700010-1,3,1,"At the same time, a biliary diversion is also performed using endoscopic cholangiography.",the same time
+S0210-48062006000700010-1,3,2,"At the same time, a biliary diversion is also performed using endoscopic cholangiography.",a biliary diversion
+S0210-48062006000700010-1,3,3,"At the same time, a biliary diversion is also performed using endoscopic cholangiography.",endoscopic cholangiography
+S0210-48062006000700010-1,4,1,"As a result of the above, the patient presents acute pancreatitis associated with a peri-pancreatic collection.",a result
+S0210-48062006000700010-1,4,2,"As a result of the above, the patient presents acute pancreatitis associated with a peri-pancreatic collection.",the patient
+S0210-48062006000700010-1,4,3,"As a result of the above, the patient presents acute pancreatitis associated with a peri-pancreatic collection.",acute pancreatitis
+S0210-48062006000700010-1,4,4,"As a result of the above, the patient presents acute pancreatitis associated with a peri-pancreatic collection.",a peri-pancreatic collection
+S0210-48062006000700010-1,5,1,"This collection is evacuated through an initial percutaneous drainage, which proves to be insufficient, leaving the patient with a significant retroperitoneal collection.",This collection
+S0210-48062006000700010-1,5,2,"This collection is evacuated through an initial percutaneous drainage, which proves to be insufficient, leaving the patient with a significant retroperitoneal collection.",an initial percutaneous drainage
+S0210-48062006000700010-1,5,3,"This collection is evacuated through an initial percutaneous drainage, which proves to be insufficient, leaving the patient with a significant retroperitoneal collection.",which
+S0210-48062006000700010-1,5,4,"This collection is evacuated through an initial percutaneous drainage, which proves to be insufficient, leaving the patient with a significant retroperitoneal collection.",the patient
+S0210-48062006000700010-1,5,5,"This collection is evacuated through an initial percutaneous drainage, which proves to be insufficient, leaving the patient with a significant retroperitoneal collection.",a significant retroperitoneal collection
+S0210-48062006000700010-1,6,1,"Without showing improvement, and with persistent drainage due to fever and deterioration of general condition, a computed tomography of the abdomen and pelvis was performed.",improvement
+S0210-48062006000700010-1,6,2,"Without showing improvement, and with persistent drainage due to fever and deterioration of general condition, a computed tomography of the abdomen and pelvis was performed.",persistent drainage
+S0210-48062006000700010-1,6,3,"Without showing improvement, and with persistent drainage due to fever and deterioration of general condition, a computed tomography of the abdomen and pelvis was performed.",fever
+S0210-48062006000700010-1,6,4,"Without showing improvement, and with persistent drainage due to fever and deterioration of general condition, a computed tomography of the abdomen and pelvis was performed.",deterioration
+S0210-48062006000700010-1,6,5,"Without showing improvement, and with persistent drainage due to fever and deterioration of general condition, a computed tomography of the abdomen and pelvis was performed.",general condition
+S0210-48062006000700010-1,6,6,"Without showing improvement, and with persistent drainage due to fever and deterioration of general condition, a computed tomography of the abdomen and pelvis was performed.",a computed tomography
+S0210-48062006000700010-1,6,7,"Without showing improvement, and with persistent drainage due to fever and deterioration of general condition, a computed tomography of the abdomen and pelvis was performed.",the abdomen
+S0210-48062006000700010-1,6,8,"Without showing improvement, and with persistent drainage due to fever and deterioration of general condition, a computed tomography of the abdomen and pelvis was performed.",pelvis
+S0210-48062006000700010-1,7,1,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,This reports
+S0210-48062006000700010-1,7,2,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,fluid
+S0210-48062006000700010-1,7,3,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,an air-fluid level
+S0210-48062006000700010-1,7,4,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,the right flank
+S0210-48062006000700010-1,7,5,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,the abdominal wall
+S0210-48062006000700010-1,7,6,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,17 cm
+S0210-48062006000700010-1,7,7,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,the cranio-caudal direction
+S0210-48062006000700010-1,7,8,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,11 x 3 cm
+S0210-48062006000700010-1,7,9,This reports encapsulated fluid with an air-fluid level on the right flank adjacent to the abdominal wall extending 17 cm in the cranio-caudal direction and 11 x 3 cm in transverse diameter.,transverse diameter
+S0210-48062006000700010-1,8,1,"With a diagnosis of extraperitoneal right parietocolic abscess, drainage was performed using lumboscopy, evacuating abundant necrotic and purulent material.",a diagnosis
+S0210-48062006000700010-1,8,2,"With a diagnosis of extraperitoneal right parietocolic abscess, drainage was performed using lumboscopy, evacuating abundant necrotic and purulent material.",extraperitoneal right parietocolic abscess
+S0210-48062006000700010-1,8,3,"With a diagnosis of extraperitoneal right parietocolic abscess, drainage was performed using lumboscopy, evacuating abundant necrotic and purulent material.",drainage
+S0210-48062006000700010-1,8,4,"With a diagnosis of extraperitoneal right parietocolic abscess, drainage was performed using lumboscopy, evacuating abundant necrotic and purulent material.",lumboscopy
+S0210-48062006000700010-1,8,5,"With a diagnosis of extraperitoneal right parietocolic abscess, drainage was performed using lumboscopy, evacuating abundant necrotic and purulent material.",abundant necrotic and purulent material
+S0210-48062006000700010-1,9,1,"Two pure silicone drains were placed facing each other, creating a continuous washing system, using physiological solution with a slow drip.",Two pure silicone drains
+S0210-48062006000700010-1,9,2,"Two pure silicone drains were placed facing each other, creating a continuous washing system, using physiological solution with a slow drip.",a continuous washing system
+S0210-48062006000700010-1,9,3,"Two pure silicone drains were placed facing each other, creating a continuous washing system, using physiological solution with a slow drip.",physiological solution
+S0210-48062006000700010-1,9,4,"Two pure silicone drains were placed facing each other, creating a continuous washing system, using physiological solution with a slow drip.",a slow drip
+S0210-48062006000700010-1,10,1,The patient progressed favorably with few signs of fever.,The patient
+S0210-48062006000700010-1,10,2,The patient progressed favorably with few signs of fever.,few signs
+S0210-48062006000700010-1,10,3,The patient progressed favorably with few signs of fever.,fever
+S0210-48062006000700010-1,11,1,"He had a positive culture for Pseudomona Aureaginosa, which was treated with Meropenem during hospitalization.",He
+S0210-48062006000700010-1,11,2,"He had a positive culture for Pseudomona Aureaginosa, which was treated with Meropenem during hospitalization.",a positive culture
+S0210-48062006000700010-1,11,3,"He had a positive culture for Pseudomona Aureaginosa, which was treated with Meropenem during hospitalization.",Pseudomona Aureaginosa
+S0210-48062006000700010-1,11,4,"He had a positive culture for Pseudomona Aureaginosa, which was treated with Meropenem during hospitalization.",which
+S0210-48062006000700010-1,11,5,"He had a positive culture for Pseudomona Aureaginosa, which was treated with Meropenem during hospitalization.",Meropenem
+S0210-48062006000700010-1,11,6,"He had a positive culture for Pseudomona Aureaginosa, which was treated with Meropenem during hospitalization.",hospitalization
+S0210-48062006000700010-1,12,1,"On the fourth postoperative day, continuous lavage was replaced by a hemosuctor system and he was discharged.",the fourth postoperative day
+S0210-48062006000700010-1,12,2,"On the fourth postoperative day, continuous lavage was replaced by a hemosuctor system and he was discharged.",continuous lavage
+S0210-48062006000700010-1,12,3,"On the fourth postoperative day, continuous lavage was replaced by a hemosuctor system and he was discharged.",a hemosuctor system
+S0210-48062006000700010-1,12,4,"On the fourth postoperative day, continuous lavage was replaced by a hemosuctor system and he was discharged.",he
+S0210-48062006000700010-1,13,1,"During the controls, the patient continued to be afebrile and the drain was removed after it had stopped draining.",the controls
+S0210-48062006000700010-1,13,2,"During the controls, the patient continued to be afebrile and the drain was removed after it had stopped draining.",the patient
+S0210-48062006000700010-1,13,3,"During the controls, the patient continued to be afebrile and the drain was removed after it had stopped draining.",the drain
+S0210-48062006000700010-1,13,4,"During the controls, the patient continued to be afebrile and the drain was removed after it had stopped draining.",it

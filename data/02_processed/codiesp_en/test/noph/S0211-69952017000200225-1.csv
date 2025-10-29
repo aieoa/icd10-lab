@@ -1,0 +1,85 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S0211-69952017000200225-1,1,1,A 41-year-old man was referred for evaluation due to the finding of proteinuria.,A 41-year-old man
+S0211-69952017000200225-1,1,2,A 41-year-old man was referred for evaluation due to the finding of proteinuria.,evaluation
+S0211-69952017000200225-1,1,3,A 41-year-old man was referred for evaluation due to the finding of proteinuria.,the finding
+S0211-69952017000200225-1,1,4,A 41-year-old man was referred for evaluation due to the finding of proteinuria.,proteinuria
+S0211-69952017000200225-1,2,1,Diagnosis of PNH in the context of hemolytic anemia.,Diagnosis
+S0211-69952017000200225-1,2,2,Diagnosis of PNH in the context of hemolytic anemia.,PNH
+S0211-69952017000200225-1,2,3,Diagnosis of PNH in the context of hemolytic anemia.,the context
+S0211-69952017000200225-1,2,4,Diagnosis of PNH in the context of hemolytic anemia.,hemolytic anemia
+S0211-69952017000200225-1,3,1,He did not require blood transfusions and had no thrombotic events.,He
+S0211-69952017000200225-1,3,2,He did not require blood transfusions and had no thrombotic events.,blood transfusions
+S0211-69952017000200225-1,3,3,He did not require blood transfusions and had no thrombotic events.,no thrombotic events
+S0211-69952017000200225-1,4,1,"Laboratory tests showed persistent hemolytic activity, elevated LDH (1,800-3,000 U/l) and undetectable haptoglobin, hemoglobin 8.5 mg/dl, mild leukopenia and thrombocytopenia, normal ferritin 25 ng/ml.",Laboratory tests
+S0211-69952017000200225-1,4,2,"Laboratory tests showed persistent hemolytic activity, elevated LDH (1,800-3,000 U/l) and undetectable haptoglobin, hemoglobin 8.5 mg/dl, mild leukopenia and thrombocytopenia, normal ferritin 25 ng/ml.",persistent hemolytic activity
+S0211-69952017000200225-1,4,3,"Laboratory tests showed persistent hemolytic activity, elevated LDH (1,800-3,000 U/l) and undetectable haptoglobin, hemoglobin 8.5 mg/dl, mild leukopenia and thrombocytopenia, normal ferritin 25 ng/ml.",elevated LDH
+S0211-69952017000200225-1,4,4,"Laboratory tests showed persistent hemolytic activity, elevated LDH (1,800-3,000 U/l) and undetectable haptoglobin, hemoglobin 8.5 mg/dl, mild leukopenia and thrombocytopenia, normal ferritin 25 ng/ml.","1,800-3,000 U/l"
+S0211-69952017000200225-1,4,5,"Laboratory tests showed persistent hemolytic activity, elevated LDH (1,800-3,000 U/l) and undetectable haptoglobin, hemoglobin 8.5 mg/dl, mild leukopenia and thrombocytopenia, normal ferritin 25 ng/ml.",undetectable haptoglobin
+S0211-69952017000200225-1,4,6,"Laboratory tests showed persistent hemolytic activity, elevated LDH (1,800-3,000 U/l) and undetectable haptoglobin, hemoglobin 8.5 mg/dl, mild leukopenia and thrombocytopenia, normal ferritin 25 ng/ml.",dl
+S0211-69952017000200225-1,4,7,"Laboratory tests showed persistent hemolytic activity, elevated LDH (1,800-3,000 U/l) and undetectable haptoglobin, hemoglobin 8.5 mg/dl, mild leukopenia and thrombocytopenia, normal ferritin 25 ng/ml.",ml
+S0211-69952017000200225-1,5,1,"He had recurrent hemolytic crises with fatigue, dysphagia, abdominal pain, and dark urine.",He
+S0211-69952017000200225-1,5,2,"He had recurrent hemolytic crises with fatigue, dysphagia, abdominal pain, and dark urine.",recurrent hemolytic crises
+S0211-69952017000200225-1,5,3,"He had recurrent hemolytic crises with fatigue, dysphagia, abdominal pain, and dark urine.",fatigue
+S0211-69952017000200225-1,5,4,"He had recurrent hemolytic crises with fatigue, dysphagia, abdominal pain, and dark urine.",dysphagia
+S0211-69952017000200225-1,5,5,"He had recurrent hemolytic crises with fatigue, dysphagia, abdominal pain, and dark urine.",abdominal pain
+S0211-69952017000200225-1,5,6,"He had recurrent hemolytic crises with fatigue, dysphagia, abdominal pain, and dark urine.",dark urine
+S0211-69952017000200225-1,6,1,"The episodes usually lasted 1-3 days, every 2-3 months.",The episodes
+S0211-69952017000200225-1,6,2,"The episodes usually lasted 1-3 days, every 2-3 months.",every 2-3 months
+S0211-69952017000200225-1,7,1,"Kidney function was normal, serum creatinine 0.9 mg/dl and GFR (MDRD) > 60 ml/min.",Kidney function
+S0211-69952017000200225-1,7,2,"Kidney function was normal, serum creatinine 0.9 mg/dl and GFR (MDRD) > 60 ml/min.",MDRD
+S0211-69952017000200225-1,7,3,"Kidney function was normal, serum creatinine 0.9 mg/dl and GFR (MDRD) > 60 ml/min.",60 ml
+S0211-69952017000200225-1,8,1,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",Persistent hemoglobinuria
+S0211-69952017000200225-1,8,2,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",normal urinary sediment
+S0211-69952017000200225-1,8,3,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",proteinuria
+S0211-69952017000200225-1,8,4,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",1.3 g
+S0211-69952017000200225-1,8,5,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",day
+S0211-69952017000200225-1,8,6,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",albuminuria
+S0211-69952017000200225-1,8,7,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",mg
+S0211-69952017000200225-1,8,8,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",/day
+S0211-69952017000200225-1,8,9,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",non-selective aminoaciduria
+S0211-69952017000200225-1,8,10,"Persistent hemoglobinuria with normal urinary sediment, and proteinuria of 1.3 g/day with albuminuria 170 mg/day and non-selective aminoaciduria, indicating DTP.",DTP
+S0211-69952017000200225-1,9,1,"Acid-base, phosphate, and uric acid status were normal.",Acid-base
+S0211-69952017000200225-1,9,2,"Acid-base, phosphate, and uric acid status were normal.",uric acid status
+S0211-69952017000200225-1,10,1,"The possibility of DTP due to hemosiderin deposition was considered, so an MRI was performed with the finding of bilateral renal cortical hypointensity compatible with iron deposition.",The possibility
+S0211-69952017000200225-1,10,2,"The possibility of DTP due to hemosiderin deposition was considered, so an MRI was performed with the finding of bilateral renal cortical hypointensity compatible with iron deposition.",DTP
+S0211-69952017000200225-1,10,3,"The possibility of DTP due to hemosiderin deposition was considered, so an MRI was performed with the finding of bilateral renal cortical hypointensity compatible with iron deposition.",hemosiderin deposition
+S0211-69952017000200225-1,10,4,"The possibility of DTP due to hemosiderin deposition was considered, so an MRI was performed with the finding of bilateral renal cortical hypointensity compatible with iron deposition.",an MRI
+S0211-69952017000200225-1,10,5,"The possibility of DTP due to hemosiderin deposition was considered, so an MRI was performed with the finding of bilateral renal cortical hypointensity compatible with iron deposition.",the finding
+S0211-69952017000200225-1,10,6,"The possibility of DTP due to hemosiderin deposition was considered, so an MRI was performed with the finding of bilateral renal cortical hypointensity compatible with iron deposition.",bilateral renal cortical hypointensity
+S0211-69952017000200225-1,10,7,"The possibility of DTP due to hemosiderin deposition was considered, so an MRI was performed with the finding of bilateral renal cortical hypointensity compatible with iron deposition.",iron deposition
+S0211-69952017000200225-1,11,1,"Initiation of therapy with eculizumab was considered, but was rejected due to the lack of transfusion requirement and normal GFR.",Initiation
+S0211-69952017000200225-1,11,2,"Initiation of therapy with eculizumab was considered, but was rejected due to the lack of transfusion requirement and normal GFR.",therapy
+S0211-69952017000200225-1,11,3,"Initiation of therapy with eculizumab was considered, but was rejected due to the lack of transfusion requirement and normal GFR.",eculizumab
+S0211-69952017000200225-1,11,4,"Initiation of therapy with eculizumab was considered, but was rejected due to the lack of transfusion requirement and normal GFR.",the lack
+S0211-69952017000200225-1,11,5,"Initiation of therapy with eculizumab was considered, but was rejected due to the lack of transfusion requirement and normal GFR.",transfusion requirement
+S0211-69952017000200225-1,11,6,"Initiation of therapy with eculizumab was considered, but was rejected due to the lack of transfusion requirement and normal GFR.",normal GFR
+S0211-69952017000200225-1,12,1,"Two years later, he presented a severe hemolytic crisis with acute renal failure, which was attributed to hemoglobinuria.",he
+S0211-69952017000200225-1,12,2,"Two years later, he presented a severe hemolytic crisis with acute renal failure, which was attributed to hemoglobinuria.",a severe hemolytic crisis
+S0211-69952017000200225-1,12,3,"Two years later, he presented a severe hemolytic crisis with acute renal failure, which was attributed to hemoglobinuria.",acute renal failure
+S0211-69952017000200225-1,12,4,"Two years later, he presented a severe hemolytic crisis with acute renal failure, which was attributed to hemoglobinuria.",which
+S0211-69952017000200225-1,12,5,"Two years later, he presented a severe hemolytic crisis with acute renal failure, which was attributed to hemoglobinuria.",hemoglobinuria
+S0211-69952017000200225-1,13,1,"The patient was treated with conservative measures, presenting recovery of kidney function in 18 days.",The patient
+S0211-69952017000200225-1,13,2,"The patient was treated with conservative measures, presenting recovery of kidney function in 18 days.",conservative measures
+S0211-69952017000200225-1,13,3,"The patient was treated with conservative measures, presenting recovery of kidney function in 18 days.",recovery
+S0211-69952017000200225-1,13,4,"The patient was treated with conservative measures, presenting recovery of kidney function in 18 days.",kidney function
+S0211-69952017000200225-1,13,5,"The patient was treated with conservative measures, presenting recovery of kidney function in 18 days.",18 days
+S0211-69952017000200225-1,14,1,"After this episode, treatment with eculizumab was started.",this episode
+S0211-69952017000200225-1,14,2,"After this episode, treatment with eculizumab was started.",treatment
+S0211-69952017000200225-1,14,3,"After this episode, treatment with eculizumab was started.",eculizumab
+S0211-69952017000200225-1,15,1,"Within a few weeks, LDH and hemoglobin almost normalized, maintaining low haptoglobin levels.",a few weeks
+S0211-69952017000200225-1,15,2,"Within a few weeks, LDH and hemoglobin almost normalized, maintaining low haptoglobin levels.",LDH
+S0211-69952017000200225-1,15,3,"Within a few weeks, LDH and hemoglobin almost normalized, maintaining low haptoglobin levels.",hemoglobin
+S0211-69952017000200225-1,15,4,"Within a few weeks, LDH and hemoglobin almost normalized, maintaining low haptoglobin levels.",low haptoglobin levels
+S0211-69952017000200225-1,16,1,"In the following months, tubular proteinuria progressively normalized.",the following months
+S0211-69952017000200225-1,16,2,"In the following months, tubular proteinuria progressively normalized.",tubular proteinuria
+S0211-69952017000200225-1,17,1,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",initiation
+S0211-69952017000200225-1,17,2,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",eculizumab
+S0211-69952017000200225-1,17,3,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",a repeat MRI
+S0211-69952017000200225-1,17,4,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",an improvement
+S0211-69952017000200225-1,17,5,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",signal hypointensity
+S0211-69952017000200225-1,17,6,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",the renal cortex
+S0211-69952017000200225-1,17,7,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",51%
+S0211-69952017000200225-1,17,8,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",the left and right kidneys
+S0211-69952017000200225-1,17,9,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",partial removal
+S0211-69952017000200225-1,17,10,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",iron stores
+S0211-69952017000200225-1,17,11,"Fourteen months after initiation of eculizumab, a repeat MRI showed an improvement in signal hypointensity in the renal cortex of 34 and 51% in the left and right kidneys, respectively, indicating partial removal of iron stores in the kidney.",the kidney

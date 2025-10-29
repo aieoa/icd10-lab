@@ -1,0 +1,116 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-05582015000100005-1,1,1,A 30-year-old man suffered an accident while loading a speargun at his home.,A 30-year-old man
+S1130-05582015000100005-1,1,2,A 30-year-old man suffered an accident while loading a speargun at his home.,an accident
+S1130-05582015000100005-1,1,3,A 30-year-old man suffered an accident while loading a speargun at his home.,a speargun
+S1130-05582015000100005-1,1,4,A 30-year-old man suffered an accident while loading a speargun at his home.,his home
+S1130-05582015000100005-1,2,1,He called the emergency services.,He
+S1130-05582015000100005-1,2,2,He called the emergency services.,the emergency services
+S1130-05582015000100005-1,3,1,"After protocol ""A, B, C"", the patient's clinical examination showed only a penetrating wound at the level of the submandibular region.","protocol ""A"
+S1130-05582015000100005-1,3,2,"After protocol ""A, B, C"", the patient's clinical examination showed only a penetrating wound at the level of the submandibular region.",B
+S1130-05582015000100005-1,3,3,"After protocol ""A, B, C"", the patient's clinical examination showed only a penetrating wound at the level of the submandibular region.",C
+S1130-05582015000100005-1,3,4,"After protocol ""A, B, C"", the patient's clinical examination showed only a penetrating wound at the level of the submandibular region.",the patient's clinical examination
+S1130-05582015000100005-1,3,5,"After protocol ""A, B, C"", the patient's clinical examination showed only a penetrating wound at the level of the submandibular region.",only a penetrating wound
+S1130-05582015000100005-1,3,6,"After protocol ""A, B, C"", the patient's clinical examination showed only a penetrating wound at the level of the submandibular region.",the level
+S1130-05582015000100005-1,3,7,"After protocol ""A, B, C"", the patient's clinical examination showed only a penetrating wound at the level of the submandibular region.",the submandibular region
+S1130-05582015000100005-1,4,1,The approximate size of the harpoon was 80 cm long and 1 cm in diameter with an intracranial path of about 15 cm.,The approximate size
+S1130-05582015000100005-1,4,2,The approximate size of the harpoon was 80 cm long and 1 cm in diameter with an intracranial path of about 15 cm.,the harpoon
+S1130-05582015000100005-1,4,3,The approximate size of the harpoon was 80 cm long and 1 cm in diameter with an intracranial path of about 15 cm.,1 cm
+S1130-05582015000100005-1,4,4,The approximate size of the harpoon was 80 cm long and 1 cm in diameter with an intracranial path of about 15 cm.,diameter
+S1130-05582015000100005-1,4,5,The approximate size of the harpoon was 80 cm long and 1 cm in diameter with an intracranial path of about 15 cm.,an intracranial path
+S1130-05582015000100005-1,4,6,The approximate size of the harpoon was 80 cm long and 1 cm in diameter with an intracranial path of about 15 cm.,about 15 cm
+S1130-05582015000100005-1,5,1,Firefighters carefully cut the harpoon to facilitate the transfer of the patient to the hospital.,Firefighters
+S1130-05582015000100005-1,5,2,Firefighters carefully cut the harpoon to facilitate the transfer of the patient to the hospital.,the harpoon
+S1130-05582015000100005-1,5,3,Firefighters carefully cut the harpoon to facilitate the transfer of the patient to the hospital.,the transfer
+S1130-05582015000100005-1,5,4,Firefighters carefully cut the harpoon to facilitate the transfer of the patient to the hospital.,the patient
+S1130-05582015000100005-1,5,5,Firefighters carefully cut the harpoon to facilitate the transfer of the patient to the hospital.,the hospital
+S1130-05582015000100005-1,6,1,"The patient was hemodynamically stable, alert and oriented (Glasgow 15), with no neurological deficit and no active bleeding.",The patient
+S1130-05582015000100005-1,6,2,"The patient was hemodynamically stable, alert and oriented (Glasgow 15), with no neurological deficit and no active bleeding.","hemodynamically stable, alert and oriented (Glasgow"
+S1130-05582015000100005-1,6,3,"The patient was hemodynamically stable, alert and oriented (Glasgow 15), with no neurological deficit and no active bleeding.",no neurological deficit
+S1130-05582015000100005-1,6,4,"The patient was hemodynamically stable, alert and oriented (Glasgow 15), with no neurological deficit and no active bleeding.",no active bleeding
+S1130-05582015000100005-1,7,1,He had blood clots in his left ear canal.,He
+S1130-05582015000100005-1,7,2,He had blood clots in his left ear canal.,blood clots
+S1130-05582015000100005-1,7,3,He had blood clots in his left ear canal.,his left ear canal
+S1130-05582015000100005-1,8,1,There was no cerebrospinal fluid leakage from the entry wound or the external auditory canal.,no cerebrospinal fluid leakage
+S1130-05582015000100005-1,8,2,There was no cerebrospinal fluid leakage from the entry wound or the external auditory canal.,the entry wound
+S1130-05582015000100005-1,8,3,There was no cerebrospinal fluid leakage from the entry wound or the external auditory canal.,the external auditory canal
+S1130-05582015000100005-1,9,1,"The lateral skull x-ray showed the trajectory, direction and existence of the barb mechanism on the harpoon.",The lateral skull x
+S1130-05582015000100005-1,9,2,"The lateral skull x-ray showed the trajectory, direction and existence of the barb mechanism on the harpoon.",-
+S1130-05582015000100005-1,9,3,"The lateral skull x-ray showed the trajectory, direction and existence of the barb mechanism on the harpoon.",ray
+S1130-05582015000100005-1,9,4,"The lateral skull x-ray showed the trajectory, direction and existence of the barb mechanism on the harpoon.",the trajectory
+S1130-05582015000100005-1,9,5,"The lateral skull x-ray showed the trajectory, direction and existence of the barb mechanism on the harpoon.",direction
+S1130-05582015000100005-1,9,6,"The lateral skull x-ray showed the trajectory, direction and existence of the barb mechanism on the harpoon.",existence
+S1130-05582015000100005-1,9,7,"The lateral skull x-ray showed the trajectory, direction and existence of the barb mechanism on the harpoon.",the barb mechanism
+S1130-05582015000100005-1,9,8,"The lateral skull x-ray showed the trajectory, direction and existence of the barb mechanism on the harpoon.",the harpoon
+S1130-05582015000100005-1,10,1,An emergency CT scan was performed which revealed the direction of the arrow.,An emergency
+S1130-05582015000100005-1,10,2,An emergency CT scan was performed which revealed the direction of the arrow.,CT scan
+S1130-05582015000100005-1,10,3,An emergency CT scan was performed which revealed the direction of the arrow.,which
+S1130-05582015000100005-1,10,4,An emergency CT scan was performed which revealed the direction of the arrow.,the direction
+S1130-05582015000100005-1,10,5,An emergency CT scan was performed which revealed the direction of the arrow.,the arrow
+S1130-05582015000100005-1,11,1,"The entrance orifice was in the left submandibular region and penetrated to the carotid siphon of the petrous bone of the left temporal bone, passing very close to the petrosal sinus.",The entrance orifice
+S1130-05582015000100005-1,11,2,"The entrance orifice was in the left submandibular region and penetrated to the carotid siphon of the petrous bone of the left temporal bone, passing very close to the petrosal sinus.",the left submandibular region
+S1130-05582015000100005-1,11,3,"The entrance orifice was in the left submandibular region and penetrated to the carotid siphon of the petrous bone of the left temporal bone, passing very close to the petrosal sinus.",the carotid siphon
+S1130-05582015000100005-1,11,4,"The entrance orifice was in the left submandibular region and penetrated to the carotid siphon of the petrous bone of the left temporal bone, passing very close to the petrosal sinus.",the petrous bone
+S1130-05582015000100005-1,11,5,"The entrance orifice was in the left submandibular region and penetrated to the carotid siphon of the petrous bone of the left temporal bone, passing very close to the petrosal sinus.",the left temporal bone
+S1130-05582015000100005-1,11,6,"The entrance orifice was in the left submandibular region and penetrated to the carotid siphon of the petrous bone of the left temporal bone, passing very close to the petrosal sinus.",the petrosal sinus
+S1130-05582015000100005-1,12,1,The fin of the harpoon was located at the level of the left mandibular condyle on its internal surface.,The fin
+S1130-05582015000100005-1,12,2,The fin of the harpoon was located at the level of the left mandibular condyle on its internal surface.,the harpoon
+S1130-05582015000100005-1,12,3,The fin of the harpoon was located at the level of the left mandibular condyle on its internal surface.,the level
+S1130-05582015000100005-1,12,4,The fin of the harpoon was located at the level of the left mandibular condyle on its internal surface.,the left mandibular condyle
+S1130-05582015000100005-1,12,5,The fin of the harpoon was located at the level of the left mandibular condyle on its internal surface.,its internal surface
+S1130-05582015000100005-1,13,1,"Under general anesthesia and nasotracheal intubation, the patient was placed in a supine position and a neutral head position.",general anesthesia
+S1130-05582015000100005-1,13,2,"Under general anesthesia and nasotracheal intubation, the patient was placed in a supine position and a neutral head position.",intubation
+S1130-05582015000100005-1,13,3,"Under general anesthesia and nasotracheal intubation, the patient was placed in a supine position and a neutral head position.",the patient
+S1130-05582015000100005-1,13,4,"Under general anesthesia and nasotracheal intubation, the patient was placed in a supine position and a neutral head position.",a supine position
+S1130-05582015000100005-1,13,5,"Under general anesthesia and nasotracheal intubation, the patient was placed in a supine position and a neutral head position.",a neutral head position
+S1130-05582015000100005-1,14,1,"The position of the harpoon, adjacent to the left mandibular condyle, made oral opening difficult.",The position
+S1130-05582015000100005-1,14,2,"The position of the harpoon, adjacent to the left mandibular condyle, made oral opening difficult.",the harpoon
+S1130-05582015000100005-1,14,3,"The position of the harpoon, adjacent to the left mandibular condyle, made oral opening difficult.",the left mandibular condyle
+S1130-05582015000100005-1,14,4,"The position of the harpoon, adjacent to the left mandibular condyle, made oral opening difficult.",oral opening
+S1130-05582015000100005-1,15,1,"Despite this, access was performed intraorally at the level of the left tonsillar pillar.",this
+S1130-05582015000100005-1,15,2,"Despite this, access was performed intraorally at the level of the left tonsillar pillar.",access
+S1130-05582015000100005-1,15,3,"Despite this, access was performed intraorally at the level of the left tonsillar pillar.",the level
+S1130-05582015000100005-1,15,4,"Despite this, access was performed intraorally at the level of the left tonsillar pillar.",the left tonsillar pillar
+S1130-05582015000100005-1,16,1,A 4 cm incision was made.,A 4 cm incision
+S1130-05582015000100005-1,17,1,"Using this approach, the harpoon was exposed at the level of the fin mechanism.",this approach
+S1130-05582015000100005-1,17,2,"Using this approach, the harpoon was exposed at the level of the fin mechanism.",the harpoon
+S1130-05582015000100005-1,17,3,"Using this approach, the harpoon was exposed at the level of the fin mechanism.",the level
+S1130-05582015000100005-1,17,4,"Using this approach, the harpoon was exposed at the level of the fin mechanism.",the fin mechanism
+S1130-05582015000100005-1,18,1,"Subsequently, the barb mechanism of the harpoon was inactivated by ligation with steel thread.",the barb mechanism
+S1130-05582015000100005-1,18,2,"Subsequently, the barb mechanism of the harpoon was inactivated by ligation with steel thread.",the harpoon
+S1130-05582015000100005-1,18,3,"Subsequently, the barb mechanism of the harpoon was inactivated by ligation with steel thread.",ligation
+S1130-05582015000100005-1,18,4,"Subsequently, the barb mechanism of the harpoon was inactivated by ligation with steel thread.",steel thread
+S1130-05582015000100005-1,19,1,"Finally, and under intraoral control, the harpoon was extracted in the opposite direction to its entry.",intraoral control
+S1130-05582015000100005-1,19,2,"Finally, and under intraoral control, the harpoon was extracted in the opposite direction to its entry.",the harpoon
+S1130-05582015000100005-1,19,3,"Finally, and under intraoral control, the harpoon was extracted in the opposite direction to its entry.",the opposite direction
+S1130-05582015000100005-1,19,4,"Finally, and under intraoral control, the harpoon was extracted in the opposite direction to its entry.",its entry
+S1130-05582015000100005-1,20,1,No cerebrospinal fluid leakage was observed from the entry wound or intraoral access.,No cerebrospinal fluid leakage
+S1130-05582015000100005-1,20,2,No cerebrospinal fluid leakage was observed from the entry wound or intraoral access.,the entry wound
+S1130-05582015000100005-1,20,3,No cerebrospinal fluid leakage was observed from the entry wound or intraoral access.,intraoral access
+S1130-05582015000100005-1,21,1,"The intraoral wound was then sutured with 3/0 vicryl and the subcutaneous wound with 4/0 vicryl, and the submandibular wound with 4/0 prolene.",The intraoral wound
+S1130-05582015000100005-1,21,2,"The intraoral wound was then sutured with 3/0 vicryl and the subcutaneous wound with 4/0 vicryl, and the submandibular wound with 4/0 prolene.",3/0 vicryl
+S1130-05582015000100005-1,21,3,"The intraoral wound was then sutured with 3/0 vicryl and the subcutaneous wound with 4/0 vicryl, and the submandibular wound with 4/0 prolene.",the subcutaneous wound
+S1130-05582015000100005-1,21,4,"The intraoral wound was then sutured with 3/0 vicryl and the subcutaneous wound with 4/0 vicryl, and the submandibular wound with 4/0 prolene.",4/0 vicryl
+S1130-05582015000100005-1,21,5,"The intraoral wound was then sutured with 3/0 vicryl and the subcutaneous wound with 4/0 vicryl, and the submandibular wound with 4/0 prolene.",the submandibular wound
+S1130-05582015000100005-1,21,6,"The intraoral wound was then sutured with 3/0 vicryl and the subcutaneous wound with 4/0 vicryl, and the submandibular wound with 4/0 prolene.",4/0 prolene
+S1130-05582015000100005-1,22,1,"Immediately after the operation, a control CT scan was performed in which only a small pneumocephalus was observed.",the operation
+S1130-05582015000100005-1,22,2,"Immediately after the operation, a control CT scan was performed in which only a small pneumocephalus was observed.",a control
+S1130-05582015000100005-1,22,3,"Immediately after the operation, a control CT scan was performed in which only a small pneumocephalus was observed.",CT scan
+S1130-05582015000100005-1,22,4,"Immediately after the operation, a control CT scan was performed in which only a small pneumocephalus was observed.",which
+S1130-05582015000100005-1,22,5,"Immediately after the operation, a control CT scan was performed in which only a small pneumocephalus was observed.",only a small pneumocephalus
+S1130-05582015000100005-1,23,1,The patient was kept under observation for 24 hours without showing neurological focality.,The patient
+S1130-05582015000100005-1,23,2,The patient was kept under observation for 24 hours without showing neurological focality.,observation
+S1130-05582015000100005-1,23,3,The patient was kept under observation for 24 hours without showing neurological focality.,24 hours
+S1130-05582015000100005-1,23,4,The patient was kept under observation for 24 hours without showing neurological focality.,neurological focality
+S1130-05582015000100005-1,24,1,"Subsequently, he was transferred to the ward and was discharged on postoperative day 3 without any type of neurological disorder.",he
+S1130-05582015000100005-1,24,2,"Subsequently, he was transferred to the ward and was discharged on postoperative day 3 without any type of neurological disorder.",the ward
+S1130-05582015000100005-1,24,3,"Subsequently, he was transferred to the ward and was discharged on postoperative day 3 without any type of neurological disorder.",postoperative day
+S1130-05582015000100005-1,24,4,"Subsequently, he was transferred to the ward and was discharged on postoperative day 3 without any type of neurological disorder.",any type
+S1130-05582015000100005-1,24,5,"Subsequently, he was transferred to the ward and was discharged on postoperative day 3 without any type of neurological disorder.",neurological disorder
+S1130-05582015000100005-1,25,1,No complications were reported.,No complications
+S1130-05582015000100005-1,26,1,"One month later, an audiometry was performed, which revealed a 60% conductive hearing loss in the left ear.",an audiometry
+S1130-05582015000100005-1,26,2,"One month later, an audiometry was performed, which revealed a 60% conductive hearing loss in the left ear.",which
+S1130-05582015000100005-1,26,3,"One month later, an audiometry was performed, which revealed a 60% conductive hearing loss in the left ear.",a 60% conductive hearing loss
+S1130-05582015000100005-1,26,4,"One month later, an audiometry was performed, which revealed a 60% conductive hearing loss in the left ear.",the left ear
+S1130-05582015000100005-1,27,1,Currently the patient leads a normal life and is only waiting for a hearing prosthesis.,the patient
+S1130-05582015000100005-1,27,2,Currently the patient leads a normal life and is only waiting for a hearing prosthesis.,a normal life
+S1130-05582015000100005-1,27,3,Currently the patient leads a normal life and is only waiting for a hearing prosthesis.,a hearing prosthesis

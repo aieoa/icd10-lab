@@ -1,0 +1,22 @@
+report_id,sentence_id,sentence
+S1130-63432015000200008-1,1,"A 78-year-old male, carpenter, ex-smoker for 22 years and with a history of hypertension, dyslipidemia and ischemic heart disease due to acute myocardial infarction that required double coronary bypass."
+S1130-63432015000200008-1,2,The patient underwent surgery for colon neoplasia with the pathological result of stage III adenocarcinoma (pT3pN2M0).
+S1130-63432015000200008-1,3,"Given the patient's pathological history, the use of fluoropyrimidines is not recommended."
+S1130-63432015000200008-1,4,"For this reason, adjuvant chemotherapy treatment was initiated according to the TOMOX scheme at adjusted doses (raltitrexed 2.5 mg/m2 and oxaliplatin 100 mg/m2 every 3 weeks)."
+S1130-63432015000200008-1,5,A total of 8 cycles are planned.
+S1130-63432015000200008-1,6,The tolerance is correct.
+S1130-63432015000200008-1,7,"In the follow-up visit prior to the seventh cycle, the patient reported having received antibiotic treatment the previous days for a lower respiratory tract infection diagnosed by his family doctor."
+S1130-63432015000200008-1,8,"He is afebrile, with grade II asthenia and mild deterioration in kidney function, so it is decided to postpone the cycle."
+S1130-63432015000200008-1,9,"At that time, the total cumulative doses of raltitrexed and oxaliplatin are 26 mg and 1,040 mg, respectively."
+S1130-63432015000200008-1,10,"48 hours after this last visit, the patient went to the emergency room with a fever of 38.5oC and dyspnea on minimal exertion."
+S1130-63432015000200008-1,11,Arterial blood gas analysis shows parameters compatible with severe respiratory failure.
+S1130-63432015000200008-1,12,The chest x-ray shows bilateral pulmonary infiltrates and doubtful condensation in the right lower lobe.
+S1130-63432015000200008-1,13,"The patient was admitted with suspicion of severe pneumonia, and empirical broad-spectrum antibiotic therapy and non-invasive mechanical ventilation were initiated."
+S1130-63432015000200008-1,14,Echocardiography rules out pulmonary thromboembolism.
+S1130-63432015000200008-1,15,"After 48 hours, due to respiratory worsening, the patient was transferred to the Intensive Care Unit (ICU) requiring endotracheal intubation."
+S1130-63432015000200008-1,16,It is oriented as severe respiratory failure secondary to community pneumonia without isolated germ vs pulmonary toxicity due to cytostatics associated with adult respiratory distress syndrome.
+S1130-63432015000200008-1,17,Interactions with the patient's chronic medication are ruled out.
+S1130-63432015000200008-1,18,"The results of microbiological studies (blood and sputum), as well as serologies for atypical microorganisms, were all negative."
+S1130-63432015000200008-1,19,Computed tomography of the chest shows a component of diffuse interstitial pneumonitis.
+S1130-63432015000200008-1,20,"Given these results, and given the patient's clinical course, it was decided to start high-dose corticosteroid treatment (prednisone 1 mg/kg/day), under suspicion of pulmonary toxicity to cytostatics."
+S1130-63432015000200008-1,21,"The patient's evolution was torpid, with death after 17 days of admission to the ICU."

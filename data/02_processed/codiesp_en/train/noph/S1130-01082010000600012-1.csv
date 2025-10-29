@@ -1,0 +1,102 @@
+report_id,sentence_id,phrase_id,sentence,phrase
+S1130-01082010000600012-1,1,1,"We present the case of a 58-year-old patient with a personal history of obesity, hypertension, fibromyalgia, and D3-D4 disc herniation.",We
+S1130-01082010000600012-1,1,2,"We present the case of a 58-year-old patient with a personal history of obesity, hypertension, fibromyalgia, and D3-D4 disc herniation.",the case
+S1130-01082010000600012-1,1,3,"We present the case of a 58-year-old patient with a personal history of obesity, hypertension, fibromyalgia, and D3-D4 disc herniation.",a 58-year-old patient
+S1130-01082010000600012-1,1,4,"We present the case of a 58-year-old patient with a personal history of obesity, hypertension, fibromyalgia, and D3-D4 disc herniation.",a personal history
+S1130-01082010000600012-1,1,5,"We present the case of a 58-year-old patient with a personal history of obesity, hypertension, fibromyalgia, and D3-D4 disc herniation.",obesity
+S1130-01082010000600012-1,1,6,"We present the case of a 58-year-old patient with a personal history of obesity, hypertension, fibromyalgia, and D3-D4 disc herniation.",hypertension
+S1130-01082010000600012-1,1,7,"We present the case of a 58-year-old patient with a personal history of obesity, hypertension, fibromyalgia, and D3-D4 disc herniation.",fibromyalgia
+S1130-01082010000600012-1,1,8,"We present the case of a 58-year-old patient with a personal history of obesity, hypertension, fibromyalgia, and D3-D4 disc herniation.",D3-D4 disc herniation
+S1130-01082010000600012-1,2,1,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",She
+S1130-01082010000600012-1,2,2,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",another hospital center
+S1130-01082010000600012-1,2,3,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",symptoms
+S1130-01082010000600012-1,2,4,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",several months
+S1130-01082010000600012-1,2,5,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",evolution
+S1130-01082010000600012-1,2,6,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",lumbosciatica
+S1130-01082010000600012-1,2,7,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",refractory
+S1130-01082010000600012-1,2,8,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",usual analgesic treatment
+S1130-01082010000600012-1,2,9,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",sensation
+S1130-01082010000600012-1,2,10,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",retrosternal knot
+S1130-01082010000600012-1,2,11,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",progressive dysphagia
+S1130-01082010000600012-1,2,12,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",weight loss
+S1130-01082010000600012-1,2,13,"She was studied in another hospital center for symptoms of several months of evolution consisting of lumbosciatica refractory to usual analgesic treatment, sensation of retrosternal knot, progressive dysphagia and weight loss, where she performed:",she
+S1130-01082010000600012-1,3,1,"- Cervicothoracoabdominal CT: observing mass effect in the upper third of the esophagus, not being able to accurately define its nature.",- Cervicothoracoabdominal CT
+S1130-01082010000600012-1,3,2,"- Cervicothoracoabdominal CT: observing mass effect in the upper third of the esophagus, not being able to accurately define its nature.",mass effect
+S1130-01082010000600012-1,3,3,"- Cervicothoracoabdominal CT: observing mass effect in the upper third of the esophagus, not being able to accurately define its nature.",the upper third
+S1130-01082010000600012-1,3,4,"- Cervicothoracoabdominal CT: observing mass effect in the upper third of the esophagus, not being able to accurately define its nature.",the esophagus
+S1130-01082010000600012-1,3,5,"- Cervicothoracoabdominal CT: observing mass effect in the upper third of the esophagus, not being able to accurately define its nature.",its nature
+S1130-01082010000600012-1,4,1,"- Upper gastrointestinal endoscopy: a brown-black mass is seen in the upper third of the esophagus, submucosa, not ulcerated, with an intense vascular network.",a brown-black mass
+S1130-01082010000600012-1,4,2,"- Upper gastrointestinal endoscopy: a brown-black mass is seen in the upper third of the esophagus, submucosa, not ulcerated, with an intense vascular network.",the upper third
+S1130-01082010000600012-1,4,3,"- Upper gastrointestinal endoscopy: a brown-black mass is seen in the upper third of the esophagus, submucosa, not ulcerated, with an intense vascular network.",the esophagus
+S1130-01082010000600012-1,4,4,"- Upper gastrointestinal endoscopy: a brown-black mass is seen in the upper third of the esophagus, submucosa, not ulcerated, with an intense vascular network.",submucosa
+S1130-01082010000600012-1,4,5,"- Upper gastrointestinal endoscopy: a brown-black mass is seen in the upper third of the esophagus, submucosa, not ulcerated, with an intense vascular network.",an intense vascular network
+S1130-01082010000600012-1,5,1,- CT and dorsal MRI: multiple vertebral lesions (in D7 and from D9 to D12) compatible with osteoporotic vertebral crushes.,- CT and dorsal MRI
+S1130-01082010000600012-1,5,2,- CT and dorsal MRI: multiple vertebral lesions (in D7 and from D9 to D12) compatible with osteoporotic vertebral crushes.,multiple vertebral lesions
+S1130-01082010000600012-1,5,3,- CT and dorsal MRI: multiple vertebral lesions (in D7 and from D9 to D12) compatible with osteoporotic vertebral crushes.,D7
+S1130-01082010000600012-1,5,4,- CT and dorsal MRI: multiple vertebral lesions (in D7 and from D9 to D12) compatible with osteoporotic vertebral crushes.,D9
+S1130-01082010000600012-1,5,5,- CT and dorsal MRI: multiple vertebral lesions (in D7 and from D9 to D12) compatible with osteoporotic vertebral crushes.,D12
+S1130-01082010000600012-1,5,6,- CT and dorsal MRI: multiple vertebral lesions (in D7 and from D9 to D12) compatible with osteoporotic vertebral crushes.,osteoporotic vertebral crushes
+S1130-01082010000600012-1,6,1,- Bone scan and tumor markers: negative.,- Bone scan
+S1130-01082010000600012-1,6,2,- Bone scan and tumor markers: negative.,tumor markers
+S1130-01082010000600012-1,7,1,"Diagnosed with lumbosciatica due to multiple vertebral lesions of osteoporotic origin in the dorsal column and esophageal mass, she was referred to our service to complete the study.",lumbosciatica
+S1130-01082010000600012-1,7,2,"Diagnosed with lumbosciatica due to multiple vertebral lesions of osteoporotic origin in the dorsal column and esophageal mass, she was referred to our service to complete the study.",multiple vertebral lesions
+S1130-01082010000600012-1,7,3,"Diagnosed with lumbosciatica due to multiple vertebral lesions of osteoporotic origin in the dorsal column and esophageal mass, she was referred to our service to complete the study.",osteoporotic origin
+S1130-01082010000600012-1,7,4,"Diagnosed with lumbosciatica due to multiple vertebral lesions of osteoporotic origin in the dorsal column and esophageal mass, she was referred to our service to complete the study.",the dorsal column
+S1130-01082010000600012-1,7,5,"Diagnosed with lumbosciatica due to multiple vertebral lesions of osteoporotic origin in the dorsal column and esophageal mass, she was referred to our service to complete the study.",esophageal mass
+S1130-01082010000600012-1,7,6,"Diagnosed with lumbosciatica due to multiple vertebral lesions of osteoporotic origin in the dorsal column and esophageal mass, she was referred to our service to complete the study.",she
+S1130-01082010000600012-1,7,7,"Diagnosed with lumbosciatica due to multiple vertebral lesions of osteoporotic origin in the dorsal column and esophageal mass, she was referred to our service to complete the study.",our service
+S1130-01082010000600012-1,7,8,"Diagnosed with lumbosciatica due to multiple vertebral lesions of osteoporotic origin in the dorsal column and esophageal mass, she was referred to our service to complete the study.",the study
+S1130-01082010000600012-1,8,1,"Upon arrival, the patient presented with low back pain that made ambulation impossible, not yielding to opioid treatment, and dysphagia to liquids.",arrival
+S1130-01082010000600012-1,8,2,"Upon arrival, the patient presented with low back pain that made ambulation impossible, not yielding to opioid treatment, and dysphagia to liquids.",the patient
+S1130-01082010000600012-1,8,3,"Upon arrival, the patient presented with low back pain that made ambulation impossible, not yielding to opioid treatment, and dysphagia to liquids.",low back pain
+S1130-01082010000600012-1,8,4,"Upon arrival, the patient presented with low back pain that made ambulation impossible, not yielding to opioid treatment, and dysphagia to liquids.",that
+S1130-01082010000600012-1,8,5,"Upon arrival, the patient presented with low back pain that made ambulation impossible, not yielding to opioid treatment, and dysphagia to liquids.",ambulation
+S1130-01082010000600012-1,8,6,"Upon arrival, the patient presented with low back pain that made ambulation impossible, not yielding to opioid treatment, and dysphagia to liquids.",treatment
+S1130-01082010000600012-1,8,7,"Upon arrival, the patient presented with low back pain that made ambulation impossible, not yielding to opioid treatment, and dysphagia to liquids.",dysphagia
+S1130-01082010000600012-1,8,8,"Upon arrival, the patient presented with low back pain that made ambulation impossible, not yielding to opioid treatment, and dysphagia to liquids.",liquids
+S1130-01082010000600012-1,9,1,"On examination, she was in very poor general condition, hemodynamically stable and afebrile.",examination
+S1130-01082010000600012-1,9,2,"On examination, she was in very poor general condition, hemodynamically stable and afebrile.",she
+S1130-01082010000600012-1,9,3,"On examination, she was in very poor general condition, hemodynamically stable and afebrile.",very poor general condition
+S1130-01082010000600012-1,10,1,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,She
+S1130-01082010000600012-1,10,2,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,an abdomen
+S1130-01082010000600012-1,10,3,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,which
+S1130-01082010000600012-1,10,4,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,hepatomegaly
+S1130-01082010000600012-1,10,5,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,3 cm
+S1130-01082010000600012-1,10,6,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,diameter
+S1130-01082010000600012-1,10,7,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,very significant pain
+S1130-01082010000600012-1,10,8,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,palpation
+S1130-01082010000600012-1,10,9,She highlights an abdomen in which hepatomegaly of 3 cm in diameter and very significant pain on palpation of the dorsal column is palpable.,the dorsal column
+S1130-01082010000600012-1,11,1,At this time we perform the following complementary tests:,this time
+S1130-01082010000600012-1,11,2,At this time we perform the following complementary tests:,we
+S1130-01082010000600012-1,11,3,At this time we perform the following complementary tests:,the following complementary tests
+S1130-01082010000600012-1,12,1,"- Ultrasound endoscopy: lesion located 18 cm from the dental arch, measuring 40 x 35 x 18 mm, heterogeneous density, which infiltrates and breaks serosa.",- Ultrasound endoscopy: lesion
+S1130-01082010000600012-1,12,2,"- Ultrasound endoscopy: lesion located 18 cm from the dental arch, measuring 40 x 35 x 18 mm, heterogeneous density, which infiltrates and breaks serosa.",the dental arch
+S1130-01082010000600012-1,12,3,"- Ultrasound endoscopy: lesion located 18 cm from the dental arch, measuring 40 x 35 x 18 mm, heterogeneous density, which infiltrates and breaks serosa.","40 x 35 x 18 mm, heterogeneous density"
+S1130-01082010000600012-1,12,4,"- Ultrasound endoscopy: lesion located 18 cm from the dental arch, measuring 40 x 35 x 18 mm, heterogeneous density, which infiltrates and breaks serosa.",which
+S1130-01082010000600012-1,13,1,No peripheral lymphadenopathy is seen.,No peripheral lymphadenopathy
+S1130-01082010000600012-1,14,1,"- Abdominal ultrasound: highlights the existence of liver metastases in segment IV and II of 22 and 26 mm in greatest diameter, respectively.",- Abdominal ultrasound
+S1130-01082010000600012-1,14,2,"- Abdominal ultrasound: highlights the existence of liver metastases in segment IV and II of 22 and 26 mm in greatest diameter, respectively.",the existence
+S1130-01082010000600012-1,14,3,"- Abdominal ultrasound: highlights the existence of liver metastases in segment IV and II of 22 and 26 mm in greatest diameter, respectively.",liver metastases
+S1130-01082010000600012-1,14,4,"- Abdominal ultrasound: highlights the existence of liver metastases in segment IV and II of 22 and 26 mm in greatest diameter, respectively.",segment IV
+S1130-01082010000600012-1,14,5,"- Abdominal ultrasound: highlights the existence of liver metastases in segment IV and II of 22 and 26 mm in greatest diameter, respectively.",II
+S1130-01082010000600012-1,14,6,"- Abdominal ultrasound: highlights the existence of liver metastases in segment IV and II of 22 and 26 mm in greatest diameter, respectively.",22 and 26 mm
+S1130-01082010000600012-1,14,7,"- Abdominal ultrasound: highlights the existence of liver metastases in segment IV and II of 22 and 26 mm in greatest diameter, respectively.",greatest diameter
+S1130-01082010000600012-1,15,1,Rest of the examination without significant alterations.,the examination
+S1130-01082010000600012-1,15,2,Rest of the examination without significant alterations.,significant alterations
+S1130-01082010000600012-1,16,1,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",- Positron emission tomography
+S1130-01082010000600012-1,16,2,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",the form
+S1130-01082010000600012-1,16,3,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",a tumor mass
+S1130-01082010000600012-1,16,4,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",the upper third
+S1130-01082010000600012-1,16,5,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",the esophagus
+S1130-01082010000600012-1,16,6,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",mesenteric implants
+S1130-01082010000600012-1,16,7,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",multiple liver
+S1130-01082010000600012-1,16,8,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",bone metastases
+S1130-01082010000600012-1,16,9,"- Positron emission tomography: uptake in the form of a tumor mass in the upper third of the esophagus, with mesenteric implants, multiple liver and bone metastases in the axial skeleton and peripherally.",the axial skeleton
+S1130-01082010000600012-1,17,1,"- Pathological anatomy: malignant melanoma -HMB45: (+), MELAN A: (+), CKPAN: (+)- with areas of necrosis.",- Pathological anatomy
+S1130-01082010000600012-1,17,2,"- Pathological anatomy: malignant melanoma -HMB45: (+), MELAN A: (+), CKPAN: (+)- with areas of necrosis.",malignant melanoma
+S1130-01082010000600012-1,17,3,"- Pathological anatomy: malignant melanoma -HMB45: (+), MELAN A: (+), CKPAN: (+)- with areas of necrosis.",+
+S1130-01082010000600012-1,17,4,"- Pathological anatomy: malignant melanoma -HMB45: (+), MELAN A: (+), CKPAN: (+)- with areas of necrosis.",MELAN A
+S1130-01082010000600012-1,17,5,"- Pathological anatomy: malignant melanoma -HMB45: (+), MELAN A: (+), CKPAN: (+)- with areas of necrosis.",+
+S1130-01082010000600012-1,17,6,"- Pathological anatomy: malignant melanoma -HMB45: (+), MELAN A: (+), CKPAN: (+)- with areas of necrosis.",+
+S1130-01082010000600012-1,17,7,"- Pathological anatomy: malignant melanoma -HMB45: (+), MELAN A: (+), CKPAN: (+)- with areas of necrosis.",areas
+S1130-01082010000600012-1,17,8,"- Pathological anatomy: malignant melanoma -HMB45: (+), MELAN A: (+), CKPAN: (+)- with areas of necrosis.",necrosis

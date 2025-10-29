@@ -1,6 +1,5 @@
 # src/benchmarks/data.py
 
-from datetime import timedelta
 import logging
 import numpy as np
 import os
@@ -8,10 +7,8 @@ import torch
 import pandas as pd
 from pathlib import Path
 import simple_icd_10_cm as icd
-import time
 from typing import List, Dict, Any
 
-# import src.utils.sysops as sysops
 
 logger = logging.getLogger(__name__)
 
@@ -21,7 +18,7 @@ class BenchmarkData:
         self.cfg = cfg
         self.device = cfg.get("device", None)
         self.benchmark_str = f"{cfg['benchmark'].lower()}_{cfg['language'].lower()}"
-        self.data_dir = cfg["data_dir"]  # base data directory
+        self.data_dir = cfg["data_dir"]
         self.chunking = cfg["chunking"]
         self.text_encoder = cfg["text_encoder"]
         self.reducer = cfg.get("reducer", None)
@@ -74,7 +71,6 @@ class BenchmarkData:
         else:
             subdir = "original"
         benchmark_subdir = Path(self.text_encoder) / self.chunking / subdir
-        
 
         self.paths = {
             "test_e": Path(self.data_dir)
@@ -115,7 +111,6 @@ class BenchmarkData:
                 path
             ), f"Path does not exist: {path}, correct or precompute embeddings."
 
-
     def _load_indices(self, split: str, subset: List = None):
         # todo: load here dvc versioned data set with associated index
         dataset_dir = self.paths[f"{split}_i"]
@@ -143,18 +138,19 @@ class BenchmarkData:
         assert len(os.listdir(embedding_dir)), f"No embeddings found in {embedding_dir}"
         for npy_path in embedding_dir.glob("*.npy"):
             report_id = npy_path.stem.split("_")[0]
-            if report_id == "S1139-76322014000500011-1":
-                continue
+            # if report_id == "S1139-76322014000500011-1":
+            #     continue
             if subset and report_id not in subset:
                 continue
             e = np.load(npy_path)
             embedding_list.append(e)
         if not embedding_list:
-            raise ValueError(f"No valid embeddings found in {embedding_dir} for given subset.")
+            raise ValueError(
+                f"No valid embeddings found in {embedding_dir} for given subset."
+            )
         embedding_array = np.concatenate(embedding_list)
         return embedding_array
 
-    
     def _load_icd10(self):
         """
         Loads all .npy embedding shards in the given directory
@@ -163,29 +159,28 @@ class BenchmarkData:
         and sets self.icd10_e and self.icd10_i.
         """
         icd10_dir = self.paths["icd10_e"]
-    
+
         embedding_list = []
         index_list = []
-        
+
         for npy_path in sorted(icd10_dir.glob("*.npy")):
-            idx_path = npy_path.with_suffix(".pt.idx")
-            if not idx_path.exists():
-                print(f"Index file missing for {npy_path.name}, skipping shard.")
-                continue
-            
+            idx_path = npy_path.with_suffix(".csv")
+            assert idx_path.exists()
+
             # Load embedding and index
             icd10_e = np.load(npy_path)
-            with open(idx_path, "r") as f:
-                icd10_i = pd.Series([line.strip() for line in f])
+            icd10_i = pd.read_csv(idx_path)
+
+            assert len(icd10_e) == icd10_i.shape[0]
 
             # Apply mask filtering
-            mask = icd10_i.apply(icd.is_valid_item)
+            mask = icd10_i["code"].apply(icd.is_valid_item)
             if self.terminals_only:
-                mask &= icd10_i[mask].apply(icd.is_leaf)
+                mask &= icd10_i["code"][mask].apply(icd.is_leaf)
 
             # Keep only filtered embeddings and indices
             filtered_e = icd10_e[mask.values]
-            filtered_i = icd10_i[mask].to_numpy()
+            filtered_i = icd10_i[mask]
 
             # Append to total list
             embedding_list.append(filtered_e)
@@ -193,7 +188,7 @@ class BenchmarkData:
 
         if not embedding_list:
             raise ValueError(f"No valid embeddings found in {icd10_dir}.")
-        
+
         # Concatenate all valid embeddings and indices
-        self.icd10_e = np.concatenate(embedding_list, axis=0)
-        self.icd10_i = np.concatenate(index_list, axis=0)
+        self.icd10_e = np.vstack(embedding_list)
+        self.icd10_i = pd.concat(index_list, ignore_index=True)

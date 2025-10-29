@@ -33,7 +33,7 @@ def write_back_split(e_umap, src_files, file_lengths, tgt_path, file_count: int)
         print(f"INFO\tReduced embeddings written to {tgt_file}")
 
 
-def main(src_dirs, tgt_dirs, benchmark, seed, n_components):
+def main(src_dirs, tgt_dirs, strategy, benchmark, seed, n_components):
     benchmark_file_ctrs = {"codiesp_en": {"train": 500, "test": 250}}
     print(src_dirs["train"])
     e_train_files = sorted(src_dirs["train"].glob("*.npy"))
@@ -51,7 +51,7 @@ def main(src_dirs, tgt_dirs, benchmark, seed, n_components):
     e_test = np.concatenate(e_test_list, axis=0)
 
     umap_dir = Path(get_repo_root()) / "models"
-    model_path = umap_dir / f"umap_model_{benchmark}_{n_components}.joblib"
+    model_path = umap_dir / f"umap_model_{benchmark}_{strategy}_{n_components}.joblib"
     umap_dir.mkdir(parents=True, exist_ok=True)
     print(f"INFO\tModel will be written to {model_path}")
     umap_transformer = umap.UMAP(n_components=n_components, random_state=seed)
@@ -110,6 +110,7 @@ parser.add_argument(
     default=Path(get_repo_root()) / "data",
     help="Data base dir",
 )
+
 parser.add_argument(
     "--seed",
     type=int,
@@ -150,6 +151,7 @@ if __name__ == "__main__":
     main(
         src_dirs,
         tgt_dirs,
+        strategy=args.strategy,
         benchmark=args.benchmark,
         n_components=args.n_components,
         seed=args.seed,

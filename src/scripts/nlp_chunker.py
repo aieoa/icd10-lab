@@ -36,7 +36,7 @@ def report_to_chunks(text, report_id, strategy) -> pd.DataFrame:
     return df
 
 
-def reports_to_chunks(src_dir, tgt_dir, strategy):
+def reports_to_chunks(src_dir, tgt_dir, strategy, overwrite):
     # calls report_to_chunk and writes back results
     # for each text file identified as a report in src_dir
     for report in os.listdir(src_dir):
@@ -44,7 +44,7 @@ def reports_to_chunks(src_dir, tgt_dir, strategy):
         report_chunked = f"{report_id}.csv"
         src_file = Path(src_dir) / report
         tgt_file = Path(tgt_dir) / report_chunked
-        if os.path.exists(tgt_file):
+        if os.path.exists(tgt_file) and not overwrite:
             skip = True
             try:
                 tgt = pd.read_csv(tgt_file)
@@ -90,6 +90,11 @@ parser.add_argument(
     "--strategy", type=str, required=True, help="Chunking strategy name (eg noph, sent)"
 )
 parser.add_argument(
+    "--overwrite",
+    action="store_true",
+    help="Overwrite existing files"
+)
+parser.add_argument(
     "--data_dir",
     type=str,
     required=False,
@@ -115,7 +120,7 @@ if __name__ == "__main__":
         / args.split
         / args.strategy
     )
-    reports_to_chunks(src_dir, tgt_dir, args.strategy)
+    reports_to_chunks(src_dir, tgt_dir, args.strategy, args.overwrite)
 
 # Example call:
 #   python scripts/nlp_chunker.py --split test --strategy noph --benchmark codiesp_en

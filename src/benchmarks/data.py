@@ -12,13 +12,14 @@ from typing import List, Dict, Any
 
 logger = logging.getLogger(__name__)
 
+from src.utils.sysops import get_repo_root
 
 class BenchmarkData:
     def __init__(self, cfg: Dict[str, Any]):
         self.cfg = cfg
         self.device = cfg.get("device", None)
         self.benchmark_str = f"{cfg['benchmark'].lower()}_{cfg['language'].lower()}"
-        self.data_dir = cfg["data_dir"]
+        self.data_dir = Path(cfg["data_dir"]).expanduser()
         self.chunking = cfg["chunking"]
         self.text_encoder = cfg["text_encoder"]
         self.reducer = cfg.get("reducer", None)
@@ -34,12 +35,17 @@ class BenchmarkData:
         self._set_device()
 
         # Load indices/labels for train/test/reference
-        self.train_i = self._load_indices("train", subset=self.subset["train"])
-        self.test_i = self._load_indices("test", subset=self.subset["test"])
+        self.train_i, self.train_true = self._load_indices(
+            "train", subset=self.subset["train"]
+        )
+        self.test_i, self.test_true = self._load_indices(
+            "test", subset=self.subset["test"]
+        )
 
         # Load embeddings for train/test/reference
         self.train_e = self._load_embeddings("train", subset=self.subset["train"])
         self.test_e = self._load_embeddings("test", subset=self.subset["test"])
+
 
         # Load reference embeddings and codes
         self._load_icd10()
@@ -57,12 +63,8 @@ class BenchmarkData:
 
     def _setup_paths(self):
         # Setup paths for embeddings, indices, and reference
-        if not os.path.isabs(self.data_dir):
-            if self.data_dir.startswith("~"):
-                self.data_dir = os.path.expanduser(self.data_dir)
-            else:
-                repo_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-                self.data_dir = os.path.join(repo_dir, self.data_dir)
+        if not self.data_dir.is_absolute():
+            self.data_dir = get_repo_root() / self.data_dir
         if self.reducer:
             subdir = (
                 Path("reduced")
@@ -73,33 +75,43 @@ class BenchmarkData:
         benchmark_subdir = Path(self.text_encoder) / self.chunking / subdir
 
         self.paths = {
-            "test_e": Path(self.data_dir)
+            "test_e": self.data_dir
             / "03_derived"
             / self.benchmark_str
             / "test"
             / benchmark_subdir,
-            "train_e": Path(self.data_dir)
+            "train_e": self.data_dir
             / "03_derived"
             / self.benchmark_str
             / "train"
             / benchmark_subdir,
-            "icd10_e": Path(self.data_dir)
+            "icd10_e": self.data_dir
             / "03_derived"
             / "icd10"
             / self.text_encoder
             / self.icd10_params["aggregate_method"]
             / subdir,
-            "test_i": Path(self.data_dir)
+            "test_i": self.data_dir
             / "02_processed"
             / self.benchmark_str
             / "test"
             / self.chunking,
-            "train_i": Path(self.data_dir)
+            "train_i": self.data_dir
             / "02_processed"
             / self.benchmark_str
             / "train"
             / self.chunking,
-            "icd10_i": Path(self.data_dir)
+            "test_true": self.data_dir
+            / "02_processed"
+            / "codiesp_en"
+            / "test"
+            / "y_true.csv",
+            "train_true": self.data_dir
+            / "02_processed"
+            / "codiesp_en"
+            / "train"
+            / "y_true.csv",
+            "icd10_i": self.data_dir
             / "03_derived"
             / "icd10"
             / self.text_encoder
@@ -122,15 +134,17 @@ class BenchmarkData:
         for fname in index_files:
             report_id = Path(fname).stem.split("_")[0]
 
-            if report_id == "S1139-76322014000500011-1":
-                continue
+            # if report_id == "S1139-76322014000500011-1":
+            #     continue
             if len(subset) and report_id not in subset:
                 continue
             i = pd.read_csv(os.path.join(dataset_dir, fname))
             if "report_id" not in i.columns:
                 i["report_id"] = report_id
             indices = pd.concat([indices, i], axis=0, ignore_index=True)
-        return None if indices.empty else indices
+        
+        y_true = pd.read_csv(self.paths[f"{split}_true"])
+        return indices, y_true
 
     def _load_embeddings(self, split: str, subset: List = None):
         embedding_dir = self.paths[f"{split}_e"]

@@ -20,6 +20,8 @@ def infer_embeddings(chunk_list, api_key):
     openai.api_key = api_key
 
     # Batch query for embeddings
+    # te3l embedding model does not expose pooling strategy that 
+    # generates one final embedding over all input token per chunk.
     response = openai.embeddings.create(
         input=chunk_list, model="text-embedding-3-large"
     )

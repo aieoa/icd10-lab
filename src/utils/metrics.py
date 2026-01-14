@@ -108,13 +108,13 @@ def macro_f1_at_k(
     top_k_preds = preds_sorted.groupby(group_keys).head(top_k)
 
     # Create sets of predictions/truth per group
-    pred_grouped = top_k_preds.groupby(group_keys)["icd_code"].apply(set)
-    true_grouped = true_labels.groupby(group_keys)["icd_code"].apply(set)
+    pred_grouped = top_k_preds.groupby(group_keys)["code"].apply(set)
+    true_grouped = true_labels.groupby(group_keys)["y_true"].apply(set)
     keys = sorted(set(true_grouped.index).union(set(pred_grouped.index)))
 
     # Flatten: build code-to-sample sets
-    all_codes = set(true_labels["icd_code"].unique()).union(
-        set(pred_labels["icd_code"].unique())
+    all_codes = set(true_labels["y_true"].unique()).union(
+        set(pred_labels["code"].unique())
     )
     code_metrics = {}
     for code in all_codes:

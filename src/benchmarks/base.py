@@ -29,7 +29,7 @@ class Benchmark(ABC):
         self.logger = logging.getLogger(name)
 
     @abstractmethod
-    def get_reference_set(self):
+    def get_reference_meta(self):
         """
         Return DataFrame containing ICD-10 codes and textual description.
 
@@ -48,7 +48,7 @@ class Benchmark(ABC):
         pass
 
     @abstractmethod
-    def get_test_set(self):
+    def get_test_meta(self):
         """
         Return DataFrame containing chunked test reports and their labels.
 
@@ -76,7 +76,18 @@ class Benchmark(ABC):
         pass
 
     @abstractmethod
-    def get_train_set(self):
+    def get_test_true(self):
+        """
+        Retrieve ground data for test set.
+
+        Loads ground truth from benchmark and provides at least the following
+        columns: report_id, sentence_id, y_true with y_true corresponding to 
+        represented in an unfolded manner, i.e. at most one code label per cell.
+        """
+        pass
+
+    @abstractmethod
+    def get_train_meta(self):
         """
         Return DataFrame containing chunked train reports and their labels.
 
@@ -89,6 +100,17 @@ class Benchmark(ABC):
         """
         Retrieve or generate embeddings for the corresponding train set.
         Behaviour analogous to get_test_embeddings().
+        """
+        pass
+
+    @abstractmethod
+    def get_train_true(self):
+        """
+        Retrieve ground data for train set.
+
+        Loads ground truth from benchmark and provides at least the following
+        columns: report_id, sentence_id, y_true with y_true corresponding to 
+        represented in an unfolded manner, i.e. at most one code label per cell.
         """
         pass
 
